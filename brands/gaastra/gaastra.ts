@@ -15,6 +15,17 @@ interface Spec {
   specs: { [key: string]: string };
 }
 
+const stringToNumber = (val: string): number => {
+  if (val === undefined)
+    return undefined
+
+  const num = Number(val.replace(',', '.'));
+  if (num === null)
+    throw `Invalid number: ${val}`
+
+  return num;
+}
+
 const getTopType = (val: string) => {
   switch (val) {
     case 'Vario':
@@ -43,7 +54,7 @@ abstract class Gaastra {
       subModels
     }
 
-    const fileName = `${modelName}_${year}.json`
+    const fileName = `${modelName.replace(/ +/, '_')}_${year}.json`
     const fullPath = path.join(__dirname, 'products', fileName);
 
     await fs.writeFile(fullPath, JSON.stringify(model, null, 2), () => {
@@ -53,11 +64,12 @@ abstract class Gaastra {
 }
 
 class GaastraRecent extends Gaastra {
-  constructor(private crawler: Crawler) {
+  constructor(protected crawler: Crawler) {
     super();
   }
 
-  static extract(): { pictures: Picture[], specs: Spec[] } {
+  extract(): { pictures: Picture[], specs: Spec[] } {
+    // Note: need to keep all code inside this method to work in the browser
     const getVariationTitle = (variation: Element) => variation.querySelector('.fusion-title > h2') as HTMLHeadingElement;
 
     // Not empty variations
@@ -69,7 +81,7 @@ class GaastraRecent extends Gaastra {
       const specs = Array.from(variation.querySelectorAll('.fusion-text > p')).reduce(
         (accumulator: { [key: string]: string }, char: HTMLParagraphElement) => {
           const split = (char).innerText.split('\n');
-          accumulator[split[0]] = split[1];
+          accumulator[split[0].toUpperCase()] = split[1];
           return accumulator;
         },
         {}
@@ -90,14 +102,14 @@ class GaastraRecent extends Gaastra {
       src: (box.querySelector("img") as HTMLImageElement).src
     }));
 
-    // TODO use pictures to determine available colors
-
     return {specs, pictures};
   };
 
   async parse(url: string): Promise<GearSubModel[]> {
 
-    const parsed = await this.crawler.crawl(url, GaastraRecent.extract);
+    const parsed = await this.crawler.crawl(url, this.extract);
+
+    console.debug(JSON.stringify(parsed, null, 2))
 
     // Unique list of colors, size with their picture
     const pictures = parsed.pictures.reduce(
@@ -125,17 +137,19 @@ class GaastraRecent extends Gaastra {
           accumulator.push({
             subNames: [size, color],
             pictureUrl: pictures[color][size] || pictures[color]['*'],
-            surfaceDm2: Number(size) * 10,
+            surfaceDm2: stringToNumber(size) * 10,
             // Mast
             // 340-370 or 400/370
-            possibleMastLengthsCm: current.specs['Mast'].split(/[-\/]+/).map(i => Number(i)),
+            possibleMastLengthsCm: current.specs['MAST'].split(/[-\/]+/).map(i => stringToNumber(i)),
             // IMCS
             // 14-17
-            possibleMastIMCS: current.specs['IMCS'].split(/[-\/]+/).map(i => Number(i)),
-            luffLengthCm: Number(current.specs['Luff']),
-            boomLengthCm: Number(current.specs['Boom']),
-            battenCount: Number(current.specs['Batten']),
-            topType: getTopType(current.specs['Top']),
+            possibleMastIMCS: current.specs['IMCS'].split(/[-\/]+/).map(i => stringToNumber(i)),
+            luffLengthCm: stringToNumber(current.specs['LUFF']),
+            boomLengthCm: stringToNumber(current.specs['BOOM']),
+            battenCount: stringToNumber(current.specs['BATTEN']),
+            weightKg: stringToNumber(current.specs['WEIGHT (KG)']),
+            camCount: stringToNumber(current.specs['CAMS']),
+            topType: getTopType(current.specs['TOP']),
             // TODO what is "base"?
           })
         });
@@ -147,15 +161,55 @@ class GaastraRecent extends Gaastra {
   };
 }
 
-// TODO GaastraOld
+class GaastraOld extends GaastraRecent {
+  extract(): { pictures: Picture[], specs: Spec[] } {
+    // Note: need to keep all code inside this method to work in the browser
+
+    const specs = Array.from(document.querySelectorAll('.tech_specs_table'))
+      .map(variation => {
+          const variationSpecs = Array.from(variation.querySelectorAll('tr')).reduce(
+            (accumulator: { [key: string]: string }, currentTr: HTMLTableRowElement) => {
+              const key = currentTr.querySelector('th').textContent.split(/:/)[0].toUpperCase();
+              accumulator[key] = currentTr.querySelector('td').textContent
+              return accumulator
+            },
+            {}
+          );
+          const title = document.querySelector(`[data-target=${variation.id}] > a `).getAttribute('data')
+          return {
+            title,
+            specs: variationSpecs
+          };
+        }
+      )
+
+    const pictures = Array.from(document.querySelectorAll('.img-preview'))
+      .map((picture: HTMLImageElement) => {
+        const title = (document.querySelector(`[data-target=${picture.id}] > span`) as HTMLSpanElement).innerText;
+        return ({
+          title: `COLOR: ${title}`,
+          src: picture.src
+        });
+      })
+
+    return {
+      pictures,
+      specs
+    }
+  };
+}
 
 (async () => {
   const crawler = await new Crawler().init();
   const recent = new GaastraRecent(crawler);
+  const old = new GaastraOld(crawler);
 
   await recent.createFile("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", 2019, [Activity.windsurf], [Program.wave]);
   await recent.createFile("https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/", "Hybrid", 2019, [Activity.windsurf], [Program.freeride]);
   await recent.createFile("https://ga-windsurfing.com/sails/2020/freeride/hybrid-20", "Hybrid", 2020, [Activity.windsurf], [Program.freeride]);
+
+  // Note: at that time, there were 2 versions of the Hybrid
+  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/", "Hybrid HD", 2017, [Activity.windsurf], [Program.freeride]);
 
   await crawler.close();
 })();
