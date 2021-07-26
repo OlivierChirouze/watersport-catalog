@@ -1,0 +1,29 @@
+{
+  "name": "watersport-catalog",
+  "version": "0.0.1",
+  "author": "olivier.chirouze@gmail.com",
+  "homepage": "",
+  "scripts": {
+    "test": "ts-node brands/gaastra/gaastra.ts"
+  },
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^10.1.0",
+    "scrape-it": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.4.3",
+    "@types/puppeteer": "^5.4.4",
+    "eslint": "^7.13.0",
+    "jest": "^27.0.6",
+    "prettier": "^1.19.1",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^7.0.1",
+    "typescript": "~4.0"
+  },
+  "description": "Watersport catalog",
+  "browserslist": [
+    "> 5%"
+  ]
+}
