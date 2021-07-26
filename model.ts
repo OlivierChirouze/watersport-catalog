@@ -73,6 +73,7 @@ export interface WindsurfSail extends GearSubModel {
   possibleMastIMCS?: number[];
   battenCount?: number;
   camCount?: number;
+  weightKg?: number;
 }
 
 // ---------------------------------------------- Windsurfing / windfoiling boards
@@ -84,12 +85,12 @@ export enum WindsurfFinBoxType {
 }
 
 export interface WindsurfBoard extends GearSubModel {
-  lengthCm: number;
-  widthCm: number;
   volumeL: number;
-  weightKg: number;
-  strapInsertCount: number;
-  fins: {
+  lengthCm?: number;
+  widthCm?: number;
+  weightKg?: number;
+  strapInsertCount?: number;
+  fins?: {
     count: number;
     type: WindsurfFinBoxType;
   }[];
