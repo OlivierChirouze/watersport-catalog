@@ -4,7 +4,8 @@
   "author": "olivier.chirouze@gmail.com",
   "homepage": "",
   "scripts": {
-    "test": "ts-node brands/gaastra/gaastra.ts"
+    "patrik": "ts-node src/brands/patrik.ts",
+    "gaastra": "ts-node src/brands/gaastra.ts"
   },
   "private": true,
   "dependencies": {

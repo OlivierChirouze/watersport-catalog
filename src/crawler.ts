@@ -21,9 +21,6 @@ export class Crawler {
   }
 }
 
-// let url = "https://windsurf.star-board.com/products/isonic/";
-// let url = "https://patrik-windsurf.com/qt-wave/";
-
 (async () => {
   const crawler = await new Crawler().init();
 

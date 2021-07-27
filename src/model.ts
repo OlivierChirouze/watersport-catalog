@@ -27,7 +27,8 @@ export enum GearType {
 export interface GearModel {
   brandName: string;
   name: string;
-  year: number;
+  // A model can last for a few years
+  years: number[];
   infoUrl?: string;
   type: GearType;
   activities: Activity[];
@@ -67,7 +68,7 @@ export enum WindsurfSailTopType {
 }
 
 export interface WindsurfSail extends GearSubModel {
-  surfaceDm2: number;
+  surfaceM2: number;
   topType?: WindsurfSailTopType;
   luffLengthCm?: number;
   boomLengthCm?: number;
@@ -84,8 +85,19 @@ export enum WindsurfFinBoxType {
   TuttleBox = "TuttleBox",
   DeepTuttleBox = "DeepTuttleBox",
   US5 = "US5",
-  US8 = "US8"
+  US8 = "US8",
+  SlotBox = "SlotBox",
 }
+
+export type FinConfig = {
+  count: number;
+  type: WindsurfFinBoxType;
+};
+
+export type SailRange = {
+  fromM2: number;
+  toM2: number;
+};
 
 export interface WindsurfBoard extends GearSubModel {
   volumeL: number;
@@ -93,12 +105,6 @@ export interface WindsurfBoard extends GearSubModel {
   widthCm?: number;
   weightKg?: number;
   strapInsertCount?: number;
-  fins?: {
-    count: number;
-    type: WindsurfFinBoxType;
-  }[];
-  sailRange?: {
-    fromDm2: number;
-    toDm2: number;
-  };
+  fins?: FinConfig[];
+  sailRange?: SailRange;
 }

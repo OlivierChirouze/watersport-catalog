@@ -1,9 +1,6 @@
-import {Crawler} from "../../crawler";
-import {Activity, GearModel, GearSubModel, GearType, Program, WindsurfSail, WindsurfSailTopType} from "../../model";
-import * as fs from "fs";
-import * as path from "path";
-
-const brandName = "Gaastra";
+import {Crawler} from "../crawler";
+import {Activity, Program, WindsurfSail, WindsurfSailTopType} from "../model";
+import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
 interface Picture {
   title: string;
@@ -13,17 +10,6 @@ interface Picture {
 interface Spec {
   title: string;
   specs: { [key: string]: string };
-}
-
-const stringToNumber = (val: string): number => {
-  if (val === undefined)
-    return undefined
-
-  const num = Number(val.replace(',', '.'));
-  if (num === null)
-    throw `Invalid number: ${val}`
-
-  return num;
 }
 
 const stringToNumberArray = (val: string): number[] => {
@@ -46,38 +32,9 @@ const getTopType = (val: string) => {
 
 type Extract = { pictures: Picture[], specs: Spec[], description: string }
 
-type Parsed = { subModels: GearSubModel[], description: { [language: string]: string } };
-
-abstract class Gaastra {
-  abstract parse(url: string, modelName: string): Promise<Parsed>;
-
-  async createFile(url: string, modelName: string, year: number, activities: Activity[], programs: Program[]) {
-    const {subModels, description} = await this.parse(url, modelName);
-
-    const model: GearModel = {
-      brandName,
-      year,
-      name: modelName,
-      type: GearType.sail,
-      infoUrl: url,
-      activities,
-      programs,
-      subModels,
-      description
-    }
-
-    const fileName = `${modelName.replace(/ +/, '_')}_${year}.json`
-    const fullPath = path.join(__dirname, 'products', fileName);
-
-    await fs.writeFile(fullPath, JSON.stringify(model, null, 2), () => {
-      console.log(`File written: ${fullPath}`)
-    });
-  }
-}
-
-class GaastraRecent extends Gaastra {
+class GaastraRecent extends Scraper {
   constructor(protected crawler: Crawler) {
-    super();
+    super("Gaastra");
   }
 
   extract(): Extract {
@@ -127,10 +84,7 @@ class GaastraRecent extends Gaastra {
 
     // Will extract info from "Color: C1" or "Vapor Air SL" or "Size 4.7"
     const getValueFromTitle = (title: string, key: string) => {
-      let extract = title.replace(new RegExp(`[\\s\\S]*${key}:? *(.*)(\n[\\s\\S]*|$)`), '$1');
-      if (extract === title)
-        return undefined
-      return extract;
+      return extract(title, new RegExp(`[\\s\\S]*${key}:? *(.*)(\n[\\s\\S]*|$)`))
     }
 
     // Unique list of colors, size with their picture
@@ -169,7 +123,7 @@ class GaastraRecent extends Gaastra {
               return accumulator;
             },
             {}),
-          surfaceDm2: stringToNumber(size) * 10,
+          surfaceM2: stringToNumber(size),
           // Mast
           // 340-370 or 400/370
           mastLengthsCm: stringToNumberArray(current.specs['MAST']),
@@ -192,6 +146,7 @@ class GaastraRecent extends Gaastra {
 
     return {
       subModels,
+      // TODO reload page to get it in german
       description: {en: extracted.description}
     }
   };
@@ -244,14 +199,14 @@ class GaastraOld extends GaastraRecent {
   const old = new GaastraOld(crawler);
 
   // Note: at that time, there were 2 versions of the Hybrid sail
-  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/", "Hybrid HD", 2017, [Activity.windsurf], [Program.freeride]);
-  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/", "Hybrid", 2017, [Activity.windsurf], [Program.freeride]);
+  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/", "Hybrid HD", [2017], [Activity.windsurf], [Program.freeride]);
+  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/", "Hybrid", [2017], [Activity.windsurf], [Program.freeride]);
 
-  await recent.createFile("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", 2019, [Activity.windsurf], [Program.wave]);
-  await recent.createFile("https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/", "Hybrid", 2019, [Activity.windsurf], [Program.freeride]);
-  await recent.createFile("https://ga-windsurfing.com/sails/2020/freeride/hybrid-20", "Hybrid", 2020, [Activity.windsurf], [Program.freeride]);
+  await recent.createFile("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", [2019], [Activity.windsurf], [Program.wave]);
+  await recent.createFile("https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/", "Hybrid", [2019], [Activity.windsurf], [Program.freeride]);
+  await recent.createFile("https://ga-windsurfing.com/sails/2020/freeride/hybrid-20", "Hybrid", [2020], [Activity.windsurf], [Program.freeride]);
 
-  await recent.createFile("https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/", "Vapor Air", 2021, [Activity.windfoil], [Program.slalom]);
+  await recent.createFile("https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/", "Vapor Air", [2021], [Activity.windfoil], [Program.slalom]);
 
   await crawler.close();
 })();
