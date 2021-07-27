@@ -5,7 +5,8 @@
   "homepage": "",
   "scripts": {
     "patrik": "ts-node src/brands/patrik.ts",
-    "gaastra": "ts-node src/brands/gaastra.ts"
+    "gaastra": "ts-node src/brands/gaastra.ts",
+    "exocet": "ts-node src/brands/exocet.ts"
   },
   "private": true,
   "dependencies": {

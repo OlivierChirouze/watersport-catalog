@@ -1,0 +1,67 @@
+{
+  "brandName": "Exocet",
+  "years": [
+    2019,
+    2020,
+    2021
+  ],
+  "name": "Freefoil",
+  "type": "sail",
+  "infoUrl": "https://www.exocet-original.com/freefoil-ast-c2x33091951",
+  "activities": [
+    "windfoil"
+  ],
+  "programs": [
+    "freeride"
+  ],
+  "subModels": [
+    {
+      "subNames": [
+        "112"
+      ],
+      "colorPictureURLs": {
+        "default": [
+          "https://www.exocet-original.com/Files/130917/Img/06/Exo_X19-FreeFoil-112-AST.jpg"
+        ]
+      },
+      "lengthCm": 210,
+      "widthCm": 76,
+      "volumeL": 112,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "subNames": [
+        "132"
+      ],
+      "colorPictureURLs": {
+        "default": [
+          "https://www.exocet-original.com/Files/130917/Img/06/Exo_X19-FreeFoil-112-AST.jpg"
+        ]
+      },
+      "lengthCm": 210,
+      "widthCm": 86,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "description": {
+    "en": "Boards dedicated for Windfoil Freeride-Freemove practice.\n\nThe Freefoil are the new range of Exocet windfoil boards.\n\nThey represent all the spirit of a windsurfing foil practice free of any constraint, to fly easily with light equipment, to stroll on the water, to chain the maneuvers, whatever its level and the conditions.\n\nThey are particularly suitable for sailing of moderate size, without camber.\n\nExists in two models : 112 / 132"
+  }
+}
