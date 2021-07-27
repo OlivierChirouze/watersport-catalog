@@ -1,11 +1,7 @@
 {
   "brandName": "Gaastra",
   "year": 2020,
-  "names": [
-    "Gaastra",
-    "Hybrid",
-    "2020"
-  ],
+  "name": "Hybrid",
   "type": "sail",
   "infoUrl": "https://ga-windsurfing.com/sails/2020/freeride/hybrid-20",
   "activities": [
@@ -17,15 +13,25 @@
   "subModels": [
     {
       "subNames": [
-        "3.7",
-        "C1"
+        "3.7"
       ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 37,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         370
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         17
+      ],
+      "mastExtensionLengthsCm": [
+        0
       ],
       "luffLengthCm": 365,
       "boomLengthCm": 146,
@@ -34,34 +40,27 @@
     },
     {
       "subNames": [
-        "3.7",
-        "C3"
+        "4.2"
       ],
-      "surfaceDm2": 37,
-      "possibleMastLengthsCm": [
-        370
-      ],
-      "possibleMastIMCS": [
-        17
-      ],
-      "luffLengthCm": 365,
-      "boomLengthCm": 146,
-      "battenCount": 4,
-      "topType": "vario"
-    },
-    {
-      "subNames": [
-        "4.2",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 42,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         370,
         400
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         17,
         19
+      ],
+      "mastExtensionLengthsCm": [
+        16
       ],
       "luffLengthCm": 386,
       "boomLengthCm": 156,
@@ -70,37 +69,28 @@
     },
     {
       "subNames": [
-        "4.2",
-        "C3"
+        "4.7"
       ],
-      "surfaceDm2": 42,
-      "possibleMastLengthsCm": [
-        370,
-        400
-      ],
-      "possibleMastIMCS": [
-        17,
-        19
-      ],
-      "luffLengthCm": 386,
-      "boomLengthCm": 156,
-      "battenCount": 4,
-      "topType": "vario"
-    },
-    {
-      "subNames": [
-        "4.7",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-HYBRID-47-C1-WEB.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-HYBRID-47-C1-WEB.png"
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 47,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         400,
         370
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         19,
         17
+      ],
+      "mastExtensionLengthsCm": [
+        2,
+        32
       ],
       "luffLengthCm": 402,
       "boomLengthCm": 165,
@@ -109,34 +99,25 @@
     },
     {
       "subNames": [
-        "4.7",
-        "C3"
+        "5.2"
       ],
-      "surfaceDm2": 47,
-      "possibleMastLengthsCm": [
-        400,
-        370
-      ],
-      "possibleMastIMCS": [
-        19,
-        17
-      ],
-      "luffLengthCm": 402,
-      "boomLengthCm": 165,
-      "battenCount": 4,
-      "topType": "vario"
-    },
-    {
-      "subNames": [
-        "5.2",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 52,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         400
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         19
+      ],
+      "mastExtensionLengthsCm": [
+        18
       ],
       "luffLengthCm": 417,
       "boomLengthCm": 174,
@@ -145,32 +126,25 @@
     },
     {
       "subNames": [
-        "5.2",
-        "C3"
+        "5.6"
       ],
-      "surfaceDm2": 52,
-      "possibleMastLengthsCm": [
-        400
-      ],
-      "possibleMastIMCS": [
-        19
-      ],
-      "luffLengthCm": 417,
-      "boomLengthCm": 174,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "5.6",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 56,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        6
       ],
       "luffLengthCm": 435,
       "boomLengthCm": 178,
@@ -179,32 +153,25 @@
     },
     {
       "subNames": [
-        "5.6",
-        "C3"
+        "6.0"
       ],
-      "surfaceDm2": 56,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 435,
-      "boomLengthCm": 178,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "6.0",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 60,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        16
       ],
       "luffLengthCm": 446,
       "boomLengthCm": 188,
@@ -213,32 +180,25 @@
     },
     {
       "subNames": [
-        "6.0",
-        "C3"
+        "6.4"
       ],
-      "surfaceDm2": 60,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 446,
-      "boomLengthCm": 188,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "6.4",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-HYBRID-64-C3-WEB.png"
+        ]
+      },
       "surfaceDm2": 64,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        26
       ],
       "luffLengthCm": 455,
       "boomLengthCm": 194,
@@ -247,33 +207,25 @@
     },
     {
       "subNames": [
-        "6.4",
-        "C3"
+        "6.7"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-HYBRID-64-C3-WEB.png",
-      "surfaceDm2": 64,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 455,
-      "boomLengthCm": 194,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "6.7",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 67,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        22
       ],
       "luffLengthCm": 451,
       "boomLengthCm": 192,
@@ -282,35 +234,28 @@
     },
     {
       "subNames": [
-        "6.7",
-        "C3"
+        "7.2"
       ],
-      "surfaceDm2": 67,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 451,
-      "boomLengthCm": 192,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "7.2",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-HYBRID-72-C1-WEB.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-HYBRID-72-C1-WEB.png"
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 72,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         460,
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         25,
         21
+      ],
+      "mastExtensionLengthsCm": [
+        6,
+        36
       ],
       "luffLengthCm": 466,
       "boomLengthCm": 200,
@@ -319,34 +264,25 @@
     },
     {
       "subNames": [
-        "7.2",
-        "C3"
+        "7.7"
       ],
-      "surfaceDm2": 72,
-      "possibleMastLengthsCm": [
-        460,
-        430
-      ],
-      "possibleMastIMCS": [
-        25,
-        21
-      ],
-      "luffLengthCm": 466,
-      "boomLengthCm": 200,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "7.7",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 77,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         460
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         25
+      ],
+      "mastExtensionLengthsCm": [
+        18
       ],
       "luffLengthCm": 477,
       "boomLengthCm": 209,
@@ -355,58 +291,36 @@
     },
     {
       "subNames": [
-        "7.7",
-        "C3"
+        "8.2"
       ],
-      "surfaceDm2": 77,
-      "possibleMastLengthsCm": [
-        460
-      ],
-      "possibleMastIMCS": [
-        25
-      ],
-      "luffLengthCm": 477,
-      "boomLengthCm": 209,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "8.2",
-        "C1"
-      ],
+      "colorPictureURLs": {
+        "C1": [
+          null
+        ],
+        "C3": [
+          null
+        ]
+      },
       "surfaceDm2": 82,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         460,
         490
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         25,
         29
       ],
-      "luffLengthCm": 492,
-      "boomLengthCm": 215,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "8.2",
-        "C3"
-      ],
-      "surfaceDm2": 82,
-      "possibleMastLengthsCm": [
-        460,
-        490
-      ],
-      "possibleMastIMCS": [
-        25,
-        29
+      "mastExtensionLengthsCm": [
+        34,
+        2
       ],
       "luffLengthCm": 492,
       "boomLengthCm": 215,
       "battenCount": 6,
       "topType": "fixed"
     }
-  ]
+  ],
+  "description": {
+    "en": "The name Hybrid stands for itself and represents three different sail lines in one collection. Whether its high wind and waves or light wind freeriding, the Hybrid guarantees great fun with a huge wind range and ease of use. Enjoy the powerful and controllable wave concept of the 3.7 to 4.7, rely on the allround performance of the classic bump & jump concept of the 5.2 to 6.4 and fly over the water with the freeride outline of the biggest sizes of the Hybrid."
+  }
 }

@@ -26,6 +26,13 @@ const stringToNumber = (val: string): number => {
   return num;
 }
 
+const stringToNumberArray = (val: string): number[] => {
+  if (val === undefined)
+    return undefined
+
+  return val.split(/[-\/]+/).map(i => stringToNumber(i))
+}
+
 const getTopType = (val: string) => {
   switch (val) {
     case 'Vario':
@@ -37,21 +44,26 @@ const getTopType = (val: string) => {
   throw `Unrecognized top type: ${val}`
 };
 
+type Extract = { pictures: Picture[], specs: Spec[], description: string }
+
+type Parsed = { subModels: GearSubModel[], description: { [language: string]: string } };
+
 abstract class Gaastra {
-  abstract parse(url: string): Promise<GearSubModel[]>;
+  abstract parse(url: string, modelName: string): Promise<Parsed>;
 
   async createFile(url: string, modelName: string, year: number, activities: Activity[], programs: Program[]) {
-    const subModels = await this.parse(url);
+    const {subModels, description} = await this.parse(url, modelName);
 
     const model: GearModel = {
       brandName,
       year,
-      names: [brandName, modelName, '' + year],
+      name: modelName,
       type: GearType.sail,
       infoUrl: url,
       activities,
       programs,
-      subModels
+      subModels,
+      description
     }
 
     const fileName = `${modelName.replace(/ +/, '_')}_${year}.json`
@@ -68,7 +80,7 @@ class GaastraRecent extends Gaastra {
     super();
   }
 
-  extract(): { pictures: Picture[], specs: Spec[] } {
+  extract(): Extract {
     // Note: need to keep all code inside this method to work in the browser
     const getVariationTitle = (variation: Element) => variation.querySelector('.fusion-title > h2') as HTMLHeadingElement;
 
@@ -102,26 +114,39 @@ class GaastraRecent extends Gaastra {
       src: (box.querySelector("img") as HTMLImageElement).src
     }));
 
-    return {specs, pictures};
+    const description = (document.querySelector(".prod_text") as HTMLDivElement).innerText;
+
+    return {specs, pictures, description};
   };
 
-  async parse(url: string): Promise<GearSubModel[]> {
+  async parse(url: string, modelName: string): Promise<Parsed> {
 
-    const parsed = await this.crawler.crawl(url, this.extract);
+    const extracted = await this.crawler.crawl(url, this.extract);
 
-    console.debug(JSON.stringify(parsed, null, 2))
+    console.debug(JSON.stringify(extracted, null, 2))
+
+    // Will extract info from "Color: C1" or "Vapor Air SL" or "Size 4.7"
+    const getValueFromTitle = (title: string, key: string) => {
+      let extract = title.replace(new RegExp(`[\\s\\S]*${key}:? *(.*)(\n[\\s\\S]*|$)`), '$1');
+      if (extract === title)
+        return undefined
+      return extract;
+    }
 
     // Unique list of colors, size with their picture
-    const pictures = parsed.pictures.reduce(
-      (accumulator: { [color: string]: { [size: string]: string } }, current: Picture) => {
+    const pictures = extracted.pictures.reduce(
+      (accumulator: { [color: string]: { [subName: string]: { [size: string]: string } } }, current: Picture) => {
         // Color: C1\n\nSize 4.7
-        const colorAndSize = current.title.split(/\n+/).map(text => text.split(/:? /)[1]);
-        const color = colorAndSize[0];
+        // Vapor Air SL\nColor: C1
 
+        const color = getValueFromTitle(current.title, 'Color');
         // If no size, use "*"
-        const size = colorAndSize[1] ?? '*';
+        const size = getValueFromTitle(current.title, 'Size') ?? '*';
+        const subName = getValueFromTitle(current.title, modelName) ?? '*';
+
         accumulator[color] = accumulator[color] ?? {};
-        accumulator[color][size] = current.src;
+        accumulator[color][subName] = accumulator[color][subName] ?? {};
+        accumulator[color][subName][size] = current.src;
 
         return accumulator;
       },
@@ -129,40 +154,51 @@ class GaastraRecent extends Gaastra {
     )
 
     // Create as many sub models as there are sizes x colors
-    return parsed.specs.reduce(
+    const subModels = extracted.specs.reduce(
       (accumulator: WindsurfSail[], current: Spec) => {
-        const size = current.title.split(/:? /)[1];
+        const size = current.title.replace(/[\s\S]*Size:? ([\d.]*)[\s\S]*/, '$1')
+        const subName = getValueFromTitle(current.title, modelName)
 
-        Object.keys(pictures).forEach(color => {
-          accumulator.push({
-            subNames: [size, color],
-            pictureUrl: pictures[color][size] || pictures[color]['*'],
-            surfaceDm2: stringToNumber(size) * 10,
-            // Mast
-            // 340-370 or 400/370
-            possibleMastLengthsCm: current.specs['MAST'].split(/[-\/]+/).map(i => stringToNumber(i)),
-            // IMCS
-            // 14-17
-            possibleMastIMCS: current.specs['IMCS'].split(/[-\/]+/).map(i => stringToNumber(i)),
-            luffLengthCm: stringToNumber(current.specs['LUFF']),
-            boomLengthCm: stringToNumber(current.specs['BOOM']),
-            battenCount: stringToNumber(current.specs['BATTEN']),
-            weightKg: stringToNumber(current.specs['WEIGHT (KG)']),
-            camCount: stringToNumber(current.specs['CAMS']),
-            topType: getTopType(current.specs['TOP']),
-            // TODO what is "base"?
-          })
-        });
+        accumulator.push({
+          subNames: subName ? [subName, size] : [size],
+          // Map each color and affect picture url if relevant
+          colorPictureURLs: Object.keys(pictures).reduce(
+            (accumulator: { [color: string]: string[] }, color) => {
+              accumulator[color] = [pictures[color][subName] ? (pictures[color][subName][size] ?? pictures[color][subName]['*'])
+                : (pictures[color]['*'][size] ?? pictures[color]['*']['*'])]
+              return accumulator;
+            },
+            {}),
+          surfaceDm2: stringToNumber(size) * 10,
+          // Mast
+          // 340-370 or 400/370
+          mastLengthsCm: stringToNumberArray(current.specs['MAST']),
+          // IMCS
+          // 14-17
+          mastIMCS: stringToNumberArray(current.specs['IMCS']),
+          mastExtensionLengthsCm: stringToNumberArray(current.specs['BASE']),
+          luffLengthCm: stringToNumber(current.specs['LUFF']),
+          boomLengthCm: stringToNumber(current.specs['BOOM']),
+          battenCount: stringToNumber(current.specs['BATTEN']),
+          weightKg: stringToNumber(current.specs['WEIGHT (KG)']),
+          camCount: stringToNumber(current.specs['CAMS']),
+          topType: getTopType(current.specs['TOP']),
+        })
 
         return accumulator;
       },
       []
     )
+
+    return {
+      subModels,
+      description: {en: extracted.description}
+    }
   };
 }
 
 class GaastraOld extends GaastraRecent {
-  extract(): { pictures: Picture[], specs: Spec[] } {
+  extract(): Extract {
     // Note: need to keep all code inside this method to work in the browser
 
     const specs = Array.from(document.querySelectorAll('.tech_specs_table'))
@@ -192,9 +228,12 @@ class GaastraOld extends GaastraRecent {
         });
       })
 
+    const description = (document.querySelector("#description") as HTMLDivElement).innerText;
+
     return {
       pictures,
-      specs
+      specs,
+      description
     }
   };
 }
@@ -204,12 +243,15 @@ class GaastraOld extends GaastraRecent {
   const recent = new GaastraRecent(crawler);
   const old = new GaastraOld(crawler);
 
+  // Note: at that time, there were 2 versions of the Hybrid sail
+  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/", "Hybrid HD", 2017, [Activity.windsurf], [Program.freeride]);
+  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/", "Hybrid", 2017, [Activity.windsurf], [Program.freeride]);
+
   await recent.createFile("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", 2019, [Activity.windsurf], [Program.wave]);
   await recent.createFile("https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/", "Hybrid", 2019, [Activity.windsurf], [Program.freeride]);
   await recent.createFile("https://ga-windsurfing.com/sails/2020/freeride/hybrid-20", "Hybrid", 2020, [Activity.windsurf], [Program.freeride]);
 
-  // Note: at that time, there were 2 versions of the Hybrid
-  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/", "Hybrid HD", 2017, [Activity.windsurf], [Program.freeride]);
+  await recent.createFile("https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/", "Vapor Air", 2021, [Activity.windfoil], [Program.slalom]);
 
   await crawler.close();
 })();

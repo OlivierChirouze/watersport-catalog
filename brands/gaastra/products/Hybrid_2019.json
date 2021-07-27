@@ -1,11 +1,7 @@
 {
   "brandName": "Gaastra",
   "year": 2019,
-  "names": [
-    "Gaastra",
-    "Hybrid",
-    "2019"
-  ],
+  "name": "Hybrid",
   "type": "sail",
   "infoUrl": "https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/",
   "activities": [
@@ -17,16 +13,25 @@
   "subModels": [
     {
       "subNames": [
-        "3.7",
-        "C1"
+        "3.7"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 37,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         370
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         17
+      ],
+      "mastExtensionLengthsCm": [
+        0
       ],
       "luffLengthCm": 365,
       "boomLengthCm": 145,
@@ -35,36 +40,27 @@
     },
     {
       "subNames": [
-        "3.7",
-        "C3"
+        "4.2"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 37,
-      "possibleMastLengthsCm": [
-        370
-      ],
-      "possibleMastIMCS": [
-        17
-      ],
-      "luffLengthCm": 365,
-      "boomLengthCm": 145,
-      "battenCount": 4,
-      "topType": "vario"
-    },
-    {
-      "subNames": [
-        "4.2",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 42,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         370,
         400
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         17,
         19
+      ],
+      "mastExtensionLengthsCm": [
+        16
       ],
       "luffLengthCm": 386,
       "boomLengthCm": 155,
@@ -73,38 +69,27 @@
     },
     {
       "subNames": [
-        "4.2",
-        "C3"
+        "4.7"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 42,
-      "possibleMastLengthsCm": [
-        370,
-        400
-      ],
-      "possibleMastIMCS": [
-        17,
-        19
-      ],
-      "luffLengthCm": 386,
-      "boomLengthCm": 155,
-      "battenCount": 4,
-      "topType": "vario"
-    },
-    {
-      "subNames": [
-        "4.7",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 47,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         400,
         370
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         19,
         17
+      ],
+      "mastExtensionLengthsCm": [
+        2
       ],
       "luffLengthCm": 402,
       "boomLengthCm": 165,
@@ -113,36 +98,25 @@
     },
     {
       "subNames": [
-        "4.7",
-        "C3"
+        "5.2"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 47,
-      "possibleMastLengthsCm": [
-        400,
-        370
-      ],
-      "possibleMastIMCS": [
-        19,
-        17
-      ],
-      "luffLengthCm": 402,
-      "boomLengthCm": 165,
-      "battenCount": 4,
-      "topType": "vario"
-    },
-    {
-      "subNames": [
-        "5.2",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 52,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         400
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         19
+      ],
+      "mastExtensionLengthsCm": [
+        18
       ],
       "luffLengthCm": 417,
       "boomLengthCm": 174,
@@ -151,34 +125,25 @@
     },
     {
       "subNames": [
-        "5.2",
-        "C3"
+        "5.6"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 52,
-      "possibleMastLengthsCm": [
-        400
-      ],
-      "possibleMastIMCS": [
-        19
-      ],
-      "luffLengthCm": 417,
-      "boomLengthCm": 174,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "5.6",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 56,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        4
       ],
       "luffLengthCm": 433,
       "boomLengthCm": 178,
@@ -187,34 +152,25 @@
     },
     {
       "subNames": [
-        "5.6",
-        "C3"
+        "6.0"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 56,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 433,
-      "boomLengthCm": 178,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "6.0",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 60,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        16
       ],
       "luffLengthCm": 445,
       "boomLengthCm": 187,
@@ -223,34 +179,25 @@
     },
     {
       "subNames": [
-        "6.0",
-        "C3"
+        "6.4"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 60,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 445,
-      "boomLengthCm": 187,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "6.4",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 64,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        26
       ],
       "luffLengthCm": 455,
       "boomLengthCm": 193,
@@ -259,34 +206,25 @@
     },
     {
       "subNames": [
-        "6.4",
-        "C3"
+        "6.7"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 64,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 455,
-      "boomLengthCm": 193,
-      "battenCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "6.7",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 67,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         21
+      ],
+      "mastExtensionLengthsCm": [
+        22
       ],
       "luffLengthCm": 450,
       "boomLengthCm": 191,
@@ -295,36 +233,27 @@
     },
     {
       "subNames": [
-        "6.7",
-        "C3"
+        "7.2"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 67,
-      "possibleMastLengthsCm": [
-        430
-      ],
-      "possibleMastIMCS": [
-        21
-      ],
-      "luffLengthCm": 450,
-      "boomLengthCm": 191,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "7.2",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 72,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         460,
         430
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         25,
         21
+      ],
+      "mastExtensionLengthsCm": [
+        6
       ],
       "luffLengthCm": 466,
       "boomLengthCm": 199,
@@ -333,36 +262,25 @@
     },
     {
       "subNames": [
-        "7.2",
-        "C3"
+        "7.7"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 72,
-      "possibleMastLengthsCm": [
-        460,
-        430
-      ],
-      "possibleMastIMCS": [
-        25,
-        21
-      ],
-      "luffLengthCm": 466,
-      "boomLengthCm": 199,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "7.7",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 77,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         460
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         25
+      ],
+      "mastExtensionLengthsCm": [
+        18
       ],
       "luffLengthCm": 477,
       "boomLengthCm": 208,
@@ -371,61 +289,35 @@
     },
     {
       "subNames": [
-        "7.7",
-        "C3"
+        "8.2"
       ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 77,
-      "possibleMastLengthsCm": [
-        460
-      ],
-      "possibleMastIMCS": [
-        25
-      ],
-      "luffLengthCm": 477,
-      "boomLengthCm": 208,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "8.2",
-        "C1"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png",
+      "colorPictureURLs": {
+        "C1": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-HD-C1-web-600x857.png"
+        ],
+        "C3": [
+          "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png"
+        ]
+      },
       "surfaceDm2": 82,
-      "possibleMastLengthsCm": [
+      "mastLengthsCm": [
         460,
         490
       ],
-      "possibleMastIMCS": [
+      "mastIMCS": [
         25,
         29
       ],
-      "luffLengthCm": 493,
-      "boomLengthCm": 213,
-      "battenCount": 6,
-      "topType": "fixed"
-    },
-    {
-      "subNames": [
-        "8.2",
-        "C3"
-      ],
-      "pictureUrl": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2018/07/2019gw-Hybrid-C3-web-600x857.png",
-      "surfaceDm2": 82,
-      "possibleMastLengthsCm": [
-        460,
-        490
-      ],
-      "possibleMastIMCS": [
-        25,
-        29
+      "mastExtensionLengthsCm": [
+        34
       ],
       "luffLengthCm": 493,
       "boomLengthCm": 213,
       "battenCount": 6,
       "topType": "fixed"
     }
-  ]
+  ],
+  "description": {
+    "en": "Everybody looking for sails from one matching range for all conditions will admire the Hybrid. Whether its high wind and waves or light wind freeriding, the Hybrid guarantees great fun with a huge wind range.\n\nThe Hybrid was introduced with a bang last year! Three sail lines within one range made it the most complete range on the market. Every size is specifically developed for the respective purpose of use with each size changing in design for the appropriate wind and sea conditions.\nNo matter where you want to take it, the Hybrid will definitely feel at home!\n\nThe smaller sized Hybrids from 3.7 to 4.7 act as power wave sails with great control, early planing and maneuverability for windy days with rolling waves. A four batten design with a full metallic X-Ply window and fiberglass battens provide impressive performance and durability.\n\nFrom 5.2 to 6.4 the Hybrid progresses into a classic 5-batten bump & jump profile, offering great speed, stability and power. These mid-range sizes are the perfect choice for when conditions start to become a little less consistent. Glass and tube battens in the sail center produce a perfect profile for stability and performance, when conditions start getting a little bit tougher with the metallic X-Ply window protecting the Hybrid from damages and making it extremely durable.\n\nIn the largest sizes from 6.7 to 8.2, the full 6-batten freeride profile provides speed and performance to be the fastest out there. A combination of tube and glass battens and the full profile maximize freeride power for early and fast planing, even on the lighter days.\n\nThe Hybrid 2019 was updated with the brand-new parallel batten concept and changed shape parameters in the seams, giving more smoothness and top-end to this powerful sail range. New batten specs in the bigger sizes lower the backhand pressure in overpowered conditions.\n\nWith the Hybrid 2019 you can invest in a minimum number of sails, but still maximize your time and performance on the water. A complete line from 3.7 to 8.2 makes it perfectly suited for any kind of conditions."
+  }
 }
