@@ -1,7 +1,10 @@
 {
+  "dimensions": [
+    "size"
+  ],
   "brandName": "Patrik",
   "years": [
-    2020
+    2021
   ],
   "name": "qt-wave",
   "type": "sail",
@@ -12,14 +15,10 @@
   "programs": [
     "wave"
   ],
-  "subModels": [
+  "variants": [
     {
-      "subNames": [
-        "*",
-        "68"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_68.png"
+      "variant": {
+        "size": 68
       },
       "lengthCm": 224,
       "widthCm": 52.5,
@@ -42,12 +41,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "73"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_73.png"
+      "variant": {
+        "size": 73
       },
       "lengthCm": 225,
       "widthCm": 54,
@@ -70,12 +65,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "78"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_78.png"
+      "variant": {
+        "size": 78
       },
       "lengthCm": 226,
       "widthCm": 55.5,
@@ -98,12 +89,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "83"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_83.png"
+      "variant": {
+        "size": 83
       },
       "lengthCm": 227,
       "widthCm": 57,
@@ -126,12 +113,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "88"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_88.png"
+      "variant": {
+        "size": 88
       },
       "lengthCm": 228,
       "widthCm": 58.5,
@@ -154,12 +137,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "93"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_93.png"
+      "variant": {
+        "size": 93
       },
       "lengthCm": 229,
       "widthCm": 60,
@@ -182,12 +161,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "103"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_103.png"
+      "variant": {
+        "size": 103
       },
       "lengthCm": 230,
       "widthCm": 63,
@@ -210,12 +185,8 @@
       }
     },
     {
-      "subNames": [
-        "*",
-        "113"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_113.png"
+      "variant": {
+        "size": 113
       },
       "lengthCm": 231,
       "widthCm": 66,
@@ -240,5 +211,55 @@
   ],
   "description": {
     "en": "Different wave spots, conditions, styles and likes makes it difficult to develop production wave board but with our QT-WAVE the answer for those who want to travel light and play in all kind of wave conditions. The 5x fin boxes makes it possible to setup the board from Single to Thruster over Twinzer and Quad and trim the board for the prevailing conditions and individual likes."
-  }
+  },
+  "pictures": [
+    {
+      "variant": {
+        "size": 68
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_68.png"
+    },
+    {
+      "variant": {
+        "size": 73
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_73.png"
+    },
+    {
+      "variant": {
+        "size": 78
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_78.png"
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_83.png"
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_88.png"
+    },
+    {
+      "variant": {
+        "size": 93
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_93.png"
+    },
+    {
+      "variant": {
+        "size": 103
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_103.png"
+    },
+    {
+      "variant": {
+        "size": 113
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_QT-wave_113.png"
+    }
+  ]
 }

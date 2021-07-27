@@ -1,11 +1,16 @@
 import {Crawler} from "../crawler";
-import {Activity, FinConfig, GearSubModel, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
+import {Activity, FinConfig, GearVariant, Picture, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
 import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
 type Extract = {
   data: { [name: string]: { [key: string]: string } },
   pictures: { [name: string]: string },
   description?: string
+}
+
+interface VariantType {
+  size: number,
+  construction: string;
 }
 
 const getFinBoxType = (value: string) => {
@@ -18,21 +23,23 @@ const getFinBoxType = (value: string) => {
       return WindsurfFinBoxType.DeepTuttleBox
     case "Slot":
       return WindsurfFinBoxType.SlotBox
+    case "Power":
+      return WindsurfFinBoxType.PowerBox
   }
 
-  throw  `Fin type not recognized: ${value}`
+  throw  `Fin type not recognized: "${value}"`
 }
 
-class Patrik extends Scraper {
+class Patrik extends Scraper<VariantType> {
   constructor(protected crawler: Crawler) {
     super("Patrik")
   }
 
-  async parse(url: string, modelName: string): Promise<Parsed> {
+  async parse(url: string, modelName: string): Promise<Parsed<VariantType>> {
     const extracted = await this.crawler.crawl(url, this.extract);
 
     // Pictures per variation and size
-    const pictures = Object.keys(extracted.pictures).reduce(
+    const images = Object.keys(extracted.pictures).reduce(
       (accumulator: { [variation: string]: { [size: number]: string } }, title: string) => {
         // "qt-wave 68\nGBM" => 68, GBM
         // "qt-wave 73" => 73
@@ -47,22 +54,34 @@ class Patrik extends Scraper {
       {}
     )
 
-    console.log('Pictures')
-    console.log(JSON.stringify(pictures, null, 2))
+    const uniqueConstructions = new Set<string>();
+    const uniqueSizes = new Set<number>();
 
-    const subModels = Object.keys(extracted.data).reduce(
-      (accumulator: GearSubModel[], key: string) => {
-        const size = extract(key, new RegExp(`${modelName.toUpperCase()} (.*)`))
+    console.log('Pictures')
+    console.log(JSON.stringify(images, null, 2))
+
+    const variants = Object.keys(extracted.data).reduce(
+      (accumulator: WindsurfBoard<VariantType>[], key: string) => {
+        const size = stringToNumber(extract(key, new RegExp(`${modelName.toUpperCase()} (.*)`)))
+
+        uniqueSizes.add(size)
+
         const data = extracted.data[key]
 
-        Object.keys(pictures).forEach(variation => {
+        Object.keys(images).forEach(imageKey => {
+          let construction = imageKey === '*' ? undefined : imageKey;
 
-          const getSubValueOrDefault = variation === '*'
-            ? (value: string) => value
-            : (value: string) => extract(value, new RegExp(`[\\s\\S]*${variation}: (.*)(\n[\\s\\S]*|$)`)) ?? value
+          uniqueConstructions.add(construction);
+
+          const getSubValueOrDefault = construction
+            ? (value: string) => extract(value, new RegExp(`[\\s\\S]*${imageKey}: (.*)(\n[\\s\\S]*|$)`)) ?? value
+            : (value: string) => value
 
           const fins = getSubValueOrDefault(data["FIN BOX"]).split(/[\n+]+/)
             .reduce((accumulator: FinConfig[], value: string) => {
+                if (value.trim() === '')
+                  return;
+
                 // 3xUS 8″
                 // Deep tuttle
                 const count = stringToNumber(extract(value, /(\d*)x.*/) ?? '1')
@@ -74,20 +93,21 @@ class Patrik extends Scraper {
               },
               [])
 
-          const [fromM2, toM2] = getSubValueOrDefault(data['SAIL\nRANGE\n[M2]'])
+          const [fromM2, toM2] = (getSubValueOrDefault(data['SAIL\nRANGE\n[M2]']) ?? '')
             .split('-')
             .map(value => stringToNumber(value))
 
-          const gearModel: WindsurfBoard = {
-            subNames: [variation, size],
-            colorPictureURLs: {['default']: pictures[variation][size]},
+          const gearModel: WindsurfBoard<VariantType> = {
+            variant: {
+              construction,
+              size
+            },
             lengthCm: stringToNumber(getSubValueOrDefault(data['LENGTH\n[MM]'])) / 10,
             widthCm: stringToNumber(getSubValueOrDefault(data['WIDTH\n[MM]'])) / 10,
             volumeL: stringToNumber(getSubValueOrDefault(data['VOLUME\n[LITRE]'])),
-            // TODO verify if same name on other pages
             weightKg: stringToNumber(getSubValueOrDefault(data['WEIGHT\n(+/-6%)\n[KG]'])),
             // "5×4"
-            strapInsertCount: stringToNumber(getSubValueOrDefault(data["STRAP\nOPTIONS &\nINSERT HOLES"]).split('×')[0]),
+            strapInsertCount: stringToNumber((getSubValueOrDefault(data["STRAP\nOPTIONS &\nINSERT HOLES"]) ?? '').split('×')[0]),
             fins,
             sailRange: {fromM2, toM2}
           }
@@ -95,13 +115,42 @@ class Patrik extends Scraper {
           accumulator.push(gearModel)
         })
 
-
         return accumulator;
       },
       []
     )
 
-    return {subModels, description: extracted.description ? {en: extracted.description} : {}};
+
+    const pictures = Object.keys(images).reduce(
+      (accumulator: Picture<VariantType>[], construction) => {
+        Object.keys(images[construction]).forEach(size => {
+          const url = images[construction][size]
+          accumulator.push({
+            variant: {
+              construction: construction === '*' ? undefined : construction,
+              size: size === '*' ? undefined : stringToNumber(size),
+            },
+            url
+          })
+        })
+        return accumulator;
+      },
+      [])
+
+    let dimensions: (keyof VariantType)[] = [];
+
+    if (uniqueConstructions.size > 1)
+      dimensions.push('construction')
+
+    if (uniqueSizes.size > 1)
+      dimensions.push('size')
+
+    return {
+      pictures,
+      dimensions,
+      variants,
+      description: extracted.description ? {en: extracted.description} : {}
+    };
   }
 
   extract(): Extract {
@@ -167,7 +216,9 @@ class Patrik extends Scraper {
   const brandCrawler = new Patrik(crawler);
 
   await brandCrawler.createFile("https://patrik-windsurf.com/qt-wave/", "qt-wave", [2019, 2020], [Activity.windsurf], [Program.wave]);
-  await brandCrawler.createFile("https://patrik-windsurf.com/qt-wave-2/", "qt-wave", [2020], [Activity.windsurf], [Program.wave]);
+  await brandCrawler.createFile("https://patrik-windsurf.com/qt-wave-2/", "qt-wave", [2021], [Activity.windsurf], [Program.wave]);
+  await brandCrawler.createFile("https://patrik-windsurf.com/foil-style/", "foil-style", [2021], [Activity.windfoil], [Program.freeride]);
+  await brandCrawler.createFile("https://patrik-windsurf.com/air-style-2/", "air-style", [2021], [Activity.windsurf], [Program.freestyle]);
 
   await crawler.close();
 })();

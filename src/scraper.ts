@@ -1,21 +1,27 @@
-import {Activity, GearModel, GearSubModel, GearType, Program} from "./model";
+import {Activity, GearModel, GearVariant, GearType, Program, Picture} from "./model";
 import path from "path";
 import fs from "fs";
 
-export type Parsed = { subModels: GearSubModel[], description: { [language: string]: string } };
+export interface Parsed<T> {
+  dimensions: (keyof T)[],
+  variants: GearVariant<T>[],
+  description: { [language: string]: string }
+  pictures: Picture<T>[];
+}
 
 const sanitize = (value: string) => value.replace(/ +/, '_')
 
-export abstract class Scraper {
+export abstract class Scraper<T> {
   constructor(public brandName: string) {
   }
 
-  abstract parse(url: string, modelName: string): Promise<Parsed>;
+  abstract parse(url: string, modelName: string): Promise<Parsed<T>>;
 
   async createFile(url: string, modelName: string, years: number[], activities: Activity[], programs: Program[]) {
-    const {subModels, description} = await this.parse(url, modelName);
+    const {dimensions, variants, description, pictures} = await this.parse(url, modelName);
 
-    const model: GearModel = {
+    const model: GearModel<T> = {
+      dimensions,
       brandName: this.brandName,
       years,
       name: modelName,
@@ -23,8 +29,9 @@ export abstract class Scraper {
       infoUrl: url,
       activities,
       programs,
-      subModels,
-      description
+      variants: variants,
+      description,
+      pictures
     }
 
     const fileName = `${sanitize(this.brandName)}_${sanitize(modelName)}_${years.join('-')}.json`

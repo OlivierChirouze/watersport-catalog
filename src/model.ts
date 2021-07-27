@@ -24,7 +24,12 @@ export enum GearType {
   sail = "sail"
 }
 
-export interface GearModel {
+export interface Picture<T> {
+  variant: Partial<T>;
+  url: string;
+}
+
+export interface GearModel<T> {
   brandName: string;
   name: string;
   // A model can last for a few years
@@ -33,9 +38,11 @@ export interface GearModel {
   type: GearType;
   activities: Activity[];
   programs: Program[];
-  subModels: GearSubModel[];
+  dimensions: (keyof T)[];
+  variants: GearVariant<T>[];
   // Description is per language
-  description: {[language: string]: string}
+  description: {[language: string]: string};
+  pictures: Picture<T>[];
 }
 
 // Examples of names:
@@ -47,18 +54,8 @@ export interface GearModel {
 // Gaastra, Hybrid, 6.4, C3, 2020
 // Patrik, qt-wave, GBM, 83, 2019
 
-// Names are built:
-// - brand name
-// - main model name
-// - bus model name
-// - "main characteristic" (ex: sail surface, board volume)
-// - color, if any
-// - year
-
-export interface GearSubModel {
-  subNames: string[];
-  // Map of 'name of color' => list of picture URLs (the list can be empty)
-  colorPictureURLs: { [color: string]: string[] }
+export interface GearVariant<V> {
+  variant: Partial<V>;
 }
 
 // ---------------------------------------------- Windsurfing / windfoiling sails
@@ -67,7 +64,7 @@ export enum WindsurfSailTopType {
   vario = "vario"
 }
 
-export interface WindsurfSail extends GearSubModel {
+export interface WindsurfSail<V> extends GearVariant<V> {
   surfaceM2: number;
   topType?: WindsurfSailTopType;
   luffLengthCm?: number;
@@ -87,6 +84,7 @@ export enum WindsurfFinBoxType {
   US5 = "US5",
   US8 = "US8",
   SlotBox = "SlotBox",
+  PowerBox = "PowerBox",
 }
 
 export type FinConfig = {
@@ -99,7 +97,7 @@ export type SailRange = {
   toM2: number;
 };
 
-export interface WindsurfBoard extends GearSubModel {
+export interface WindsurfBoard<V> extends GearVariant<V> {
   volumeL: number;
   lengthCm?: number;
   widthCm?: number;

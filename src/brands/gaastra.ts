@@ -1,8 +1,8 @@
 import {Crawler} from "../crawler";
-import {Activity, Program, WindsurfSail, WindsurfSailTopType} from "../model";
+import {Activity, Picture, Program, WindsurfSail, WindsurfSailTopType} from "../model";
 import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
-interface Picture {
+interface Img {
   title: string;
   src: string;
 }
@@ -10,6 +10,12 @@ interface Picture {
 interface Spec {
   title: string;
   specs: { [key: string]: string };
+}
+
+interface VariantType {
+  size: number,
+  construction: string;
+  color: string;
 }
 
 const stringToNumberArray = (val: string): number[] => {
@@ -30,9 +36,9 @@ const getTopType = (val: string) => {
   throw `Unrecognized top type: ${val}`
 };
 
-type Extract = { pictures: Picture[], specs: Spec[], description: string }
+type Extract = { pictures: Img[], specs: Spec[], description: string }
 
-class GaastraRecent extends Scraper {
+class GaastraRecent extends Scraper<VariantType> {
   constructor(protected crawler: Crawler) {
     super("Gaastra");
   }
@@ -46,7 +52,7 @@ class GaastraRecent extends Scraper {
       .filter(getVariationTitle);
 
     const specs = variations.map(variation => {
-      const title = getVariationTitle(variation).innerText;
+      const title = getVariationTitle(variation).innerText.toUpperCase();
       const specs = Array.from(variation.querySelectorAll('.fusion-text > p')).reduce(
         (accumulator: { [key: string]: string }, char: HTMLParagraphElement) => {
           const split = (char).innerText.split('\n');
@@ -67,7 +73,7 @@ class GaastraRecent extends Scraper {
       .filter(getBoxTitle);
 
     const pictures = imageBoxes.map(box => ({
-      title: getBoxTitle(box).innerText,
+      title: getBoxTitle(box).innerText.toUpperCase(),
       src: (box.querySelector("img") as HTMLImageElement).src
     }));
 
@@ -76,7 +82,7 @@ class GaastraRecent extends Scraper {
     return {specs, pictures, description};
   };
 
-  async parse(url: string, modelName: string): Promise<Parsed> {
+  async parse(url: string, modelName: string): Promise<Parsed<VariantType>> {
 
     const extracted = await this.crawler.crawl(url, this.extract);
 
@@ -87,15 +93,18 @@ class GaastraRecent extends Scraper {
       return extract(title, new RegExp(`[\\s\\S]*${key}:? *(.*)(\n[\\s\\S]*|$)`))
     }
 
+    const uniqueConstructions = new Set<string>();
+    const uniqueSizes = new Set<number>();
+
     // Unique list of colors, size with their picture
-    const pictures = extracted.pictures.reduce(
-      (accumulator: { [color: string]: { [subName: string]: { [size: string]: string } } }, current: Picture) => {
+    const images = extracted.pictures.reduce(
+      (accumulator: { [color: string]: { [subName: string]: { [size: string]: string } } }, current: Img) => {
         // Color: C1\n\nSize 4.7
         // Vapor Air SL\nColor: C1
 
-        const color = getValueFromTitle(current.title, 'Color');
+        const color = getValueFromTitle(current.title, 'COLOR');
         // If no size, use "*"
-        const size = getValueFromTitle(current.title, 'Size') ?? '*';
+        const size = getValueFromTitle(current.title, 'SIZE') ?? '*';
         const subName = getValueFromTitle(current.title, modelName) ?? '*';
 
         accumulator[color] = accumulator[color] ?? {};
@@ -108,22 +117,20 @@ class GaastraRecent extends Scraper {
     )
 
     // Create as many sub models as there are sizes x colors
-    const subModels = extracted.specs.reduce(
-      (accumulator: WindsurfSail[], current: Spec) => {
-        const size = current.title.replace(/[\s\S]*Size:? ([\d.]*)[\s\S]*/, '$1')
-        const subName = getValueFromTitle(current.title, modelName)
+    const variants = extracted.specs.reduce(
+      (accumulator: WindsurfSail<VariantType>[], current: Spec) => {
+        const size = stringToNumber(current.title.replace(/[\s\S]*SIZE:? ([\d.]*)[\s\S]*/, '$1'))
+        const construction = getValueFromTitle(current.title, modelName.toUpperCase())
+
+        uniqueConstructions.add(construction);
+        uniqueSizes.add(size);
 
         accumulator.push({
-          subNames: subName ? [subName, size] : [size],
-          // Map each color and affect picture url if relevant
-          colorPictureURLs: Object.keys(pictures).reduce(
-            (accumulator: { [color: string]: string[] }, color) => {
-              accumulator[color] = [pictures[color][subName] ? (pictures[color][subName][size] ?? pictures[color][subName]['*'])
-                : (pictures[color]['*'][size] ?? pictures[color]['*']['*'])]
-              return accumulator;
-            },
-            {}),
-          surfaceM2: stringToNumber(size),
+          variant: {
+            size,
+            construction
+          },
+          surfaceM2: size,
           // Mast
           // 340-370 or 400/370
           mastLengthsCm: stringToNumberArray(current.specs['MAST']),
@@ -144,8 +151,42 @@ class GaastraRecent extends Scraper {
       []
     )
 
+    const pictures = Object.keys(images).reduce(
+      (accumulator: Picture<VariantType>[], color) => {
+        Object.keys(images[color]).forEach(construction => {
+          Object.keys(images[color][construction]).forEach(size => {
+            const url = images[color][construction][size]
+            accumulator.push({
+              variant: {
+                color,
+                construction: construction === '*' ? undefined : construction,
+                size: size === '*' ? undefined : stringToNumber(size),
+              },
+              url
+            })
+          })
+        })
+        return accumulator;
+      },
+      [])
+
+    let dimensions: (keyof VariantType)[] = [];
+
+    if (Object.keys(images).length > 1)
+      dimensions.push('color')
+
+    if (uniqueConstructions.size > 1)
+      dimensions.push('construction')
+
+    if (uniqueSizes.size > 1)
+      dimensions.push('size')
+
+    //'size', 'construction', 'color'
+
     return {
-      subModels,
+      pictures,
+      dimensions,
+      variants,
       // TODO reload page to get it in german
       description: {en: extracted.description}
     }
@@ -198,8 +239,6 @@ class GaastraOld extends GaastraRecent {
   const recent = new GaastraRecent(crawler);
   const old = new GaastraOld(crawler);
 
-  // Note: at that time, there were 2 versions of the Hybrid sail
-  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/", "Hybrid HD", [2017], [Activity.windsurf], [Program.freeride]);
   await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/", "Hybrid", [2017], [Activity.windsurf], [Program.freeride]);
 
   await recent.createFile("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", [2019], [Activity.windsurf], [Program.wave]);

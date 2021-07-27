@@ -1,4 +1,8 @@
 {
+  "dimensions": [
+    "construction",
+    "size"
+  ],
   "brandName": "Patrik",
   "years": [
     2019,
@@ -13,14 +17,11 @@
   "programs": [
     "wave"
   ],
-  "subModels": [
+  "variants": [
     {
-      "subNames": [
-        "GBM",
-        "68"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_68.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 68
       },
       "lengthCm": 224,
       "widthCm": 52.5,
@@ -43,12 +44,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "68"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave68.png"
+      "variant": {
+        "construction": "GET",
+        "size": 68
       },
       "lengthCm": 224,
       "widthCm": 52.5,
@@ -71,12 +69,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "73"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_73.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 73
       },
       "lengthCm": 225,
       "widthCm": 54,
@@ -99,12 +94,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "73"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave73.png"
+      "variant": {
+        "construction": "GET",
+        "size": 73
       },
       "lengthCm": 225,
       "widthCm": 54,
@@ -127,12 +119,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "78"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_78.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 78
       },
       "lengthCm": 226,
       "widthCm": 55.5,
@@ -155,12 +144,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "78"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave78.png"
+      "variant": {
+        "construction": "GET",
+        "size": 78
       },
       "lengthCm": 226,
       "widthCm": 55.5,
@@ -183,12 +169,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "83"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_83.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 83
       },
       "lengthCm": 227,
       "widthCm": 57,
@@ -211,12 +194,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "83"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave83.png"
+      "variant": {
+        "construction": "GET",
+        "size": 83
       },
       "lengthCm": 227,
       "widthCm": 57,
@@ -239,12 +219,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "88"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_88.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 88
       },
       "lengthCm": 228,
       "widthCm": 58.5,
@@ -267,12 +244,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "88"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave88.png"
+      "variant": {
+        "construction": "GET",
+        "size": 88
       },
       "lengthCm": 228,
       "widthCm": 58.5,
@@ -295,12 +269,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "93"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_93.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 93
       },
       "lengthCm": 229,
       "widthCm": 60,
@@ -323,12 +294,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "93"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave93.png"
+      "variant": {
+        "construction": "GET",
+        "size": 93
       },
       "lengthCm": 229,
       "widthCm": 60,
@@ -351,12 +319,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "103"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_103.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 103
       },
       "lengthCm": 230,
       "widthCm": 63,
@@ -379,12 +344,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "103"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave103.png"
+      "variant": {
+        "construction": "GET",
+        "size": 103
       },
       "lengthCm": 230,
       "widthCm": 63,
@@ -407,12 +369,9 @@
       }
     },
     {
-      "subNames": [
-        "GBM",
-        "113"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_113.png"
+      "variant": {
+        "construction": "GBM",
+        "size": 113
       },
       "lengthCm": 231,
       "widthCm": 66,
@@ -435,12 +394,9 @@
       }
     },
     {
-      "subNames": [
-        "GET",
-        "113"
-      ],
-      "colorPictureURLs": {
-        "default": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave113.png"
+      "variant": {
+        "construction": "GET",
+        "size": 113
       },
       "lengthCm": 231,
       "widthCm": 66,
@@ -465,5 +421,119 @@
   ],
   "description": {
     "en": "A wave shape with a huge range of performance. Derived from the all wave board “Campello Wave” we worked on improving the balance while testing different width to thickness ratios. The slightly wider and thinner shape is more stable and improves the performance in non-perfect conditions. To keep the maneuverability as it was we increased the tail kick and reduced the tail width while adding a winger. The final result is a very polyvalent design which in combination with the 5 fin boxes excels in ease adapting to changing conditions. Offering 8 sizes from 68 up to 113 liters makes this range very complete."
-  }
+  },
+  "pictures": [
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 68
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_68.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 73
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_73.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 78
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_78.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 83
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_83.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 88
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_88.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 93
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_93.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 103
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_103.png"
+    },
+    {
+      "variant": {
+        "construction": "GBM",
+        "size": 113
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GBM_qt_wave_113.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 68
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave68.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 73
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave73.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 78
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave78.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 83
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave83.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 88
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave88.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 93
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave93.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 103
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave103.png"
+    },
+    {
+      "variant": {
+        "construction": "GET",
+        "size": 113
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2018/03/GET_QT-Wave113.png"
+    }
+  ]
 }

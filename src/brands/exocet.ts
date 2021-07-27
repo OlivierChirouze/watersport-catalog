@@ -1,5 +1,5 @@
 import {Crawler} from "../crawler";
-import {Activity, FinConfig, GearSubModel, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
+import {Activity, FinConfig, GearVariant, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
 import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
 type Extract = {
@@ -17,7 +17,11 @@ const getFinBoxType = (value: string) => {
   throw  `Fin type not recognized: ${value}`
 }
 
-class Exocet extends Scraper {
+interface VariantType {
+  size: string;
+}
+
+class Exocet extends Scraper<VariantType> {
   constructor(protected crawler: Crawler) {
     super("Exocet")
   }
@@ -58,26 +62,24 @@ class Exocet extends Scraper {
     return {data, pictureUrl, description};
   };
 
-  async parse(url: string, modelName: string): Promise<Parsed> {
+  async parse(url: string, modelName: string): Promise<Parsed<VariantType>> {
     const extracted = await this.crawler.crawl(url, this.extract);
 
     console.log(extracted)
 
     const description = {en: extracted.description}
 
-    const subModels = Object.keys(extracted.data).reduce(
-      (accumulator: WindsurfBoard[], name: string) => {
+    const variants = Object.keys(extracted.data).reduce(
+      (accumulator: WindsurfBoard<VariantType>[], name: string) => {
         const data = extracted.data[name];
-
 
         const [fromM2, toM2] = extract(data['SAILS RANGE'], /(.*) M2/)
           .split(' - ')
           .map(value => stringToNumber(value))
 
         const size = extract(name, new RegExp(`${modelName.toUpperCase()} (.*)`))
-        const gearModel: WindsurfBoard = {
-          subNames: [size],
-          colorPictureURLs: {['default']: [extracted.pictureUrl]},
+        const gearModel: WindsurfBoard<VariantType> = {
+          variant: {size},
           lengthCm: stringToNumber(extract(data['LENGTH'], /(.*) CM/)),
           widthCm: stringToNumber(extract(data['WIDTH'], /(.*) CM/)),
           volumeL: stringToNumber(extract(data['VOLUME'], /(.*) LITRES/)),
@@ -92,7 +94,12 @@ class Exocet extends Scraper {
       []
     )
 
-    return {subModels, description}
+    return {
+      dimensions: ['size'],
+      variants,
+      description,
+      pictures: [{variant: {}, url: extracted.pictureUrl}]
+    }
   }
 }
 

@@ -1,4 +1,7 @@
 {
+  "dimensions": [
+    "size"
+  ],
   "brandName": "Exocet",
   "years": [
     2019,
@@ -14,15 +17,10 @@
   "programs": [
     "freeride"
   ],
-  "subModels": [
+  "variants": [
     {
-      "subNames": [
-        "112"
-      ],
-      "colorPictureURLs": {
-        "default": [
-          "https://www.exocet-original.com/Files/130917/Img/06/Exo_X19-FreeFoil-112-AST.jpg"
-        ]
+      "variant": {
+        "size": "112"
       },
       "lengthCm": 210,
       "widthCm": 76,
@@ -39,13 +37,8 @@
       }
     },
     {
-      "subNames": [
-        "132"
-      ],
-      "colorPictureURLs": {
-        "default": [
-          "https://www.exocet-original.com/Files/130917/Img/06/Exo_X19-FreeFoil-112-AST.jpg"
-        ]
+      "variant": {
+        "size": "132"
       },
       "lengthCm": 210,
       "widthCm": 86,
@@ -63,5 +56,11 @@
   ],
   "description": {
     "en": "Boards dedicated for Windfoil Freeride-Freemove practice.\n\nThe Freefoil are the new range of Exocet windfoil boards.\n\nThey represent all the spirit of a windsurfing foil practice free of any constraint, to fly easily with light equipment, to stroll on the water, to chain the maneuvers, whatever its level and the conditions.\n\nThey are particularly suitable for sailing of moderate size, without camber.\n\nExists in two models : 112 / 132"
-  }
+  },
+  "pictures": [
+    {
+      "variant": {},
+      "url": "https://www.exocet-original.com/Files/130917/Img/06/Exo_X19-FreeFoil-112-AST.jpg"
+    }
+  ]
 }
