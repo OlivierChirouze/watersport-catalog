@@ -17,15 +17,19 @@ export abstract class Scraper<T> {
 
   abstract parse(url: string, modelName: string): Promise<Parsed<T>>;
 
-  async createFile(url: string, modelName: string, years: number[], activities: Activity[], programs: Program[]) {
+  async createFileFromUrl(url: string, modelName: string, years: number[], activities: Activity[], type: GearType, programs: Program[]) {
     const {dimensions, variants, description, pictures} = await this.parse(url, modelName);
 
+    await this.createFile(dimensions, years, modelName, type, url, activities, programs, variants, description, pictures);
+  }
+
+  async createFile(dimensions: (keyof T)[], years: number[], modelName: string, type: GearType, url: string, activities: Activity[], programs: Program[], variants: GearVariant<T>[], description: { [p: string]: string }, pictures: Picture<T>[]) {
     const model: GearModel<T> = {
       dimensions,
       brandName: this.brandName,
       years,
       name: modelName,
-      type: GearType.sail,
+      type,
       infoUrl: url,
       activities,
       programs,
