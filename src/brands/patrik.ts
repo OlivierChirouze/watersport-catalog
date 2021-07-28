@@ -1,5 +1,14 @@
 import {Crawler} from "../crawler";
-import {Activity, FinConfig, GearVariant, Picture, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
+import {
+  Activity,
+  FinConfig,
+  GearType,
+  GearVariant,
+  Picture,
+  Program,
+  WindsurfBoard,
+  WindsurfFinBoxType
+} from "../model";
 import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
 type Extract = {
@@ -215,10 +224,10 @@ class Patrik extends Scraper<VariantType> {
   const crawler = await new Crawler().init();
   const brandCrawler = new Patrik(crawler);
 
-  await brandCrawler.createFile("https://patrik-windsurf.com/qt-wave/", "qt-wave", [2019, 2020], [Activity.windsurf], [Program.wave]);
-  await brandCrawler.createFile("https://patrik-windsurf.com/qt-wave-2/", "qt-wave", [2021], [Activity.windsurf], [Program.wave]);
-  await brandCrawler.createFile("https://patrik-windsurf.com/foil-style/", "foil-style", [2021], [Activity.windfoil], [Program.freeride]);
-  await brandCrawler.createFile("https://patrik-windsurf.com/air-style-2/", "air-style", [2021], [Activity.windsurf], [Program.freestyle]);
+  await brandCrawler.createFileFromUrl("https://patrik-windsurf.com/qt-wave/", "qt-wave", [2019, 2020], [Activity.windsurf], GearType.windsurfBoard, [Program.wave]);
+  await brandCrawler.createFileFromUrl("https://patrik-windsurf.com/qt-wave-2/", "qt-wave", [2021], [Activity.windsurf], GearType.windsurfBoard, [Program.wave]);
+  await brandCrawler.createFileFromUrl("https://patrik-windsurf.com/foil-style/", "foil-style", [2021], [Activity.windfoil], GearType.windsurfBoard, [Program.freeride]);
+  await brandCrawler.createFileFromUrl("https://patrik-windsurf.com/air-style-2/", "air-style", [2021], [Activity.windsurf], GearType.windsurfBoard, [Program.freestyle]);
 
   await crawler.close();
 })();

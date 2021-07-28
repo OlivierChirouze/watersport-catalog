@@ -1,5 +1,5 @@
 import {Crawler} from "../crawler";
-import {Activity, Picture, Program, WindsurfSail, WindsurfSailTopType} from "../model";
+import {Activity, GearType, Picture, Program, WindsurfSail, WindsurfSailTopType} from "../model";
 import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
 interface Img {
@@ -239,13 +239,13 @@ class GaastraOld extends GaastraRecent {
   const recent = new GaastraRecent(crawler);
   const old = new GaastraOld(crawler);
 
-  await old.createFile("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/", "Hybrid", [2017], [Activity.windsurf], [Program.freeride]);
+  await old.createFileFromUrl("https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/", "Hybrid", [2017], [Activity.windsurf, Activity.windfoil], GearType.sail, [Program.freeride]);
 
-  await recent.createFile("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", [2019], [Activity.windsurf], [Program.wave]);
-  await recent.createFile("https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/", "Hybrid", [2019], [Activity.windsurf], [Program.freeride]);
-  await recent.createFile("https://ga-windsurfing.com/sails/2020/freeride/hybrid-20", "Hybrid", [2020], [Activity.windsurf], [Program.freeride]);
+  await recent.createFileFromUrl("https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/", "Manic", [2019], [Activity.windsurf, Activity.windfoil], GearType.sail, [Program.wave]);
+  await recent.createFileFromUrl("https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/", "Hybrid", [2019], [Activity.windsurf, Activity.windfoil], GearType.sail, [Program.freeride]);
+  await recent.createFileFromUrl("https://ga-windsurfing.com/sails/2020/freeride/hybrid-20", "Hybrid", [2020], [Activity.windsurf, Activity.windfoil], GearType.sail, [Program.freeride]);
 
-  await recent.createFile("https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/", "Vapor Air", [2021], [Activity.windfoil], [Program.slalom]);
+  await recent.createFileFromUrl("https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/", "Vapor Air", [2021], [Activity.windfoil], GearType.sail, [Program.slalom]);
 
   await crawler.close();
 })();

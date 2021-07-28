@@ -1,5 +1,5 @@
 import {Crawler} from "../crawler";
-import {Activity, FinConfig, GearVariant, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
+import {Activity, FinConfig, GearType, GearVariant, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
 import {extract, Parsed, Scraper, stringToNumber} from "../scraper";
 
 type Extract = {
@@ -109,7 +109,7 @@ class Exocet extends Scraper<VariantType> {
 
   // TODO load french description from https://www.exocet-original.fr/freefoil-ast-c2x29552596
   // TODO support 2 urls for the "same" board: Freefoil AST and Freefoil Carbone
-  await brandCrawler.createFile("https://www.exocet-original.com/freefoil-ast-c2x33091951", "Freefoil", [2019, 2020, 2021], [Activity.windfoil], [Program.freeride]);
+  await brandCrawler.createFileFromUrl("https://www.exocet-original.com/freefoil-ast-c2x33091951", "Freefoil", [2019, 2020, 2021], [Activity.windfoil], GearType.windsurfBoard, [Program.freeride]);
 
   await crawler.close();
 })();
