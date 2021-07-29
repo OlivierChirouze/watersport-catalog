@@ -1,13 +1,7 @@
-import { Crawler } from "../crawler";
-import {
-  Activity,
-  GearType,
-  Program,
-  WindsurfBoard,
-  WindsurfFinBoxType
-} from "../model";
-import { Parsed, Scraper } from "../scraper";
-import { extract, stringToNumber } from "../utils";
+import {Crawler} from "../crawler";
+import {Activity, GearType, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
+import {Parsed, Scraper} from "../scraper";
+import {extract, stringToNumber} from "../utils";
 
 type Extract = {
   data: { [name: string]: { [key: string]: string } };

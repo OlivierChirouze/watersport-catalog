@@ -11,7 +11,7 @@ Some info can also be manually added to match the general data model
 The library contains both the code to scrape information (in `src`)
 and the latest catalog information in JSON format (in `products`).
 
-The **product definition** is described in details in [model.ts](./src/model.ts)
+The **product definition** is described in details in [product.ts](src/model/product.ts)
 
 ## Currently supported brands
 

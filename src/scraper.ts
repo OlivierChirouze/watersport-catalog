@@ -1,12 +1,4 @@
-import {
-  Activity,
-  GearModel,
-  GearSpecificVariant,
-  GearType,
-  GearVariant,
-  Picture,
-  Program
-} from "./model";
+import {Activity, GearSpecificVariant, GearType, Picture, Product, Program} from "./model";
 import path from "path";
 import fs from "fs";
 
@@ -84,7 +76,7 @@ export abstract class Scraper<T> extends FileUpdater<T> {
     description: { [p: string]: string },
     pictures: Picture<T>[]
   ) {
-    const model: GearModel<T> = {
+    const model: Product<T> = {
       dimensions,
       brandName: this.brandName,
       years,

@@ -1,5 +1,5 @@
 import { FileUpdater } from "../scraper";
-import salt2014 from "./manual-definitions/Point-7_Salt_2014.json";
+import salt2014 from "./handmade-definitions/Point-7_Salt_2014.json";
 
 (async () => {
   const brandCrawler = new FileUpdater();

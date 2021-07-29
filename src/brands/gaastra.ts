@@ -1,14 +1,7 @@
-import { Crawler } from "../crawler";
-import {
-  Activity,
-  GearType,
-  Picture,
-  Program,
-  WindsurfSail,
-  WindsurfSailTopType
-} from "../model";
-import { Parsed, Scraper } from "../scraper";
-import { extract, stringToNumber } from "../utils";
+import {Crawler} from "../crawler";
+import {Activity, GearType, Picture, Program, WindsurfSail, WindsurfSailTopType} from "../model";
+import {Parsed, Scraper} from "../scraper";
+import {extract, stringToNumber} from "../utils";
 
 interface Img {
   title: string;
