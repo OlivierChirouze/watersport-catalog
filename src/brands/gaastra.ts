@@ -119,7 +119,7 @@ class GaastraRecent extends Scraper<VariantType> {
     // Create as many sub models as there are sizes x colors
     const variants = extracted.specs.reduce(
       (accumulator: WindsurfSail<VariantType>[], current: Spec) => {
-        const size = stringToNumber(current.title.replace(/[\s\S]*SIZE:? ([\d.]*)[\s\S]*/, '$1'))
+        const size = stringToNumber(extract(current.title, /[\s\S]*SIZE:? ([\d.]*)[\s\S]*/))
         const construction = getValueFromTitle(current.title, modelName.toUpperCase())
 
         uniqueConstructions.add(construction);

@@ -52,7 +52,7 @@ class Patrik extends Scraper<VariantType> {
       (accumulator: { [variation: string]: { [size: number]: string } }, title: string) => {
         // "qt-wave 68\nGBM" => 68, GBM
         // "qt-wave 73" => 73
-        const size = stringToNumber(title.replace(new RegExp(`${modelName.toUpperCase()} *(.*)(\\n[\\s\\S]*|$)`), '$1')) ?? '*'
+        const size = stringToNumber(extract(title, new RegExp(`${modelName.toUpperCase()} +(.*)(\\n[\\s\\S]*|$)`))) ?? '*'
         const variation = extract(title, new RegExp(`.*\n(.*)`)) ?? '*'
 
         accumulator[variation] = accumulator[variation] ?? {};
@@ -128,7 +128,6 @@ class Patrik extends Scraper<VariantType> {
       },
       []
     )
-
 
     const pictures = Object.keys(images).reduce(
       (accumulator: Picture<VariantType>[], construction) => {
