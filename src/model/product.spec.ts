@@ -19,16 +19,16 @@ describe('getClosestVariant', () => {
   it('should find more general match', () => {
     // There is no match with color:12 but there's a more general entry
     expect(
-      getClosestVariant<{size: number, dimension: string, color: string}>({size: 12, dimension: "test", color: "12"}, list)
+      getClosestVariant({size: 12, dimension: "test", color: "12"}, list)
     ).toEqual({variant: {size: 12, dimension: "test"}});
 
     expect(
-      getClosestVariant<{size: number, dimension: string, color: string, otherDimension: number}>({size: 12, dimension: "test", color: "12", otherDimension: 12}, list)
+      getClosestVariant({size: 12, dimension: "test", color: "12", otherDimension: 12}, list)
     ).toEqual({variant: {size: 12, dimension: "test"}});
 
     // However if there are only entries that are _more detailed_, it doesn't match
     expect(
-      getClosestVariant<{size: number, dimension: string, color: string}>({size: 12, color:"14"}, list)
+      getClosestVariant({size: 12, color:"14"}, list)
     ).toEqual(undefined);
   });
 

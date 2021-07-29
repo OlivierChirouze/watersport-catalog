@@ -81,7 +81,7 @@ export interface Picture<VariantType> {
  * @param search
  * @param listOfVariants
  */
-export const getClosestVariant = <VariantType>(search: Partial<VariantType>, listOfVariants: { variant: Partial<VariantType> }[]): { variant: Partial<VariantType> } | undefined => {
+export const getClosestVariant = <VariantType, P extends { variant: Partial<VariantType> }>(search: Partial<VariantType>, listOfVariants: P[]): P | undefined => {
   if (search === {}) return undefined
 
   // Try to find an exact match
