@@ -1,12 +1,12 @@
 // Water sport activity
 export enum Activity {
-  windsurf = 'windsurf',
-  kitesurf = 'kitesurf',
-  windfoil = 'windfoil',
-  kitefoil = 'kitefoil',
-  surf = 'surf',
-  sup = 'sup',
-  wingsurf = 'wingsurf'
+  windsurf = "windsurf",
+  kitesurf = "kitesurf",
+  windfoil = "windfoil",
+  kitefoil = "kitefoil",
+  surf = "surf",
+  sup = "sup",
+  wingsurf = "wingsurf"
 }
 
 // "type" of activity
@@ -23,8 +23,8 @@ export enum Program {
 // Big categories of gear, regardless of the activity
 // example: a "windsurf board" (GearType) can in fact be used for windfoiling (Activity)
 export enum GearType {
-  windsurfBoard = 'windsurfBoard',
-  sail = "sail",
+  windsurfBoard = "windsurfBoard",
+  sail = "sail"
   // surfBoard = 'surfBoard',
   // kite = "kite"
   // ... to be continued!
@@ -51,7 +51,7 @@ export interface GearModel<VariantType> {
   // Main programs the gear is targeting
   programs: Program[];
   // Description is per language
-  description: {[language: string]: string};
+  description: { [language: string]: string };
 
   // List of pictures that are more or less specific to a variant
   pictures: Picture<VariantType>[];
@@ -141,7 +141,7 @@ export enum WindsurfFinBoxType {
   US5 = "US5",
   US8 = "US8",
   SlotBox = "SlotBox",
-  PowerBox = "PowerBox",
+  PowerBox = "PowerBox"
 }
 
 // Min and max sail surfaces

@@ -1,4 +1,4 @@
-import puppeteer, {Browser, EvaluateFn} from 'puppeteer'
+import puppeteer, { Browser, EvaluateFn } from "puppeteer";
 
 export class Crawler {
   private browser: Browser;
@@ -26,5 +26,3 @@ export class Crawler {
 
   await crawler.close();
 })();
-
-

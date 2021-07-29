@@ -5,8 +5,9 @@
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "inlineSourceMap": true,
-    "declaration": false,
+    "declaration": true,
     "moduleResolution": "node",
+    "module": "commonjs",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "resolveJsonModule": true,
@@ -33,6 +34,6 @@
     "enableIvy": false
   },
   "exclude": [
-    "node_modules",
+    "node_modules", "dist"
   ]
 }
