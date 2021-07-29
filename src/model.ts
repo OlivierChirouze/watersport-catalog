@@ -62,7 +62,7 @@ export interface GearModel<VariantType> {
 
   // The actual variants of this gear
   // Each variant has a "variant" property, of type VariantType, that defines how this variant is "unique"
-  variants: GearVariant<VariantType>[];
+  variants: GearSpecificVariant<VariantType>[];
 }
 
 // A picture applies to a particular variant of the gear
@@ -76,6 +76,10 @@ export interface Picture<VariantType> {
 export interface GearVariant<VariantType> {
   variant: Partial<VariantType>;
 }
+
+export type GearSpecificVariant<VariantType> =
+  | WindsurfSail<VariantType>
+  | WindsurfBoard<VariantType>;
 
 // ---------------------------------------------- Windsurfing / windfoiling sails
 

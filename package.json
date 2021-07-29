@@ -1,6 +1,6 @@
 {
   "name": "watersport-catalog",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "author": "olivier.chirouze@gmail.com",
   "homepage": "",
   "main": "dist/out-tsc/index.js",
@@ -9,14 +9,17 @@
     "build": "tsc",
     "prepare": "npm run build",
     "lint": "eslint",
-    "format": "prettier --write \"src/**/*.ts\" \"products/*.json\"",
+    "format:source": "prettier --write \"src/**/*.ts\"",
+    "format:products": "prettier --write \"products/*.json\"",
     "prepublishOnly": "npm run lint",
     "preversion": "npm run lint",
-    "version": "npm run format && git add -A src example",
+    "version": "npm run format:source && git add -A src products",
     "postversion": "git push && git push --tags",
-    "scrape:patrik": "ts-node src/brands/patrik.ts",
-    "scrape:gaastra": "ts-node src/brands/gaastra.ts",
-    "scrape:exocet": "ts-node src/brands/exocet.ts"
+    "generate:patrik": "ts-node src/brands/patrik.ts && npm run format:products",
+    "generate:gaastra": "ts-node src/brands/gaastra.ts && npm run format:products",
+    "generate:exocet": "ts-node src/brands/exocet.ts && npm run format:products",
+    "generate:fanatic": "ts-node src/brands/fanatic.ts && npm run format:products",
+    "generate:point-7": "ts-node src/brands/point-7.ts && npm run format:products"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"
@@ -32,7 +35,6 @@
     "jest": "^27.0.6",
     "prettier": "^1.19.1",
     "ts-jest": "^26.4.4",
-    "ts-node": "^7.0.1",
     "typescript": "~4.0"
   },
   "description": "Watersport catalog",

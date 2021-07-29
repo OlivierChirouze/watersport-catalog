@@ -1,18 +1,47 @@
-import {Activity, GearModel, GearType, GearVariant, Picture, Program} from "./model";
+import {
+  Activity,
+  GearModel,
+  GearSpecificVariant,
+  GearType,
+  GearVariant,
+  Picture,
+  Program
+} from "./model";
 import path from "path";
 import fs from "fs";
 
 export interface Parsed<T> {
   dimensions: (keyof T)[];
-  variants: GearVariant<T>[];
-  description: { [language: string]: string };
+  variants: GearSpecificVariant<T>[];
+  description: { [languageScraper: string]: string };
   pictures: Picture<T>[];
 }
 
 const sanitize = (value: string) => value.replace(/ +/, "_");
 
-export abstract class Scraper<T> {
-  constructor(public brandName: string) {}
+export class FileUpdater<T = any> {
+  async createFileFromJson(model: {
+    brandName: string;
+    name: string;
+    years: number[];
+  }) {
+    const fileName = `${sanitize(model.brandName)}_${sanitize(
+      model.name
+    )}_${model.years.join("-")}.json`;
+    const fullPath = path.join(path.dirname(__dirname), "products", fileName);
+
+    console.log(JSON.stringify(model, null, 2));
+
+    await fs.writeFile(fullPath, JSON.stringify(model, null, 2), () => {
+      console.log(`File written: ${fullPath}`);
+    });
+  }
+}
+
+export abstract class Scraper<T> extends FileUpdater<T> {
+  protected constructor(public brandName: string) {
+    super();
+  }
 
   abstract parse(url: string, modelName: string): Promise<Parsed<T>>;
 
@@ -51,7 +80,7 @@ export abstract class Scraper<T> {
     url: string,
     activities: Activity[],
     programs: Program[],
-    variants: GearVariant<T>[],
+    variants: GearSpecificVariant<T>[],
     description: { [p: string]: string },
     pictures: Picture<T>[]
   ) {
@@ -64,19 +93,11 @@ export abstract class Scraper<T> {
       infoUrl: url,
       activities,
       programs,
-      variants: variants,
+      variants,
       description,
       pictures
     };
 
-    const fileName = `${sanitize(this.brandName)}_${sanitize(
-      modelName
-    )}_${years.join("-")}.json`;
-    const fullPath = path.join(path.dirname(__dirname), "products", fileName);
-
-    await fs.writeFile(fullPath, JSON.stringify(model, null, 2), () => {
-      console.log(`File written: ${fullPath}`);
-    });
+    await this.createFileFromJson(model);
   }
 }
-
