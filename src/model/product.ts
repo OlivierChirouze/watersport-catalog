@@ -1,5 +1,6 @@
 // Water sport activity
 import {GearSpecificVariant} from "./variants";
+import {isEqual} from 'lodash';
 
 export enum Activity {
   windsurf = "windsurf",
@@ -72,5 +73,32 @@ export interface Product<VariantType> {
 export interface Picture<VariantType> {
   variant: Partial<VariantType>;
   url: string;
+}
+
+/**
+ * Look for the variant in list that is the closest to the provided variant.
+ * Could be the exact same variant, or one with "more general" variant
+ * @param search
+ * @param listOfVariants
+ */
+export const getClosestVariant = <VariantType>(search: Partial<VariantType>, listOfVariants: { variant: Partial<VariantType> }[]): { variant: Partial<VariantType> } | undefined => {
+  if (search === {}) return undefined
+
+  // Try to find an exact match
+  const find = listOfVariants.find(v => isEqual(v.variant, search));
+
+  if (find) return find
+
+  // Otherwise, try to remove a key from the search and see if a "more general" match exists
+  for (let i = 0; i < Object.keys(search).length; i++){
+    const key = Object.keys(search)[i];
+    const newSearch = {...search};
+    delete newSearch[key];
+
+    const closestVariant = getClosestVariant(newSearch, listOfVariants);
+    if (closestVariant) return closestVariant;
+  }
+
+  return undefined;
 }
 

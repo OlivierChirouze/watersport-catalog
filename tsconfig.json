@@ -3,7 +3,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "baseUrl": "./",
-    "outDir": "./dist/out-tsc",
+    "outDir": "./dist",
     "inlineSourceMap": true,
     "declaration": true,
     "moduleResolution": "node",
