@@ -95,7 +95,7 @@ class GaastraRecent extends Scraper<VariantType> {
   async parse(url: string, modelName: string): Promise<Parsed<VariantType>> {
     const extracted = await this.crawler.crawl(url, this.extract);
 
-    console.debug(JSON.stringify(extracted, null, 2));
+    //console.debug(JSON.stringify(extracted, null, 2));
 
     // Will extract info from "Color: C1" or "Vapor Air SL" or "Size 4.7"
     const getValueFromTitle = (title: string, key: string) => {
@@ -275,9 +275,9 @@ class GaastraOld extends GaastraRecent {
   const old = new GaastraOld(crawler);
 
   await old.createFileFromUrl(
-    "https://ga-windsurfing.com/sails/2017/freeride-17/hybrid/",
+    "https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/",
     "Hybrid",
-    [2017],
+    2017,
     [Activity.windsurf, Activity.windfoil],
     GearType.sail,
     [Program.freeride]
@@ -286,7 +286,7 @@ class GaastraOld extends GaastraRecent {
   await recent.createFileFromUrl(
     "https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/",
     "Manic",
-    [2019],
+    2019,
     [Activity.windsurf, Activity.windfoil],
     GearType.sail,
     [Program.wave]
@@ -294,7 +294,7 @@ class GaastraOld extends GaastraRecent {
   await recent.createFileFromUrl(
     "https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/",
     "Hybrid",
-    [2019],
+    2019,
     [Activity.windsurf, Activity.windfoil],
     GearType.sail,
     [Program.freeride]
@@ -302,7 +302,7 @@ class GaastraOld extends GaastraRecent {
   await recent.createFileFromUrl(
     "https://ga-windsurfing.com/sails/2020/freeride/hybrid-20",
     "Hybrid",
-    [2020],
+    2020,
     [Activity.windsurf, Activity.windfoil],
     GearType.sail,
     [Program.freeride]
@@ -311,7 +311,7 @@ class GaastraOld extends GaastraRecent {
   await recent.createFileFromUrl(
     "https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/",
     "Vapor Air",
-    [2021],
+    2021,
     [Activity.windfoil],
     GearType.sail,
     [Program.slalom]

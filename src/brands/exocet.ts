@@ -75,8 +75,6 @@ class Exocet extends Scraper<VariantType> {
   async parse(url: string, modelName: string): Promise<Parsed<VariantType>> {
     const extracted = await this.crawler.crawl(url, this.extract);
 
-    console.log(extracted);
-
     const description = { en: extracted.description };
 
     const variants = Object.keys(extracted.data).reduce(
@@ -125,7 +123,7 @@ class Exocet extends Scraper<VariantType> {
   await brandCrawler.createFileFromUrl(
     "https://www.exocet-original.com/freefoil-ast-c2x33091951",
     "Freefoil",
-    [2019, 2020, 2021],
+    2019,
     [Activity.windfoil],
     GearType.windsurfBoard,
     [Program.freeride]

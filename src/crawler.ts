@@ -11,7 +11,10 @@ export class Crawler {
   async crawl<T extends EvaluateFn>(url: string, extractor: T) {
     const page = await this.browser.newPage();
 
-    await page.goto(url);
+    const response = await page.goto(url);
+    if (!response.ok()) {
+      throw new Error(`Page not found ${url}`)
+    }
 
     return await page.evaluate(extractor);
   }

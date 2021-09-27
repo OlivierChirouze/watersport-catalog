@@ -21,6 +21,7 @@ const getFinBoxType = (value: string) => {
     case "US 5″":
       return WindsurfFinBoxType.US5;
     case "Deep tuttle":
+    case "Deep Foil Box":
       return WindsurfFinBoxType.DeepTuttleBox;
     case "Slot":
       return WindsurfFinBoxType.SlotBox;
@@ -67,8 +68,8 @@ class Patrik extends Scraper<VariantType> {
     const uniqueConstructions = new Set<string>();
     const uniqueSizes = new Set<number>();
 
-    console.log("Pictures");
-    console.log(JSON.stringify(images, null, 2));
+    //console.debug("Pictures");
+    //console.debug(JSON.stringify(images, null, 2));
 
     const variants = Object.keys(extracted.data).reduce(
       (accumulator: WindsurfBoard<VariantType>[], key: string) => {
@@ -100,8 +101,8 @@ class Patrik extends Scraper<VariantType> {
 
               // 3xUS 8″
               // Deep tuttle
-              const count = stringToNumber(extract(value, /(\d*)x.*/) ?? "1");
-              const type = getFinBoxType(extract(value, /\d*x(.*)/) ?? value);
+              const count = stringToNumber(extract(value, /(\d+)x.*/) ?? "1");
+              const type = getFinBoxType(extract(value, /\d+x(.*)/) ?? value);
 
               accumulator.push({ count, type });
 
@@ -252,7 +253,7 @@ class Patrik extends Scraper<VariantType> {
   await brandCrawler.createFileFromUrl(
     "https://patrik-windsurf.com/qt-wave/",
     "qt-wave",
-    [2019, 2020],
+    2019,
     [Activity.windsurf],
     GearType.windsurfBoard,
     [Program.wave]
@@ -260,7 +261,7 @@ class Patrik extends Scraper<VariantType> {
   await brandCrawler.createFileFromUrl(
     "https://patrik-windsurf.com/qt-wave-2/",
     "qt-wave",
-    [2021],
+    2021,
     [Activity.windsurf],
     GearType.windsurfBoard,
     [Program.wave]
@@ -268,7 +269,7 @@ class Patrik extends Scraper<VariantType> {
   await brandCrawler.createFileFromUrl(
     "https://patrik-windsurf.com/foil-style/",
     "foil-style",
-    [2021],
+    2021,
     [Activity.windfoil],
     GearType.windsurfBoard,
     [Program.freeride]
@@ -276,7 +277,7 @@ class Patrik extends Scraper<VariantType> {
   await brandCrawler.createFileFromUrl(
     "https://patrik-windsurf.com/air-style-2/",
     "air-style",
-    [2021],
+    2021,
     [Activity.windsurf],
     GearType.windsurfBoard,
     [Program.freestyle]

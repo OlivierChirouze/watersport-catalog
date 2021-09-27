@@ -46,8 +46,8 @@ export interface Product<VariantType> {
   brandName: string;
   // A name should be unique for a brand and a year range
   name: string;
-  // A model can last for a few years
-  years: number[];
+  // 1st release year. Can remain a few years at the catalogue
+  year: number;
   infoUrl?: string;
   // Gears can apply to multiple activities (ex: windsurfing and windfoiling)
   activities: Activity[];
