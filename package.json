@@ -6,21 +6,21 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc && cp -r data/products dist/",
+    "build": "tsc && cp -r data dist/",
     "prepare": "npm run build",
     "lint": "eslint",
     "test": "test src/**/*.spec.ts",
     "format:source": "prettier --write \"src/**/*.ts\"",
-    "format:products": "prettier --write \"data/products/*.json\"",
+    "format:data": "prettier --write \"data/**/*.json\"",
     "prepublishOnly": "npm run lint",
     "preversion": "npm run lint",
     "version": "npm run format:source && git add -A src data/products",
     "postversion": "git push && git push --tags",
-    "generate:patrik": "ts-node src/brands/patrik.ts -d && npm run format:products",
-    "generate:gaastra": "ts-node src/brands/gaastra.ts && npm run format:products",
-    "generate:exocet": "ts-node src/brands/exocet.ts && npm run format:products",
-    "generate:fanatic": "ts-node src/brands/fanatic.ts && npm run format:products",
-    "generate:point-7": "ts-node src/brands/point-7.ts && npm run format:products"
+    "generate:patrik": "ts-node src/brands/patrik.ts -d && npm run format:data",
+    "generate:gaastra": "ts-node src/brands/gaastra.ts && npm run format:data",
+    "generate:exocet": "ts-node src/brands/exocet.ts && npm run format:data",
+    "generate:fanatic": "ts-node src/brands/fanatic.ts && npm run format:data",
+    "generate:point-7": "ts-node src/brands/point-7.ts && npm run format:data"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"

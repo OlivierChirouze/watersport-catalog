@@ -1,6 +1,7 @@
 import {Activity, GearSpecificVariant, GearType, Picture, Product, Program} from "./model";
 import path from "path";
 import fs from "fs";
+import {Brand} from "./model/brand";
 
 export interface Parsed<T> {
     dimensions: (keyof T)[];
@@ -11,33 +12,62 @@ export interface Parsed<T> {
 
 const sanitize = (value: string) => value.replace(/ +/, "_");
 
-export class FileUpdater<T = any> {
-    async createFileFromJson(model: {
-        brandName: string;
+export abstract class Scraper<T> {
+    protected constructor(public brandName: string) {
+    }
+
+    async createModelFileFromJson(model: {
         name: string;
         year: number;
     }) {
-        const fileName = `${sanitize(model.brandName)}_${sanitize(
+        const fileName = `${sanitize(this.brandName)}_${sanitize(
             model.name
         )}_${model.year}.json`;
         const fullPath = path.join(path.dirname(__dirname), "data", "products", fileName);
 
+        console.log(`\t${this.brandName} ${model.name} ${model.year}`)
+
         //console.debug(JSON.stringify(model, null, 2));
 
-        await fs.writeFile(fullPath, JSON.stringify(model, null, 2), () => {
-            //console.debug(`File written: ${fullPath}`);
-        });
+        try {
+            await fs.writeFile(fullPath, JSON.stringify(
+                {
+                    ...model,
+                    brandName: this.brandName // Inject brand name
+                }, null, 2), () => {
+                //console.debug(`File written: ${fullPath}`);
+            });
+        } catch (e) {
+            console.error(`Error writing file ${fullPath}`)
+            console.error(e)
+        }
     }
-}
 
-export abstract class Scraper<T> extends FileUpdater<T> {
-    protected constructor(public brandName: string) {
-        super();
+    async createBrandFileFromJson(brand: Brand): Promise<void> {
+        const fileName = `${sanitize(brand.name)}.json`;
+        const fullPath = path.join(path.dirname(__dirname), "data", "brands", fileName);
+
+        try {
+            await fs.writeFile(fullPath, JSON.stringify(brand, null, 2), () => {
+                //console.debug(`File written: ${fullPath}`);
+            });
+        } catch (e) {
+            console.error(`Error writing file ${fullPath}`)
+            console.error(e)
+        }
     }
+
+    protected abstract getBrandInfo(): Promise<Brand>;
 
     abstract parse(url: string, modelName: string): Promise<Parsed<T>>;
 
-    async createFileFromUrl(
+    async createBrandFile(): Promise<void> {
+        console.log(`${this.brandName}`)
+        const brand = await this.getBrandInfo();
+        return this.createBrandFileFromJson(brand);
+    }
+
+    async createModelFileFromUrl(
         url: string,
         modelName: string,
         year: number,
@@ -51,21 +81,21 @@ export abstract class Scraper<T> extends FileUpdater<T> {
                 modelName
             );
 
-            console.log(`${this.brandName} ${modelName} ${year}`)
-
             try {
-                await this.createFile(
+                const model: Product<T> = {
                     dimensions,
+                    brandName: this.brandName,
                     year,
-                    modelName,
+                    name: modelName,
                     type,
-                    url,
+                    infoUrl: url,
                     activities,
                     programs,
                     variants,
                     description,
                     pictures
-                );
+                };
+                await this.createModelFileFromJson(model);
             } catch (e2) {
                 console.error(`Error creating file for ${this.brandName} ${modelName} ${year}:`)
                 console.error(e2)
@@ -74,36 +104,5 @@ export abstract class Scraper<T> extends FileUpdater<T> {
             console.error(`Error parsing ${url}:`)
             console.error(e1)
         }
-
-
-    }
-
-    async createFile(
-        dimensions: (keyof T)[],
-        year: number,
-        modelName: string,
-        type: GearType,
-        url: string,
-        activities: Activity[],
-        programs: Program[],
-        variants: GearSpecificVariant<T>[],
-        description: { [p: string]: string },
-        pictures: Picture<T>[]
-    ) {
-        const model: Product<T> = {
-            dimensions,
-            brandName: this.brandName,
-            year,
-            name: modelName,
-            type,
-            infoUrl: url,
-            activities,
-            programs,
-            variants,
-            description,
-            pictures
-        };
-
-        await this.createFileFromJson(model);
     }
 }
