@@ -20,7 +20,7 @@ export class FileUpdater<T = any> {
     const fileName = `${sanitize(model.brandName)}_${sanitize(
       model.name
     )}_${model.years.join("-")}.json`;
-    const fullPath = path.join(path.dirname(__dirname), "products", fileName);
+    const fullPath = path.join(path.dirname(__dirname), "data", "products", fileName);
 
     console.log(JSON.stringify(model, null, 2));
 
