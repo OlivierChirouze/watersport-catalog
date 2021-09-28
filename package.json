@@ -14,7 +14,7 @@
     "format:data": "prettier --write \"data/**/*.json\"",
     "prepublishOnly": "npm run lint",
     "preversion": "npm run lint",
-    "version": "npm run format:source && git add -A src data/products",
+    "version": "npm run format:source && git add -A src data",
     "postversion": "git push && git push --tags",
     "generate:patrik": "ts-node src/brands/patrik.ts -d && npm run format:data",
     "generate:gaastra": "ts-node src/brands/gaastra.ts && npm run format:data",
