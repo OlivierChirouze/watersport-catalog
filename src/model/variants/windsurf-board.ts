@@ -7,7 +7,8 @@ export type SailRange = {
   toM2: number;
 };
 
-export interface WindsurfBoard<VariantType> extends ProductVariant<VariantType> {
+export interface WindsurfBoard<VariantType>
+    extends ProductVariant<VariantType> {
   // The main info (the only one mandatory!): what is the volume of this board
   volumeL: number;
   // Max length

@@ -1,9 +1,9 @@
 export enum LinkType {
-    instagram = 'instagram',
-    facebook = 'facebook',
-    youtube = 'youtube',
+    instagram = "instagram",
+    facebook = "facebook",
+    youtube = "youtube",
     twitter = "twitter",
-    vimeo = "vimeo",
+    vimeo = "vimeo"
 }
 
 export interface Link {
@@ -13,26 +13,26 @@ export interface Link {
 
 export const guessLinkType = (link: string): LinkType | undefined => {
     // "https://www.youtube.com/channel/UCKF5AYr4WtwStFN1PoqZfEg"
-    if (link.match('youtube.com')) {
+    if (link.match("youtube.com")) {
         return LinkType.youtube;
     }
     // "https://www.instagram.com/patrikwindsurf/"
-    if (link.match('instagram.com')) {
+    if (link.match("instagram.com")) {
         return LinkType.instagram;
     }
     // "https://www.facebook.com/patrikwindsurf/", not "http://strikable.com/facebook-page-plugin-likebox-for-wordpress/"
-    if (link.match('facebook.com')) {
+    if (link.match("facebook.com")) {
         return LinkType.facebook;
     }
     // https://twitter.com/fanaticcom
-    if (link.match('twitter.com')) {
+    if (link.match("twitter.com")) {
         return LinkType.twitter;
     }
     // http://vimeo.com/channels/fanaticinternational
-    if (link.match('vimeo.com')) {
+    if (link.match("vimeo.com")) {
         return LinkType.vimeo;
     }
-}
+};
 
 export interface Brand {
     name: string;

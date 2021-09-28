@@ -1,4 +1,4 @@
-import {Brand, guessLinkType} from '../model/brand';
+import {Brand, guessLinkType} from "../model/brand";
 import {Crawler} from "../crawler";
 import {Activity, GearType, Picture, Program, WindsurfSail, WindsurfSailTopType} from "../model";
 import {Parsed, Scraper} from "../scraper";
@@ -217,34 +217,45 @@ class GaastraRecent extends Scraper<VariantType> {
     const homePageUrl = "https://ga-windsurfing.com";
 
     // TODO get in German
-    const infoUrl = 'https://ga-windsurfing.com/about-gaastra/';
+    const infoUrl = "https://ga-windsurfing.com/about-gaastra/";
 
     const extract1 = await this.crawler.crawl(infoUrl, () => {
+      const logo = (document.querySelector(
+          ".fusion-logo-link > img"
+      ) as HTMLImageElement).src;
 
-      const logo = (document.querySelector(".fusion-logo-link > img") as HTMLImageElement).src;
+      const description = (document.querySelector(
+          ".post-content"
+      ) as HTMLDivElement).innerText;
 
-      const description =
-          (document.querySelector(".post-content") as HTMLDivElement).innerText
-
-      const links = Array.from(document.querySelectorAll("a.fusion-twitter, a.fusion-facebook, a.fusion-instagram, a.fusion-youtube"))
+      const links = Array.from(
+          document.querySelectorAll(
+              "a.fusion-twitter, a.fusion-facebook, a.fusion-instagram, a.fusion-youtube"
+          )
+      )
           .map((a: HTMLAnchorElement) => a.href)
           // Can't use "utils" imports in this "browser" function
-          .filter((value, index, self) => value !== undefined && self.indexOf(value) === index);
+          .filter(
+              (value, index, self) =>
+                  value !== undefined && self.indexOf(value) === index
+          );
 
-      return {logo, description, pictures: [], links}
+      return {logo, description, pictures: [], links};
     });
     const brand: Brand = {
       name: this.brandName,
       logo: extract1.logo,
-      links: extract1.links.map(l => ({
-        url: l,
-        type: guessLinkType(l)
-      })).filter(l => l.type !== undefined),
+      links: extract1.links
+          .map(l => ({
+            url: l,
+            type: guessLinkType(l)
+          }))
+          .filter(l => l.type !== undefined),
       pictures: extract1.pictures,
       description: {en: extract1.description},
       infoUrl,
       homePageUrl
-    }
+    };
 
     return brand;
   }

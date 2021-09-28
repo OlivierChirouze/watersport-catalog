@@ -1,4 +1,4 @@
-import puppeteer, { Browser, EvaluateFn } from "puppeteer";
+import puppeteer, {Browser, EvaluateFn} from "puppeteer";
 
 export class Crawler {
   private browser: Browser;
@@ -13,7 +13,7 @@ export class Crawler {
 
     const response = await page.goto(url);
     if (!response.ok()) {
-      throw new Error(`Page not found ${url}`)
+      throw new Error(`Page not found ${url}`);
     }
 
     return await page.evaluate(extractor);

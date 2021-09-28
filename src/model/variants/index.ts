@@ -7,4 +7,3 @@ export * from "./windsurf-board";
 export type GearSpecificVariant<VariantType> =
   | WindsurfSail<VariantType>
   | WindsurfBoard<VariantType>;
-

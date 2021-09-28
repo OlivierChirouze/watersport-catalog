@@ -1,6 +1,6 @@
 // Water sport activity
 import {GearSpecificVariant} from "./variants";
-import {isEqual} from 'lodash';
+import {isEqual} from "lodash";
 
 export enum Activity {
   windsurf = "windsurf",
@@ -81,24 +81,27 @@ export interface Picture<VariantType> {
  * @param search
  * @param listOfVariants
  */
-export const getClosestVariant = <VariantType, P extends { variant: Partial<VariantType> }>(search: Partial<VariantType>, listOfVariants: P[]): P | undefined => {
-  if (search === {}) return undefined
+export const getClosestVariant = <VariantType,
+    P extends { variant: Partial<VariantType> }>(
+    search: Partial<VariantType>,
+    listOfVariants: P[]
+): P | undefined => {
+    if (search === {}) return undefined;
 
-  // Try to find an exact match
-  const find = listOfVariants.find(v => isEqual(v.variant, search));
+    // Try to find an exact match
+    const find = listOfVariants.find(v => isEqual(v.variant, search));
 
-  if (find) return find
+    if (find) return find;
 
-  // Otherwise, try to remove a key from the search and see if a "more general" match exists
-  for (let i = 0; i < Object.keys(search).length; i++){
-    const key = Object.keys(search)[i];
-    const newSearch = {...search};
-    delete newSearch[key];
+    // Otherwise, try to remove a key from the search and see if a "more general" match exists
+    for (let i = 0; i < Object.keys(search).length; i++) {
+        const key = Object.keys(search)[i];
+        const newSearch = {...search};
+        delete newSearch[key];
 
-    const closestVariant = getClosestVariant(newSearch, listOfVariants);
-    if (closestVariant) return closestVariant;
-  }
+        const closestVariant = getClosestVariant(newSearch, listOfVariants);
+        if (closestVariant) return closestVariant;
+    }
 
-  return undefined;
-}
-
+    return undefined;
+};

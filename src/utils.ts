@@ -4,7 +4,7 @@ export const stringToNumber = (val: string): number => {
   const num = Number(val.replace(",", "."));
   if (num === null) throw `Invalid number: ${val}`;
 
-    return num;
+  return num;
 };
 export const extract = (val: string, regex: RegExp) => {
     const extracted = val.replace(regex, "$1");
