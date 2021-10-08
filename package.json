@@ -16,11 +16,11 @@
     "preversion": "npm run lint",
     "version": "npm run format:source && git add -A src data",
     "postversion": "git push && git push --tags",
-    "generate:patrik": "ts-node src/brands/patrik.ts -d && npm run format:data",
-    "generate:gaastra": "ts-node src/brands/gaastra.ts && npm run format:data",
-    "generate:exocet": "ts-node src/brands/exocet.ts && npm run format:data",
-    "generate:fanatic": "ts-node src/brands/fanatic.ts && npm run format:data",
-    "generate:point-7": "ts-node src/brands/point-7.ts && npm run format:data"
+    "generate:patrik": "ts-node src/brands/patrik.ts",
+    "generate:gaastra": "ts-node src/brands/gaastra.ts",
+    "generate:exocet": "ts-node src/brands/exocet.ts",
+    "generate:fanatic": "ts-node src/brands/fanatic.ts",
+    "generate:point-7": "ts-node src/brands/point-7.ts"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"

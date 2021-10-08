@@ -13,19 +13,27 @@ export interface Parsed<T> {
 const sanitize = (value: string) => value.replace(/ +/, "_");
 
 export abstract class Scraper<T> {
+    private forceRewrite: boolean = false;
+
     protected constructor(public brandName: string) {
+        const param = process.argv[2];
+
+        if (param === 'force') {
+            this.forceRewrite = true;
+            console.log('called with -- force option: will Overwrite files')
+        }
     }
 
     async createModelFileFromJson(model: { name: string; year: number }) {
-        const fileName = `${sanitize(this.brandName)}_${sanitize(model.name)}_${
-            model.year
-        }.json`;
-        const fullPath = path.join(
-            path.dirname(__dirname),
-            "data",
-            "products",
-            fileName
-        );
+        const fullPath = this.getFilePath(model);
+
+        // Note: do the check here (in addition to createModelFileFromUrl) for files created from manual data
+        if (!this.forceRewrite) {
+            if (fs.existsSync(fullPath)) {
+                console.log(`File already exists: ${fullPath}`)
+                return;
+            }
+        }
 
         console.log(`\t${this.brandName} ${model.name} ${model.year}`);
 
@@ -52,14 +60,21 @@ export abstract class Scraper<T> {
         }
     }
 
-    async createBrandFileFromJson(brand: Brand): Promise<void> {
-        const fileName = `${sanitize(brand.name)}.json`;
-        const fullPath = path.join(
+    private getFilePath(model: { name: string; year: number }) {
+        const fileName = `${sanitize(this.brandName)}_${sanitize(model.name)}_${
+            model.year
+        }.json`;
+
+        return path.join(
             path.dirname(__dirname),
             "data",
-            "brands",
+            "products",
             fileName
         );
+    }
+
+    async createBrandFileFromJson(brand: Brand): Promise<void> {
+        const fullPath = this.getBrandFilePath();
 
         try {
             await fs.writeFile(fullPath, JSON.stringify(brand, null, 2), () => {
@@ -71,12 +86,29 @@ export abstract class Scraper<T> {
         }
     }
 
+    private getBrandFilePath() {
+        const fileName = `${sanitize(this.brandName)}.json`;
+        return path.join(
+            path.dirname(__dirname),
+            "data",
+            "brands",
+            fileName
+        );
+    }
+
     protected abstract getBrandInfo(): Promise<Brand>;
 
     abstract parse(url: string, modelName: string): Promise<Parsed<T>>;
 
     async createBrandFile(): Promise<void> {
         console.log(`${this.brandName}`);
+        if (!this.forceRewrite) {
+            const filePath = this.getBrandFilePath();
+            if (fs.existsSync(filePath)) {
+                console.log(`File already exists: ${filePath}`)
+                return;
+            }
+        }
         const brand = await this.getBrandInfo();
         return this.createBrandFileFromJson(brand);
     }
@@ -89,6 +121,14 @@ export abstract class Scraper<T> {
         type: GearType,
         programs: Program[]
     ) {
+        if (!this.forceRewrite) {
+            const filePath = this.getFilePath({name: modelName, year: year});
+            if (fs.existsSync(filePath)) {
+                console.log(`File already exists: ${filePath}`)
+                return;
+            }
+        }
+
         try {
             const {dimensions, variants, description, pictures} = await this.parse(
                 url,

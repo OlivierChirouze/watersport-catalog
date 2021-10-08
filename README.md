@@ -116,6 +116,20 @@ npm install
 - run
   - create a new "generate:xxx" npm script in [package.json](package.json) if needed
   - run it, example:
+
 ```shell
 npm run generate:patrik
 ```
+
+- don't forget to **format created data**
+
+```shell
+npm run format:data
+```
+
+- Note: to **overwrite existing files**, add `-- force` option, for example:
+
+```shell
+npm run generate:patrik -- force
+```
+
