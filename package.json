@@ -20,7 +20,8 @@
     "generate:gaastra": "ts-node src/brands/gaastra.ts",
     "generate:exocet": "ts-node src/brands/exocet.ts",
     "generate:fanatic": "ts-node src/brands/fanatic.ts",
-    "generate:point-7": "ts-node src/brands/point-7.ts"
+    "generate:point-7": "ts-node src/brands/point-7.ts",
+    "generate": "npm run generate:patrik && npm run generate:gaastra && npm run generate:exocet && npm run generate:fanatic && npm run generate:point-7"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"
