@@ -1,5 +1,5 @@
 import {Crawler} from "../crawler";
-import {Parsed, Scraper} from "../scraper";
+import {FileWriter, Parsed} from "../file-writer";
 import {extract, stringToNumber} from "../utils";
 import {Activity, FinConfig, GearType, Picture, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
 import {Brand, guessLinkType} from "../model/brand";
@@ -33,7 +33,7 @@ const getFinBoxType = (value: string) => {
   throw `Fin type not recognized: "${value}"`;
 };
 
-class Patrik extends Scraper<VariantType> {
+class Patrik extends FileWriter<VariantType> {
   constructor(protected crawler: Crawler) {
     super("Patrik");
   }
@@ -246,7 +246,7 @@ class Patrik extends Scraper<VariantType> {
     return {data, pictures, description};
   }
 
-  protected async getBrandInfo(): Promise<Brand> {
+  async getBrandInfo(): Promise<Brand> {
     const homePageUrl = "https://patrik-windsurf.com/";
 
     const infoUrl = "https://patrik-windsurf.com/philosophy/";
@@ -300,13 +300,53 @@ class Patrik extends Scraper<VariantType> {
 
     return brand;
   }
+
+
+  async createModelFileFromUrl(
+      url: string,
+      modelName: string,
+      year: number,
+      activities: Activity[],
+      type: GearType,
+      programs: Program[]
+  ) {
+
+    await this.writeProductFile(modelName, year, this.getProductDescription(url, modelName, year, type, activities, programs));
+  }
+
+  getProductDescription(url: string, modelName: string, year: number, type: GearType, activities: Activity[], programs: Program[]) {
+    return async () => {
+      try {
+        const {dimensions, variants, description, pictures} = await this.parse(
+            url,
+            modelName
+        );
+        return {
+          dimensions,
+          brandName: this.brandName,
+          year,
+          name: modelName,
+          type,
+          infoUrl: url,
+          activities,
+          programs,
+          variants,
+          description,
+          pictures
+        };
+      } catch (e1) {
+        console.error(`Error parsing ${url}:`);
+        console.error(e1);
+      }
+    };
+  }
 }
 
 (async () => {
   const crawler = await new Crawler().init();
   const brandCrawler = new Patrik(crawler);
 
-  await brandCrawler.createBrandFile();
+  await brandCrawler.writeBrandFile(brandCrawler.getBrandInfo.bind(brandCrawler));
 
   await brandCrawler.createModelFileFromUrl(
       "https://patrik-windsurf.com/qt-wave/",

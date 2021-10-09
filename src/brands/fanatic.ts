@@ -1,19 +1,19 @@
-import {Parsed, Scraper} from "../scraper";
+import {FileWriter} from "../file-writer";
 import {Brand, guessLinkType} from "../model/brand";
 import {Crawler} from "../crawler";
-import skate2011 from "./handmade-definitions/Fanatic_Skate_2011.json";
+import skate2011 from "./import/Fanatic_Skate_2011.json";
 
 interface VariantType {
   size: number;
   construction: string;
 }
 
-class Fanatic extends Scraper<VariantType> {
+class Fanatic extends FileWriter<VariantType> {
   constructor(protected crawler: Crawler) {
     super("Fanatic");
   }
 
-  protected async getBrandInfo(): Promise<Brand> {
+  async getBrandInfo(): Promise<Brand> {
     const homePageUrl = "https://www.fanatic.com";
 
     // TODO french and german versions
@@ -72,8 +72,11 @@ class Fanatic extends Scraper<VariantType> {
     };
   }
 
-  async parse(url: string, modelName: string): Promise<Parsed<VariantType>> {
-    return Promise.resolve(undefined);
+  async writeProductFromHandmadeFile(product: any) {
+    return this.writeProductFile(product.name, product.year, () => Promise.resolve({
+      ...product,
+      brandName: this.brandName
+    }))
   }
 }
 
@@ -81,10 +84,10 @@ class Fanatic extends Scraper<VariantType> {
   const crawler = await new Crawler().init();
   const brandCrawler = new Fanatic(crawler);
 
-  await brandCrawler.createBrandFile();
+  await brandCrawler.writeBrandFile(brandCrawler.getBrandInfo.bind(brandCrawler));
 
   // Manually add the Skate 2011
-  await brandCrawler.createModelFileFromJson(skate2011);
+  await brandCrawler.writeProductFromHandmadeFile(skate2011);
 
   await crawler.close();
 })();

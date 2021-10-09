@@ -1,0 +1,75 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2020,
+  "name": "Pure",
+  "type": "sail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2020/wave-cross/pure-20/",
+  "activities": ["windsurf", "windfoil"],
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "mastExtensionLengthsCm": [10],
+      "luffLengthCm": 380,
+      "boomLengthCm": 148,
+      "battenCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "mastExtensionLengthsCm": [24],
+      "luffLengthCm": 393,
+      "boomLengthCm": 152,
+      "battenCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "mastExtensionLengthsCm": [12],
+      "luffLengthCm": 412,
+      "boomLengthCm": 158,
+      "battenCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "mastExtensionLengthsCm": [24],
+      "luffLengthCm": 425,
+      "boomLengthCm": 168,
+      "battenCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {
+    "en": "Pure power, pure performance, pure pop – the 2020 Pure is dedicated to the creative minds of freestyle windsurfing. The Pure’s highly succesful design was updated with new batten specs and an improved panel layout to achieve a freestyle sail with even more pop, early planing and ultimate neutrality to rotate through radical moves. Enjoy the dedicated freestyle performance of the Pure and make use of the immense power and control to fly through any move on your mind."
+  },
+  "pictures": [
+    {
+      "variant": {
+        "color": "C2"
+      },
+      "url": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/08/2020gw-PURE-48-C2-WEB-1.png"
+    }
+  ]
+}

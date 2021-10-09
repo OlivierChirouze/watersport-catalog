@@ -1,6 +1,6 @@
 import {Crawler} from "../crawler";
 import {Activity, GearType, Program, WindsurfBoard, WindsurfFinBoxType} from "../model";
-import {Parsed, Scraper} from "../scraper";
+import {FileWriter, Parsed} from "../file-writer";
 import {extract, stringToNumber} from "../utils";
 import {Brand, guessLinkType} from "../model/brand";
 
@@ -23,7 +23,7 @@ interface VariantType {
   size: string;
 }
 
-class Exocet extends Scraper<VariantType> {
+class Exocet extends FileWriter<VariantType> {
   constructor(protected crawler: Crawler) {
     super("Exocet");
   }
@@ -114,7 +114,7 @@ class Exocet extends Scraper<VariantType> {
     };
   }
 
-  protected async getBrandInfo(): Promise<Brand> {
+  async getBrandInfo(): Promise<Brand> {
     const homePageUrl = "https://www.exocet-original.fr/";
 
     // TODO french version
@@ -166,13 +166,53 @@ class Exocet extends Scraper<VariantType> {
 
     return brand;
   }
+
+
+  async createModelFileFromUrl(
+      url: string,
+      modelName: string,
+      year: number,
+      activities: Activity[],
+      type: GearType,
+      programs: Program[]
+  ) {
+
+    await this.writeProductFile(modelName, year, this.getProductDescription(url, modelName, year, type, activities, programs));
+  }
+
+  getProductDescription(url: string, modelName: string, year: number, type: GearType, activities: Activity[], programs: Program[]) {
+    return async () => {
+      try {
+        const {dimensions, variants, description, pictures} = await this.parse(
+            url,
+            modelName
+        );
+        return {
+          dimensions,
+          brandName: this.brandName,
+          year,
+          name: modelName,
+          type,
+          infoUrl: url,
+          activities,
+          programs,
+          variants,
+          description,
+          pictures
+        };
+      } catch (e1) {
+        console.error(`Error parsing ${url}:`);
+        console.error(e1);
+      }
+    };
+  }
 }
 
 (async () => {
   const crawler = await new Crawler().init();
   const brandCrawler = new Exocet(crawler);
 
-  await brandCrawler.createBrandFile();
+  await brandCrawler.writeBrandFile(brandCrawler.getBrandInfo.bind(brandCrawler));
 
   // TODO load french description from https://www.exocet-original.fr/freefoil-ast-c2x29552596
   // TODO support 2 urls for the "same" board: Freefoil AST and Freefoil Carbone

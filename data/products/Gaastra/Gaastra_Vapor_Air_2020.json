@@ -1,0 +1,79 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2020,
+  "name": "Vapor Air",
+  "type": "sail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2020/foil/vapor-air-20/",
+  "activities": ["windfoil"],
+  "programs": ["slalom", "freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "mastLengthsCm": [460, 430],
+      "mastIMCS": [25, 21],
+      "mastExtensionLengthsCm": [14, 44],
+      "luffLengthCm": 472,
+      "boomLengthCm": 197,
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "mastExtensionLengthsCm": [24],
+      "luffLengthCm": 512,
+      "boomLengthCm": 208,
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "mastExtensionLengthsCm": [28],
+      "luffLengthCm": 547,
+      "boomLengthCm": 216,
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "mastLengthsCm": [550],
+      "mastIMCS": [37],
+      "mastExtensionLengthsCm": [36],
+      "luffLengthCm": 584,
+      "boomLengthCm": 231,
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {
+    "en": "The sail that won the 2019 PWA World Tour Foiling will once again push the limits of foil racing in 2020. While the Vapor Air’s aspect remains extremely high to maximize aerodynamic efficiency, we updated the smaller sizes with a slightly different outline and a dropped clew Cross Batten in order to further reduce the boom length and increase manoeuvrability. Each size is particularly designed for a certain purpose, which allows you to have the right sail for both upwind and slalom foil races, but all sizes come with exceptional performance in light winds and a light feeling to make you fly over the line in first place."
+  },
+  "pictures": [
+    {
+      "variant": {
+        "color": "C1"
+      },
+      "url": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/12/2020gw-VAPOR-AIR-68-LR-WEB.png"
+    }
+  ]
+}

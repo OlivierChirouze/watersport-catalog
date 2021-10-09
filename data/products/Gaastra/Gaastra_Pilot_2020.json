@@ -1,0 +1,94 @@
+{
+  "dimensions": ["color", "size"],
+  "brandName": "Gaastra",
+  "year": 2020,
+  "name": "Pilot",
+  "type": "sail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2020/freeride/pilot-20/",
+  "activities": ["windsurf", "windfoil"],
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "mastExtensionLengthsCm": [7.5],
+      "luffLengthCm": 407,
+      "boomLengthCm": 153,
+      "battenCount": 4,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "mastExtensionLengthsCm": [22.5],
+      "luffLengthCm": 422,
+      "boomLengthCm": 166,
+      "battenCount": 4,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "mastExtensionLengthsCm": [7.5],
+      "luffLengthCm": 435,
+      "boomLengthCm": 180,
+      "battenCount": 5,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "mastExtensionLengthsCm": [25],
+      "luffLengthCm": 453,
+      "boomLengthCm": 189,
+      "battenCount": 5,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "mastExtensionLengthsCm": [10],
+      "luffLengthCm": 468,
+      "boomLengthCm": 199,
+      "battenCount": 5,
+      "topType": "fixed"
+    }
+  ],
+  "description": {
+    "en": "The Pilot is designed for sailors, who look for top performance and high quality at a maximum value. Everybody, who enjoys a smooth freeride session or is making his first steps into the foot straps will love the Pilot. The relaxed luff curve improves compatibility with nearly any mast brand, making the Pilot an economical sail for families. Super smooth batten rotation, progressive pull and the backhanded profile offer enough power to move and manoeuvre even heavier older boards."
+  },
+  "pictures": [
+    {
+      "variant": {
+        "color": "C3"
+      },
+      "url": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-PILOT-56-C3-WEB.png"
+    },
+    {
+      "variant": {
+        "color": "C4"
+      },
+      "url": "https://ga-windsurfing.com/wp-content/uploads/sites/3/2019/10/2020gw-PILOT-GRAPHIC-C4-WEB.png"
+    }
+  ]
+}
