@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc && cp -r data dist/",
+    "build": "tsc && rm -rf dist/data && cp -r data dist/",
     "prepare": "npm run build",
     "lint": "eslint",
     "test": "test src/**/*.spec.ts",
