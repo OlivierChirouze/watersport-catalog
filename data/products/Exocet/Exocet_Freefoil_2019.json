@@ -3,9 +3,9 @@
   "brandName": "Exocet",
   "year": 2019,
   "name": "Freefoil",
-  "type": "windsurfBoard",
+  "type": "board",
+  "subType": "windsurfBoard",
   "infoUrl": "https://www.exocet-original.com/freefoil-ast-c2x33091951",
-  "activities": ["windfoil"],
   "programs": ["freeride"],
   "variants": [
     {
@@ -24,7 +24,8 @@
       "sailRange": {
         "fromM2": 4,
         "toM2": 7
-      }
+      },
+      "compatibleFinFamilies": ["foil"]
     },
     {
       "variant": {
@@ -41,7 +42,8 @@
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 8
-      }
+      },
+      "compatibleFinFamilies": ["foil"]
     }
   ],
   "description": {

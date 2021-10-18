@@ -1,6 +1,6 @@
 {
   "name": "watersport-catalog",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "author": "olivier.chirouze@gmail.com",
   "homepage": "",
   "main": "dist/index.js",
@@ -16,10 +16,10 @@
     "preversion": "npm run lint",
     "version": "npm run format:source && git add -A src data",
     "postversion": "git push && git push --tags",
-    "generate:patrik": "ts-node src/brands/patrik.ts",
-    "generate:gaastra": "ts-node src/brands/gaastra.ts",
     "generate:exocet": "ts-node src/brands/exocet.ts",
     "generate:fanatic": "ts-node src/brands/fanatic.ts",
+    "generate:gaastra": "ts-node src/brands/gaastra.ts",
+    "generate:patrik": "ts-node src/brands/patrik.ts",
     "generate:point-7": "ts-node src/brands/point-7.ts",
     "generate": "npm run generate:patrik && npm run generate:gaastra && npm run generate:exocet && npm run generate:fanatic && npm run generate:point-7"
   },

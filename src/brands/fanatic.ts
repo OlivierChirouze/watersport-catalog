@@ -73,10 +73,12 @@ class Fanatic extends FileWriter<VariantType> {
   }
 
   async writeProductFromHandmadeFile(product: any) {
-    return this.writeProductFile(product.name, product.year, () => Promise.resolve({
-      ...product,
-      brandName: this.brandName
-    }))
+    return this.writeProductFile(product.name, product.year, () =>
+        Promise.resolve({
+          ...product,
+          brandName: this.brandName
+        })
+    );
   }
 }
 
@@ -84,7 +86,9 @@ class Fanatic extends FileWriter<VariantType> {
   const crawler = await new Crawler().init();
   const brandCrawler = new Fanatic(crawler);
 
-  await brandCrawler.writeBrandFile(brandCrawler.getBrandInfo.bind(brandCrawler));
+  await brandCrawler.writeBrandFile(
+      brandCrawler.getBrandInfo.bind(brandCrawler)
+  );
 
   // Manually add the Skate 2011
   await brandCrawler.writeProductFromHandmadeFile(skate2011);

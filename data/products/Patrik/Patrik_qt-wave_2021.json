@@ -3,15 +3,16 @@
   "brandName": "Patrik",
   "year": 2021,
   "name": "qt-wave",
-  "type": "windsurfBoard",
+  "type": "board",
+  "subType": "windsurfBoard",
   "infoUrl": "https://patrik-windsurf.com/qt-wave-2/",
-  "activities": ["windsurf"],
   "programs": ["wave"],
   "variants": [
     {
       "variant": {
         "size": 68
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 224,
       "widthCm": 52.5,
       "volumeL": 68,
@@ -36,6 +37,7 @@
       "variant": {
         "size": 73
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 225,
       "widthCm": 54,
       "volumeL": 73,
@@ -60,6 +62,7 @@
       "variant": {
         "size": 78
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 226,
       "widthCm": 55.5,
       "volumeL": 78,
@@ -84,6 +87,7 @@
       "variant": {
         "size": 83
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 227,
       "widthCm": 57,
       "volumeL": 83,
@@ -108,6 +112,7 @@
       "variant": {
         "size": 88
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 228,
       "widthCm": 58.5,
       "volumeL": 88,
@@ -132,6 +137,7 @@
       "variant": {
         "size": 93
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 229,
       "widthCm": 60,
       "volumeL": 93,
@@ -156,6 +162,7 @@
       "variant": {
         "size": 103
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 230,
       "widthCm": 63,
       "volumeL": 103,
@@ -180,6 +187,7 @@
       "variant": {
         "size": 113
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 231,
       "widthCm": 66,
       "volumeL": 113,

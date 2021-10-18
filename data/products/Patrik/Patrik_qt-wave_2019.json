@@ -3,9 +3,9 @@
   "brandName": "Patrik",
   "year": 2019,
   "name": "qt-wave",
-  "type": "windsurfBoard",
+  "type": "board",
+  "subType": "windsurfBoard",
   "infoUrl": "https://patrik-windsurf.com/qt-wave/",
-  "activities": ["windsurf"],
   "programs": ["wave"],
   "variants": [
     {
@@ -13,6 +13,7 @@
         "construction": "GBM",
         "size": 68
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 224,
       "widthCm": 52.5,
       "volumeL": 68,
@@ -38,6 +39,7 @@
         "construction": "GET",
         "size": 68
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 224,
       "widthCm": 52.5,
       "volumeL": 68,
@@ -63,6 +65,7 @@
         "construction": "GBM",
         "size": 73
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 225,
       "widthCm": 54,
       "volumeL": 73,
@@ -88,6 +91,7 @@
         "construction": "GET",
         "size": 73
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 225,
       "widthCm": 54,
       "volumeL": 73,
@@ -113,6 +117,7 @@
         "construction": "GBM",
         "size": 78
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 226,
       "widthCm": 55.5,
       "volumeL": 78,
@@ -138,6 +143,7 @@
         "construction": "GET",
         "size": 78
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 226,
       "widthCm": 55.5,
       "volumeL": 78,
@@ -163,6 +169,7 @@
         "construction": "GBM",
         "size": 83
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 227,
       "widthCm": 57,
       "volumeL": 83,
@@ -188,6 +195,7 @@
         "construction": "GET",
         "size": 83
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 227,
       "widthCm": 57,
       "volumeL": 83,
@@ -213,6 +221,7 @@
         "construction": "GBM",
         "size": 88
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 228,
       "widthCm": 58.5,
       "volumeL": 88,
@@ -238,6 +247,7 @@
         "construction": "GET",
         "size": 88
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 228,
       "widthCm": 58.5,
       "volumeL": 88,
@@ -263,6 +273,7 @@
         "construction": "GBM",
         "size": 93
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 229,
       "widthCm": 60,
       "volumeL": 93,
@@ -288,6 +299,7 @@
         "construction": "GET",
         "size": 93
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 229,
       "widthCm": 60,
       "volumeL": 93,
@@ -313,6 +325,7 @@
         "construction": "GBM",
         "size": 103
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 230,
       "widthCm": 63,
       "volumeL": 103,
@@ -338,6 +351,7 @@
         "construction": "GET",
         "size": 103
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 230,
       "widthCm": 63,
       "volumeL": 103,
@@ -363,6 +377,7 @@
         "construction": "GBM",
         "size": 113
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 231,
       "widthCm": 66,
       "volumeL": 113,
@@ -388,6 +403,7 @@
         "construction": "GET",
         "size": 113
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 231,
       "widthCm": 66,
       "volumeL": 113,

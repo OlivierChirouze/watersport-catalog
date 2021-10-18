@@ -2,16 +2,6 @@
 import {GearSpecificVariant} from "./variants";
 import {isEqual} from "lodash";
 
-export enum Activity {
-  windsurf = "windsurf",
-  kitesurf = "kitesurf",
-  windfoil = "windfoil",
-  kitefoil = "kitefoil",
-  surf = "surf",
-  sup = "sup",
-  wingsurf = "wingsurf"
-}
-
 // "type" of activity
 export enum Program {
   beginner = "beginner",
@@ -23,15 +13,28 @@ export enum Program {
   race = "race"
 }
 
-// Big categories of gear, regardless of the activity
-// example: a "windsurf board" (GearType) can in fact be used for windfoiling (Activity)
-export enum GearType {
-  windsurfBoard = "windsurfBoard",
-  sail = "sail"
-  // surfBoard = 'surfBoard',
-  // kite = "kite"
-  // ... to be continued!
+export enum ProductType {
+  board = "board",
+  propulsion = "propulsion"
 }
+
+export type ProductSubType = BoardType | PropulsionType;
+
+// A product can be either a propulsion or a board
+export enum PropulsionType {
+  windsurfSail = "windsurfSail",
+  kite = "kite",
+  wing = "wing"
+}
+
+export enum BoardType {
+  windsurfBoard = "windsurfBoard",
+  surfBoard = "surfBoard",
+  kiteBoard = "kiteBoard",
+  paddleBoard = "paddleBoard",
+  wingsurfBoard = "wingsurfBoard"
+}
+
 
 // This is the actual product a brand is selling
 // The VariantType should be a simple type with a few properties. It's the type that makes
@@ -42,15 +45,14 @@ export enum GearType {
 //   construction: string;
 // }
 export interface Product<VariantType> {
-  type: GearType;
+  type: ProductType;
+  subType: ProductSubType;
   brandName: string;
-  // A name should be unique for a brand and a year range
+  // A name should be unique for a brand and a year
   name: string;
   // 1st release year. Can remain a few years at the catalogue
   year: number;
   infoUrl?: string;
-  // Gears can apply to multiple activities (ex: windsurfing and windfoiling)
-  activities: Activity[];
   // Main programs the gear is targeting
   programs: Program[];
   // Description is per language
@@ -86,22 +88,22 @@ export const getClosestVariant = <VariantType,
     search: Partial<VariantType>,
     listOfVariants: P[]
 ): P | undefined => {
-    if (search === {}) return undefined;
+  if (search === {}) return undefined;
 
-    // Try to find an exact match
-    const find = listOfVariants.find(v => isEqual(v.variant, search));
+  // Try to find an exact match
+  const find = listOfVariants.find(v => isEqual(v.variant, search));
 
-    if (find) return find;
+  if (find) return find;
 
-    // Otherwise, try to remove a key from the search and see if a "more general" match exists
-    for (let i = 0; i < Object.keys(search).length; i++) {
-        const key = Object.keys(search)[i];
-        const newSearch = {...search};
-        delete newSearch[key];
+  // Otherwise, try to remove a key from the search and see if a "more general" match exists
+  for (let i = 0; i < Object.keys(search).length; i++) {
+    const key = Object.keys(search)[i];
+    const newSearch = {...search};
+    delete newSearch[key];
 
-        const closestVariant = getClosestVariant(newSearch, listOfVariants);
-        if (closestVariant) return closestVariant;
-    }
+    const closestVariant = getClosestVariant(newSearch, listOfVariants);
+    if (closestVariant) return closestVariant;
+  }
 
-    return undefined;
+  return undefined;
 };

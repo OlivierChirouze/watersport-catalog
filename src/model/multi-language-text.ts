@@ -25,6 +25,6 @@ export const getBestLanguage = (
     // Otherwise, try "default" language == English
     if (languages.includes("en")) return "en";
 
-  // Last chance, return first language
-  return languages[0];
+    // Last chance, return first language
+    return languages[0];
 };

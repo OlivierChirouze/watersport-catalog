@@ -3,15 +3,16 @@
   "brandName": "Patrik",
   "year": 2021,
   "name": "air-style",
-  "type": "windsurfBoard",
+  "type": "board",
+  "subType": "windsurfBoard",
   "infoUrl": "https://patrik-windsurf.com/air-style-2/",
-  "activities": ["windsurf"],
   "programs": ["freestyle"],
   "variants": [
     {
       "variant": {
         "size": 93
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 211.5,
       "widthCm": 61.5,
       "volumeL": 93,
@@ -32,6 +33,7 @@
       "variant": {
         "size": 99
       },
+      "compatibleFinFamilies": ["fins"],
       "lengthCm": 212,
       "widthCm": 64.5,
       "volumeL": 99,

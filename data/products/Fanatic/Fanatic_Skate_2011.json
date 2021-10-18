@@ -1,9 +1,10 @@
 {
-  "type": "windsurfBoard",
-  "activities": ["windsurf"],
+  "type": "board",
+  "subType": "windsurfBoard",
   "programs": ["freestyle"],
   "name": "Skate",
   "year": 2011,
+  "brandName": "Fanatic",
   "dimensions": ["size", "construction"],
   "variants": [
     {
@@ -11,6 +12,7 @@
         "construction": "",
         "size": 100
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 100,
       "lengthCm": 235,
       "widthCm": 63.5,
@@ -31,6 +33,7 @@
         "construction": "",
         "size": 110
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 110,
       "lengthCm": 237,
       "widthCm": 66.5,
@@ -51,6 +54,7 @@
         "construction": "TE",
         "size": 90
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 90,
       "lengthCm": 232,
       "widthCm": 60,
@@ -71,6 +75,7 @@
         "construction": "TE",
         "size": 100
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 100,
       "lengthCm": 235,
       "widthCm": 63.5,
@@ -91,6 +96,7 @@
         "construction": "TE",
         "size": 110
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 110,
       "lengthCm": 237,
       "widthCm": 66.5,
@@ -110,6 +116,5 @@
   "description": {
     "en": "Freestyle gets more twisted by the day. Thanks to Gollito´s, Marcilio´s and Andre Paskowski’s input, the Skate line’s formed a new dimension born of generations of global test winners. A big part of the Skates cutting edge success is its total ease of use. For freestyle newbies and champions alike it’s fast-planing and simple to ride.\n\nAll three shapes - 90, 100, and 110 litre sizes - are available in high-end team Edition, boasting super-light performance thanks to Carbon/Kevlar deck and stiff Carbon bottom lay ups. Crazy airbrush effects, polished bases and rails give the world’s trickest board the pimpest look on the scene.\nThe 100 and 110 also come in the proven Biax Glass construction with light finish for the best value of weight and durability.\n\nKey Features:\n- Round nose and fuller outline\n- Thin rails between the feet for improved carving freestyle manoeuvres\n- Full and soft rails in the nose for catch-free sliding\n"
   },
-  "pictures": [],
-  "brandName": "Fanatic"
+  "pictures": []
 }

@@ -9,6 +9,7 @@ export type SailRange = {
 
 export interface WindsurfBoard<VariantType>
     extends ProductVariant<VariantType> {
+  compatibleFinFamilies: FinFamily[];
   // The main info (the only one mandatory!): what is the volume of this board
   volumeL: number;
   // Max length
@@ -23,6 +24,12 @@ export interface WindsurfBoard<VariantType>
   fins?: FinConfig[];
   // Compatible sails: min and max surface
   sailRange?: SailRange;
+}
+
+export enum FinFamily {
+  twintip = 'twintip',
+  foil = 'foil',
+  fins = 'fins'
 }
 
 // Number and box types of fin boxes
