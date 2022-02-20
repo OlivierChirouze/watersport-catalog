@@ -11,7 +11,7 @@ import {
   WindsurfSailTopType
 } from "../model";
 import {FileWriter, Parsed} from "../file-writer";
-import {extract, stringToNumber} from "../utils";
+import {extract, stringToNumber, stringToNumberArray} from "../utils";
 
 interface Img {
   title: string;
@@ -28,12 +28,6 @@ interface VariantType {
   construction: string;
   color: string;
 }
-
-const stringToNumberArray = (val: string): number[] => {
-  if (val === undefined) return undefined;
-
-  return val.split(/[-\/]+/).map(i => stringToNumber(i));
-};
 
 const getTopType = (val: string) => {
   switch (val) {
@@ -185,7 +179,7 @@ class GaastraRecent extends FileWriter<VariantType> {
             mastIMCS: stringToNumberArray(current.specs["IMCS"]),
             mastExtensionLengthsCm: stringToNumberArray(current.specs["BASE"]),
             luffLengthCm: stringToNumber(current.specs["LUFF"]),
-            boomLengthCm: stringToNumber(current.specs["BOOM"]),
+            boomLengthsCm: [stringToNumber(current.specs["BOOM"])],
             battenCount: stringToNumber(current.specs["BATTEN"]),
             weightKg: stringToNumber(current.specs["WEIGHT (KG)"]),
             camCount: stringToNumber(current.specs["CAMS"]),

@@ -6,6 +6,11 @@ export enum WindsurfSailTopType {
   vario = "vario"
 }
 
+export enum MastType {
+  RMD = "RMD",
+  SDM = "SDM"
+}
+
 export interface WindsurfSail<VariantType> extends ProductVariant<VariantType> {
   // The main info (the only one mandatory!): what is the surface of this sail
   surfaceM2: number;
@@ -14,7 +19,9 @@ export interface WindsurfSail<VariantType> extends ProductVariant<VariantType> {
   // Luff length
   luffLengthCm?: number;
   // Boom length
-  boomLengthCm?: number;
+  boomLengthsCm?: number[];
+  // Type of mast (RDM or SDM)
+  masTypes?: MastType[];
   // The list of mast lengths that would be compatible with this sail
   mastLengthsCm?: number[];
   // The list of mast extension lengths that would be compatible with this sail
