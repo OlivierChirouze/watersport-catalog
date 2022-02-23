@@ -15,9 +15,7 @@ export class FileWriter<T> {
   private forceRewrite: boolean = false;
 
   constructor(public brandName: string) {
-    const param = process.argv[2];
-
-    if (param === "force") {
+    if (process.argv[2] === "force" || process.argv[3] === "force") {
       this.forceRewrite = true;
       console.log("called with -- force option: will Overwrite files");
     }
