@@ -9,11 +9,33 @@ export const stringToNumber = (val: string): number => {
 
 export const split = (val: string) => val.split(/[-\/]+/).map(s => s.trim());
 
+/**
+ * Map a string value to a list of integers,
+ * considering all values in the split are already numbers
+ * @param val
+ */
 export const stringToNumberArray = (val: string): number[] => {
     if (val === undefined) return undefined;
 
-    return split(val).map(i => stringToNumber(i));
+    return split(val)
+        .map(i => stringToNumber(i))
+        .filter(onlyUnique)
 };
+
+/**
+ * Map a string value to a list of integers,
+ * filtering out all values in the split that are not proper numbers
+ * @param val
+ */
+export const stringToNumberArrayFiltered = (val: string): number[] => {
+    if (val === undefined) return undefined;
+
+    return split(val)
+        .map(s => s.replace(/[^0-9]*/g, ''))
+        .filter(n => n !== '')
+        .map(stringToNumber)
+        .filter(onlyUnique)
+}
 
 export const extract = (val: string, regex: RegExp) => {
     const extracted = val.replace(regex, "$1");
