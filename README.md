@@ -96,40 +96,5 @@ npm install watersport-catalog
 
 ### Contribute
 
-To contribute to this wonderful "wikipedia of water sport products":
-
-- clone the project
-```shell
-git clone git@github.com:OlivierChirouze/watersport-catalog.git
-```
-
-- install
-```shell
-cd watersport-catalog
-npm install
-```
-
-- in [src](./src)
-  - create a new scrapper for brand or update an existing one
-  - the "scrapper" can either read from a brand's website, or use handmade files
-
-- run
-  - create a new "generate:xxx" npm script in [package.json](package.json) if needed
-  - run it, example:
-
-```shell
-npm run generate:patrik
-```
-
-- don't forget to **format created data**
-
-```shell
-npm run format:data
-```
-
-- Note: to **overwrite existing files**, add `-- force` option, for example:
-
-```shell
-npm run generate:patrik -- force
-```
+See [CONTRIBUTE.md](CONTRIBUTE.md)
 
