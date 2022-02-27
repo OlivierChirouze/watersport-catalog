@@ -10,7 +10,8 @@ export enum Program {
   freeride = "freeride",
   freestyle = "freestyle",
   slalom = "slalom",
-  race = "race"
+  race = "race",
+  foiling = "foiling"
 }
 
 export enum ProductType {
