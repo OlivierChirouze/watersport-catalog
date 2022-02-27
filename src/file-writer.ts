@@ -13,12 +13,32 @@ const sanitize = (value: string) => value.replace(/ +/, "_");
 
 export class FileWriter<T> {
   private forceRewrite: boolean = false;
+  private dir: string;
 
   constructor(public brandName: string) {
+    this.dir = path.join(
+        path.dirname(__dirname),
+        "data",
+        "products",
+        sanitize(this.brandName)
+    );
+
     if (process.argv[2] === "force" || process.argv[3] === "force") {
       this.forceRewrite = true;
       console.log("called with -- force option: will Overwrite files");
     }
+  }
+
+  needToWriteFile(modelName: string,
+                  modelYear: number): boolean {
+    const fullPath = this.getFullPath(modelName, modelYear);
+    if (!this.forceRewrite) {
+      if (fs.existsSync(fullPath)) {
+        console.log(`File already exists: ${fullPath}`);
+        return false;
+      }
+    }
+    return true;
   }
 
   async writeProductFile(
@@ -26,29 +46,16 @@ export class FileWriter<T> {
       modelYear: number,
       getProductDescription: () => Promise<Product<T>>
   ) {
-    const sanitizedBrandName = sanitize(this.brandName);
-    const dir = path.join(
-        path.dirname(__dirname),
-        "data",
-        "products",
-        sanitizedBrandName
-    );
 
-    if (!fs.existsSync(dir)) {
-      fs.mkdirSync(dir, {recursive: true});
+    if (!fs.existsSync(this.dir)) {
+      fs.mkdirSync(this.dir, {recursive: true});
     }
 
-    const fullPath = path.join(
-        dir,
-        `${sanitizedBrandName}_${sanitize(modelName)}_${modelYear}.json`
-    );
+    const fullPath = this.getFullPath(modelName, modelYear);
 
     // Note: do the check here (in addition to createModelFileFromUrl) for files created from manual data
-    if (!this.forceRewrite) {
-      if (fs.existsSync(fullPath)) {
-        console.log(`File already exists: ${fullPath}`);
-        return;
-      }
+    if (!this.needToWriteFile(modelName, modelYear)) {
+      return;
     }
 
     console.log(`\t${this.brandName} ${modelName} ${modelYear}`);
@@ -72,6 +79,13 @@ export class FileWriter<T> {
       console.error(`Error writing file ${fullPath}`);
       console.error(e);
     }
+  }
+
+  private getFullPath(modelName: string, modelYear: number) {
+    return path.join(
+        this.dir,
+        `${sanitize(this.brandName)}_${sanitize(modelName)}_${modelYear}.json`
+    );
   }
 
   async writeBrandFile(getBrand: () => Promise<Brand>): Promise<void> {
