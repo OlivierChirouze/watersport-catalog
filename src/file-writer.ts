@@ -84,8 +84,12 @@ export class FileWriter<T> {
   private getFullPath(modelName: string, modelYear: number) {
     return path.join(
         this.dir,
-        `${sanitize(this.brandName)}_${sanitize(modelName)}_${modelYear}.json`
+        this.getFileName(modelName, modelYear)
     );
+  }
+
+  public getFileName(modelName: string, modelYear: number) {
+    return `${sanitize(this.brandName)}_${sanitize(modelName)}_${modelYear}.json`;
   }
 
   async writeBrandFile(getBrand: () => Promise<Brand>): Promise<void> {
