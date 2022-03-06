@@ -1,123 +1,105 @@
 import {Brand, GearSpecificVariant, Picture, Product} from "./model";
 import path from "path";
 import fs from "fs";
+import {fileExists} from "./utils";
 
 export interface Parsed<T> {
-  dimensions: (keyof T)[];
-  variants: GearSpecificVariant<T>[];
-  description: { [languageScraper: string]: string };
-  pictures: Picture<T>[];
+    dimensions: (keyof T)[];
+    variants: GearSpecificVariant<T>[];
+    description: { [languageScraper: string]: string };
+    pictures: Picture<T>[];
 }
 
-const sanitize = (value: string) => value.replace(/ +/, "_");
+export class ObjectToWrite<T> {
+    private readonly forceRewrite: boolean;
+
+    constructor(public fullPath: string, protected getData: () => T) {
+        if (process.argv[2] === "force" || process.argv[3] === "force") {
+            this.forceRewrite = true;
+            console.log("called with -- force option: will Overwrite files");
+        } else {
+            this.forceRewrite = false;
+        }
+    }
+
+    async needToWriteFile(): Promise<boolean> {
+        if (!this.forceRewrite) {
+            if (await fileExists(this.fullPath)) {
+                console.log(`File already exists: ${this.fullPath}`);
+                return false;
+            }
+        }
+        return true;
+    }
+
+    async writeFile(): Promise<void> {
+        if (!await this.needToWriteFile()) {
+            return;
+        }
+
+        const dir = path.dirname(this.fullPath);
+        if (!await fileExists(dir)) {
+            await fs.promises.mkdir(dir, {recursive: true});
+        }
+
+        try {
+            const data = await this.getData();
+            if (data === undefined) {
+                // There was an error during parsing, don't write file
+                return;
+            }
+            console.log(`Writing ${path.basename(this.fullPath)}`)
+            await fs.promises.writeFile(
+                this.fullPath,
+                JSON.stringify(data, null, 2)
+            );
+        } catch (e) {
+            console.error(`Error writing file ${this.fullPath}`);
+            console.error(e);
+        }
+    }
+}
+
 
 export class FileWriter<T> {
-  private forceRewrite: boolean = false;
-  private dir: string;
 
-  constructor(public brandName: string) {
-    this.dir = path.join(
-        path.dirname(__dirname),
-        "data",
-        "products",
-        sanitize(this.brandName)
-    );
-
-    if (process.argv[2] === "force" || process.argv[3] === "force") {
-      this.forceRewrite = true;
-      console.log("called with -- force option: will Overwrite files");
-    }
-  }
-
-  needToWriteFile(modelName: string,
-                  modelYear: number): boolean {
-    const fullPath = this.getFullPath(modelName, modelYear);
-    if (!this.forceRewrite) {
-      if (fs.existsSync(fullPath)) {
-        console.log(`File already exists: ${fullPath}`);
-        return false;
-      }
-    }
-    return true;
-  }
-
-  async writeProductFile(
-      modelName: string,
-      modelYear: number,
-      getProductDescription: () => Promise<Product<T>>
-  ) {
-
-    if (!fs.existsSync(this.dir)) {
-      fs.mkdirSync(this.dir, {recursive: true});
+    static sanitize(value: string) {
+        return value.replace(/ +/, "_")
     }
 
-    const fullPath = this.getFullPath(modelName, modelYear);
-
-    // Note: do the check here (in addition to createModelFileFromUrl) for files created from manual data
-    if (!this.needToWriteFile(modelName, modelYear)) {
-      return;
+    constructor(public brandName: string,
+                protected brandsDir = path.join(
+                    path.dirname(__dirname),
+                    "data",
+                    "brands"
+                ),
+                protected productsDir = path.join(
+                    path.dirname(__dirname),
+                    "data",
+                    "products",
+                    FileWriter.sanitize(brandName)
+                )) {
     }
 
-    console.log(`\t${this.brandName} ${modelName} ${modelYear}`);
+    async writeProductFile(
+        modelName: string,
+        modelYear: number,
+        getProductDescription: () => Promise<Product<T>>
+    ) {
 
-    //console.debug(JSON.stringify(model, null, 2));
+        const product = new ObjectToWrite(
+            path.join(this.productsDir, `${FileWriter.sanitize(this.brandName)}_${FileWriter.sanitize(modelName)}_${modelYear}.json`),
+            getProductDescription
+        )
 
-    try {
-      const productDescription = await getProductDescription();
-      if (productDescription === undefined) {
-        // There was an error during parsing, don't write file
-        return;
-      }
-      await fs.writeFile(
-          fullPath,
-          JSON.stringify(productDescription, null, 2),
-          () => {
-            //console.debug(`File written: ${fullPath}`);
-          }
-      );
-    } catch (e) {
-      console.error(`Error writing file ${fullPath}`);
-      console.error(e);
-    }
-  }
-
-  private getFullPath(modelName: string, modelYear: number) {
-    return path.join(
-        this.dir,
-        this.getFileName(modelName, modelYear)
-    );
-  }
-
-  public getFileName(modelName: string, modelYear: number) {
-    return `${sanitize(this.brandName)}_${sanitize(modelName)}_${modelYear}.json`;
-  }
-
-  async writeBrandFile(getBrand: () => Promise<Brand>): Promise<void> {
-    const fullPath = path.join(
-        path.dirname(__dirname),
-        "data",
-        "brands",
-        `${sanitize(this.brandName)}.json`
-    );
-
-    if (!this.forceRewrite) {
-      if (fs.existsSync(fullPath)) {
-        console.log(`File already exists: ${fullPath}`);
-        return;
-      }
+        await product.writeFile();
     }
 
-    try {
-      await fs.writeFile(
-          fullPath,
-          JSON.stringify(await getBrand(), null, 2),
-          () => {
-            //console.debug(`File written: ${fullPath}`);
-          }
-      );
-    } catch (e) {
-      console.error(`Error writing file ${fullPath}`);
-      console.error(e);
+    async writeBrandFile(getBrand: () => Promise<Brand>): Promise<void> {
+        const product = new ObjectToWrite(
+            path.join(this.brandsDir, `${FileWriter.sanitize(this.brandName)}.json`),
+            getBrand
+        )
+        await product.writeFile();
     }
-  }
 }

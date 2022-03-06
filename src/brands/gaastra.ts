@@ -234,31 +234,30 @@ class GaastraRecent extends FileWriter<VariantType> {
     const homePageUrl = "https://ga-windsurfing.com";
 
     // TODO get in German
-    const infoUrl = "https://ga-windsurfing.com/about-gaastra/";
+    const infoUrl = "https://ga-windsurfing.com/about-us/";
 
     const extract1 = await this.crawler.crawl(infoUrl, () => {
-      const logo = (document.querySelector(
-          ".fusion-logo-link > img"
-      ) as HTMLImageElement).src;
+      const logo = document.querySelector<HTMLImageElement>("#logo img").src;
 
-      const description = (document.querySelector(
-          ".post-content"
-      ) as HTMLDivElement).innerText;
+      const description = Array.from(document.querySelectorAll<HTMLParagraphElement>("#content p"))
+          .map(p => p.innerText)
+          .filter(n => n.length > 0)
+          .join('\n\n')
 
-      const links = Array.from(
-          document.querySelectorAll(
-              "a.fusion-twitter, a.fusion-facebook, a.fusion-instagram, a.fusion-youtube"
-          )
-      )
-          .map((a: HTMLAnchorElement) => a.href)
-          // Can't use "utils" imports in this "browser" function
+      const links = Array.from(document.querySelectorAll<HTMLAnchorElement>(".social-icons a"))
+          .map(a => a.href)
+          // Filter unique (can't use "utils" imports in this "browser" function)
           .filter(
               (value, index, self) =>
                   value !== undefined && self.indexOf(value) === index
           );
 
-      return {logo, description, pictures: [], links};
+      const pictures = Array.from(document.querySelectorAll<HTMLImageElement>(".image-cover img"))
+          .map(a => a.src)
+
+      return {logo, description, pictures, links};
     });
+
     const brand: Brand = {
       name: this.brandName,
       logo: extract1.logo,
@@ -554,78 +553,6 @@ class GaastraOld extends GaastraRecent {
         await brandCrawler.getYearCatalog(year)
     );
   }
-
-  /*
-    old.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2017/freeride-17/hybrid-hd/",
-        "Hybrid",
-        2017,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.freeride]
-    );
-
-    old.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2017/wave-cross/manic-17/",
-        "Manic",
-        2017,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.wave]
-    );
-
-    old.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2017/wave-cross/manic-hd-17/",
-        "Manic HD",
-        2017,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.wave]
-    );
-
-    old.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2017/wave-cross/poison-17/",
-        "Poison",
-        2017,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.wave]
-    );
-
-    await brandCrawler.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2019/wave-cross/manic-19/",
-        "Manic",
-        2019,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.wave]
-    );
-    await brandCrawler.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2019/freeride/hybrid-19/",
-        "Hybrid",
-        2019,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.freeride]
-    );
-    await brandCrawler.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2020/freeride/hybrid-20",
-        "Hybrid",
-        2020,
-        [Activity.windsurf, Activity.windfoil],
-        GearType.sail,
-        [Program.freeride]
-    );
-
-    await brandCrawler.createModelFileFromUrl(
-        "https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/",
-        "Vapor Air",
-        2021,
-        [Activity.windfoil],
-        GearType.sail,
-        [Program.slalom]
-    );
-     */
 
   await crawler.close();
 })();

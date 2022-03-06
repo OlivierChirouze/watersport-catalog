@@ -353,9 +353,6 @@ class Neilpryde extends FileWriter<VariantType> {
         subType: ProductSubType,
         programs: Program[]
     ) {
-        if (!this.needToWriteFile(modelName, year)) {
-            return;
-        }
         await this.writeProductFile(
             modelName,
             year,
