@@ -21,7 +21,8 @@
     "generate:gaastra": "ts-node src/brands/gaastra.ts",
     "generate:patrik": "ts-node src/brands/patrik.ts",
     "generate:point-7": "ts-node src/brands/point-7.ts",
-    "generate:neilpryde": "ts-node src/brands/neilpryde.ts"
+    "generate:neilpryde": "ts-node src/brands/neilpryde.ts",
+    "generate:gun-sails": "ts-node src/brands/gun-sails.ts"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"
