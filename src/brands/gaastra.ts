@@ -237,6 +237,9 @@ class GaastraRecent extends FileWriter<VariantType> {
     const infoUrl = "https://ga-windsurfing.com/about-us/";
 
     const extract1 = await this.crawler.crawl(infoUrl, () => {
+      // Can't use "utils" imports in this "browser" function
+      const unique = (value, index, self) => value !== undefined && self.indexOf(value) === index;
+
       const logo = document.querySelector<HTMLImageElement>("#logo img").src;
 
       const description = Array.from(document.querySelectorAll<HTMLParagraphElement>("#content p"))
@@ -246,11 +249,7 @@ class GaastraRecent extends FileWriter<VariantType> {
 
       const links = Array.from(document.querySelectorAll<HTMLAnchorElement>(".social-icons a"))
           .map(a => a.href)
-          // Filter unique (can't use "utils" imports in this "browser" function)
-          .filter(
-              (value, index, self) =>
-                  value !== undefined && self.indexOf(value) === index
-          );
+          .filter(unique);
 
       const pictures = Array.from(document.querySelectorAll<HTMLImageElement>(".image-cover img"))
           .map(a => a.src)

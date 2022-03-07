@@ -17,6 +17,9 @@ class Point7 extends FileWriter<VariantType> {
     const infoUrl = "https://point-7.com/about-us/";
 
     const extract1 = await this.crawler.crawl(infoUrl, () => {
+      // Can't use "utils" imports in this "browser" function
+      const unique = (value, index, self) => value !== undefined && self.indexOf(value) === index;
+
       const logo = (document.querySelector(
           "#logo > * > img"
       ) as HTMLImageElement).src;
@@ -33,11 +36,7 @@ class Point7 extends FileWriter<VariantType> {
           document.querySelectorAll(".header-social-icons > * > a")
       )
           .map((a: HTMLAnchorElement) => a.href)
-          // Can't use "utils" imports in this "browser" function
-          .filter(
-              (value, index, self) =>
-                  value !== undefined && self.indexOf(value) === index
-          );
+          .filter(unique);
 
       return {logo, description, pictures: [picture], links};
     });

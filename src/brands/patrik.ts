@@ -1,6 +1,6 @@
 import {Crawler} from "../crawler";
 import {FileWriter, Parsed} from "../file-writer";
-import {extract, stringToNumber} from "../utils";
+import {extract, onlyUnique, stringToNumber} from "../utils";
 import {
     BoardType,
     FinConfig,
@@ -288,8 +288,7 @@ class Patrik extends FileWriter<VariantType> {
                     Array.from(document.querySelectorAll("a"))
                         .filter(a => a.href.match("patrik-windsurf.com") == undefined)
                         .map((a: HTMLAnchorElement) => a.href)
-                        // Can't use "utils" imports in this "browser" function
-                        .filter((value, index, self) => self.indexOf(value) === index)
+                        .filter(onlyUnique)
                 );
             }
         );

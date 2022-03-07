@@ -20,6 +20,9 @@ class Fanatic extends FileWriter<VariantType> {
         "https://www.fanatic.com/windsurf/our-world/about-us/the-brand";
 
     const extract1 = await this.crawler.crawl(infoUrl, () => {
+      // Can't use "utils" imports in this "browser" function
+      const unique = (value, index, self) => value !== undefined && self.indexOf(value) === index;
+
       const logoLink = document.querySelector(".logo-small") as HTMLDivElement;
 
       const logo = window
@@ -45,11 +48,7 @@ class Fanatic extends FileWriter<VariantType> {
           document.querySelectorAll(".footer__social-buttons > a")
       )
           .map((a: HTMLAnchorElement) => a.href)
-          // Can't use "utils" imports in this "browser" function
-          .filter(
-              (value, index, self) =>
-                  value !== undefined && self.indexOf(value) === index
-          );
+          .filter(unique);
 
       return {logo, description, pictures: [picture], motto, links};
     });

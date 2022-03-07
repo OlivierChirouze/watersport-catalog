@@ -256,6 +256,9 @@ class Neilpryde extends FileWriter<VariantType> {
         const infoUrl = "https://www.neilpryde.com/pages/about-neilpryde";
 
         const extract1 = await this.crawler.crawl(infoUrl, () => {
+            // Can't use "utils" imports in this "browser" function
+            const unique = (value, index, self) => value !== undefined && self.indexOf(value) === index;
+
             const logo = (document.querySelector(
                 ".Header__LogoImage"
             ) as HTMLImageElement).src;
@@ -268,11 +271,7 @@ class Neilpryde extends FileWriter<VariantType> {
                 )
             )
                 .map((a: HTMLAnchorElement) => a.href)
-                // Can't use "utils" imports in this "browser" function
-                .filter(
-                    (value, index, self) =>
-                        value !== undefined && self.indexOf(value) === index
-                );
+                .filter(unique);
 
             const pictures = [
                 ...Array.from(document.querySelectorAll(".shogun-image"))

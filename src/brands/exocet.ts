@@ -126,6 +126,7 @@ class Exocet extends FileWriter<VariantType> {
     }
 
     async getBrandInfo(): Promise<Brand> {
+
         const homePageUrl = "https://www.exocet-original.fr/";
 
         // TODO french version
@@ -133,6 +134,9 @@ class Exocet extends FileWriter<VariantType> {
         const infoUrl = "https://www.exocet-original.com/PBCPPlayer.asp?ID=2066945";
 
         const extract1 = await this.crawler.crawl(infoUrl, () => {
+            // Can't use "utils" imports in this "browser" function
+            const unique = (value, index, self) => value !== undefined && self.indexOf(value) === index;
+
             const logo = (document.querySelector(
                 "div.header-logo > * > img"
             ) as HTMLImageElement).src;
@@ -152,10 +156,7 @@ class Exocet extends FileWriter<VariantType> {
             )
                 .map((a: HTMLAnchorElement) => a.href)
                 // Can't use "utils" imports in this "browser" function
-                .filter(
-                    (value, index, self) =>
-                        value !== undefined && self.indexOf(value) === index
-                );
+                .filter(unique);
 
             return {logo, description, pictures: [picture], links};
         });
