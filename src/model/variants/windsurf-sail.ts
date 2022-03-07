@@ -7,7 +7,7 @@ export enum WindsurfSailTopType {
 }
 
 export enum MastType {
-  RMD = "RMD",
+  RDM = "RDM",
   SDM = "SDM"
 }
 

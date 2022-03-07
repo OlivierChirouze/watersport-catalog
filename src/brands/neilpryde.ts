@@ -42,7 +42,7 @@ const getTopType = (val: string) => {
 const getMastType = (val: string) => {
     switch (val) {
         case "RDM":
-            return MastType.RMD
+            return MastType.RDM
         case "SDM":
             return MastType.SDM
     }
