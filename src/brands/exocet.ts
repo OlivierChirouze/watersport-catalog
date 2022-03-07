@@ -34,7 +34,7 @@ interface VariantType {
 }
 
 class Exocet extends FileWriter<VariantType> {
-    constructor(protected crawler: Crawler) {
+    constructor(protected crawler: Crawler = new Crawler()) {
         super("Exocet");
     }
 
@@ -241,8 +241,7 @@ class Exocet extends FileWriter<VariantType> {
 }
 
 (async () => {
-    const crawler = await new Crawler().init();
-    const brandCrawler = new Exocet(crawler);
+    const brandCrawler = new Exocet();
 
     await brandCrawler.writeBrandFile(
         brandCrawler.getBrandInfo.bind(brandCrawler)
@@ -260,5 +259,5 @@ class Exocet extends FileWriter<VariantType> {
         [FinFamily.foil]
     );
 
-    await crawler.close();
+    await brandCrawler.loadImportFiles()
 })();

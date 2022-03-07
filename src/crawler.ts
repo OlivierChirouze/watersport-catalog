@@ -11,6 +11,10 @@ export class Crawler {
     }
 
     async crawl<T extends EvaluateFn>(url: string, extractor: T) {
+        if (!this.browser) {
+            await this.init()
+        }
+
         const page = await this.browser.newPage();
 
         const response = await page.goto(url, {
@@ -35,12 +39,6 @@ export class Crawler {
     }
 
     async close() {
-        await this.browser.close();
+        await this.browser?.close();
     }
 }
-
-(async () => {
-    const crawler = await new Crawler().init();
-
-    await crawler.close();
-})();

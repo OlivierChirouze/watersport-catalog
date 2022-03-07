@@ -1,7 +1,6 @@
 import {FileWriter} from "../file-writer";
 import {Brand, guessLinkType} from "../model/brand";
 import {Crawler} from "../crawler";
-import skate2011 from "./import/Fanatic_Skate_2011.json";
 
 interface VariantType {
   size: number;
@@ -9,7 +8,7 @@ interface VariantType {
 }
 
 class Fanatic extends FileWriter<VariantType> {
-  constructor(protected crawler: Crawler) {
+  constructor(protected crawler: Crawler = new Crawler()) {
     super("Fanatic");
   }
 
@@ -71,27 +70,14 @@ class Fanatic extends FileWriter<VariantType> {
       motto: {en: extract1.motto}
     };
   }
-
-  async writeProductFromHandmadeFile(product: any) {
-    return this.writeProductFile(product.name, product.year, () =>
-        Promise.resolve({
-          ...product,
-          brandName: this.brandName
-        })
-    );
-  }
 }
 
 (async () => {
-  const crawler = await new Crawler().init();
-  const brandCrawler = new Fanatic(crawler);
+  const brandCrawler = new Fanatic();
 
   await brandCrawler.writeBrandFile(
       brandCrawler.getBrandInfo.bind(brandCrawler)
   );
 
-  // Manually add the Skate 2011
-  await brandCrawler.writeProductFromHandmadeFile(skate2011);
-
-  await crawler.close();
+  await brandCrawler.loadImportFiles();
 })();

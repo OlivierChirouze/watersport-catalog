@@ -1,5 +1,4 @@
 import {FileWriter} from "../file-writer";
-import salt2014 from "./import/Point-7_Salt_2014.json";
 import {Crawler} from "../crawler";
 import {Brand, guessLinkType} from "../model/brand";
 
@@ -8,7 +7,7 @@ interface VariantType {
 }
 
 class Point7 extends FileWriter<VariantType> {
-  constructor(protected crawler: Crawler) {
+  constructor(protected crawler: Crawler = new Crawler()) {
     super("Point-7");
   }
 
@@ -58,27 +57,14 @@ class Point7 extends FileWriter<VariantType> {
       homePageUrl
     };
   }
-
-  async writeProductFromHandmadeFile(product: any) {
-    return this.writeProductFile(product.name, product.year, () =>
-        Promise.resolve({
-          ...product,
-          brandName: this.brandName
-        })
-    );
-  }
 }
 
 (async () => {
-  const crawler = await new Crawler().init();
-  const brandCrawler = new Point7(crawler);
+  const brandCrawler = new Point7();
 
   await brandCrawler.writeBrandFile(
       brandCrawler.getBrandInfo.bind(brandCrawler)
   );
 
-  // Manually add Salt 2014
-  await brandCrawler.writeProductFromHandmadeFile(salt2014);
-
-  await crawler.close();
+  await brandCrawler.loadImportFiles()
 })();

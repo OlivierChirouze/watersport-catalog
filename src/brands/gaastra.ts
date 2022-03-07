@@ -518,7 +518,7 @@ class GaastraOld extends GaastraRecent {
 }
 
 (async () => {
-  const crawler = await new Crawler().init();
+  const crawler = await new Crawler();
   const brandCrawler = new GaastraRecent(crawler);
   const old = new GaastraOld(crawler);
 
@@ -554,5 +554,5 @@ class GaastraOld extends GaastraRecent {
     );
   }
 
-  await crawler.close();
+  await brandCrawler.loadImportFiles()
 })();

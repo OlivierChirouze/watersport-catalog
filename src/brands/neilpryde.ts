@@ -62,7 +62,7 @@ interface Extract {
 type ProductInfo = { [key: string]: { name: string, programs: Program[] } };
 
 class Neilpryde extends FileWriter<VariantType> {
-    constructor(protected crawler: Crawler) {
+    constructor(protected crawler: Crawler = new Crawler()) {
         super("Neilpryde");
     }
 
@@ -405,8 +405,7 @@ class Neilpryde extends FileWriter<VariantType> {
 }
 
 (async () => {
-    const crawler = await new Crawler().init();
-    const brandCrawler = new Neilpryde(crawler);
+    const brandCrawler = new Neilpryde();
 
     /*
     await brandCrawler.writeBrandFile(
@@ -444,5 +443,5 @@ class Neilpryde extends FileWriter<VariantType> {
         "Zone pro": [Program.wave],
     }))
 
-    await crawler.close();
+    await brandCrawler.loadImportFiles()
 })();

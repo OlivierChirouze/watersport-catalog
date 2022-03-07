@@ -44,7 +44,7 @@ const getFinBoxType = (value: string) => {
 };
 
 class Patrik extends FileWriter<VariantType> {
-    constructor(protected crawler: Crawler) {
+    constructor(protected crawler: Crawler = new Crawler()) {
         super("Patrik");
     }
 
@@ -377,8 +377,7 @@ class Patrik extends FileWriter<VariantType> {
 }
 
 (async () => {
-    const crawler = await new Crawler().init();
-    const brandCrawler = new Patrik(crawler);
+    const brandCrawler = new Patrik();
 
     await brandCrawler.writeBrandFile(
         brandCrawler.getBrandInfo.bind(brandCrawler)
@@ -421,5 +420,5 @@ class Patrik extends FileWriter<VariantType> {
         [FinFamily.fins]
     );
 
-    await crawler.close();
+    await brandCrawler.loadImportFiles()
 })();
