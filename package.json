@@ -1,6 +1,6 @@
 {
   "name": "watersport-catalog",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "author": "olivier.chirouze@gmail.com",
   "homepage": "",
   "main": "dist/index.js",
@@ -23,7 +23,8 @@
     "generate:point-7": "ts-node src/brands/point-7.ts",
     "generate:neilpryde": "ts-node src/brands/neilpryde.ts",
     "generate:gun-sails": "ts-node src/brands/gun-sails.ts",
-    "generate:jp-australia": "ts-node src/brands/jp-australia.ts"
+    "generate:jp-australia": "ts-node src/brands/jp-australia.ts",
+    "generate:starboard": "ts-node src/brands/starboard.ts"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"
