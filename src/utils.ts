@@ -1,5 +1,3 @@
-import fs from "fs";
-
 export const stringToNumber = (val: string): number => {
     if (val === undefined) return undefined;
 
@@ -48,14 +46,3 @@ export const extract = (val: string, regex: RegExp) => {
 
 export const onlyUnique = (value, index, self) => self.indexOf(value) === index;
 
-export const fileExists = async path => {
-    // the result can be either false (from the caught error) or it can be an fs.stats object
-    const result = await fs.promises.stat(path).catch(err => {
-        if (err.code === "ENOENT") {
-            return false;
-        }
-        throw err;
-    });
-
-    return result !== false
-};

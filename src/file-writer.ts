@@ -1,7 +1,6 @@
 import {Brand, GearSpecificVariant, Picture, Product} from "./model";
 import path from "path";
 import fs from "fs";
-import {fileExists} from "./utils";
 
 export interface Parsed<T> {
     dimensions: (keyof T)[];
@@ -9,6 +8,18 @@ export interface Parsed<T> {
     description: { [languageScraper: string]: string };
     pictures: Picture<T>[];
 }
+
+export const fileExists = async path => {
+    // the result can be either false (from the caught error) or it can be an fs.stats object
+    const result = await fs.promises.stat(path).catch(err => {
+        if (err.code === "ENOENT") {
+            return false;
+        }
+        throw err;
+    });
+
+    return result !== false
+};
 
 export class ObjectToWrite<T> {
     private readonly forceRewrite: boolean;
