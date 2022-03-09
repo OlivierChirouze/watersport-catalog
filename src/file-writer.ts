@@ -48,13 +48,13 @@ export class ObjectToWrite<T> {
                 // There was an error during parsing, don't write file
                 return;
             }
-            console.log(`Writing ${path.basename(this.fullPath)}`)
+            console.log(`Writing ${this.fullPath}`)
             await fs.promises.writeFile(
                 this.fullPath,
                 JSON.stringify(data, null, 2)
             );
         } catch (e) {
-            console.error(`Error writing file ${this.fullPath}`);
+            console.error(`Error writing ${this.fullPath}`);
             console.error(e);
         }
     }

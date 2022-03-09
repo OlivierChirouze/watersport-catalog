@@ -35,10 +35,10 @@ export class Crawler {
             await page.waitForTimeout(500)
         }
 
-        return await page.evaluate(extractor);
-    }
+        const data = await page.evaluate(extractor);
 
-    async close() {
-        await this.browser?.close();
+        await this.browser.close();
+
+        return data;
     }
 }
