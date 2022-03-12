@@ -22,7 +22,7 @@ class JPAustralia extends FileWriter<VariantType> {
             // Can't use "utils" imports in this "browser" function
             const unique = (value, index, self) => value !== undefined && self.indexOf(value) === index;
 
-            const logo = document.querySelector<HTMLImageElement>("img.mega-menu-logo").src;
+            const logo = document.querySelector<HTMLImageElement>(".mega-menu-logo-mobile").src;
 
             const description =
                 Array.from(document.querySelectorAll<HTMLDivElement>(".wpb_text_column.wpb_content_element"))
