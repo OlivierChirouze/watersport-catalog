@@ -228,7 +228,7 @@ class Neilpryde extends FileWriter<VariantType> {
                         masTypes: split(variantData["masTypes"] ?? '')
                             .filter(n => n !== '')
                             .map(getMastType),
-                        mastLengthsCm: stringToNumberArrayFiltered(variantData["mastLengthsCm"]),
+                        mastLengthsCm: stringToNumberArrayFiltered(variantData["mastLengthsCm"], /,/),
                         topType: getTopType(variantData["topType"]),
                         variant: {
                             size: surfaceM2,
