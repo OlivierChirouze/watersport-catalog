@@ -1,17 +1,11 @@
 {
-  "dimensions": [
-    "size",
-    "construction"
-  ],
+  "dimensions": ["size", "construction"],
   "brandName": "Starboard",
   "year": 2020,
   "name": "Foil Freeride",
   "type": "board",
   "subType": "windsurfBoard",
-  "programs": [
-    "freeride",
-    "foiling"
-  ],
+  "programs": ["freeride", "foiling"],
   "variants": [
     {
       "variant": {
@@ -28,9 +22,7 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
+      "compatibleFinFamilies": ["foil"]
     },
     {
       "variant": {
@@ -47,9 +39,7 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
+      "compatibleFinFamilies": ["foil"]
     },
     {
       "variant": {
@@ -66,9 +56,7 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
+      "compatibleFinFamilies": ["foil"]
     },
     {
       "variant": {
@@ -85,9 +73,7 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
+      "compatibleFinFamilies": ["foil"]
     }
   ],
   "description": {}

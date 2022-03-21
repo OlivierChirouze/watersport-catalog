@@ -1,17 +1,11 @@
 {
-  "dimensions": [
-    "size",
-    "construction"
-  ],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2017,
   "name": "Super Sport",
   "type": "board",
   "subType": "windsurfBoard",
-  "programs": [
-    "freeride",
-    "race"
-  ],
+  "programs": ["freeride", "race"],
   "variants": [
     {
       "variant": {
@@ -28,9 +22,7 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -47,9 +39,7 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -66,9 +56,7 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -85,9 +73,7 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -104,9 +90,7 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {}
