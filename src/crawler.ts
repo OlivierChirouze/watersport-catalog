@@ -10,6 +10,9 @@ export class Crawler {
         return this;
     }
 
+    constructor(private readonly scrollWaitMs = 500) {
+    }
+
     async crawl<T extends EvaluateFn>(url: string, extractor: T) {
         if (!this.browser) {
             await this.init()
@@ -32,7 +35,7 @@ export class Crawler {
             await page.evaluate(() => {
                 window.scrollBy(0, document.body.scrollHeight / 20);
             });
-            await page.waitForTimeout(500)
+            await page.waitForTimeout(this.scrollWaitMs)
         }
 
         const data = await page.evaluate(extractor);
