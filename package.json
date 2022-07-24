@@ -1,12 +1,12 @@
 {
   "name": "watersport-catalog",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "author": "olivier.chirouze@gmail.com",
   "homepage": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc && rm -rf dist/data && cp -r data dist/",
+    "build": "tsc",
     "prepare": "npm run build",
     "lint": "eslint",
     "test": "test src/**/*.spec.ts",
