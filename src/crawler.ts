@@ -7,6 +7,14 @@ export class Crawler {
         const isDebug = process.argv[2] === "debug" || process.argv[3] === "debug"
 
         this.browser = await puppeteer.launch(isDebug ? {devtools: true, headless: false} : undefined);
+
+        return this;
+    }
+
+    async close() {
+        await this.browser.close();
+        this.browser = undefined;
+
         return this;
     }
 
@@ -40,7 +48,7 @@ export class Crawler {
 
         const data = await page.evaluate(extractor);
 
-        await this.browser.close();
+        await this.close();
 
         return data;
     }
