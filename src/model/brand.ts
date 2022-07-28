@@ -41,6 +41,6 @@ export interface Brand {
     links: Link[];
     infoUrl?: string;
     homePageUrl?: string;
-    logo: string;
+    logo?: string;
     pictures: string[];
 }
