@@ -78,6 +78,7 @@ export class FileWriter<T> {
         return value.replace(/ +/, "_")
     }
 
+
     constructor(public brandName: string,
                 protected brandsDir = path.join(
                     path.dirname(__dirname),
@@ -89,12 +90,8 @@ export class FileWriter<T> {
                     "data",
                     "products",
                     FileWriter.sanitize(brandName)
-                ),
-                protected importDir = path.join(
-                    __dirname,
-                    "brands",
-                    "import"
-                )) {
+                )
+    ) {
     }
 
     async writeProductFile(
@@ -117,28 +114,5 @@ export class FileWriter<T> {
             getBrand
         )
         await product.writeFile();
-    }
-
-    async loadImportFiles() {
-        const regex = new RegExp(`^${FileWriter.sanitize(this.brandName)}_*`)
-        const brandFiles = (await fs.promises.readdir(this.importDir)).filter(f => f.match(regex))
-        await Promise.all(brandFiles.map(async f => {
-            const data = await fs.promises.readFile(path.join(this.importDir, f));
-            const product = JSON.parse(data.toString()) as Product<unknown>
-
-            if (product.brandName !== this.brandName) {
-                console.error(`File with unexpected brand: ${f} / ${product.brandName}`)
-                return;
-            }
-
-            console.log(`Loading ${f}`)
-            return await this.writeProductFile(product.name, product.year, () =>
-                Promise.resolve({
-                    ...product,
-                    brandName: this.brandName
-                })
-            );
-
-        }))
     }
 }

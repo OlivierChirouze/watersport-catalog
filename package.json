@@ -24,7 +24,8 @@
     "generate:neilpryde": "ts-node src/brands/neilpryde.ts",
     "generate:gun-sails": "ts-node src/brands/gun-sails.ts",
     "generate:jp-australia": "ts-node src/brands/jp-australia.ts",
-    "generate:starboard": "ts-node src/brands/starboard.ts"
+    "generate:starboard": "ts-node src/brands/starboard.ts",
+    "import": "ts-node src/data-importer.ts"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"

@@ -552,6 +552,4 @@ class GaastraOld extends GaastraRecent {
         await brandCrawler.getYearCatalog(year)
     );
   }
-
-  await brandCrawler.loadImportFiles()
 })();

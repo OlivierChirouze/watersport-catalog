@@ -64,6 +64,4 @@ class Point7 extends FileWriter<VariantType> {
   await brandCrawler.writeBrandFile(
       brandCrawler.getBrandInfo.bind(brandCrawler)
   );
-
-  await brandCrawler.loadImportFiles()
 })();

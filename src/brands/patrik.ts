@@ -418,6 +418,4 @@ class Patrik extends FileWriter<VariantType> {
         [Program.freestyle],
         [FinFamily.fins]
     );
-
-    await brandCrawler.loadImportFiles()
 })();

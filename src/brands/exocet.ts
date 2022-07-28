@@ -259,6 +259,4 @@ class Exocet extends FileWriter<VariantType> {
         [Program.freeride],
         [FinFamily.foil]
     );
-
-    await brandCrawler.loadImportFiles()
 })();

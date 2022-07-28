@@ -441,6 +441,4 @@ class Neilpryde extends FileWriter<VariantType> {
         "Zone": [Program.wave],
         "Zone pro": [Program.wave],
     }))
-
-    await brandCrawler.loadImportFiles()
 })();

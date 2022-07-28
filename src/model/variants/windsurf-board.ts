@@ -12,9 +12,9 @@ export interface WindsurfBoard<VariantType>
   compatibleFinFamilies: FinFamily[];
   // The main info (the only one mandatory!): what is the volume of this board
   volumeL: number;
-  // Max length
+  // Length
   lengthCm?: number;
-  // Max width
+  // Width
   widthCm?: number;
   // Weight
   weightKg?: number;
