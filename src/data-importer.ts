@@ -25,26 +25,49 @@ export class DataImporter {
             // TODO do some validation on the file
 
             const brandName = product.brandName;
-            if (!this.fileWriters[brandName]) {
-                this.fileWriters[brandName] = new FileWriter<unknown>(brandName);
-
-                // Create dummy brand file if needed
-                await this.createBrandFile({name: brandName, links: [], pictures: []});
-            }
+            // Create dummy brand file if needed
+            await this.createBrandFile({name: brandName, links: [], pictures: []});
 
             console.log(`Loading ${f}`)
-            return await this.fileWriters[brandName].writeProductFile(product.name, product.year, () =>
+            return await this.getBrandFileWriter(brandName).writeProductFile(product.name, product.year, () =>
                 Promise.resolve(product)
             );
 
         }))
     }
 
+    async loadImportBrands() {
+        const brandsDir = path.join(this.importDir, "brands");
+        const files = (await fs.promises.readdir(brandsDir));
+
+        await Promise.all(files.map(async f => {
+            const data = await fs.promises.readFile(path.join(brandsDir, f));
+            const brand = JSON.parse(data.toString()) as Brand
+
+            // TODO do some validation on the file
+
+            console.log(`Loading ${f}`)
+            return await this.createBrandFile(brand);
+
+        }))
+    }
+
+    private getBrandFileWriter(brandName: string) {
+        if (!this.fileWriters[brandName]) {
+            this.fileWriters[brandName] = new FileWriter<unknown>(brandName);
+        }
+        return this.fileWriters[brandName];
+    }
+
     createBrandFile(brand: Brand) {
-        return this.fileWriters[brand.name].writeBrandFile(() => Promise.resolve(brand));
+        return this.getBrandFileWriter(brand.name).writeBrandFile(() => Promise.resolve(brand));
     }
 }
 
 (async () => {
-    await new DataImporter().loadImportProducts();
+    let dataImporter = new DataImporter();
+    // Load brands first, as products without brand file will create a default one
+    await dataImporter.loadImportBrands();
+    // Load products second
+    await dataImporter.loadImportProducts();
 })()
