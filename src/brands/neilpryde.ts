@@ -186,22 +186,22 @@ class Neilpryde extends FileWriter<VariantType> {
         })
 
         const dimensions: (keyof VariantType)[] = ["size"];
-        if (variantMatches.find(v => v.variant.color?.length > 0)) {
-            dimensions.push("color")
-        }
         if (variantMatches.find(v => v.variant.construction?.length > 0)) {
             dimensions.push("construction")
         }
+        if (variantMatches.find(v => v.variant.color?.length > 0)) {
+            dimensions.push("color")
+        }
 
         pictures = extracted.pictures.map(currentUrl => {
-                const trimmedUrl = currentUrl.replace(/\?[^?]*$/, '')
+            const trimmedUrl = currentUrl.replace(/\?[^?]*$/, '')
 
-                const picture: Picture<VariantType> = {
-                    url: currentUrl,
-                    variant: {}
-                }
+            const picture: Picture<VariantType> = {
+                url: currentUrl,
+                variant: {}
+            }
 
-                const foundMatch = variantMatches.find(variantMatch => trimmedUrl.match(variantMatch.regex))
+            const foundMatch = variantMatches.find(variantMatch => trimmedUrl.match(variantMatch.regex))
                 if (foundMatch) {
                     // If some variant for this picture, associate it.
                     picture.variant = foundMatch.variant

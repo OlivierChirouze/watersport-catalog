@@ -181,9 +181,9 @@ class Patrik extends FileWriter<VariantType> {
 
         let dimensions: (keyof VariantType)[] = [];
 
-        if (uniqueConstructions.size > 1) dimensions.push("construction");
-
         if (uniqueSizes.size > 1) dimensions.push("size");
+
+        if (uniqueConstructions.size > 1) dimensions.push("construction");
 
         return {
             pictures,

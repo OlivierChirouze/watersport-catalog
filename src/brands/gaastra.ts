@@ -211,15 +211,14 @@ class GaastraRecent extends FileWriter<VariantType> {
         []
     );
 
+    //'size', 'construction', 'color'
     let dimensions: (keyof VariantType)[] = [];
-
-    if (Object.keys(images).length > 1) dimensions.push("color");
-
-    if (uniqueConstructions.size > 1) dimensions.push("construction");
 
     if (uniqueSizes.size > 1) dimensions.push("size");
 
-    //'size', 'construction', 'color'
+    if (uniqueConstructions.size > 1) dimensions.push("construction");
+
+    if (Object.keys(images).length > 1) dimensions.push("color");
 
     return {
       pictures,

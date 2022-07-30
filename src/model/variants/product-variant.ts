@@ -1,4 +1,4 @@
-// A gear variant, that is defined at least by it's variant "dimensions"
+// A gear variant, that is defined at least by its variant "dimensions"
 export interface ProductVariant<VariantType> {
   variant: Partial<VariantType>;
 }
