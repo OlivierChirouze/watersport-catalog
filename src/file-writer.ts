@@ -75,9 +75,8 @@ export class ObjectToWrite<T> {
 export class FileWriter<T> {
 
     static sanitize(value: string) {
-        return value.replace(/ +/, "_")
+        return value.replace(/ +/g, "_")
     }
-
 
     constructor(public brandName: string,
                 protected brandsDir = path.join(
