@@ -21,15 +21,17 @@ export const split = (
  * @param separator
  */
 export const stringToNumberArray = (
-  val: string,
-  separator: string | RegExp = defaultSeparator
+    val: string,
+    separator: string | RegExp = defaultSeparator
 ): number[] => {
   if (val === undefined) return undefined;
 
   return split(val, separator)
-    .map(i => stringToNumber(i))
-    .filter(onlyUnique);
+      .map(stringToNumber)
+      .filter(onlyUnique);
 };
+
+export const isNotNullNotUndefined = <T>(val: T | undefined) => val !== null && val !== undefined
 
 /**
  * Map a string value to a list of integers,
@@ -38,15 +40,14 @@ export const stringToNumberArray = (
  * @param separator
  */
 export const stringToNumberArrayFiltered = (
-  val: string,
-  separator: string | RegExp = defaultSeparator
+    val: string,
+    separator: string | RegExp = defaultSeparator
 ): number[] => {
   if (val === undefined) return undefined;
 
   return split(val, separator)
-    .map(s => s.replace(/[^0-9]*/g, ""))
-    .filter(n => n !== "")
-    .map(stringToNumber)
+      .map(s => s.match(/\b[\d.,]+\b/)[0]) // Take the first thing that looks like a number
+      .map(i => stringToNumber(i))
     .filter(onlyUnique);
 };
 
