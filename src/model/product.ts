@@ -1,6 +1,6 @@
 // Water sport activity
-import {GearSpecificVariant} from "./variants";
-import {isEqual} from "lodash";
+import { GearSpecificVariant } from "./variants";
+import { isEqual } from "lodash";
 
 // "type" of activity
 export enum Program {
@@ -35,7 +35,6 @@ export enum BoardType {
   paddleBoard = "paddleBoard",
   wingsurfBoard = "wingsurfBoard"
 }
-
 
 // This is the actual product a brand is selling
 // The VariantType should be a simple type with a few properties. It's the type that makes
@@ -84,10 +83,12 @@ export interface Picture<VariantType> {
  * @param search
  * @param listOfVariants
  */
-export const getClosestVariant = <VariantType,
-    P extends { variant: Partial<VariantType> }>(
-    search: Partial<VariantType>,
-    listOfVariants: P[]
+export const getClosestVariant = <
+  VariantType,
+  P extends { variant: Partial<VariantType> }
+>(
+  search: Partial<VariantType>,
+  listOfVariants: P[]
 ): P | undefined => {
   if (search === {}) return undefined;
 
@@ -99,7 +100,7 @@ export const getClosestVariant = <VariantType,
   // Otherwise, try to remove a key from the search and see if a "more general" match exists
   for (let i = 0; i < Object.keys(search).length; i++) {
     const key = Object.keys(search)[i];
-    const newSearch = {...search};
+    const newSearch = { ...search };
     delete newSearch[key];
 
     const closestVariant = getClosestVariant(newSearch, listOfVariants);

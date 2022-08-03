@@ -1,5 +1,5 @@
 // A windsurfing board
-import {ProductVariant} from "./product-variant";
+import { ProductVariant } from "./product-variant";
 
 // Min and max sail surfaces
 export type SailRange = {
@@ -8,7 +8,7 @@ export type SailRange = {
 };
 
 export interface WindsurfBoard<VariantType>
-    extends ProductVariant<VariantType> {
+  extends ProductVariant<VariantType> {
   compatibleFinFamilies: FinFamily[];
   // The main info (the only one mandatory!): what is the volume of this board
   volumeL: number;
@@ -27,9 +27,9 @@ export interface WindsurfBoard<VariantType>
 }
 
 export enum FinFamily {
-  twintip = 'twintip',
-  foil = 'foil',
-  fins = 'fins'
+  twintip = "twintip",
+  foil = "foil",
+  fins = "fins"
 }
 
 // Number and box types of fin boxes

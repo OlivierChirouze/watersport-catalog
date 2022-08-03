@@ -1,55 +1,56 @@
-import puppeteer, {Browser, EvaluateFn} from "puppeteer";
+import puppeteer, { Browser, EvaluateFn } from "puppeteer";
 
 export class Crawler {
-    private browser: Browser;
+  private browser: Browser;
 
-    async init() {
-        const isDebug = process.argv[2] === "debug" || process.argv[3] === "debug"
+  async init() {
+    const isDebug = process.argv[2] === "debug" || process.argv[3] === "debug";
 
-        this.browser = await puppeteer.launch(isDebug ? {devtools: true, headless: false} : undefined);
+    this.browser = await puppeteer.launch(
+      isDebug ? { devtools: true, headless: false } : undefined
+    );
 
-        return this;
+    return this;
+  }
+
+  async close() {
+    await this.browser.close();
+    this.browser = undefined;
+
+    return this;
+  }
+
+  constructor(private readonly scrollWaitMs = 500) {}
+
+  async crawl<T extends EvaluateFn>(url: string, extractor: T) {
+    if (!this.browser) {
+      await this.init();
     }
 
-    async close() {
-        await this.browser.close();
-        this.browser = undefined;
+    const page = await this.browser.newPage();
 
-        return this;
+    const response = await page.goto(url, {
+      waitUntil: "domcontentloaded",
+      timeout: 10000
+    });
+    if (!response.ok()) {
+      throw new Error(`Page not found ${url}`);
     }
 
-    constructor(private readonly scrollWaitMs = 500) {
+    // Slowly scroll the page to make sure all content is loaded.
+    // Note: can't use a proper promise to wait because of typescript code not properly interpreted by Puppeteer
+    // => a combination of individual evaluate + wait do the trick
+    for (let i = 0; i < 20; i++) {
+      await page.evaluate(() => {
+        window.scrollBy(0, document.body.scrollHeight / 20);
+      });
+      await page.waitForTimeout(this.scrollWaitMs);
     }
 
-    async crawl<T extends EvaluateFn>(url: string, extractor: T) {
-        if (!this.browser) {
-            await this.init()
-        }
+    const data = await page.evaluate(extractor);
 
-        const page = await this.browser.newPage();
+    await this.close();
 
-        const response = await page.goto(url, {
-            waitUntil: "domcontentloaded",
-            timeout: 10000
-        });
-        if (!response.ok()) {
-            throw new Error(`Page not found ${url}`);
-        }
-
-        // Slowly scroll the page to make sure all content is loaded.
-        // Note: can't use a proper promise to wait because of typescript code not properly interpreted by Puppeteer
-        // => a combination of individual evaluate + wait do the trick
-        for (let i = 0; i < 20; i++) {
-            await page.evaluate(() => {
-                window.scrollBy(0, document.body.scrollHeight / 20);
-            });
-            await page.waitForTimeout(this.scrollWaitMs)
-        }
-
-        const data = await page.evaluate(extractor);
-
-        await this.close();
-
-        return data;
-    }
+    return data;
+  }
 }

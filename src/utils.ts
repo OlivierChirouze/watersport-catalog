@@ -1,15 +1,18 @@
 const defaultSeparator = /[-\/]+/;
 
 export const stringToNumber = (val: string): number => {
-    if (val === undefined) return undefined;
+  if (val === undefined) return undefined;
 
-    const num = Number(val.replace(",", "."));
-    if (num === null) throw `Invalid number: ${val}`;
+  const num = Number(val.replace(",", "."));
+  if (num === null) throw `Invalid number: ${val}`;
 
-    return num;
+  return num;
 };
 
-export const split = (val: string, separator: string | RegExp = defaultSeparator) => val.split(separator).map(s => s.trim());
+export const split = (
+  val: string,
+  separator: string | RegExp = defaultSeparator
+) => val.split(separator).map(s => s.trim());
 
 /**
  * Map a string value to a list of integers,
@@ -17,12 +20,15 @@ export const split = (val: string, separator: string | RegExp = defaultSeparator
  * @param val
  * @param separator
  */
-export const stringToNumberArray = (val: string, separator: string | RegExp = defaultSeparator): number[] => {
-    if (val === undefined) return undefined;
+export const stringToNumberArray = (
+  val: string,
+  separator: string | RegExp = defaultSeparator
+): number[] => {
+  if (val === undefined) return undefined;
 
-    return split(val, separator)
-        .map(i => stringToNumber(i))
-        .filter(onlyUnique)
+  return split(val, separator)
+    .map(i => stringToNumber(i))
+    .filter(onlyUnique);
 };
 
 /**
@@ -31,22 +37,24 @@ export const stringToNumberArray = (val: string, separator: string | RegExp = de
  * @param val
  * @param separator
  */
-export const stringToNumberArrayFiltered = (val: string, separator: string | RegExp = defaultSeparator): number[] => {
-    if (val === undefined) return undefined;
+export const stringToNumberArrayFiltered = (
+  val: string,
+  separator: string | RegExp = defaultSeparator
+): number[] => {
+  if (val === undefined) return undefined;
 
-    return split(val, separator)
-        .map(s => s.replace(/[^0-9]*/g, ''))
-        .filter(n => n !== '')
-        .map(stringToNumber)
-        .filter(onlyUnique)
-}
+  return split(val, separator)
+    .map(s => s.replace(/[^0-9]*/g, ""))
+    .filter(n => n !== "")
+    .map(stringToNumber)
+    .filter(onlyUnique);
+};
 
 export const extract = (val: string, regex: RegExp) => {
-    const extracted = val.replace(regex, "$1");
-    if (extracted === val) return undefined;
+  const extracted = val.replace(regex, "$1");
+  if (extracted === val) return undefined;
 
-    return extracted;
+  return extracted;
 };
 
 export const onlyUnique = (value, index, self) => self.indexOf(value) === index;
-
