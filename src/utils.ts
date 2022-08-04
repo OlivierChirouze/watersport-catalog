@@ -11,12 +11,12 @@ export const stringToNumber = (val: string): number => {
 
 export const filteredStringToNumber = (val: string): number => {
   // Take the first number in the string, if any
-  return stringToNumber(val?.match(/\b[\d.,]+\b/)?.[0])
+  return stringToNumber(val?.match(/\b[\d.,]+\b/)?.[0]);
 };
 
 export const split = (
-    val: string,
-    separator: string | RegExp = defaultSeparator
+  val: string,
+  separator: string | RegExp = defaultSeparator
 ) => val.split(separator).map(s => s.trim());
 
 /**
@@ -52,8 +52,8 @@ export const stringToNumberArrayFiltered = (
   if (val === undefined) return undefined;
 
   return split(val, separator)
-      .filter(isNotNullNotUndefined)
-      .map(i => filteredStringToNumber(i))
+    .filter(isNotNullNotUndefined)
+    .map(i => filteredStringToNumber(i))
     .filter(onlyUnique);
 };
 
