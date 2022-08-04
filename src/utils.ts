@@ -1,17 +1,22 @@
 const defaultSeparator = /[-\/]+/;
 
 export const stringToNumber = (val: string): number => {
-  if (val === undefined) return undefined;
+  if (val === undefined || val === null) return undefined;
 
   const num = Number(val.replace(",", "."));
-  if (num === null) throw `Invalid number: ${val}`;
+  if (num === null || isNaN(num)) throw `Invalid number: ${val}`;
 
   return num;
 };
 
+export const filteredStringToNumber = (val: string): number => {
+  // Take the first number in the string, if any
+  return stringToNumber(val?.match(/\b[\d.,]+\b/)?.[0])
+};
+
 export const split = (
-  val: string,
-  separator: string | RegExp = defaultSeparator
+    val: string,
+    separator: string | RegExp = defaultSeparator
 ) => val.split(separator).map(s => s.trim());
 
 /**
@@ -47,9 +52,8 @@ export const stringToNumberArrayFiltered = (
   if (val === undefined) return undefined;
 
   return split(val, separator)
-    .map(s => s.match(/\b[\d.,]+\b/)?.[0]) // Take the first thing that looks like a number
-    .filter(isNotNullNotUndefined)
-    .map(i => stringToNumber(i))
+      .filter(isNotNullNotUndefined)
+      .map(i => filteredStringToNumber(i))
     .filter(onlyUnique);
 };
 
