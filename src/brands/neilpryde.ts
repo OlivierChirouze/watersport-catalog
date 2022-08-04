@@ -1,5 +1,5 @@
-import {Brand, guessLinkType} from "../model/brand";
-import {Crawler} from "../crawler";
+import { Brand, guessLinkType } from "../model/brand";
+import { Crawler } from "../crawler";
 import {
   MastType,
   Picture,
@@ -10,8 +10,13 @@ import {
   WindsurfSail,
   WindsurfSailTopType
 } from "../model";
-import {FileWriter, Parsed} from "../file-writer";
-import {filteredStringToNumberArray, split, stringToNumber, stringToNumberArray} from "../utils";
+import { FileWriter, Parsed } from "../file-writer";
+import {
+  filteredStringToNumberArray,
+  split,
+  stringToNumber,
+  stringToNumberArray
+} from "../utils";
 
 interface Spec {
   title: string;
@@ -251,8 +256,8 @@ class Neilpryde extends FileWriter<VariantType> {
               .filter(n => n !== "")
               .map(getMastType),
             mastLengthsCm: filteredStringToNumberArray(
-                variantData["mastLengthsCm"],
-                /,/
+              variantData["mastLengthsCm"],
+              /,/
             ),
             topType: getTopType(variantData["topType"]),
             variant: {
