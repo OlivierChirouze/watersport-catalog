@@ -1,4 +1,4 @@
-import {Brand, GearSpecificVariant, Picture, Product} from "./model";
+import { Brand, GearSpecificVariant, Picture, Product } from "./model";
 import path from "path";
 import fs from "fs";
 
@@ -50,7 +50,7 @@ export class ObjectToWrite<T> {
 
     const dir = path.dirname(this.fullPath);
     if (!(await fileExists(dir))) {
-      await fs.promises.mkdir(dir, {recursive: true});
+      await fs.promises.mkdir(dir, { recursive: true });
     }
 
     try {
