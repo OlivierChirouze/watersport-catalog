@@ -1,4 +1,4 @@
-import { Brand, GearSpecificVariant, Picture, Product } from "./model";
+import {Brand, GearSpecificVariant, Picture, Product} from "./model";
 import path from "path";
 import fs from "fs";
 
@@ -22,7 +22,7 @@ export const fileExists = async path => {
 };
 
 export class ObjectToWrite<T> {
-  private readonly forceRewrite: boolean;
+  public forceRewrite: boolean;
 
   constructor(public fullPath: string, protected getData: () => T) {
     if (process.argv[2] === "force" || process.argv[3] === "force") {
@@ -36,34 +36,36 @@ export class ObjectToWrite<T> {
   async needToWriteFile(): Promise<boolean> {
     if (!this.forceRewrite) {
       if (await fileExists(this.fullPath)) {
-        console.log(`File already exists: ${this.fullPath}`);
+        console.debug(`File already exists: ${this.fullPath}`);
         return false;
       }
     }
     return true;
   }
 
-  async writeFile(): Promise<void> {
+  async writeFile(): Promise<boolean> {
     if (!(await this.needToWriteFile())) {
-      return;
+      return false;
     }
 
     const dir = path.dirname(this.fullPath);
     if (!(await fileExists(dir))) {
-      await fs.promises.mkdir(dir, { recursive: true });
+      await fs.promises.mkdir(dir, {recursive: true});
     }
 
     try {
       const data = await this.getData();
       if (data === undefined) {
         // There was an error during parsing, don't write file
-        return;
+        return false;
       }
       console.log(`Writing ${this.fullPath}`);
       await fs.promises.writeFile(this.fullPath, JSON.stringify(data, null, 2));
+      return true;
     } catch (e) {
       console.error(`Error writing ${this.fullPath}`);
       console.error(e);
+      return false;
     }
   }
 }
