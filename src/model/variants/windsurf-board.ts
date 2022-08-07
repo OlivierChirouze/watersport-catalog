@@ -1,5 +1,5 @@
 // A windsurfing board
-import {ProductVariant} from "./product-variant";
+import { ProductVariant } from "./product-variant";
 
 // Min and max sail surfaces
 export type SailRange = {
