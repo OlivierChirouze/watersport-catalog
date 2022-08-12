@@ -1,4 +1,4 @@
-import { Brand, GearSpecificVariant, Picture, Product } from "./model";
+import {Brand, GearSpecificVariant, Picture, Product} from "./model";
 import path from "path";
 import fs from "fs";
 
@@ -72,7 +72,7 @@ export class ObjectToWrite<T> {
 
 export class FileWriter<T> {
   static sanitize(value: string) {
-    return value.replace(/ +/g, "_");
+    return value.replace(/[ :\/]+/g, "_");
   }
 
   constructor(
