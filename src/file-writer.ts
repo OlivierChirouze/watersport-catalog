@@ -1,4 +1,4 @@
-import {Brand, GearSpecificVariant, Picture, Product} from "./model";
+import { Brand, GearSpecificVariant, Picture, Product } from "./model";
 import path from "path";
 import fs from "fs";
 
