@@ -1,4 +1,4 @@
-import puppeteer, { Browser, EvaluateFn } from "puppeteer";
+import puppeteer, {Browser, EvaluateFn} from "puppeteer";
 
 export class Crawler {
   private browser: Browser;
@@ -14,7 +14,7 @@ export class Crawler {
   }
 
   async close() {
-    await this.browser.close();
+    await this.browser?.close();
     this.browser = undefined;
 
     return this;
