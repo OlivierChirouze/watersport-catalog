@@ -1,5 +1,5 @@
 // A windsurfing board
-import { ProductVariant } from "./product-variant";
+import {ProductVariant} from "./product-variant";
 
 // Min and max sail surfaces
 export type SailRange = {
@@ -45,7 +45,10 @@ export enum WindsurfFinBoxType {
   DeepTuttleBox = "DeepTuttleBox",
   US = "US", // When length is unknown
   US5 = "US5",
+  US6 = "US6",
   US8 = "US8",
   SlotBox = "SlotBox",
-  PowerBox = "PowerBox"
+  PowerBox = "PowerBox",
+  FCS = "FCS",
+  StarBox = "StarBox",
 }
