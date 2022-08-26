@@ -1,4 +1,4 @@
-import puppeteer, { Browser, EvaluateFn } from "puppeteer";
+import puppeteer, {Browser, EvaluateFn} from "puppeteer";
 
 export class Crawler {
   private browser: Browser;
@@ -20,7 +20,8 @@ export class Crawler {
     return this;
   }
 
-  constructor(private readonly scrollWaitMs = 500) {}
+  constructor(private readonly scrollWaitMs = 500, private readonly timeout = 10000) {
+  }
 
   async crawl<T extends EvaluateFn>(url: string, extractor: T) {
     if (!this.browser) {
@@ -31,7 +32,7 @@ export class Crawler {
 
     const response = await page.goto(url, {
       waitUntil: "domcontentloaded",
-      timeout: 10000
+      timeout: this.timeout
     });
     if (!response.ok()) {
       throw new Error(`Page not found ${url}`);
