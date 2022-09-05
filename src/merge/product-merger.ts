@@ -11,7 +11,7 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
                 const indexInA = variants.findIndex(variantA => compareVariants(variantA, variant) === 0);
                 if (indexInA !== -1) {
                     // A similar variant exists, let's merge their characteristics
-                    variants[indexInA] = this.recursiveMerge(variants[indexInA], variant) as ProductVariant<T>
+                    variants[indexInA] = this.recursiveMerge(keyB, variants[indexInA], variant) as ProductVariant<T>
                 } else {
                     // Does not exist yet, let's add it
                     variants.push(variant);

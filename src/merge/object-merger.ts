@@ -3,43 +3,46 @@ import {onlyUnique} from "../utils";
 
 export class ObjectMerger<U> {
     merge(objectA: U, objectB: U): U {
-        return this.recursiveMerge(objectA, objectB) as U;
+        return this.recursiveMerge('', objectA, objectB) as U;
     }
 
-    protected recursiveMerge(objectA: unknown, objectB: unknown): unknown {
-        if (isEqual(objectA, objectB)) {
-            return objectA
+    protected recursiveMerge(key: string, valueA: unknown, valueB: unknown): unknown {
+        if (isEqual(valueA, valueB)) {
+            return valueA
         }
-        if (objectA === undefined) {
-            return objectB;
-        }
-        Object.keys(objectB).forEach(keyB => {
-            if (this.specificMerge(keyB, objectA as U, objectB as U)) {
-            } else {
-                const valA = objectA[keyB];
-                const valB = objectB[keyB];
 
-                if (valA === undefined) {
-                    // Doesn't exist in A => replace
-                    objectA[keyB] = valB;
-                } else if (Array.isArray(valA) || Array.isArray(valB)) {
-                    // Arrays: just push the new values, keep only unique
-                    objectA[keyB] = this.sortArray(
-                        keyB,
-                        [...valA, ...valB]
-                            .filter(onlyUnique)
-                    )
-                } else if (typeof valA === "object" || typeof valB === "object") {
-                    // Object => recursive merge
-                    objectA[keyB] = this.recursiveMerge(valA, valB)
+        if (valueA === undefined) {
+            return valueB;
+        }
+
+        if (valueB === undefined) {
+            return valueA;
+        }
+
+        if (Array.isArray(valueA) || Array.isArray(valueB)) {
+            // Arrays: just push the new values, keep only unique
+            return this.sortArray(
+                key,
+                [...(valueA as Array<unknown>), ...(valueB as Array<unknown>)]
+                    .filter(onlyUnique)
+            )
+        }
+
+        if (typeof valueA === "object" || typeof valueB === "object") {
+
+            Object.keys(valueB).forEach(keyB => {
+                if (this.specificMerge(keyB, valueA as U, valueB as U)) {
                 } else {
-                    // Scalars: simply replace, but warning if different values
-                    objectA[keyB] = this.getBestOfBoth(keyB, valA, valB)
+                    const subValueA = valueA[keyB];
+                    const subValueB = valueB[keyB];
+                    valueA[keyB] = this.recursiveMerge(keyB, subValueA, subValueB);
                 }
-            }
-        })
+            })
 
-        return objectA
+            return valueA
+        }
+
+        return this.getBestOfBoth(key, valueA, valueB)
     }
 
     protected sortArray(key: string, array: unknown[]) {
