@@ -6,20 +6,13 @@ type Type = {
     "size": number
 };
 describe("product-file-merger", () => {
-    test("merge", () => {
-        const productA: Product<Type> = {
-            brandName: "",
-            description: {},
-            dimensions: [],
-            name: "",
-            pictures: [],
-            programs: [],
-            subType: undefined,
-            type: undefined,
-            variants: [],
-            year: 0
-        }
-        const productB: Product<Type> = {
+    let productA: Product<Type>;
+    let productB: Product<Type>
+
+    const merger = new ProductMerger<Type>();
+
+    beforeEach(() => {
+        productA = {
             "dimensions": [
                 "size",
                 "construction"
@@ -33,25 +26,6 @@ describe("product-file-merger", () => {
                 Program.race,
             ],
             "variants": [
-                {
-                    "variant": {
-                        "size": 125,
-                        "construction": "Gold"
-                    },
-                    "lengthCm": 237,
-                    "widthCm": 76,
-                    "volumeL": 125,
-                    "weightKg": 6.6,
-                    "fins": [
-                        {
-                            "count": 1,
-                            "type": WindsurfFinBoxType.TuttleBox
-                        }
-                    ],
-                    "compatibleFinFamilies": [
-                        FinFamily.fins
-                    ]
-                },
                 {
                     "variant": {
                         "size": 101,
@@ -80,6 +54,25 @@ describe("product-file-merger", () => {
                     "widthCm": 70,
                     "volumeL": 113,
                     "weightKg": 7,
+                    "fins": [
+                        {
+                            "count": 1,
+                            "type": WindsurfFinBoxType.TuttleBox
+                        }
+                    ],
+                    "compatibleFinFamilies": [
+                        FinFamily.fins
+                    ]
+                },
+                {
+                    "variant": {
+                        "size": 125,
+                        "construction": "Gold"
+                    },
+                    "lengthCm": 237,
+                    "widthCm": 76,
+                    "volumeL": 125,
+                    "weightKg": 6.6,
                     "fins": [
                         {
                             "count": 1,
@@ -132,11 +125,203 @@ describe("product-file-merger", () => {
             "description": {},
             pictures: []
         }
+    })
 
-        const merger = new ProductMerger<Type>();
+    describe("merge", () => {
 
-        const merged = merger.merge(productA, productB);
+        it('should merge empty', () => {
 
-        console.log(merged)
+
+            productB = {
+                brandName: "",
+                description: {},
+                dimensions: [],
+                name: "",
+                pictures: [],
+                programs: [],
+                subType: undefined,
+                type: undefined,
+                variants: [],
+                year: 2017
+            }
+
+            expect(merger.merge(productB, productA)).toEqual(productA);
+            expect(merger.merge(productA, productB)).toEqual(productA);
+
+        })
+
+        it('should merge simple', () => {
+            productB = {
+                "dimensions": [],
+                "brandName": "JP Australia",
+                "year": 2017,
+                "name": "Super Sport",
+                "type": ProductType.board,
+                "subType": BoardType.windsurfBoard,
+                "programs": [
+                    Program.freeride,
+                ],
+                "variants": [
+                    {
+                        "variant": {
+                            "size": 125,
+                            "construction": "other"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 76,
+                        "volumeL": 125,
+                        "weightKg": 6.6,
+                        "fins": [
+                            {
+                                "count": 2,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    }
+                ],
+                "description": {en: "this is my description"},
+                pictures: []
+            };
+
+            let expected: Product<Type> = {
+                "dimensions": [
+                    "size",
+                    "construction"
+                ],
+                "brandName": "JP Australia",
+                "year": 2017,
+                "name": "Super Sport",
+                "type": ProductType.board,
+                "subType": BoardType.windsurfBoard,
+                "programs": [
+                    Program.freeride,
+                    Program.race,
+                ],
+                "variants": [
+                    {
+                        "variant": {
+                            "size": 101,
+                            "construction": "Pro"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 64,
+                        "volumeL": 101,
+                        "weightKg": 6.5,
+                        "fins": [
+                            {
+                                "count": 1,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    },
+                    {
+                        "variant": {
+                            "size": 113,
+                            "construction": "Pro"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 70,
+                        "volumeL": 113,
+                        "weightKg": 7,
+                        "fins": [
+                            {
+                                "count": 1,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    },
+                    {
+                        "variant": {
+                            "size": 125,
+                            "construction": "Gold"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 76,
+                        "volumeL": 125,
+                        "weightKg": 6.6,
+                        "fins": [
+                            {
+                                "count": 1,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    },
+                    {
+                        "variant": {
+                            "size": 125,
+                            "construction": "other"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 76,
+                        "volumeL": 125,
+                        "weightKg": 6.6,
+                        "fins": [
+                            {
+                                "count": 2,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    },
+                    {
+                        "variant": {
+                            "size": 125,
+                            "construction": "Pro"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 76,
+                        "volumeL": 125,
+                        "weightKg": 7.5,
+                        "fins": [
+                            {
+                                "count": 1,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    },
+                    {
+                        "variant": {
+                            "size": 137,
+                            "construction": "Pro"
+                        },
+                        "lengthCm": 237,
+                        "widthCm": 82,
+                        "volumeL": 137,
+                        "weightKg": 7.9,
+                        "fins": [
+                            {
+                                "count": 1,
+                                "type": WindsurfFinBoxType.TuttleBox
+                            }
+                        ],
+                        "compatibleFinFamilies": [
+                            FinFamily.fins
+                        ]
+                    }
+                ],
+                "description": {en: "this is my description"},
+                pictures: []
+            }
+
+            expect(merger.merge(productA, productB)).toEqual(expected);
+            expect(merger.merge(productB, productA)).toEqual(expected);
+        })
     })
 })
