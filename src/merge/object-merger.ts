@@ -1,7 +1,5 @@
-import {Product} from "./model";
 import {isEqual} from "lodash";
-import {onlyUnique} from "./utils";
-import {ProductVariant} from "./model/variants/product-variant";
+import {onlyUnique} from "../utils";
 
 export class ObjectMerger<U> {
     merge(objectA: U, objectB: U): U {
@@ -75,57 +73,3 @@ export class ObjectMerger<U> {
     }
 }
 
-export class ProductMerger<T> extends ObjectMerger<Product<T>> {
-    protected specificMerge(keyB: string, objectA: Product<T>, objectB: Product<T>) {
-        if (keyB as keyof Product<T> === "variants") {
-            // Variants
-            const variants = (objectA[keyB] as ProductVariant<T>[]);
-            (objectB[keyB] as ProductVariant<T>[]).forEach(variant => {
-                const indexInA = variants.findIndex(variantA => variantA.variant === variant.variant);
-                if (indexInA !== -1) {
-                    // A similar variant exists, let's merge their characteristics
-                    variants[indexInA] = this.recursiveMerge(variants[indexInA], variant) as ProductVariant<T>
-                } else {
-                    // Does not exist yet, let's add it
-                    variants.push(variant);
-                }
-            })
-
-            objectA[keyB] = this.sortArray(keyB, variants);
-
-            return true;
-        }
-        return false;
-    }
-
-    protected sortArray(key: string, array: unknown[]) {
-        const getScore = (val: string) => {
-            let score: number | string;
-            switch (val) {
-                case 'edition':
-                    score = 0
-                    break;
-                case 'size':
-                    score = 1
-                    break;
-                case 'construction':
-                    score = 2
-                    break;
-                default:
-                    return val;
-            }
-
-            return score.toString();
-        }
-        const compareVariants = (a: string, b: string) => getScore(a).localeCompare(getScore(b))
-
-        if (key as keyof Product<T> === 'dimensions') {
-
-            return array.sort(compareVariants)
-        } else if (key as keyof Product<T> === 'variants') {
-            const toString = (a: ProductVariant<T>) => JSON.stringify(a.variant, Object.keys(a.variant).sort(compareVariants))
-            return (array as ProductVariant<T>[]).sort((a, b) => toString(a).localeCompare(toString(b)))
-        }
-        return super.sortArray(key, array);
-    }
-}

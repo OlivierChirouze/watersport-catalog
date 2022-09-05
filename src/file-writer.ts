@@ -1,7 +1,8 @@
 import {Brand, GearSpecificVariant, Picture, Product} from "./model";
 import path from "path";
 import fs from "fs";
-import {ObjectMerger, ProductMerger} from "./object-merger";
+import {ObjectMerger} from "./merge/object-merger";
+import {ProductMerger} from "./merge/product-merger";
 
 export interface Parsed<T> {
   dimensions: (keyof T)[];
