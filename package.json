@@ -30,7 +30,9 @@
   "peerDependencies": {
     "ts-lib": "0.0.5"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash.isequal": "^4.5.0"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.24",
     "@types/lodash": "^4.14.171",

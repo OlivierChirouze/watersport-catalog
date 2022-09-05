@@ -1,6 +1,7 @@
-import { Brand, GearSpecificVariant, Picture, Product } from "./model";
+import {Brand, GearSpecificVariant, Picture, Product} from "./model";
 import path from "path";
 import fs from "fs";
+import {ObjectMerger, ProductMerger} from "./object-merger";
 
 export interface Parsed<T> {
   dimensions: (keyof T)[];
@@ -21,20 +22,29 @@ export const fileExists = async path => {
   return result !== false;
 };
 
-export class ObjectToWrite<T> {
-  public forceRewrite: boolean;
+export enum WritePolicy {
+  ignoreExisting,
+  overwrite,
+  merge
+}
 
-  constructor(public fullPath: string, protected getData: () => T) {
+export class ObjectToWrite<T> {
+  public writePolicy: WritePolicy;
+  protected merger: ObjectMerger<T>;
+
+  constructor(public fullPath: string, protected getData: () => Promise<T>) {
     if (process.argv[2] === "force" || process.argv[3] === "force") {
-      this.forceRewrite = true;
+      this.writePolicy = WritePolicy.overwrite;
       console.log("called with -- force option: will Overwrite files");
     } else {
-      this.forceRewrite = false;
+      this.writePolicy = WritePolicy.ignoreExisting;
     }
+
+    this.merger = new ObjectMerger();
   }
 
   async needToWriteFile(): Promise<boolean> {
-    if (!this.forceRewrite) {
+    if (this.writePolicy === WritePolicy.ignoreExisting) {
       if (await fileExists(this.fullPath)) {
         console.debug(`File already exists: ${this.fullPath}`);
         return false;
@@ -54,19 +64,37 @@ export class ObjectToWrite<T> {
     }
 
     try {
-      const data = await this.getData();
+      let data = await this.getData();
       if (data === undefined) {
         // There was an error during parsing, don't write file
         return false;
       }
-      console.log(`Writing ${this.fullPath}`);
+
+      let action = "Writing"
+
+      if (this.writePolicy === WritePolicy.merge && await fileExists(this.fullPath)) {
+        const existingContent = JSON.parse((await fs.promises.readFile(this.fullPath)).toString());
+        data = this.merger.merge(existingContent, data);
+        action = 'Merging'
+      }
+
+      console.log(`${action} ${this.fullPath}`);
       await fs.promises.writeFile(this.fullPath, JSON.stringify(data, null, 2));
       return true;
+
     } catch (e) {
       console.error(`Error writing ${this.fullPath}`);
       console.error(e);
       return false;
     }
+  }
+}
+
+export class ProductToWrite<T> extends ObjectToWrite<Product<T>> {
+  constructor(fullPath: string, getData: () => Promise<Product<T>>) {
+    super(fullPath, getData);
+    // Specific merger to handle "variants" specifics
+    this.merger = new ProductMerger();
   }
 }
 
@@ -76,9 +104,9 @@ export class FileWriter<T> {
   }
 
   constructor(
-    public brandName: string,
-    protected brandsDir = path.join(path.dirname(__dirname), "data", "brands"),
-    protected productsDir = path.join(
+      public brandName: string,
+      protected brandsDir = path.join(path.dirname(__dirname), "data", "brands"),
+      protected productsDir = path.join(
       path.dirname(__dirname),
       "data",
       "products",
@@ -91,14 +119,14 @@ export class FileWriter<T> {
     modelYear: number,
     getProductDescription: () => Promise<Product<T>>
   ) {
-    const product = new ObjectToWrite(
-      path.join(
-        this.productsDir,
-        `${FileWriter.sanitize(this.brandName)}_${FileWriter.sanitize(
-          modelName
-        )}_${modelYear}.json`
-      ),
-      getProductDescription
+    const product = new ProductToWrite(
+        path.join(
+            this.productsDir,
+            `${FileWriter.sanitize(this.brandName)}_${FileWriter.sanitize(
+                modelName
+            )}_${modelYear}.json`
+        ),
+        getProductDescription
     );
 
     await product.writeFile();
