@@ -1,17 +1,18 @@
 import fs from "fs";
 import path from "path";
-import { Brand, Product } from "./model";
-import { FileWriter } from "./file-writer";
+import {Brand, Product} from "./model";
+import {FileWriter} from "./file-writer";
 
 export class DataImporter {
-  protected fileWriters: { [brandName: string]: FileWriter<unknown> } = {};
+    protected fileWriters: { [brandName: string]: FileWriter<unknown> } = {};
 
-  constructor(
-    protected importDir = path.join(__dirname, "..", "data-import")
-  ) {}
+    constructor(
+        protected importDir = path.join(__dirname, "..", "data-import")
+    ) {
+    }
 
-  async loadImportProducts() {
-    const productsDir = path.join(this.importDir, "products");
+    async loadImportProducts() {
+        const productsDir = path.join(this.importDir, "products");
     const files = await fs.promises.readdir(productsDir);
 
     await Promise.all(
@@ -30,11 +31,7 @@ export class DataImporter {
         });
 
         console.log(`Loading ${f}`);
-        return await this.getBrandFileWriter(
-          brandName
-        ).writeProductFile(product.name, product.year, () =>
-          Promise.resolve(product)
-        );
+          return await this.getBrandFileWriter(brandName).writeProductFile(product, () => Promise.resolve(product));
       })
     );
   }

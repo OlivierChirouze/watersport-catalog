@@ -1,6 +1,6 @@
 // Water sport activity
-import { GearSpecificVariant } from "./variants";
-import { isEqual } from "lodash";
+import {GearSpecificVariant} from "./variants";
+import {isEqual} from "lodash";
 
 // "type" of activity
 export enum Program {
@@ -48,10 +48,13 @@ export interface Product<VariantType> {
   type: ProductType;
   subType: ProductSubType;
   brandName: string;
-  // A name should be unique for a brand and a year
+  // A name should be unique for a brand a year and a version
   name: string;
   // 1st release year. Can remain a few years at the catalogue
   year: number;
+  // Some product have a version that lasts for many years
+  version?: string;
+  // URL to get more info about the product
   infoUrl?: string;
   // Main programs the gear is targeting
   programs: Program[];

@@ -1,5 +1,5 @@
-import { Brand, guessLinkType } from "../model/brand";
-import { Crawler } from "../crawler";
+import {Brand, guessLinkType} from "../model/brand";
+import {Crawler} from "../crawler";
 import {
   Picture,
   Product,
@@ -10,8 +10,8 @@ import {
   WindsurfSail,
   WindsurfSailTopType
 } from "../model";
-import { FileWriter, Parsed } from "../file-writer";
-import { extract, stringToNumber, stringToNumberArray } from "../utils";
+import {FileWriter, Parsed} from "../file-writer";
+import {extract, stringToNumber, stringToNumberArray} from "../utils";
 
 interface Img {
   title: string;
@@ -289,9 +289,8 @@ class GaastraRecent extends FileWriter<VariantType> {
     programs: Program[]
   ) {
     await this.writeProductFile(
-      modelName,
-      year,
-      this.getProductDescription(url, modelName, year, type, subType, programs)
+        {brandName: this.brandName, name: modelName, year},
+        this.getProductDescription(url, modelName, year, type, subType, programs)
     );
   }
 
@@ -410,18 +409,17 @@ class GaastraRecent extends FileWriter<VariantType> {
   async parseCatalog(year: number, catalog: CatalogProduct[]) {
     for (let catalogProduct of catalog) {
       await this.writeProductFile(
-        catalogProduct.name,
-        year,
-        async (): Promise<Product<any>> => {
-          try {
-            const {
-              dimensions,
-              variants,
-              description,
-              pictures
-            } = await this.parse(catalogProduct.url, catalogProduct.name);
-            // Merge pictures from the category's page and from the product's page
-            const mergedPictures = pictures.map(({ variant, url }) => ({
+          {brandName: this.brandName, name: catalogProduct.name, year},
+          async (): Promise<Product<any>> => {
+            try {
+              const {
+                dimensions,
+                variants,
+                description,
+                pictures
+              } = await this.parse(catalogProduct.url, catalogProduct.name);
+              // Merge pictures from the category's page and from the product's page
+              const mergedPictures = pictures.map(({variant, url}) => ({
               variant,
               // Remove "size" constraint from image URL (ex: -600x857)
               url: this.stripImageUrl(url)

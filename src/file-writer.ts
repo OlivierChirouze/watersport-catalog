@@ -99,6 +99,8 @@ export class ProductToWrite<T> extends ObjectToWrite<Product<T>> {
   }
 }
 
+export type ProductIdentifier<T = unknown> = Pick<Product<T>, 'brandName' | 'name' | 'version' | 'year'>
+
 export class FileWriter<T> {
   static sanitize(value: string) {
     return value.replace(/[ :\/]+/g, "_");
@@ -108,25 +110,26 @@ export class FileWriter<T> {
       public brandName: string,
       protected brandsDir = path.join(path.dirname(__dirname), "data", "brands"),
       protected productsDir = path.join(
-      path.dirname(__dirname),
-      "data",
-      "products",
-      FileWriter.sanitize(brandName)
-    )
-  ) {}
+          path.dirname(__dirname),
+          "data",
+          "products",
+          FileWriter.sanitize(brandName)
+      )
+  ) {
+  }
+
+  getProductFileName(productIdentifier: ProductIdentifier) {
+    const {brandName, name, year, version} = productIdentifier;
+    const versionSuffix = version?.length > 0 ? `_${version}` : '';
+    return `${FileWriter.sanitize(brandName)}_${FileWriter.sanitize(name)}${versionSuffix}_${year}.json`
+  }
 
   async writeProductFile(
-    modelName: string,
-    modelYear: number,
-    getProductDescription: () => Promise<Product<T>>
+      productIdentifier: ProductIdentifier,
+      getProductDescription: () => Promise<Product<T>>
   ) {
     const product = new ProductToWrite(
-        path.join(
-            this.productsDir,
-            `${FileWriter.sanitize(this.brandName)}_${FileWriter.sanitize(
-                modelName
-            )}_${modelYear}.json`
-        ),
+        path.join(this.productsDir, this.getProductFileName(productIdentifier)),
         getProductDescription
     );
 
