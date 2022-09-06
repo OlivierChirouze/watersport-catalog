@@ -33,6 +33,11 @@ export class ObjectToWrite<T> {
   public writePolicy: WritePolicy;
   protected merger: ObjectMerger<T>;
 
+  setWritePolicy(writePolicy: WritePolicy) {
+    this.writePolicy = writePolicy;
+    return this;
+  }
+
   constructor(public fullPath: string, protected getData: () => Promise<T>) {
     if (process.argv[2] === "force" || process.argv[3] === "force") {
       this.writePolicy = WritePolicy.overwrite;
@@ -92,10 +97,18 @@ export class ObjectToWrite<T> {
 }
 
 export class ProductToWrite<T> extends ObjectToWrite<Product<T>> {
-  constructor(fullPath: string, getData: () => Promise<Product<T>>) {
-    super(fullPath, getData);
+  constructor(
+      productsDir: string,
+      productIdentifier: ProductIdentifier, getData: () => Promise<Product<T>>) {
+    super(path.join(productsDir, ProductToWrite.getProductFileName(productIdentifier)), getData);
     // Specific merger to handle "variants" specifics
     this.merger = new ProductMerger();
+  }
+
+  static getProductFileName(productIdentifier: ProductIdentifier) {
+    const {brandName, name, year, version} = productIdentifier;
+    const versionSuffix = version?.length > 0 ? `_${version}` : '';
+    return `${FileWriter.sanitize(brandName)}_${FileWriter.sanitize(name)}${versionSuffix}_${year}.json`
   }
 }
 
@@ -118,18 +131,12 @@ export class FileWriter<T> {
   ) {
   }
 
-  getProductFileName(productIdentifier: ProductIdentifier) {
-    const {brandName, name, year, version} = productIdentifier;
-    const versionSuffix = version?.length > 0 ? `_${version}` : '';
-    return `${FileWriter.sanitize(brandName)}_${FileWriter.sanitize(name)}${versionSuffix}_${year}.json`
-  }
-
   async writeProductFile(
       productIdentifier: ProductIdentifier,
       getProductDescription: () => Promise<Product<T>>
   ) {
     const product = new ProductToWrite(
-        path.join(this.productsDir, this.getProductFileName(productIdentifier)),
+        this.productsDir, productIdentifier,
         getProductDescription
     );
 
