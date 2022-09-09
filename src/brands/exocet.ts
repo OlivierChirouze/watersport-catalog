@@ -193,7 +193,7 @@ class Exocet extends FileWriter<VariantType> {
     finFamilies: FinFamily[]
   ) {
     await this.writeProductFile(
-        {brandName: this.brandName, name: modelName, year},
+        {brandName: this.brandName, name: modelName, year, type, subType},
         this.getProductDescription(
             url,
             modelName,

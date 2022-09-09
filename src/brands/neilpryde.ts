@@ -405,7 +405,7 @@ class Neilpryde extends FileWriter<VariantType> {
         programs: Program[]
     ) {
         await this.writeProductFile(
-            {brandName: this.brandName, name: modelName, year},
+            {brandName: this.brandName, name: modelName, year, type, subType},
             this.getProductDescription(url, modelName, year, type, subType, programs)
         );
     }

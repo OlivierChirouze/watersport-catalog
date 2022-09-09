@@ -289,7 +289,7 @@ class GaastraRecent extends FileWriter<VariantType> {
     programs: Program[]
   ) {
     await this.writeProductFile(
-        {brandName: this.brandName, name: modelName, year},
+        {brandName: this.brandName, name: modelName, year, type, subType},
         this.getProductDescription(url, modelName, year, type, subType, programs)
     );
   }
@@ -409,7 +409,7 @@ class GaastraRecent extends FileWriter<VariantType> {
   async parseCatalog(year: number, catalog: CatalogProduct[]) {
     for (let catalogProduct of catalog) {
       await this.writeProductFile(
-          {brandName: this.brandName, name: catalogProduct.name, year},
+          {brandName: this.brandName, name: catalogProduct.name, year, type:ProductType.propulsion, subType: PropulsionType.windsurfSail},
           async (): Promise<Product<any>> => {
             try {
               const {

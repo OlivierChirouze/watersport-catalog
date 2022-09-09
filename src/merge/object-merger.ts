@@ -3,7 +3,10 @@ import {onlyUnique} from "../utils";
 import {notNullOrUndefined} from "../../../utils";
 
 export class ObjectMerger<U> {
+    warnings: unknown[][] = [];
+
     merge(objectA: U, objectB: U): U {
+        this.warnings = [];
         return this.recursiveMerge('', objectA, objectB) as U;
     }
 
@@ -61,7 +64,7 @@ export class ObjectMerger<U> {
         }
 
         if (valA !== valB) {
-            console.debug(`Different values for in source and target for "${key}":`, valA, valB)
+            this.warnings.push([`Different values for source and target for "${key}":`, valA, valB])
         }
 
         return valB;
