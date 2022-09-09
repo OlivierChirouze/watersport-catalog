@@ -76,15 +76,13 @@ export class ObjectToWrite<T> {
         return false;
       }
 
-      let action = "Writing"
-
       if (this.writePolicy === WritePolicy.merge && await fileExists(this.fullPath)) {
         const existingContent = JSON.parse((await fs.promises.readFile(this.fullPath)).toString());
+        console.log(`Merging ${this.fullPath}`);
         data = this.merger.merge(existingContent, data);
-        action = 'Merging'
+      } else {
+        console.log(`Writing ${this.fullPath}`);
       }
-
-      console.log(`${action} ${this.fullPath}`);
       await fs.promises.writeFile(this.fullPath, JSON.stringify(data, null, 2));
       return true;
 

@@ -1,5 +1,6 @@
 import {isEqual} from "lodash";
 import {onlyUnique} from "../utils";
+import {notNullOrUndefined} from "../../../utils";
 
 export class ObjectMerger<U> {
     merge(objectA: U, objectB: U): U {
@@ -46,7 +47,9 @@ export class ObjectMerger<U> {
     }
 
     protected sortArray(key: string, array: unknown[]) {
-        return array.sort((a, b) => (a.toString().localeCompare(b.toString())))
+        return array
+          .filter(notNullOrUndefined)
+          .sort((a, b) => (a.toString().localeCompare(b.toString())))
     }
 
     protected getBestOfBoth(key: string, valA: unknown, valB: unknown) {
