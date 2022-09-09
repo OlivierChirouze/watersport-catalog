@@ -108,7 +108,8 @@ export class ProductToWrite<T> extends ObjectToWrite<Product<T>> {
     static getProductFileName(productIdentifier: ProductIdentifier) {
         const {brandName, name, year, version, subType} = productIdentifier;
         const versionSuffix = version?.length > 0 ? `_${version}` : '';
-        return `${FileWriter.sanitize(brandName)}_${capitalize(subType)}_${FileWriter.sanitize(name)}${versionSuffix}_${year}.json`
+        const typePrefix = subType.replace(/^(\w)/, v => v.toUpperCase());
+        return `${FileWriter.sanitize(brandName)}_${typePrefix}_${FileWriter.sanitize(name)}${versionSuffix}_${year}.json`
     }
 }
 
