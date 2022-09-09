@@ -1,4 +1,4 @@
-import {Crawler} from "../crawler";
+import { Crawler } from "../crawler";
 import {
   BoardType,
   Brand,
@@ -11,8 +11,8 @@ import {
   WindsurfBoard,
   WindsurfFinBoxType
 } from "../model";
-import {FileWriter, Parsed} from "../file-writer";
-import {extract, stringToNumber} from "../utils";
+import { FileWriter, Parsed } from "../file-writer";
+import { extract, stringToNumber } from "../utils";
 
 type Extract = {
   data: { [name: string]: { [key: string]: string } };
@@ -193,16 +193,16 @@ class Exocet extends FileWriter<VariantType> {
     finFamilies: FinFamily[]
   ) {
     await this.writeProductFile(
-        {brandName: this.brandName, name: modelName, year, type, subType},
-        this.getProductDescription(
-            url,
-            modelName,
-            year,
-            type,
-            subType,
-            programs,
-            finFamilies
-        )
+      { brandName: this.brandName, name: modelName, year, type, subType },
+      this.getProductDescription(
+        url,
+        modelName,
+        year,
+        type,
+        subType,
+        programs,
+        finFamilies
+      )
     );
   }
 

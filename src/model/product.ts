@@ -1,6 +1,6 @@
 // Water sport activity
-import {GearSpecificVariant} from "./variants";
-import {isEqual} from "lodash";
+import { GearSpecificVariant } from "./variants";
+import { isEqual } from "lodash";
 
 // "type" of activity
 export enum Program {
