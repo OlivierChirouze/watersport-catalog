@@ -1,6 +1,28 @@
 import { isEqual } from "lodash";
-import { onlyUnique } from "../utils";
 import { notNullOrUndefined } from "../../../utils";
+
+export const onlyUniqueObject = <T>(value: T, index: number, self: T[]) => self.findIndex(v => compareObjects(v, value)) === index;
+
+const isObject = v => "[object Object]" === Object.prototype.toString.call(v);
+
+const sortObject = function(o) {
+  if (Array.isArray(o)) {
+    return o.sort().map(sortObject);
+  } else if (isObject(o)) {
+    return Object
+      .keys(o)
+      .sort()
+      .reduce((a, k) => {
+        a[k] = sortObject(o[k]);
+
+        return a;
+      }, {});
+  }
+
+  return o;
+};
+
+const compareObjects = (a, b) => JSON.stringify(sortObject(a)) === JSON.stringify(sortObject(b));
 
 export class ObjectMerger<U> {
   warnings: unknown[][] = [];
@@ -32,7 +54,7 @@ export class ObjectMerger<U> {
       return this.sortArray(
         key,
         [...(valueA as Array<unknown>), ...(valueB as Array<unknown>)].filter(
-          onlyUnique
+          onlyUniqueObject
         )
       );
     }

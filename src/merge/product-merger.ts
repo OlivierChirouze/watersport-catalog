@@ -1,4 +1,4 @@
-import { GearSpecificVariant, Product, WindsurfBoard, WindsurfSail } from "../model";
+import { Product, WindsurfBoard, WindsurfSail } from "../model";
 import { ProductVariant } from "../model/variants/product-variant";
 import { ObjectMerger } from "./object-merger";
 
