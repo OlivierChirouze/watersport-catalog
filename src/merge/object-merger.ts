@@ -68,11 +68,14 @@ export class ObjectMerger<U> {
     }
 
     if (valA !== valB) {
+      /*
       this.warnings.push([
         `Different values for source and target for "${key}":`,
         valA,
         valB
       ]);
+       */
+      throw `Different values for source and target for "${key}": ${valA} ${valB}`;
     }
 
     return valB;

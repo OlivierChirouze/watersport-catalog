@@ -1,4 +1,4 @@
-import { Product } from "../model";
+import { GearSpecificVariant, Product, WindsurfBoard, WindsurfSail } from "../model";
 import { ProductVariant } from "../model/variants/product-variant";
 import { ObjectMerger } from "./object-merger";
 
@@ -42,6 +42,27 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
       return (array as ProductVariant<T>[]).sort(compareVariants);
     }
     return super.sortArray(key, array);
+  }
+
+
+  protected getBestOfBoth(key: string, valA: unknown, valB: unknown): unknown {
+    const variantKey = key as keyof ProductVariant<T>;
+    const sailKey = key as keyof WindsurfSail<T>;
+    const boardKey = key as keyof WindsurfBoard<T>;
+
+    // Consider that measured values (in cm and in kg) can be considered identical if very close (1% diff)
+    if (variantKey === "weightKg" || sailKey === "luffLengthCm" || sailKey === "boomLengthsCm" || sailKey === "mastLengthsCm" || sailKey === "mastExtensionLengthsCm" || boardKey === "widthCm") {
+      if (Math.abs((valA as number) - (valB as number)) / (valA as number) <= 0.1) {
+        this.warnings.push([
+          `Close values for source and target for "${key}", will keep ${valA}:`,
+          valA,
+          valB
+        ]);
+
+        return valA;
+      }
+    }
+    return super.getBestOfBoth(key, valA, valB);
   }
 }
 

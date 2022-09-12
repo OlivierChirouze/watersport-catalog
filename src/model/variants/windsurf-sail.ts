@@ -32,6 +32,4 @@ export interface WindsurfSail<VariantType> extends ProductVariant<VariantType> {
   battenCount?: number;
   // Number of cams
   camCount?: number;
-  // Weight
-  weightKg?: number;
 }
