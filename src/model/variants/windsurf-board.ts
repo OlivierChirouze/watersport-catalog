@@ -16,8 +16,6 @@ export interface WindsurfBoard<VariantType>
   lengthCm?: number;
   // Width
   widthCm?: number;
-  // Weight
-  weightKg?: number;
   // Number of strap inserts
   strapInsertCount?: number;
   // Configuration of fins: how many of each type
