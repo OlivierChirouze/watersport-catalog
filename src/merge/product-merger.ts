@@ -50,11 +50,11 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
     const sailKey = key as keyof WindsurfSail<T>;
     const boardKey = key as keyof WindsurfBoard<T>;
 
-    // Consider that measured values (in cm and in kg) can be considered identical if very close (1% diff)
+    // Consider that measured values (in cm and in kg) can be considered identical if very close (5% diff)
     if (variantKey === "weightKg"
       || sailKey === "luffLengthCm" || sailKey === "boomLengthsCm" || sailKey === "mastLengthsCm" || sailKey === "mastExtensionLengthsCm"
       || boardKey === "widthCm" || boardKey === "lengthCm") {
-      if (Math.abs((valA as number) - (valB as number)) / (valA as number) <= 0.1) {
+      if (Math.abs((valA as number) - (valB as number)) / (valA as number) <= 0.05) {
         this.warnings.push([
           `Close values for source and target for "${key}", will keep ${valA}:`,
           valA,
