@@ -1,0 +1,156 @@
+{
+  "name": "Speed",
+  "year": 2015,
+  "programs": ["race"],
+  "brandName": "Patrik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 39,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 2275,
+      "widthCm": 395,
+      "volumeL": 39,
+      "weightKg": 3.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 43,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 2280,
+      "widthCm": 430,
+      "volumeL": 43,
+      "weightKg": 4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 48,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 48,
+      "volumeL": 48,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 51
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 51,
+      "lengthCm": 227.5,
+      "widthCm": 39.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 53,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 2300,
+      "widthCm": 530,
+      "volumeL": 53,
+      "weightKg": 5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 61
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 61,
+      "lengthCm": 228,
+      "widthCm": 43,
+      "weightKg": 4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 71
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 71,
+      "lengthCm": 229,
+      "widthCm": 48,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.8
+      }
+    },
+    {
+      "variant": {
+        "size": 81
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 81,
+      "lengthCm": 230,
+      "widthCm": 53,
+      "weightKg": 5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.8
+      }
+    }
+  ],
+  "pictures": []
+}

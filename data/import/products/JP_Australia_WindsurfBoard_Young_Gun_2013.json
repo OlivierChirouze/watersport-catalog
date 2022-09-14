@@ -1,0 +1,126 @@
+{
+  "name": "Young Gun",
+  "year": 2013,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 55,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 55,
+      "lengthCm": 207,
+      "widthCm": 50,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 240,
+      "widthCm": 70,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Es"
+      },
+      "volumeL": 55,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "ES"
+      },
+      "volumeL": 55,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Es"
+      },
+      "volumeL": 85,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "ES"
+      },
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Rave",
+  "year": 2011,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 70
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 70,
+      "lengthCm": 226,
+      "widthCm": 53,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 77,
+      "lengthCm": 228,
+      "widthCm": 56,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 230,
+      "widthCm": 58,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    }
+  ],
+  "pictures": []
+}

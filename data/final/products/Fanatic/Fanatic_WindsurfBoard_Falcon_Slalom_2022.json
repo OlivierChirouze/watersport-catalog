@@ -1,0 +1,116 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Falcon Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 56,
+      "volumeL": 80,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 60,
+      "volumeL": 90,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 62,
+      "volumeL": 97,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 68.5,
+      "volumeL": 107,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 71.5,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 121,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

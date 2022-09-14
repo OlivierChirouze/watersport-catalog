@@ -1,0 +1,107 @@
+{
+  "name": "Freestyle",
+  "year": 2013,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Pro"
+      },
+      "volumeL": 100,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 228,
+      "widthCm": 64,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 107
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 228,
+      "widthCm": 67,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.8,
+        "toM2": 6.9
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Pro"
+      },
+      "volumeL": 90,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 230,
+      "widthCm": 60,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    }
+  ],
+  "pictures": []
+}

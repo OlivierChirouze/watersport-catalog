@@ -1,0 +1,94 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Elix",
+  "year": 2019,
+  "name": "GT1X",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Cphp Carbon Preg"
+      },
+      "lengthCm": 242,
+      "widthCm": 69,
+      "volumeL": 117,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Cphp Carbone Preg"
+      },
+      "lengthCm": 245,
+      "widthCm": 75,
+      "volumeL": 117,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Cphp Carbon Preg"
+      },
+      "lengthCm": 245,
+      "widthCm": 75,
+      "volumeL": 132,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Cphp Carbone Preg"
+      },
+      "lengthCm": 245,
+      "widthCm": 75,
+      "volumeL": 132,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

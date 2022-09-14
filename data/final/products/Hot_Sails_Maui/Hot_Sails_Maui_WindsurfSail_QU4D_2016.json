@@ -1,0 +1,133 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Hot Sails Maui",
+  "year": 2016,
+  "name": "QU4D",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "weightKg": 2.6,
+      "boomLengthsCm": [138],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [9],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 349
+    },
+    {
+      "variant": {
+        "size": 3.9
+      },
+      "surfaceM2": 3.9,
+      "weightKg": 2.7,
+      "boomLengthsCm": [144],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [25],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 365
+    },
+    {
+      "variant": {
+        "size": 4.3
+      },
+      "surfaceM2": 4.3,
+      "weightKg": 2.8,
+      "boomLengthsCm": [153],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [7],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 377
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "weightKg": 2.9,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [13],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 383
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "weightKg": 3,
+      "boomLengthsCm": [162],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [17],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 387
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 3.2,
+      "boomLengthsCm": [173],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [36, 6],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 406
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 3.3,
+      "boomLengthsCm": [179],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [20, 50],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 420
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "weightKg": 3.1,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 398
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

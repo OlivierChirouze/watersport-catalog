@@ -1,0 +1,119 @@
+{
+  "name": "Swag",
+  "year": 2013,
+  "programs": ["freeride", "wave"],
+  "brandName": "Point-7",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.2,
+        "edition": "3DL"
+      },
+      "surfaceM2": 4.2,
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.7,
+        "edition": "3DL"
+      },
+      "surfaceM2": 4.7,
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.1,
+        "edition": "3DL"
+      },
+      "surfaceM2": 5.1,
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "luffLengthCm": 335,
+      "mastLengthsCm": [340, 370, 400],
+      "mastIMCS": [15],
+      "boomLengthsCm": [134],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 358,
+      "mastLengthsCm": [340, 370, 400],
+      "mastIMCS": [15],
+      "boomLengthsCm": [146],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 380,
+      "mastLengthsCm": [340, 370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [154],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 398,
+      "mastLengthsCm": [340, 370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [160],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [340, 370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

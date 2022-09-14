@@ -1,0 +1,248 @@
+{
+  "name": "Manta",
+  "year": 2013,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 65,
+        "construction": "Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 65,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 71,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 63,
+        "construction": "Biax Carbon",
+        "edition": "STD"
+      },
+      "volumeL": 63,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Biax Carbon",
+        "edition": "STD"
+      },
+      "volumeL": 74,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 106
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 233,
+      "widthCm": 66,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 7.9
+      }
+    },
+    {
+      "variant": {
+        "size": 116
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 233,
+      "widthCm": 71,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.1,
+        "toM2": 8.6
+      }
+    },
+    {
+      "variant": {
+        "size": 129
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 129,
+      "lengthCm": 233,
+      "widthCm": 81,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.9,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 233,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 63
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 63,
+      "lengthCm": 222,
+      "widthCm": 49,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 74,
+      "lengthCm": 237,
+      "widthCm": 54,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 88,
+      "lengthCm": 240,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.1
+      }
+    },
+    {
+      "variant": {
+        "size": 98
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 98,
+      "lengthCm": 234,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.6,
+        "toM2": 7.1
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,41 @@
+{
+  "name": "eXperience",
+  "year": 2014,
+  "programs": ["freeride"],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 275,
+      "widthCm": 68,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 295,
+      "widthCm": 74.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

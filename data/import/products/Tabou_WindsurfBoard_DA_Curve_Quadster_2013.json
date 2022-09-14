@@ -1,0 +1,173 @@
+{
+  "name": "DA Curve Quadster",
+  "year": 2013,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 67,
+        "construction": "Flex Light Ck Construction"
+      },
+      "volumeL": 67,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 67,
+        "construction": "Flex Light CK"
+      },
+      "volumeL": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 67
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 67,
+      "lengthCm": 224,
+      "widthCm": 53,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 74,
+      "lengthCm": 226,
+      "widthCm": 54.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Flex Light Ck Construction"
+      },
+      "volumeL": 79,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Flex Light CK"
+      },
+      "volumeL": 79,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 79
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 228,
+      "widthCm": 56,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 230,
+      "widthCm": 57.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.1
+      }
+    },
+    {
+      "variant": {
+        "size": 91
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 91,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

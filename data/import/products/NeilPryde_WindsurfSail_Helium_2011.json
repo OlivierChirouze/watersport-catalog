@@ -1,0 +1,65 @@
+{
+  "name": "Helium",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [
+        430
+      ],
+      "boomLengthsCm": [
+        192
+      ],
+      "weightKg": 4.63,
+      "battenCount": 5,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 471,
+      "mastLengthsCm": [
+        460
+      ],
+      "boomLengthsCm": [
+        212
+      ],
+      "weightKg": 5,
+      "battenCount": 5,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 493,
+      "mastLengthsCm": [
+        490
+      ],
+      "boomLengthsCm": [
+        232
+      ],
+      "weightKg": 5.37,
+      "battenCount": 5,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

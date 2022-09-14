@@ -1,0 +1,73 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Naish",
+  "year": 2020,
+  "name": "Lift",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "weightKg": 2.41,
+      "boomLengthsCm": [150],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 352
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "weightKg": 2.72,
+      "boomLengthsCm": [175],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 382
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "weightKg": 2.99,
+      "boomLengthsCm": [192],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 408
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "weightKg": 3.28,
+      "boomLengthsCm": [208],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [0],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 430
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

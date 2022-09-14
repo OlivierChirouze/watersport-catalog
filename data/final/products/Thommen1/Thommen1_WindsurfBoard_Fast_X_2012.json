@@ -1,0 +1,67 @@
+{
+  "name": "Fast X",
+  "year": 2012,
+  "programs": ["slalom"],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 117
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 117,
+      "lengthCm": 250,
+      "widthCm": 64,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 127
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 127,
+      "lengthCm": 252,
+      "widthCm": 69,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 137
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 137,
+      "lengthCm": 255,
+      "widthCm": 72.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

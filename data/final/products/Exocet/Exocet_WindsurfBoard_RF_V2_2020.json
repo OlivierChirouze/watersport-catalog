@@ -1,0 +1,146 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Exocet",
+  "year": 2020,
+  "name": "RF",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Pro Model",
+        "edition": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 100,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Pro Model",
+        "edition": "Pro"
+      },
+      "lengthCm": 198,
+      "widthCm": 71,
+      "volumeL": 71,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "Pro Model",
+        "edition": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 81,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Pro Model",
+        "edition": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 91,
+      "volumeL": 91,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 100,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Pro"
+      },
+      "lengthCm": 198,
+      "widthCm": 71,
+      "volumeL": 71,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 81,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 91,
+      "volumeL": 91,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

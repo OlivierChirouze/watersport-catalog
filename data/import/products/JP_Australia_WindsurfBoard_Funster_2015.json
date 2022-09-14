@@ -1,0 +1,117 @@
+{
+  "name": "Funster",
+  "year": 2015,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 258,
+      "widthCm": 75,
+      "weightKg": 11.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 258,
+      "widthCm": 80,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 258,
+      "widthCm": 91,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 260,
+      "widthCm": 101,
+      "weightKg": 14.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

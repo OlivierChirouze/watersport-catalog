@@ -1,0 +1,93 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Vandal Sails",
+  "year": 2017,
+  "name": "Rookie",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "mastLengthsCm": [
+        30,
+        340
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "boomLengthsCm": [
+        145
+      ],
+      "luffLengthCm": 340,
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "mastLengthsCm": [
+        30,
+        300
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "boomLengthsCm": [
+        135
+      ],
+      "luffLengthCm": 300,
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "mastLengthsCm": [
+        30,
+        340
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ]
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "boomLengthsCm": [
+        150
+      ],
+      "luffLengthCm": 370,
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

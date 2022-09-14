@@ -1,0 +1,53 @@
+{
+  "name": "Mini Ripper",
+  "year": 2010,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 0.8
+      },
+      "surfaceM2": 0.8,
+      "luffLengthCm": 170,
+      "boomLengthsCm": [
+        80
+      ],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 1.4
+      },
+      "surfaceM2": 1.4,
+      "luffLengthCm": 200,
+      "boomLengthsCm": [
+        95
+      ],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 230,
+      "boomLengthsCm": [
+        110
+      ],
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

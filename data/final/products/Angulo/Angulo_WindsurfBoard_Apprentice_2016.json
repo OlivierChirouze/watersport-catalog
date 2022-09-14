@@ -1,0 +1,32 @@
+{
+  "name": "Apprentice",
+  "year": 2016,
+  "programs": ["beginner"],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 280,
+      "widthCm": 80,
+      "weightKg": 10,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.2,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

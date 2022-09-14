@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2021,
+  "name": "GS-F",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "boomLengthsCm": [241],
+      "mastLengthsCm": [520, 550],
+      "mastExtensionLengthsCm": [40, 70],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 590
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [26],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 486
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [219],
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [28, 58],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 518
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [229],
+      "mastLengthsCm": [490, 520],
+      "mastExtensionLengthsCm": [38, 68],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 558
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

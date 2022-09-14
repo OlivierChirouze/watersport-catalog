@@ -1,0 +1,29 @@
+{
+  "dimensions": ["size"],
+  "brandName": "JP Australia",
+  "year": 2018,
+  "name": "Magic Air",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 200
+      },
+      "lengthCm": 250,
+      "widthCm": 84,
+      "volumeL": 200,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

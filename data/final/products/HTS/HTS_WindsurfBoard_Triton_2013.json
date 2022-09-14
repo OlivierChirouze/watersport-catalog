@@ -1,0 +1,103 @@
+{
+  "name": "Triton",
+  "year": 2013,
+  "programs": ["race"],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 52
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 52,
+      "lengthCm": 230,
+      "widthCm": 43,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 70
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 230,
+      "widthCm": 50,
+      "weightKg": 5.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 114
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 114,
+      "lengthCm": 230,
+      "widthCm": 67,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 230,
+      "widthCm": 78,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 140,
+      "lengthCm": 230,
+      "widthCm": 85,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

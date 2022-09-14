@@ -1,0 +1,190 @@
+{
+  "name": "S-Type",
+  "year": 2015,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.6,
+        "edition": "SL"
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 463,
+      "mastLengthsCm": [
+        100,
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        201
+      ],
+      "weightKg": 4.7,
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        3,
+        363
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6,
+        "edition": "SL"
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [
+        100,
+        430,
+        460
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        193
+      ],
+      "weightKg": 4.5,
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        340
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.3,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 472,
+      "mastLengthsCm": [
+        100,
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        208
+      ],
+      "weightKg": 4.9,
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        12,
+        372
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        215
+      ],
+      "weightKg": 5.2,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        24
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.3,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.3,
+      "luffLengthCm": 496,
+      "mastLengthsCm": [
+        100,
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        225
+      ],
+      "weightKg": 5.4,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        36,
+        396
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.8,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.8,
+      "luffLengthCm": 507,
+      "mastLengthsCm": [
+        460,
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        233
+      ],
+      "weightKg": 5.6,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        47
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,50 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Severne",
+  "year": 2022,
+  "name": "Predator",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 110
+      },
+      "lengthCm": 200,
+      "widthCm": 70,
+      "volumeL": 110,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "lengthCm": 205,
+      "widthCm": 74,
+      "volumeL": 125,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "lengthCm": 185,
+      "widthCm": 64,
+      "volumeL": 95,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -68,7 +68,7 @@ type ProductInfo = { [key: string]: { name: string; programs: Program[] } };
 
 class Neilpryde extends FileWriter<VariantType> {
   constructor(protected crawler: Crawler = new Crawler()) {
-    super("Neilpryde");
+    super("NeilPryde");
   }
 
   extract(): Extract {

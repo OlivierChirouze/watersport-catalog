@@ -1,0 +1,103 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "North Sails",
+  "year": 2017,
+  "name": "Idol",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.55,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [370, 100],
+      "mastExtensionLengthsCm": [9, 279],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.7,
+      "boomLengthsCm": [163],
+      "mastLengthsCm": [370, 100],
+      "mastExtensionLengthsCm": [24, 294],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 2.9,
+      "boomLengthsCm": [165],
+      "mastLengthsCm": [400, 100],
+      "mastExtensionLengthsCm": [11, 311],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 3.15,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2,
+        "edition": "LTD"
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 3.15,
+      "boomLengthsCm": [173],
+      "mastLengthsCm": [100],
+      "mastExtensionLengthsCm": [345],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6,
+        "edition": "LTD"
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 2.55,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,67 @@
+{
+  "name": "DG",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Double Sandwich Full Carbon Kevlar"
+      },
+      "lengthCm": 227,
+      "widthCm": 57.2,
+      "volumeL": 83,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 227,
+      "widthCm": 57.2,
+      "weightKg": 6.3
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Double Sandwich Full Carbon Kevlar"
+      },
+      "lengthCm": 230,
+      "widthCm": 60.6,
+      "volumeL": 93,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 93,
+      "lengthCm": 230,
+      "widthCm": 60.6,
+      "weightKg": 6.7
+    }
+  ],
+  "pictures": []
+}

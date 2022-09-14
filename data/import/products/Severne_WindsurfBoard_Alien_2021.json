@@ -1,0 +1,71 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Severne",
+  "year": 2021,
+  "name": "Alien",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "lengthCm": 190,
+      "widthCm": 65,
+      "volumeL": 105,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "lengthCm": 200,
+      "widthCm": 70,
+      "volumeL": 115,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "lengthCm": 210,
+      "widthCm": 75,
+      "volumeL": 125,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

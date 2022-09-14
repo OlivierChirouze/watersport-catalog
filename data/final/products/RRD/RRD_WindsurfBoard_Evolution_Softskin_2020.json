@@ -1,0 +1,77 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2020,
+  "name": "Evolution Softskin",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Softskin"
+      },
+      "lengthCm": 242,
+      "widthCm": 67,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Softskin"
+      },
+      "lengthCm": 245,
+      "widthCm": 71,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Softskin"
+      },
+      "lengthCm": 248,
+      "widthCm": 73,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Softskin"
+      },
+      "lengthCm": 248,
+      "widthCm": 76,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Indy",
+  "year": 2015,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 428,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        164,
+        166
+      ],
+      "weightKg": 4.26,
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        174,
+        176
+      ],
+      "weightKg": 4.46,
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        10
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "weightKg": 5,
+      "boomLengthsCm": [
+        196
+      ],
+      "mastLengthsCm": [
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        12
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 472
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 478,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        204
+      ],
+      "weightKg": 4.98,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [
+        430,
+        460
+      ],
+      "mastIMCS": [
+        21,
+        25
+      ],
+      "boomLengthsCm": [
+        188,
+        190
+      ],
+      "weightKg": 4.75,
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        26
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        190
+      ],
+      "weightKg": 4.72,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "weightKg": 5.23,
+      "boomLengthsCm": [
+        208
+      ],
+      "mastLengthsCm": [
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        24
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 484
+    }
+  ],
+  "pictures": []
+}

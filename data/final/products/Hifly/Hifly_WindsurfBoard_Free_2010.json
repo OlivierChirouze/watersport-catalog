@@ -1,0 +1,70 @@
+{
+  "name": "Free",
+  "year": 2010,
+  "programs": ["freeride"],
+  "brandName": "Hifly",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 118
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 118,
+      "lengthCm": 246,
+      "widthCm": 66,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 132
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 254,
+      "widthCm": 74,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 12
+      }
+    }
+  ],
+  "pictures": []
+}

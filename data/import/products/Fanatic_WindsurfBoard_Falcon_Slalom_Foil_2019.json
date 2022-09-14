@@ -1,0 +1,59 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Fanatic",
+  "year": 2019,
+  "name": "Falcon Slalom Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Full Bxc Full Biax Carbon Sandwich",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 130,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Full Bxc Full Biax Carbon Sandwich",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 140,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

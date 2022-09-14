@@ -1,0 +1,58 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AV-Boards",
+  "year": 2022,
+  "name": "Nuvolari",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106
+      },
+      "lengthCm": 228,
+      "widthCm": 66,
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 119
+      },
+      "lengthCm": 229,
+      "widthCm": 71,
+      "volumeL": 119,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132
+      },
+      "lengthCm": 227,
+      "widthCm": 78,
+      "volumeL": 132,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

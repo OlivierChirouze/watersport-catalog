@@ -1,0 +1,89 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "AV-Boards",
+  "year": 2020,
+  "name": "Chubby",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 107
+      },
+      "lengthCm": 233,
+      "widthCm": 68,
+      "volumeL": 107,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 117
+      },
+      "lengthCm": 234,
+      "widthCm": 73,
+      "volumeL": 117,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 127
+      },
+      "lengthCm": 235,
+      "widthCm": 78,
+      "volumeL": 127,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137
+      },
+      "lengthCm": 237,
+      "widthCm": 83,
+      "volumeL": 137,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,28 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "Foil Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 95
+      },
+      "lengthCm": 189,
+      "widthCm": 64.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

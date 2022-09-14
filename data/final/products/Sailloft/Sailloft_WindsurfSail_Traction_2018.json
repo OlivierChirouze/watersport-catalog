@@ -1,0 +1,78 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Sailloft",
+  "year": 2018,
+  "name": "Traction",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "boomLengthsCm": [208],
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [35, 5],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 495
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "boomLengthsCm": [228],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [23],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 513
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [218],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [11],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 501
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "boomLengthsCm": [244],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 524
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [236],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 518
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

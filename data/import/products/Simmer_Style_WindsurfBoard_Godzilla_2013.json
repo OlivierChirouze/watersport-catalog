@@ -1,0 +1,59 @@
+{
+  "name": "Godzilla",
+  "year": 2013,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "C"
+      },
+      "volumeL": 150,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "N"
+      },
+      "volumeL": 150,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 240,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

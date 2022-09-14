@@ -1,0 +1,36 @@
+{
+  "name": "TB",
+  "year": 2010,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 183,
+        "edition": "Formula"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 183,
+      "lengthCm": 231,
+      "widthCm": 100,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

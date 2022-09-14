@@ -1,0 +1,83 @@
+{
+  "name": "Ripper",
+  "year": 2015,
+  "programs": ["beginner", "kids"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Hrs"
+      },
+      "lengthCm": 242,
+      "widthCm": 69,
+      "volumeL": 102,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 242,
+      "widthCm": 69,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Hrs"
+      },
+      "lengthCm": 245,
+      "widthCm": 69,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 245,
+      "widthCm": 69,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

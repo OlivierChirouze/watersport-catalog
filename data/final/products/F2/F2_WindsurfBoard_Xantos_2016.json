@@ -1,0 +1,43 @@
+{
+  "dimensions": ["size"],
+  "brandName": "F2",
+  "year": 2016,
+  "name": "Xantos",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 155
+      },
+      "lengthCm": 255,
+      "widthCm": 80,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "lengthCm": 260,
+      "widthCm": 90,
+      "volumeL": 180,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

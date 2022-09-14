@@ -1,0 +1,31 @@
+{
+  "name": "SpeedReplica",
+  "year": 2011,
+  "programs": ["race"],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 243,
+      "widthCm": 48.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 6
+      }
+    }
+  ],
+  "pictures": []
+}

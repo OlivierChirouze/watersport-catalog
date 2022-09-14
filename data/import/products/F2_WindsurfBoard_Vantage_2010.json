@@ -1,0 +1,80 @@
+{
+  "name": "Vantage",
+  "year": 2010,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 126
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 126,
+      "lengthCm": 245,
+      "widthCm": 69,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 146
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 146,
+      "lengthCm": 255,
+      "widthCm": 76,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 156
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 156,
+      "lengthCm": 255,
+      "widthCm": 80,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

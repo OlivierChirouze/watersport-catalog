@@ -1,0 +1,38 @@
+{
+  "name": "Trans X",
+  "year": 2011,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Drops",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 155,
+      "lengthCm": 258,
+      "widthCm": 78.5,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

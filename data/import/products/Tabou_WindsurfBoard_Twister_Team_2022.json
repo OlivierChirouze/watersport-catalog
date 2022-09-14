@@ -1,0 +1,57 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Tabou",
+  "year": 2022,
+  "name": "Twister Team",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Pvc Full Sandwich Carbon",
+        "edition": "Carbon"
+      },
+      "lengthCm": 209,
+      "widthCm": 61.5,
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Pvc Full Sandwich Carbon",
+        "edition": "Carbon"
+      },
+      "lengthCm": 209,
+      "widthCm": 63.5,
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

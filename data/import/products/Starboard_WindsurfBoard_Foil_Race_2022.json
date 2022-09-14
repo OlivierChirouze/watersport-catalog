@@ -1,0 +1,93 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2022,
+  "name": "Foil Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 153,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Sandwich"
+      },
+      "lengthCm": 215,
+      "widthCm": 85,
+      "volumeL": 153,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 213,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Sandwich"
+      },
+      "lengthCm": 220,
+      "widthCm": 100,
+      "volumeL": 213,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 153,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 215,
+      "widthCm": 85,
+      "volumeL": 153,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 213,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 220,
+      "widthCm": 100,
+      "volumeL": 213,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

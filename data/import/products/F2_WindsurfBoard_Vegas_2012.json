@@ -1,0 +1,238 @@
+{
+  "name": "Vegas",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Gts",
+        "edition": "GTS"
+      },
+      "volumeL": 126,
+      "weightKg": 9.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "edition": "GTS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 126,
+      "lengthCm": 247,
+      "widthCm": 69,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Gts",
+        "edition": "GTS"
+      },
+      "volumeL": 136,
+      "weightKg": 9.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "edition": "GTS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 136,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "construction": "Gts",
+        "edition": "GTS"
+      },
+      "volumeL": 146,
+      "weightKg": 9.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "GTS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 146,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 126,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 126,
+      "lengthCm": 247,
+      "widthCm": 69,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 136,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 136,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 146,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "GTS"
+      },
+      "volumeL": 126,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "GTS"
+      },
+      "volumeL": 136,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "construction": "GTS"
+      },
+      "volumeL": 146,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

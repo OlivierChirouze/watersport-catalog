@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2021,
+  "name": "Hi-Flight",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "E-tech"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 150,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 150,
+      "weightKg": 10,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

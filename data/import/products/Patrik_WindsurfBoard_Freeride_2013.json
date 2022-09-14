@@ -1,0 +1,44 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Carbon"
+      },
+      "volumeL": 125,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Carbon"
+      },
+      "volumeL": 135,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

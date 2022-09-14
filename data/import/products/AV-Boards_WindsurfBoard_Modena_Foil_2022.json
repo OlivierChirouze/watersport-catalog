@@ -1,0 +1,34 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "AV-Boards",
+  "year": 2022,
+  "name": "Modena Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 91
+      },
+      "lengthCm": 222,
+      "widthCm": 91,
+      "volumeL": 91,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

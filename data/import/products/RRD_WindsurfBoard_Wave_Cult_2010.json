@@ -1,0 +1,150 @@
+{
+  "name": "Wave Cult",
+  "year": 2010,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 65,
+        "edition": "HCW"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 65,
+      "lengthCm": 234,
+      "widthCm": 52,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 70,
+        "edition": "HCW"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 70,
+      "lengthCm": 234,
+      "widthCm": 53.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 75,
+        "edition": "X-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 75,
+      "lengthCm": 234,
+      "widthCm": 55.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.8,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "edition": "X-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 236,
+      "widthCm": 57,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 85,
+        "edition": "X-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 238,
+      "widthCm": 59,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "X-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 240,
+      "widthCm": 62,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.3
+      }
+    }
+  ],
+  "pictures": []
+}

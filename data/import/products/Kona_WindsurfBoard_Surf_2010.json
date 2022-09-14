@@ -1,0 +1,38 @@
+{
+  "name": "Surf",
+  "year": 2010,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Kona",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 170,
+      "lengthCm": 320,
+      "widthCm": 65,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

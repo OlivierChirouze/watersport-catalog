@@ -1,0 +1,194 @@
+{
+  "name": "Wave",
+  "year": 2010,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 68,
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 68,
+      "lengthCm": 230,
+      "widthCm": 53,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 76,
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 231,
+      "widthCm": 56,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 232,
+      "widthCm": 58.5,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 66,
+        "edition": "Twin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 66,
+      "lengthCm": 232,
+      "widthCm": 52.5,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "Twin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 74,
+      "lengthCm": 233,
+      "widthCm": 55,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Twin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 234,
+      "widthCm": 57.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "Twin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 235,
+      "widthCm": 60,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Twin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 225,
+      "widthCm": 62,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Seal",
+  "year": 2012,
+  "programs": ["freestyle"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 215,
+      "widthCm": 61,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,157 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Starboard",
+  "year": 2021,
+  "name": "iSonic Luderitz Special",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 53,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 225,
+      "widthCm": 44,
+      "volumeL": 53,
+      "weightKg": 4.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 86,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 96,
+      "weightKg": 5.74,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 228,
+      "widthCm": 67,
+      "volumeL": 113,
+      "weightKg": 6.14,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 228,
+      "widthCm": 72,
+      "volumeL": 123,
+      "weightKg": 6.63,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 228,
+      "widthCm": 77,
+      "volumeL": 126,
+      "weightKg": 6.82,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 228,
+      "widthCm": 83,
+      "volumeL": 138,
+      "weightKg": 7.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 139,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 139,
+      "weightKg": 7.84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

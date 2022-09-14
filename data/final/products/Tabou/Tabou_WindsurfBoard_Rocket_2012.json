@@ -1,0 +1,391 @@
+{
+  "name": "Rocket",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 246,
+      "widthCm": 63,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 242,
+      "widthCm": 66,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 237,
+      "widthCm": 58,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 105,
+      "weightKg": 9.35,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 105,
+      "weightKg": 9.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 246,
+      "widthCm": 63,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 115,
+      "weightKg": 9.35,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 115,
+      "weightKg": 9.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 242,
+      "widthCm": 66,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 125,
+      "weightKg": 9.35,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 125,
+      "weightKg": 9.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 135,
+      "weightKg": 9.35,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 135,
+      "weightKg": 9.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 145,
+      "weightKg": 9.35,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 145,
+      "weightKg": 9.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 95,
+      "weightKg": 9.35,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 95,
+      "weightKg": 9.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 237,
+      "widthCm": 58,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.7
+      }
+    }
+  ],
+  "pictures": []
+}

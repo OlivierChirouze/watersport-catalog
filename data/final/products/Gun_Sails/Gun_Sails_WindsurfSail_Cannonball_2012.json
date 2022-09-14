@@ -1,0 +1,118 @@
+{
+  "name": "Cannonball",
+  "year": 2012,
+  "programs": ["freeride", "race", "slalom"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 445,
+      "mastLengthsCm": [25, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [197],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 434,
+      "mastLengthsCm": [25, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [191],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 471,
+      "mastLengthsCm": [25, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [214],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [25, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [209],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 506,
+      "mastLengthsCm": [25, 460, 490],
+      "mastIMCS": [28],
+      "boomLengthsCm": [233],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [25, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [224],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 514,
+      "mastLengthsCm": [25, 460, 490],
+      "mastIMCS": [28],
+      "boomLengthsCm": [242],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [12],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

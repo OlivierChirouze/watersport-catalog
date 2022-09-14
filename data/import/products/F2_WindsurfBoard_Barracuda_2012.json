@@ -1,0 +1,166 @@
+{
+  "name": "Barracuda",
+  "year": 2012,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 72,
+        "edition": "Quad"
+      },
+      "volumeL": 72,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "edition": "Quad"
+      },
+      "volumeL": 77,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Quad"
+      },
+      "volumeL": 84,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Quad"
+      },
+      "volumeL": 92,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 72,
+      "lengthCm": 221,
+      "widthCm": 53,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 77,
+      "lengthCm": 222,
+      "widthCm": 55.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 223,
+      "widthCm": 58,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 223,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

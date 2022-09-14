@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2018,
+  "name": "Rio",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 196,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 295,
+      "widthCm": 79,
+      "volumeL": 196,
+      "weightKg": 13.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 219,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 308,
+      "widthCm": 81.5,
+      "volumeL": 219,
+      "weightKg": 15.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 259,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 333,
+      "widthCm": 87,
+      "volumeL": 259,
+      "weightKg": 16.85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

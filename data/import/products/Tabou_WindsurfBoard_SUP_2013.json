@@ -1,0 +1,75 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Tabou",
+  "year": 2013,
+  "name": "SUP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "C"
+      },
+      "volumeL": 150,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "N"
+      },
+      "volumeL": 150
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "C"
+      },
+      "volumeL": 180,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "N"
+      },
+      "volumeL": 180
+    },
+    {
+      "variant": {
+        "size": 210,
+        "construction": "C"
+      },
+      "volumeL": 210,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 210,
+        "construction": "N"
+      },
+      "volumeL": 210
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

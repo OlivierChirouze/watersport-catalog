@@ -1,0 +1,55 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2020,
+  "name": "Loop",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.4
+      },
+      "surfaceM2": 2.4,
+      "boomLengthsCm": [125],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 280
+    },
+    {
+      "variant": {
+        "size": 3.1
+      },
+      "surfaceM2": 3.1,
+      "boomLengthsCm": [132],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [5],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 305
+    },
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 328
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

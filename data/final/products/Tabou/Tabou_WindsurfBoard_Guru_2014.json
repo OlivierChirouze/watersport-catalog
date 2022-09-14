@@ -1,0 +1,161 @@
+{
+  "name": "Guru",
+  "year": 2014,
+  "programs": ["beginner", "freeride"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Ast"
+      },
+      "volumeL": 125,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "AST"
+      },
+      "volumeL": 125,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 258,
+      "widthCm": 70,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Ast"
+      },
+      "volumeL": 135,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "AST"
+      },
+      "volumeL": 135,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 258,
+      "widthCm": 72,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Ast"
+      },
+      "volumeL": 145,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "AST"
+      },
+      "volumeL": 145,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 258,
+      "widthCm": 76,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Ast"
+      },
+      "volumeL": 155,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "AST"
+      },
+      "volumeL": 155,
+      "weightKg": 9.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 155,
+      "lengthCm": 266,
+      "widthCm": 76,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

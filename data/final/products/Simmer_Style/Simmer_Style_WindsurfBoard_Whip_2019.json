@@ -1,0 +1,33 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2019,
+  "name": "Whip",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102
+      },
+      "lengthCm": 221,
+      "widthCm": 62,
+      "volumeL": 102,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "lengthCm": 221,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

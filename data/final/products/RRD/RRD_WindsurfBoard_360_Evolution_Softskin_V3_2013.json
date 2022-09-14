@@ -1,0 +1,75 @@
+{
+  "name": "360 Evolution Softskin",
+  "year": 2013,
+  "programs": ["freeride"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 138,
+        "construction": "N"
+      },
+      "volumeL": 138,
+      "weightKg": 10.57,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 249,
+      "widthCm": 75,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "N"
+      },
+      "volumeL": 148,
+      "weightKg": 10,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 155,
+      "lengthCm": 251,
+      "widthCm": 78,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 158
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 158,
+      "lengthCm": 257,
+      "widthCm": 81,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ]
+    }
+  ],
+  "pictures": [],
+  "version": "V3"
+}

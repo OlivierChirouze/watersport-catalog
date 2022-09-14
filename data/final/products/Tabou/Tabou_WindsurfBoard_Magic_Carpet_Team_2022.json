@@ -1,0 +1,58 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Tabou",
+  "year": 2022,
+  "name": "Magic Carpet Team",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110
+      },
+      "lengthCm": 189,
+      "widthCm": 73.2,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "lengthCm": 195,
+      "widthCm": 76.8,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "lengthCm": 195,
+      "widthCm": 81,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,88 @@
+{
+  "dimensions": ["size"],
+  "brandName": "NeilPryde",
+  "year": 2019,
+  "name": "RS:Flight",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "battenCount": 8,
+      "camCount": 3,
+      "topType": "fixed",
+      "weightKg": 5.95,
+      "boomLengthsCm": [163, 169],
+      "luffLengthCm": 416,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM"]
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "battenCount": 8,
+      "camCount": 3,
+      "topType": "fixed",
+      "weightKg": 6.35,
+      "boomLengthsCm": [176, 182],
+      "luffLengthCm": 441,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [11],
+      "masTypes": ["RDM"]
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "battenCount": 8,
+      "camCount": 3,
+      "topType": "fixed",
+      "weightKg": 6.15,
+      "boomLengthsCm": [203, 209],
+      "luffLengthCm": 490,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [30],
+      "masTypes": ["RDM"]
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "battenCount": 8,
+      "camCount": 3,
+      "topType": "fixed",
+      "weightKg": 5.8,
+      "boomLengthsCm": [190, 196],
+      "luffLengthCm": 466,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["RDM"]
+    },
+    {
+      "variant": {
+        "size": 8.8
+      },
+      "surfaceM2": 8.8,
+      "battenCount": 8,
+      "camCount": 3,
+      "topType": "fixed",
+      "weightKg": 6.5,
+      "boomLengthsCm": [215, 221],
+      "luffLengthCm": 515,
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [25],
+      "masTypes": ["RDM"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

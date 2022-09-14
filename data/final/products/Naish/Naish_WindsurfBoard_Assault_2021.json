@@ -1,0 +1,141 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Naish",
+  "year": 2021,
+  "name": "Assault",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "S-glass"
+      },
+      "lengthCm": 220,
+      "widthCm": 62,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 220,
+      "widthCm": 62,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "S-glass"
+      },
+      "lengthCm": 217,
+      "widthCm": 56,
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 217,
+      "widthCm": 56,
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "S-glass"
+      },
+      "lengthCm": 219,
+      "widthCm": 58,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 219,
+      "widthCm": 58,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "S-glass"
+      },
+      "lengthCm": 219,
+      "widthCm": 60,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 219,
+      "widthCm": 60,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

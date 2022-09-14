@@ -1,0 +1,50 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "AHD",
+  "year": 2013,
+  "name": "Freewave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 67
+      },
+      "volumeL": 67,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 87
+      },
+      "volumeL": 87,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

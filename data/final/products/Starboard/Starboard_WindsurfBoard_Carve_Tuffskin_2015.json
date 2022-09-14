@@ -1,0 +1,109 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2015,
+  "name": "Carve Tuffskin",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 246,
+      "widthCm": 66.5,
+      "volumeL": 111,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 252,
+      "widthCm": 72.5,
+      "volumeL": 121,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 252,
+      "widthCm": 75.5,
+      "volumeL": 131,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 251,
+      "widthCm": 79.5,
+      "volumeL": 141,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 251,
+      "widthCm": 81,
+      "volumeL": 151,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 254,
+      "widthCm": 85,
+      "volumeL": 161,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Tabou",
+  "year": 2022,
+  "name": "Manta Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 54,
+        "construction": "100% Carbon",
+        "edition": "Custom"
+      },
+      "lengthCm": 228,
+      "widthCm": 54,
+      "volumeL": 54,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "100% Carbon",
+        "edition": "Custom"
+      },
+      "lengthCm": 228,
+      "widthCm": 48,
+      "volumeL": 64,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

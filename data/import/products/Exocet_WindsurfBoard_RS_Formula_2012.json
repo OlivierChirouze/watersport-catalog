@@ -1,0 +1,38 @@
+{
+  "name": "RS Formula",
+  "year": 2012,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 161
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 161,
+      "lengthCm": 235,
+      "widthCm": 100,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.4,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

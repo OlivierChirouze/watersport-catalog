@@ -1,0 +1,29 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2022,
+  "name": "Young Gun Air",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 270,
+        "construction": "Air"
+      },
+      "lengthCm": 270,
+      "widthCm": 80,
+      "volumeL": 270,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

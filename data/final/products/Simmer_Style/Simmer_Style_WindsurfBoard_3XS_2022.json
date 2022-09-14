@@ -1,0 +1,109 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Simmer Style",
+  "year": 2022,
+  "name": "3XS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 68.5,
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 71.5,
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 83,
+      "volumeL": 126,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 136,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 240,
+      "widthCm": 55,
+      "volumeL": 80,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 232,
+      "widthCm": 62,
+      "volumeL": 96,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

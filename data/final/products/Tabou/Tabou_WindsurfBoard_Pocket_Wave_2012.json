@@ -1,0 +1,154 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tabou",
+  "year": 2012,
+  "name": "Pocket Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 69,
+        "construction": "Carbon"
+      },
+      "volumeL": 69,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 69,
+        "construction": "Carbone"
+      },
+      "volumeL": 69,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbon"
+      },
+      "volumeL": 75,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbone"
+      },
+      "volumeL": 75,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon-Kevlar"
+      },
+      "volumeL": 80,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon"
+      },
+      "volumeL": 80,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbone"
+      },
+      "volumeL": 80,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "volumeL": 80,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon"
+      },
+      "volumeL": 85,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbone"
+      },
+      "volumeL": 85,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon"
+      },
+      "volumeL": 93,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbone"
+      },
+      "volumeL": 93,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Moto",
+  "year": 2014,
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 464,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        190
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.88,
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 452,
+      "mastLengthsCm": [
+        430,
+        460,
+        90
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        183
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.88,
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 478,
+      "mastLengthsCm": [
+        460,
+        90
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        200
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.88,
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

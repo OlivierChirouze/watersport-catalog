@@ -1,0 +1,133 @@
+{
+  "name": "X-Cite Ride",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 122,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 122,
+      "lengthCm": 250,
+      "widthCm": 68,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 134,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 134,
+      "lengthCm": 251,
+      "widthCm": 72,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 146,
+      "lengthCm": 252,
+      "widthCm": 76,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 122,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 122,
+      "lengthCm": 250,
+      "widthCm": 68,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 134,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 134,
+      "lengthCm": 251,
+      "widthCm": 72,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 146,
+      "lengthCm": 252,
+      "widthCm": 76,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2021,
+  "name": "FunstAIR Sport",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 200,
+        "construction": "Eva"
+      },
+      "lengthCm": 280,
+      "widthCm": 85,
+      "volumeL": 200,
+      "weightKg": 12.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 200,
+        "construction": "EVA"
+      },
+      "lengthCm": 280,
+      "widthCm": 85,
+      "volumeL": 200,
+      "weightKg": 12.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Link Tandem",
+  "year": 2013,
+  "programs": ["freeride"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 295
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 295,
+      "lengthCm": 380,
+      "widthCm": 76,
+      "weightKg": 18,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "AtomIQ Windsurfer",
+  "year": 2015,
+  "programs": ["beginner", "freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Tuffskin AST"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Tufskin Ast"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

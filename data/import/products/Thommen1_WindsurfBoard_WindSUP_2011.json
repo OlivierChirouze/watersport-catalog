@@ -1,0 +1,37 @@
+{
+  "name": "WindSUP",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 190
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 190,
+      "lengthCm": 340,
+      "widthCm": 78,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

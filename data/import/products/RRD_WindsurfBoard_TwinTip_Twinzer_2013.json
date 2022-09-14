@@ -1,0 +1,84 @@
+{
+  "name": "TwinTip Twinzer",
+  "year": 2013,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 88,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 88,
+      "lengthCm": 233,
+      "widthCm": 62,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 100,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 64,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 109,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 109,
+      "lengthCm": 233,
+      "widthCm": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.8
+      }
+    }
+  ],
+  "pictures": []
+}

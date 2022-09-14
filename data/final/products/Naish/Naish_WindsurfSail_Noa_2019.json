@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Naish",
+  "year": 2019,
+  "name": "Noa",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 4.41,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "weightKg": 4.64,
+      "boomLengthsCm": [188],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 4.96,
+      "boomLengthsCm": [200],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 4.41,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,95 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2020,
+  "name": "Super Sport",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Pro"
+      },
+      "lengthCm": 111,
+      "widthCm": 234,
+      "volumeL": 70,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Gold"
+      },
+      "lengthCm": 122,
+      "widthCm": 234,
+      "volumeL": 76,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Pro"
+      },
+      "lengthCm": 122,
+      "widthCm": 234,
+      "volumeL": 76,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Pro"
+      },
+      "lengthCm": 133,
+      "widthCm": 234,
+      "volumeL": 82,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

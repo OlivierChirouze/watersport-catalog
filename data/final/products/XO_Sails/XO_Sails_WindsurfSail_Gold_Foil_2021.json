@@ -1,0 +1,73 @@
+{
+  "dimensions": ["size"],
+  "brandName": "XO Sails",
+  "year": 2021,
+  "name": "Gold Foil",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

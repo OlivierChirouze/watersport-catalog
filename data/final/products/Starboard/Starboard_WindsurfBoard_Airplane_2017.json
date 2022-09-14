@@ -1,0 +1,200 @@
+{
+  "name": "Airplane",
+  "year": 2017,
+  "programs": ["freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Inflatable Deluxe"
+      },
+      "lengthCm": 230,
+      "widthCm": 64.5,
+      "volumeL": 136,
+      "weightKg": 7.71,
+      "fins": [
+        {
+          "count": 2,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 136,
+      "lengthCm": 230,
+      "widthCm": 64.5,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 201,
+        "construction": "Inflatable Deluxe"
+      },
+      "lengthCm": 242,
+      "widthCm": 72,
+      "volumeL": 201,
+      "weightKg": 9.76,
+      "fins": [
+        {
+          "count": 2,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 201
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 201,
+      "lengthCm": 242,
+      "widthCm": 72,
+      "weightKg": 9.75,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 229,
+        "construction": "Inflatable Deluxe"
+      },
+      "lengthCm": 255,
+      "widthCm": 80,
+      "volumeL": 229,
+      "weightKg": 10.21,
+      "fins": [
+        {
+          "count": 2,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 229
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 229,
+      "lengthCm": 255,
+      "widthCm": 80,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 261,
+        "construction": "Inflatable Deluxe"
+      },
+      "lengthCm": 270,
+      "widthCm": 90,
+      "volumeL": 261,
+      "weightKg": 11.06,
+      "fins": [
+        {
+          "count": 2,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 261
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 261,
+      "lengthCm": 270,
+      "widthCm": 90,
+      "weightKg": 11.05,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 290
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 290,
+      "lengthCm": 300,
+      "widthCm": 90,
+      "weightKg": 15.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 301,
+        "construction": "Inflatable Deluxe"
+      },
+      "lengthCm": 290,
+      "widthCm": 90,
+      "volumeL": 301,
+      "weightKg": 15.21,
+      "fins": [
+        {
+          "count": 2,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

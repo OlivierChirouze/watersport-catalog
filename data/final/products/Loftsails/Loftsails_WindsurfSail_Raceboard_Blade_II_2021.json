@@ -1,0 +1,73 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Loftsails",
+  "year": 2021,
+  "name": "Raceboard Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.5,
+        "edition": "LW"
+      },
+      "surfaceM2": 7.5,
+      "weightKg": 4.31,
+      "boomLengthsCm": [220],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [15],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 475
+    },
+    {
+      "variant": {
+        "size": 8.5,
+        "edition": "LW"
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 4.4,
+      "boomLengthsCm": [232],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [20],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 510
+    },
+    {
+      "variant": {
+        "size": 9.5,
+        "edition": "LW"
+      },
+      "surfaceM2": 9.5,
+      "weightKg": 4.6,
+      "boomLengthsCm": [244],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 548
+    },
+    {
+      "variant": {
+        "size": 9.5,
+        "edition": "LW"
+      },
+      "surfaceM2": 9.5,
+      "weightKg": 4.31,
+      "boomLengthsCm": [220],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [15],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "II"
+}

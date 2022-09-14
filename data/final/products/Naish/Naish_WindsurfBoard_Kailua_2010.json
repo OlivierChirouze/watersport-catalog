@@ -1,0 +1,125 @@
+{
+  "name": "Kailua",
+  "year": 2010,
+  "programs": ["beginner"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 200,
+        "edition": "XR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 200,
+      "lengthCm": 319,
+      "widthCm": 89,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 0,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 234,
+      "widthCm": 69,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 6,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 140,
+      "lengthCm": 254,
+      "widthCm": 77,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 7,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 267,
+      "widthCm": 79,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 8,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 278,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "toM2": 10,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 230
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 230,
+      "lengthCm": 278,
+      "widthCm": 100,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 0,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

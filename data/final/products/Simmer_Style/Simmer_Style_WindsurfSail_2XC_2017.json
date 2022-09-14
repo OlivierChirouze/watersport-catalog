@@ -1,0 +1,97 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2017,
+  "name": "2XC",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [178],
+      "mastLengthsCm": [400, 10],
+      "mastExtensionLengthsCm": [22, 412],
+      "masTypes": ["RDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 422
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "boomLengthsCm": [194],
+      "mastLengthsCm": [10],
+      "mastExtensionLengthsCm": [436],
+      "masTypes": ["RDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 446
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [184],
+      "mastLengthsCm": [8, 430],
+      "mastExtensionLengthsCm": [423, 1],
+      "masTypes": ["RDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 431
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "boomLengthsCm": [208],
+      "mastLengthsCm": [8, 430],
+      "mastExtensionLengthsCm": [451, 29],
+      "masTypes": ["RDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 459
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [219],
+      "mastLengthsCm": [10],
+      "mastExtensionLengthsCm": [469],
+      "masTypes": ["RDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 479
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "boomLengthsCm": [227],
+      "mastLengthsCm": [8],
+      "mastExtensionLengthsCm": [492],
+      "masTypes": ["RDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 500
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

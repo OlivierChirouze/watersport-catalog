@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Jag",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 61,
+      "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 69,
+      "volumeL": 108,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 82,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

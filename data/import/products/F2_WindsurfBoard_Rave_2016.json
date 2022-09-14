@@ -1,0 +1,68 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "F2",
+  "year": 2016,
+  "name": "Rave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 70
+      },
+      "lengthCm": 226,
+      "widthCm": 53,
+      "volumeL": 70,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "lengthCm": 228,
+      "widthCm": 56,
+      "volumeL": 77,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "lengthCm": 230,
+      "widthCm": 58,
+      "volumeL": 84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

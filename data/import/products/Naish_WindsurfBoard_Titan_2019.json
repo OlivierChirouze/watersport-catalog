@@ -1,0 +1,68 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Naish",
+  "year": 2019,
+  "name": "Titan",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120
+      },
+      "lengthCm": 240,
+      "widthCm": 83.8,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "lengthCm": 248,
+      "widthCm": 85,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "lengthCm": 240,
+      "widthCm": 83.8,
+      "volumeL": 150,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

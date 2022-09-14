@@ -1,0 +1,97 @@
+{
+  "name": "H2",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 426,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [182],
+      "weightKg": 4.61,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [190],
+      "weightKg": 4.81,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 454,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [198],
+      "weightKg": 4.97,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [207],
+      "weightKg": 5.19,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "luffLengthCm": 483,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [215],
+      "weightKg": 5.37,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "luffLengthCm": 495,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [223],
+      "weightKg": 5.58,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "luffLengthCm": 507,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [231],
+      "weightKg": 5.77,
+      "battenCount": 6,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

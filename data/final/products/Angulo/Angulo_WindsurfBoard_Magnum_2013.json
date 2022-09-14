@@ -1,0 +1,70 @@
+{
+  "name": "Magnum",
+  "year": 2013,
+  "programs": ["slalom"],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 238,
+      "widthCm": 60,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 112
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 112,
+      "lengthCm": 238,
+      "widthCm": 71,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 132
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 236,
+      "widthCm": 84,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.4,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

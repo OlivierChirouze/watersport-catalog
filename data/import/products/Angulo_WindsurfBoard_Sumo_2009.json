@@ -1,0 +1,50 @@
+{
+  "name": "Sumo",
+  "year": 2009,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 251,
+      "widthCm": 64
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 259,
+      "widthCm": 69
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 155,
+      "lengthCm": 265,
+      "widthCm": 72
+    }
+  ],
+  "pictures": []
+}

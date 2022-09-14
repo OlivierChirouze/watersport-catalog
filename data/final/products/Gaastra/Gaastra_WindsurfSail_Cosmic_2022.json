@@ -1,0 +1,97 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2022,
+  "name": "Cosmic",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "boomLengthsCm": [186],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [4],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 434
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430, 90],
+      "mastExtensionLengthsCm": [20, 360],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 450
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "boomLengthsCm": [201],
+      "mastLengthsCm": [430, 460, 70],
+      "mastExtensionLengthsCm": [35, 395, 5],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 465
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "boomLengthsCm": [211],
+      "mastLengthsCm": [460, 90],
+      "mastExtensionLengthsCm": [19, 389],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 479
+    },
+    {
+      "variant": {
+        "size": 8.3
+      },
+      "surfaceM2": 8.3,
+      "boomLengthsCm": [220],
+      "mastLengthsCm": [430, 460, 490, 70],
+      "mastExtensionLengthsCm": [34, 4, 424, 64],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 494
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [232],
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [15, 45],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 505
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,70 @@
+{
+  "name": "3X",
+  "year": 2011,
+  "programs": ["wave"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 70
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 235,
+      "widthCm": 55,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 240,
+      "widthCm": 59,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 96,
+      "lengthCm": 246,
+      "widthCm": 65,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.8
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Breeze",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 140,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 140,
+      "lengthCm": 249,
+      "widthCm": 75,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 248,
+      "widthCm": 71,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

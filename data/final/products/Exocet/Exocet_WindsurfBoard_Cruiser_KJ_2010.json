@@ -1,0 +1,32 @@
+{
+  "name": "Cruiser KJ",
+  "year": 2010,
+  "programs": ["kids"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 215,
+      "widthCm": 70,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

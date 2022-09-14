@@ -1,0 +1,59 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Loftsails",
+  "year": 2019,
+  "name": "Sky Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "weightKg": 6.84,
+      "boomLengthsCm": [
+        226,
+        234
+      ],
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        28,
+        36
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 518
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "weightKg": 6.84,
+      "boomLengthsCm": [
+        234
+      ],
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        36
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 526
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Machine",
+  "year": 2013,
+  "programs": ["slalom"],
+  "brandName": "Avanti Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 533,
+      "mastLengthsCm": [530],
+      "mastIMCS": [34],
+      "boomLengthsCm": [241],
+      "weightKg": 6.1,
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 11
+      },
+      "surfaceM2": 11,
+      "mastLengthsCm": [530],
+      "mastIMCS": [34],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 12
+      },
+      "surfaceM2": 12,
+      "mastLengthsCm": [530],
+      "mastIMCS": [34],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 415,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166],
+      "weightKg": 4.15,
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 6.1
+      },
+      "surfaceM2": 6.1,
+      "luffLengthCm": 434,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [175],
+      "weightKg": 4.3,
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [192],
+      "weightKg": 4.95,
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "luffLengthCm": 476,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [205],
+      "weightKg": 5.1,
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 497,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [220],
+      "weightKg": 5.4,
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "luffLengthCm": 522,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [235],
+      "weightKg": 5.75,
+      "battenCount": 8,
+      "camCount": 5
+    }
+  ],
+  "pictures": [],
+  "version": "M1-X"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "HTS SR85II",
+  "year": 2012,
+  "programs": ["slalom"],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 141,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 141,
+      "lengthCm": 230,
+      "widthCm": 85,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

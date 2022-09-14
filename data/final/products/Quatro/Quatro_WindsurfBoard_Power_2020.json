@@ -1,0 +1,187 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Quatro",
+  "year": 2020,
+  "name": "Power",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro Carbon Monocoque",
+        "edition": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 64,
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 64,
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pro Carbon Monocoque",
+        "edition": "Pro"
+      },
+      "lengthCm": 231,
+      "widthCm": 67.5,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 231,
+      "widthCm": 67.5,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Pro Carbon Monocoque",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 59,
+      "volumeL": 86,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 59,
+      "volumeL": 86,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Pro Carbon Monocoque",
+        "edition": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 61.5,
+      "volumeL": 94,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 61.5,
+      "volumeL": 94,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

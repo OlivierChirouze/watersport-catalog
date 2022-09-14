@@ -1,0 +1,226 @@
+{
+  "name": "Poweride",
+  "year": 2015,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Avanti Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8,
+        "edition": "ME"
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 430,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        177
+      ],
+      "weightKg": 3.7,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.6,
+        "edition": "ME"
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 443,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        193
+      ],
+      "weightKg": 4,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.4,
+        "edition": "ME"
+      },
+      "surfaceM2": 7.4,
+      "luffLengthCm": 465,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        209
+      ],
+      "weightKg": 4.6,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 8.2,
+        "edition": "ME"
+      },
+      "surfaceM2": 8.2,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        223
+      ],
+      "weightKg": 4.9,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 9,
+        "edition": "ME"
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 503,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        236
+      ],
+      "weightKg": 5.5,
+      "battenCount": 8,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 4,
+      "boomLengthsCm": [
+        177
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        0
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 430
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "weightKg": 3.7,
+      "boomLengthsCm": [
+        193
+      ],
+      "mastLengthsCm": [
+        430,
+        75
+      ],
+      "mastExtensionLengthsCm": [
+        13,
+        368
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 443
+    },
+    {
+      "variant": {
+        "size": 7.4
+      },
+      "surfaceM2": 7.4,
+      "weightKg": 4,
+      "boomLengthsCm": [
+        209
+      ],
+      "mastLengthsCm": [
+        460,
+        75
+      ],
+      "mastExtensionLengthsCm": [
+        390,
+        5
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 465
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "weightKg": 4.6,
+      "boomLengthsCm": [
+        223
+      ],
+      "mastLengthsCm": [
+        460,
+        75
+      ],
+      "mastExtensionLengthsCm": [
+        22,
+        407
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 482
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "weightKg": 4.9,
+      "boomLengthsCm": [
+        236
+      ],
+      "mastLengthsCm": [
+        460,
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        13,
+        43
+      ],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 503
+    }
+  ],
+  "pictures": []
+}

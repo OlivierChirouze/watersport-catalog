@@ -1,0 +1,66 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Simmer Style",
+  "year": 2022,
+  "name": "AMP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Epoxy"
+      },
+      "volumeL": 160,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Epoxy"
+      },
+      "volumeL": 180,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 210,
+        "construction": "Epoxy"
+      },
+      "volumeL": 210,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

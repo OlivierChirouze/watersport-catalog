@@ -1,0 +1,42 @@
+{
+  "name": "Freestyle",
+  "year": 2015,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 99
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 230,
+      "widthCm": 63.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

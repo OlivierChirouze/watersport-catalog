@@ -1,0 +1,811 @@
+{
+  "name": "Kode Wave",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 67,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 221,
+      "widthCm": 53.5,
+      "volumeL": 67,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 67,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 221,
+      "widthCm": 53.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.3,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 220,
+      "widthCm": 56,
+      "volumeL": 72,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 220,
+      "widthCm": 56,
+      "weightKg": 6.25,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 224,
+      "widthCm": 58,
+      "volumeL": 77,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 77,
+      "lengthCm": 224,
+      "widthCm": 58,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "volumeL": 82,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 60.5,
+      "volumeL": 87,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 230,
+      "widthCm": 60.5,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 234,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 67,
+        "edition": "Technora"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 221,
+      "widthCm": 53.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.3,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 72,
+        "edition": "Technora"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 220,
+      "widthCm": 56,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77,
+        "edition": "Technora"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 77,
+      "lengthCm": 224,
+      "widthCm": 58,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Technora"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Technora"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 230,
+      "widthCm": 60.5,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Technora"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 67,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 221,
+      "widthCm": 53.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.3,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 72,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 220,
+      "widthCm": 56,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 77,
+      "lengthCm": 224,
+      "widthCm": 58,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 230,
+      "widthCm": 60.5,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 67,
+        "construction": "Technora"
+      },
+      "lengthCm": 221,
+      "widthCm": 53.5,
+      "volumeL": 67,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 67,
+        "construction": "Wood"
+      },
+      "lengthCm": 221,
+      "widthCm": 53.5,
+      "volumeL": 67,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Technora"
+      },
+      "lengthCm": 220,
+      "widthCm": 56,
+      "volumeL": 72,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Wood"
+      },
+      "lengthCm": 220,
+      "widthCm": 56,
+      "volumeL": 72,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Technora"
+      },
+      "lengthCm": 224,
+      "widthCm": 58,
+      "volumeL": 77,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Wood"
+      },
+      "lengthCm": 224,
+      "widthCm": 58,
+      "volumeL": 77,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Technora"
+      },
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "volumeL": 82,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Wood"
+      },
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "volumeL": 82,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Technora"
+      },
+      "lengthCm": 230,
+      "widthCm": 60.5,
+      "volumeL": 87,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Wood"
+      },
+      "lengthCm": 230,
+      "widthCm": 60.5,
+      "volumeL": 87,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Technora"
+      },
+      "lengthCm": 234,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Wood"
+      },
+      "lengthCm": 234,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

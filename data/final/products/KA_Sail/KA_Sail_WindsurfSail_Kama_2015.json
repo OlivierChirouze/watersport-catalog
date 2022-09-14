@@ -1,0 +1,73 @@
+{
+  "name": "Kama",
+  "year": 2015,
+  "programs": ["beginner"],
+  "brandName": "KA Sail",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 345,
+      "mastLengthsCm": [100, 340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [144],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [245, 5],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 391,
+      "mastLengthsCm": [100, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [165],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [21, 291],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 427,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [181],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [194],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [18, 348],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

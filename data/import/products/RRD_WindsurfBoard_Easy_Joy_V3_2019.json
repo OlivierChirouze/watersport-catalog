@@ -1,0 +1,57 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "Easy Joy",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "kids"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "E-tech"
+      },
+      "lengthCm": 233,
+      "widthCm": 67,
+      "volumeL": 100,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 233,
+      "widthCm": 67,
+      "volumeL": 100,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V3"
+}

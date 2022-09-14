@@ -1,0 +1,32 @@
+{
+  "name": "TwinJoy",
+  "year": 2010,
+  "programs": ["kids"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 65
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 65,
+      "lengthCm": 215,
+      "widthCm": 56,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 4.5
+      }
+    }
+  ],
+  "pictures": []
+}

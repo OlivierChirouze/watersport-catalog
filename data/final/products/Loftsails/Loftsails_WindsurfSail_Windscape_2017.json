@@ -1,0 +1,83 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2017,
+  "name": "Windscape",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "weightKg": 3.04,
+      "boomLengthsCm": [162],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [24],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 394
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.82,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [30],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 370
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "weightKg": 3.23,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 414
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 3.41,
+      "boomLengthsCm": [184],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 428
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "weightKg": 3.62,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [30],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 460
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

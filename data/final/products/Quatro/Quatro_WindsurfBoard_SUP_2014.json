@@ -1,0 +1,32 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Quatro",
+  "year": 2014,
+  "name": "SUP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 215,
+        "construction": "Rails"
+      },
+      "volumeL": 215,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 215,
+        "construction": "Wood Sandwich Eva Deck"
+      },
+      "volumeL": 215
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

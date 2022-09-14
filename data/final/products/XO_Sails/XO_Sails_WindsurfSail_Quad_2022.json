@@ -1,0 +1,78 @@
+{
+  "dimensions": ["size"],
+  "brandName": "XO Sails",
+  "year": 2022,
+  "name": "Quad",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "masTypes": ["RDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "boomLengthsCm": [176],
+      "luffLengthCm": 420,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [20],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "masTypes": ["RDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "boomLengthsCm": [197],
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "masTypes": ["RDM"],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "masTypes": ["RDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "boomLengthsCm": [187],
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [1],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "masTypes": ["RDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "boomLengthsCm": [210],
+      "luffLengthCm": 456,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [26],
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

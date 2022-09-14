@@ -1,0 +1,101 @@
+{
+  "name": "Spray",
+  "year": 2012,
+  "programs": ["wave"],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 67
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 228,
+      "widthCm": 53,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 230,
+      "widthCm": 54,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.8,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 232,
+      "widthCm": 56,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 235,
+      "widthCm": 58,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

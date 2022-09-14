@@ -1,0 +1,109 @@
+{
+  "name": "Convert",
+  "year": 2016,
+  "programs": ["freeride"],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [165],
+      "weightKg": 2.9,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [14],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [175],
+      "weightKg": 3.1,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [1],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 464,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [190],
+      "weightKg": 3.8,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [34],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [182],
+      "weightKg": 3.2,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 481,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [198],
+      "weightKg": 4,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [21],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 494,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [220],
+      "weightKg": 4.4,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [34],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

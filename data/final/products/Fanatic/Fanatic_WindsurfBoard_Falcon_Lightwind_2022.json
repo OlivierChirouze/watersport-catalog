@@ -1,0 +1,29 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Falcon Lightwind",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 159,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 90,
+      "volumeL": 159,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

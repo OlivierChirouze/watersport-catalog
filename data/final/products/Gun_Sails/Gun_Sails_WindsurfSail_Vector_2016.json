@@ -1,0 +1,118 @@
+{
+  "name": "Vector",
+  "year": 2016,
+  "programs": ["freeride", "race"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [196, 201],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.7,
+      "mastExtensionLengthsCm": [25],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [188, 189, 196],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.3,
+      "mastExtensionLengthsCm": [12, 6],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 473,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212, 218],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6.25,
+      "mastExtensionLengthsCm": [28],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [201, 212],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6.1,
+      "mastExtensionLengthsCm": [13],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 502,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [224, 236],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 7,
+      "mastExtensionLengthsCm": [30],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [460, 490],
+      "mastIMCS": [25],
+      "boomLengthsCm": [218, 224],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6.7,
+      "mastExtensionLengthsCm": [13],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [430, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [188, 236],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.3,
+      "mastExtensionLengthsCm": [6],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

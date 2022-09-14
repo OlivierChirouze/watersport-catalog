@@ -1,6 +1,6 @@
 {
   "name": "watersport-catalog",
-  "version": "0.4.26",
+  "version": "0.5.0",
   "author": "olivier.chirouze@gmail.com",
   "homepage": "",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
     "lint": "eslint",
     "test": "jest src/**/*.spec.ts",
     "format:source": "prettier --write \"src/**/*.ts\"",
-    "format:data": "prettier --write \"data/**/*.json\"",
+    "format:data": "prettier --write \"data/final/**/*.json\"",
     "prepublishOnly": "npm run lint",
     "preversion": "npm run lint",
     "version": "npm run format:source && git add -A src data",
@@ -25,12 +25,13 @@
     "generate:gun-sails": "ts-node src/brands/gun-sails.ts",
     "generate:jp-australia": "ts-node src/brands/jp-australia.ts",
     "generate:starboard": "ts-node src/brands/starboard.ts",
-    "import": "ts-node src/data-importer.ts"
+    "compile": "ts-node src/compile-data.ts"
   },
   "peerDependencies": {
     "ts-lib": "0.0.5"
   },
   "dependencies": {
+    "fs-extra": "^10.1.0",
     "lodash.isequal": "^4.5.0"
   },
   "devDependencies": {

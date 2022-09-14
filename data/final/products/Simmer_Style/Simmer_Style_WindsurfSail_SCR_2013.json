@@ -1,0 +1,97 @@
+{
+  "name": "SCR",
+  "year": 2013,
+  "programs": ["race", "slalom"],
+  "brandName": "Simmer Style",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 417,
+      "mastLengthsCm": [400, 520],
+      "mastIMCS": [19],
+      "boomLengthsCm": [184],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [400, 430, 520],
+      "mastIMCS": [21],
+      "boomLengthsCm": [193],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 483,
+      "mastLengthsCm": [400, 460, 520],
+      "mastIMCS": [25],
+      "boomLengthsCm": [217],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 465,
+      "mastLengthsCm": [400, 460, 520],
+      "mastIMCS": [25],
+      "boomLengthsCm": [205],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 507,
+      "mastLengthsCm": [400, 490, 520],
+      "mastIMCS": [29],
+      "boomLengthsCm": [227],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 536,
+      "mastLengthsCm": [400, 520],
+      "mastIMCS": [34],
+      "boomLengthsCm": [243],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

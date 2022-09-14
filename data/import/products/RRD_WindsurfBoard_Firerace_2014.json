@@ -1,0 +1,35 @@
+{
+  "name": "Firerace",
+  "year": 2014,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "edition": "One Design W-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 230,
+      "widthCm": 75,
+      "weightKg": 7.3,
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

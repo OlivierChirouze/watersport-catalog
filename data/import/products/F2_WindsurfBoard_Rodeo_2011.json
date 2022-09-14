@@ -1,0 +1,59 @@
+{
+  "name": "Rodeo",
+  "year": 2011,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 98
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 98,
+      "lengthCm": 225,
+      "widthCm": 63,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 107
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 225,
+      "widthCm": 67,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.8
+      }
+    }
+  ],
+  "pictures": []
+}

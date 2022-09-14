@@ -1,0 +1,98 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Futura",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 111,
+      "weightKg": 8.15,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 93,
+      "weightKg": 8.15,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Wood"
+      },
+      "volumeL": 101,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Carbon"
+      },
+      "volumeL": 111,
+      "weightKg": 8.15,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon"
+      },
+      "volumeL": 93,
+      "weightKg": 8.15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Wood"
+      },
+      "volumeL": 93,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

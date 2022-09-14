@@ -1,0 +1,97 @@
+{
+  "name": "Cannonball",
+  "year": 2011,
+  "programs": ["freeride", "race"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 430,
+      "mastLengthsCm": [430],
+      "mastIMCS": [20, 22],
+      "boomLengthsCm": [189],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 445,
+      "mastLengthsCm": [430],
+      "mastIMCS": [20, 22],
+      "boomLengthsCm": [195],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [430],
+      "mastIMCS": [20, 22],
+      "boomLengthsCm": [207],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 476,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [211],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [222],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 506,
+      "mastLengthsCm": [490],
+      "mastIMCS": [28, 30],
+      "boomLengthsCm": [231],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 514,
+      "mastLengthsCm": [490],
+      "mastIMCS": [28, 30],
+      "boomLengthsCm": [242],
+      "battenCount": 7,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

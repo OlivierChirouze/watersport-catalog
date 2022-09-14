@@ -1,0 +1,105 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "Compact Grom",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "kids"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.6
+      },
+      "surfaceM2": 2.6,
+      "boomLengthsCm": [
+        129,
+        140
+      ],
+      "mastLengthsCm": [
+        280
+      ],
+      "mastExtensionLengthsCm": [
+        25,
+        4
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 284
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "boomLengthsCm": [
+        1348,
+        140
+      ],
+      "mastLengthsCm": [
+        280
+      ],
+      "mastExtensionLengthsCm": [
+        25,
+        63
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 305
+    },
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "boomLengthsCm": [
+        1348,
+        154
+      ],
+      "mastLengthsCm": [
+        280,
+        60
+      ],
+      "mastExtensionLengthsCm": [
+        310,
+        63,
+        90
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 343
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [
+        140,
+        154
+      ],
+      "mastLengthsCm": [
+        280,
+        60
+      ],
+      "mastExtensionLengthsCm": [
+        245,
+        90
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 370
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MK1"
+}

@@ -1,0 +1,97 @@
+{
+  "name": "V-Max",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "Simmer Style",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 419,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [19],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [430, 8],
+      "mastIMCS": [21],
+      "boomLengthsCm": [196],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [12, 434],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430, 8],
+      "mastIMCS": [21],
+      "boomLengthsCm": [181],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [1, 423],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 458,
+      "mastLengthsCm": [430, 8],
+      "mastIMCS": [21],
+      "boomLengthsCm": [207],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [28, 450],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "luffLengthCm": 467,
+      "mastLengthsCm": [460, 8],
+      "mastIMCS": [25],
+      "boomLengthsCm": [225],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [459, 7],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [237],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [24],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

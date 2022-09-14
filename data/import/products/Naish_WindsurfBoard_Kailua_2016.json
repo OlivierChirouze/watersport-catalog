@@ -1,0 +1,105 @@
+{
+  "name": "Kailua",
+  "year": 2016,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 140,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 254,
+      "widthCm": 77,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 7,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 267,
+      "widthCm": 79,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "toM2": 8,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 180,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 278,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "toM2": 9,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 250,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 250,
+      "lengthCm": 319,
+      "widthCm": 89,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "toM2": 9,
+        "fromM2": 3
+      }
+    }
+  ],
+  "pictures": []
+}

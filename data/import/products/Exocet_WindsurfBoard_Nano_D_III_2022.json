@@ -1,0 +1,71 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Exocet",
+  "year": 2022,
+  "name": "Nano D",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Ast"
+      },
+      "lengthCm": 255,
+      "widthCm": 77,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Ast"
+      },
+      "lengthCm": 255,
+      "widthCm": 77,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "construction": "Ast"
+      },
+      "lengthCm": 255,
+      "widthCm": 77,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "III"
+}

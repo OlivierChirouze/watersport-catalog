@@ -1,0 +1,148 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Goya",
+  "year": 2020,
+  "name": "Surf Trainer",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 249.2,
+      "widthCm": 71.9,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 250,
+      "widthCm": 77.3,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 252.5,
+      "widthCm": 85.9,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 264,
+      "widthCm": 86.1,
+      "volumeL": 160,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 200,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 279.7,
+      "widthCm": 84.7,
+      "volumeL": 200,
+      "weightKg": 14,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 302.4,
+      "widthCm": 86,
+      "volumeL": 220,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 260,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 289.3,
+      "widthCm": 100.1,
+      "volumeL": 260,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

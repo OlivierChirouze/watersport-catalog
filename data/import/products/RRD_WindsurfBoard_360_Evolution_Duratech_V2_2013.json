@@ -1,0 +1,63 @@
+{
+  "name": "360 Evolution Duratech",
+  "year": 2013,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 148,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 148,
+      "lengthCm": 257,
+      "widthCm": 76,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 138,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 138,
+      "lengthCm": 255,
+      "widthCm": 71,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "V2"
+}

@@ -1,0 +1,116 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Exocet",
+  "year": 2018,
+  "name": "Nano",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Asa"
+      },
+      "lengthCm": 250,
+      "widthCm": 67,
+      "volumeL": 125,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Asa"
+      },
+      "lengthCm": 255,
+      "widthCm": 78,
+      "volumeL": 135,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Asa"
+      },
+      "lengthCm": 255,
+      "widthCm": 77,
+      "volumeL": 155,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Asa"
+      },
+      "lengthCm": 255,
+      "widthCm": 77,
+      "volumeL": 155,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 175,
+        "construction": "Asa"
+      },
+      "lengthCm": 280,
+      "widthCm": 75,
+      "volumeL": 175,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Asa"
+      },
+      "lengthCm": 300,
+      "widthCm": 80,
+      "volumeL": 205,
+      "weightKg": 14.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "III"
+}

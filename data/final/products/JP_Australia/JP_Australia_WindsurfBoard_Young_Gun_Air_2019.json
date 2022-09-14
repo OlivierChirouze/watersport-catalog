@@ -1,0 +1,35 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2019,
+  "name": "Young Gun Air",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 212,
+        "construction": "Air"
+      },
+      "lengthCm": 70,
+      "widthCm": 80,
+      "volumeL": 212,
+      "weightKg": 6.9,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 270,
+        "construction": "Air"
+      },
+      "lengthCm": 70,
+      "widthCm": 80,
+      "volumeL": 270,
+      "weightKg": 6.9,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

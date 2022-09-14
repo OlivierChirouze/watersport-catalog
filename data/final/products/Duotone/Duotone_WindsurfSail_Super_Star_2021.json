@@ -1,0 +1,220 @@
+{
+  "dimensions": ["edition", "size"],
+  "brandName": "Duotone",
+  "year": 2021,
+  "name": "Super Star",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 3.7,
+      "boomLengthsCm": [148],
+      "luffLengthCm": 360
+    },
+    {
+      "variant": {
+        "size": 4.2,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4.2,
+      "boomLengthsCm": [154],
+      "luffLengthCm": 380
+    },
+    {
+      "variant": {
+        "size": 4.5,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [158],
+      "luffLengthCm": 390
+    },
+    {
+      "variant": {
+        "size": 4.7,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4.7,
+      "boomLengthsCm": [160],
+      "luffLengthCm": 406
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [150],
+      "luffLengthCm": 374
+    },
+    {
+      "variant": {
+        "size": 5.3,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 5.3,
+      "boomLengthsCm": [166],
+      "luffLengthCm": 430
+    },
+    {
+      "variant": {
+        "size": 5.7,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [176],
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 5,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [164],
+      "luffLengthCm": 414
+    },
+    {
+      "variant": {
+        "size": 6.2,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 6.2,
+      "boomLengthsCm": [182],
+      "luffLengthCm": 448
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "weightKg": 2.9,
+      "boomLengthsCm": [148],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 360
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "weightKg": 3.1,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [10],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 380
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "weightKg": 3.2,
+      "boomLengthsCm": [158],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 390
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "weightKg": 3.3,
+      "boomLengthsCm": [160],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [36, 6],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 406
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "weightKg": 3,
+      "boomLengthsCm": [150],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [4],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 374
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "weightKg": 3.5,
+      "boomLengthsCm": [166],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [30],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 430
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "weightKg": 3.6,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [38, 8],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "weightKg": 3.4,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [14],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "luffLengthCm": 414
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "weightKg": 3.9,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [18, 48],
+      "masTypes": ["RDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "luffLengthCm": 448
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

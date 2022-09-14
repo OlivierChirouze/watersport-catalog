@@ -1,0 +1,71 @@
+{
+  "name": "Easy Ride Softskin",
+  "year": 2015,
+  "programs": ["beginner"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 166
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 166,
+      "lengthCm": 260,
+      "widthCm": 80,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 260,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 220,
+      "lengthCm": 270,
+      "widthCm": 100,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "V2"
+}

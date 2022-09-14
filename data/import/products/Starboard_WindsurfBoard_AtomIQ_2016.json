@@ -1,0 +1,619 @@
+{
+  "name": "AtomIQ",
+  "year": 2016,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 104,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "volumeL": 104,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 239,
+      "widthCm": 70
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "3DX"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 239,
+      "widthCm": 70,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "volumeL": 114,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 239,
+      "widthCm": 70
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "3DX"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 239,
+      "widthCm": 75.5,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "volumeL": 124,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 239,
+      "widthCm": 75.5
+    },
+    {
+      "variant": {
+        "size": 124,
+        "edition": "3DX"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 124,
+      "lengthCm": 239,
+      "widthCm": 81,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 239,
+      "widthCm": 81
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "3DX"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 84,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "volumeL": 140,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 239,
+      "widthCm": 84
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "3DX"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 235,
+      "widthCm": 89,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 235,
+      "widthCm": 89
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "3DX"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 11,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "volumeL": 104,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "volumeL": 114,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "volumeL": 124,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "volumeL": 140,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 239,
+      "widthCm": 70,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 239,
+      "widthCm": 75.5,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 124,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 124,
+      "lengthCm": 239,
+      "widthCm": 81,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 84,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 235,
+      "widthCm": 89,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 239,
+      "widthCm": 70,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 239,
+      "widthCm": 75.5,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 124,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 124,
+      "lengthCm": 239,
+      "widthCm": 81,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 84,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 235,
+      "widthCm": 89,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 10,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Wood Reflex"
+      },
+      "volumeL": 104,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Wood Reflex"
+      },
+      "volumeL": 114,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Wood Reflex"
+      },
+      "volumeL": 124,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood Reflex"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Wood Reflex"
+      },
+      "volumeL": 140,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Wood Reflex"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,195 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Hot Sails Maui",
+  "year": 2017,
+  "name": "KS3 Spider",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.4
+      },
+      "surfaceM2": 2.4,
+      "boomLengthsCm": [121],
+      "mastLengthsCm": [270],
+      "mastExtensionLengthsCm": [10],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 280
+    },
+    {
+      "variant": {
+        "size": 2.7
+      },
+      "surfaceM2": 2.7,
+      "boomLengthsCm": [121, 128],
+      "mastLengthsCm": [270],
+      "mastExtensionLengthsCm": [10, 26],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 280
+    },
+    {
+      "variant": {
+        "size": 3.1
+      },
+      "surfaceM2": 3.1,
+      "boomLengthsCm": [135, 139],
+      "mastLengthsCm": [270, 310],
+      "mastExtensionLengthsCm": [33, 8],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 303
+    },
+    {
+      "variant": {
+        "size": 3.4
+      },
+      "surfaceM2": 3.4,
+      "boomLengthsCm": [135, 142],
+      "mastLengthsCm": [310, 340],
+      "mastExtensionLengthsCm": [5, 8],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 318
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "boomLengthsCm": [142, 148],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [5, 7],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 345
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "boomLengthsCm": [128, 139],
+      "mastLengthsCm": [270],
+      "mastExtensionLengthsCm": [26, 33],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 296
+    },
+    {
+      "variant": {
+        "size": 4.3
+      },
+      "surfaceM2": 4.3,
+      "boomLengthsCm": [154, 158],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [11, 24],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 364
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "boomLengthsCm": [158, 164],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [11, 18],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 381
+    },
+    {
+      "variant": {
+        "size": 4.9
+      },
+      "surfaceM2": 4.9,
+      "boomLengthsCm": [162, 164],
+      "mastLengthsCm": [100, 370, 400],
+      "mastExtensionLengthsCm": [18, 306, 6],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 388
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [148, 154],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [24, 7],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 347
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [162, 170],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [15, 315, 6],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 406
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [170, 176],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [15, 27],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 415
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [121, 176],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [180, 27],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 427
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

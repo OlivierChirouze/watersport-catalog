@@ -1,0 +1,181 @@
+{
+  "name": "Manta",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 64,
+        "edition": "CNC Custom"
+      },
+      "lengthCm": 228,
+      "widthCm": 48,
+      "volumeL": 64,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "edition": "CNC Custom"
+      },
+      "lengthCm": 228,
+      "widthCm": 54,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "edition": "CNC Custom"
+      },
+      "lengthCm": 240,
+      "widthCm": 59,
+      "volumeL": 88,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "Team"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 106,
+      "lengthCm": 233,
+      "widthCm": 66,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "edition": "Team"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 116,
+      "lengthCm": 233,
+      "widthCm": 71,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "edition": "Team"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 128,
+      "lengthCm": 232,
+      "widthCm": 81,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "Team"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 232,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "edition": "Team"
+      },
+      "lengthCm": 240,
+      "widthCm": 61,
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 240,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 98
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 98,
+      "lengthCm": 240,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

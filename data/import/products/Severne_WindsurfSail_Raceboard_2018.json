@@ -1,0 +1,63 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Severne",
+  "year": 2018,
+  "name": "Raceboard",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 5.5,
+      "boomLengthsCm": [
+        235
+      ],
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        22
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 512
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "weightKg": 5.8,
+      "boomLengthsCm": [
+        250
+      ],
+      "mastLengthsCm": [
+        530
+      ],
+      "mastExtensionLengthsCm": [
+        27
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 557
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

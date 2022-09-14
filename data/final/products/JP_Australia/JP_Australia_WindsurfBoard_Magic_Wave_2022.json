@@ -1,0 +1,134 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2022,
+  "name": "Magic Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro"
+      },
+      "lengthCm": 226,
+      "widthCm": 63,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 64,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Pro"
+      },
+      "lengthCm": 221,
+      "widthCm": 56,
+      "volumeL": 75,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Pro"
+      },
+      "lengthCm": 222,
+      "widthCm": 58,
+      "volumeL": 82,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Pro"
+      },
+      "lengthCm": 223,
+      "widthCm": 60,
+      "volumeL": 89,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Pro"
+      },
+      "lengthCm": 224,
+      "widthCm": 62,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

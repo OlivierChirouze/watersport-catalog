@@ -1,0 +1,149 @@
+{
+  "name": "Speed",
+  "year": 2014,
+  "programs": [
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 45,
+        "construction": "Pro"
+      },
+      "volumeL": 45,
+      "weightKg": 4.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Pro"
+      },
+      "volumeL": 50,
+      "weightKg": 4.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 53,
+        "construction": "Pro"
+      },
+      "volumeL": 53,
+      "weightKg": 4.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 53
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 53,
+      "lengthCm": 228,
+      "widthCm": 45,
+      "weightKg": 4.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Pro"
+      },
+      "volumeL": 55,
+      "weightKg": 4.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 64,
+      "lengthCm": 228,
+      "widthCm": 50,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 235,
+      "widthCm": 55,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.2
+      }
+    }
+  ],
+  "pictures": []
+}

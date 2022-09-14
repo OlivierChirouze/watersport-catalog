@@ -1,0 +1,138 @@
+{
+  "name": "Nova",
+  "year": 2016,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "construction": "Ace-tec"
+      },
+      "lengthCm": 297,
+      "widthCm": 92,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": "240D",
+        "construction": "Ace-Tec"
+      },
+      "lengthCm": 297,
+      "widthCm": 92,
+      "volumeL": 240,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 82,
+      "weightKg": 11,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Ace-tec"
+      },
+      "lengthCm": 255,
+      "widthCm": 82,
+      "volumeL": 165,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Ace-Tec"
+      },
+      "lengthCm": 255,
+      "widthCm": 82,
+      "volumeL": 165,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 240
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 240,
+      "lengthCm": 297,
+      "widthCm": 92,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 7.2
+      }
+    }
+  ],
+  "pictures": []
+}

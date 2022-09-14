@@ -1,0 +1,112 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2022,
+  "name": "Funster Sport",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Eva",
+        "edition": "EVA"
+      },
+      "lengthCm": 270,
+      "widthCm": 70,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Eva",
+        "edition": "EVA"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 165,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 195,
+        "construction": "Eva",
+        "edition": "EVA"
+      },
+      "lengthCm": 280,
+      "widthCm": 82.5,
+      "volumeL": 195,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "EVA"
+      },
+      "lengthCm": 270,
+      "widthCm": 70,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "EVA"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 165,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 195,
+        "construction": "EVA"
+      },
+      "lengthCm": 280,
+      "widthCm": 82.5,
+      "volumeL": 195,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

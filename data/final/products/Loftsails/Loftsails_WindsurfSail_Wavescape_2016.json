@@ -1,0 +1,148 @@
+{
+  "name": "Wavescape",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 350,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [150],
+      "weightKg": 2.91,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [10],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 370,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [158],
+      "weightKg": 3.1,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [30],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 376,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [162],
+      "weightKg": 3.18,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [8],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 390,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [164, 168],
+      "weightKg": 3.37,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [20],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [154],
+      "weightKg": 3.06,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [20],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 422,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [176],
+      "weightKg": 3.64,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [22],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [182],
+      "weightKg": 3.75,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [8],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 404,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [170, 172],
+      "weightKg": 3.52,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [4],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 452,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [190],
+      "weightKg": 3.81,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [22],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

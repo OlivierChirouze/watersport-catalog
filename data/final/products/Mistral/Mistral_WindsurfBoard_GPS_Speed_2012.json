@@ -1,0 +1,31 @@
+{
+  "name": "GPS Speed",
+  "year": 2012,
+  "programs": ["race"],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 63
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 63,
+      "lengthCm": 226,
+      "widthCm": 47,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

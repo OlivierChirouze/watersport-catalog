@@ -1,0 +1,33 @@
+{
+  "name": "Longrider",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 340,
+      "widthCm": 70,
+      "weightKg": 14.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

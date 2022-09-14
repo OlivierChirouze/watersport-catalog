@@ -1,0 +1,51 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "RRD",
+  "year": 2013,
+  "name": "Firerace",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 112,
+        "construction": "N",
+        "edition": "W-Tech"
+      },
+      "volumeL": 112,
+      "weightKg": 6.12,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "N",
+        "edition": "W-Tech"
+      },
+      "volumeL": 90,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V3"
+}

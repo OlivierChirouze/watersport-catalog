@@ -1,0 +1,34 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "F2",
+  "year": 2016,
+  "name": "Z1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160
+      },
+      "lengthCm": 230,
+      "widthCm": 100.5,
+      "volumeL": 160,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

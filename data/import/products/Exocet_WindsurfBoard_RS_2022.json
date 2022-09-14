@@ -1,0 +1,90 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Exocet",
+  "year": 2022,
+  "name": "RS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 58,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 58,
+      "volumeL": 58,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 62,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 62,
+      "volumeL": 62,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 71,
+      "volumeL": 71,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 85,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

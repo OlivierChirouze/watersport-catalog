@@ -1,0 +1,46 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Duotone",
+  "year": 2019,
+  "name": "Warp Foil",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.8
+      },
+      "surfaceM2": 8.8,
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.8
+      },
+      "surfaceM2": 9.8,
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

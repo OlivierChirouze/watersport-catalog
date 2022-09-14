@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Goya",
+  "year": 2020,
+  "name": "Air",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Pro Carbon & Sglass",
+        "edition": "Pro"
+      },
+      "lengthCm": 220,
+      "widthCm": 63.8,
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Pro Carbon Sglass",
+        "edition": "Pro"
+      },
+      "lengthCm": 220,
+      "widthCm": 63.8,
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Pro Carbon & Sglass",
+        "edition": "Pro"
+      },
+      "lengthCm": 220.5,
+      "widthCm": 60.2,
+      "volumeL": 89,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Pro Carbon Sglass",
+        "edition": "Pro"
+      },
+      "lengthCm": 220.5,
+      "widthCm": 60.2,
+      "volumeL": 89,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Pro Carbon & Sglass",
+        "edition": "Pro"
+      },
+      "lengthCm": 220.5,
+      "widthCm": 62,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Pro Carbon Sglass",
+        "edition": "Pro"
+      },
+      "lengthCm": 220.5,
+      "widthCm": 62,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

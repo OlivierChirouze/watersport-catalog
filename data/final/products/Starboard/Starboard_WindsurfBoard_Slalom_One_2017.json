@@ -1,0 +1,49 @@
+{
+  "name": "Slalom One",
+  "year": 2017,
+  "programs": ["race", "slalom"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "construction": "3dx"
+      },
+      "lengthCm": 230,
+      "widthCm": 75.5,
+      "volumeL": 110,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 230,
+      "widthCm": 75.5,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.2
+      }
+    }
+  ],
+  "pictures": []
+}

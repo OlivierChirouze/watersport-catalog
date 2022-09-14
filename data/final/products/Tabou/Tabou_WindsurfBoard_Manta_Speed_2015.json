@@ -1,0 +1,41 @@
+{
+  "name": "Manta Speed",
+  "year": 2015,
+  "programs": ["slalom"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 64,
+      "lengthCm": 228,
+      "widthCm": 48,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 228,
+      "widthCm": 54,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

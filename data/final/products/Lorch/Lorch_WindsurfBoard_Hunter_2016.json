@@ -1,0 +1,43 @@
+{
+  "name": "Hunter",
+  "year": 2016,
+  "programs": ["slalom"],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 113
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 113,
+      "lengthCm": 234,
+      "widthCm": 69,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 140,
+      "lengthCm": 231,
+      "widthCm": 82,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

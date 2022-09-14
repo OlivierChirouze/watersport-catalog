@@ -1,0 +1,43 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Exocet",
+  "year": 2013,
+  "name": "Nano ASA",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Asa"
+      },
+      "volumeL": 135,
+      "weightKg": 11.2,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Asa"
+      },
+      "volumeL": 75,
+      "weightKg": 11.2,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

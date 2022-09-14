@@ -1,0 +1,343 @@
+{
+  "name": "Cube",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 225,
+      "widthCm": 62,
+      "volumeL": 105,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbone Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 225,
+      "widthCm": 62,
+      "volumeL": 105,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 75,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbone Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 75,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 218,
+      "widthCm": 55.5,
+      "volumeL": 80,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbone Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 218,
+      "widthCm": 55.5,
+      "volumeL": 80,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 220,
+      "widthCm": 58,
+      "volumeL": 85,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbone Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 220,
+      "widthCm": 58,
+      "volumeL": 85,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 223,
+      "widthCm": 60,
+      "volumeL": 95,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbone Sandwich",
+        "edition": "Quad"
+      },
+      "lengthCm": 223,
+      "widthCm": 60,
+      "volumeL": 95,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 225,
+      "widthCm": 62,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 218,
+      "widthCm": 55.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 220,
+      "widthCm": 58,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 223,
+      "widthCm": 60,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,430 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "Firemove",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 100,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 234,
+      "widthCm": 79,
+      "volumeL": 110,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 120,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 135,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Lte",
+        "edition": "LTE"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 100,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Lte",
+        "edition": "LTE"
+      },
+      "lengthCm": 234,
+      "widthCm": 79,
+      "volumeL": 110,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Lte",
+        "edition": "LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 120,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Lte",
+        "edition": "LTE"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 135,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "E-tech"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 100,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 232,
+      "widthCm": 68,
+      "volumeL": 100,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "LTD"
+      },
+      "lengthCm": 232,
+      "widthCm": 68,
+      "volumeL": 100,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "LTE"
+      },
+      "lengthCm": 232,
+      "widthCm": 68,
+      "volumeL": 100,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "E-tech"
+      },
+      "lengthCm": 234,
+      "widthCm": 79,
+      "volumeL": 110,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 110,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "LTD"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 110,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "LTE"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 110,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "E-tech"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 120,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 234,
+      "widthCm": 79,
+      "volumeL": 120,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "LTD"
+      },
+      "lengthCm": 234,
+      "widthCm": 79,
+      "volumeL": 120,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "LTE"
+      },
+      "lengthCm": 234,
+      "widthCm": 79,
+      "volumeL": 120,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "E-tech"
+      },
+      "lengthCm": 233,
+      "widthCm": 74,
+      "volumeL": 135,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 135,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 135,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 135,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V4"
+}

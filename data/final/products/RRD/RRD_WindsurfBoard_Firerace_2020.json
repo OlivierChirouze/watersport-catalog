@@ -1,0 +1,48 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "RRD",
+  "year": 2020,
+  "name": "Firerace",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Lte",
+        "edition": "LTE"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 120,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "LTE"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 120,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

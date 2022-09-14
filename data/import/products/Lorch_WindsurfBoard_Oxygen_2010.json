@@ -1,0 +1,122 @@
+{
+  "name": "Oxygen",
+  "year": 2010,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 60
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 60,
+      "lengthCm": 227,
+      "widthCm": 51.5,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 67
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 67,
+      "lengthCm": 228,
+      "widthCm": 52.5,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 73
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 73,
+      "lengthCm": 230,
+      "widthCm": 54,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.8,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 83,
+      "lengthCm": 232,
+      "widthCm": 55.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 93
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 93,
+      "lengthCm": 235,
+      "widthCm": 58,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

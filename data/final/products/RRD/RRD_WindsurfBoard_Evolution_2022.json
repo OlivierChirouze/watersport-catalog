@@ -1,0 +1,145 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "RRD",
+  "year": 2022,
+  "name": "Evolution",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "E-tech",
+        "edition": "E-Tech"
+      },
+      "lengthCm": 242,
+      "widthCm": 67,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "E-tech",
+        "edition": "E-Tech"
+      },
+      "lengthCm": 245,
+      "widthCm": 71,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "E-tech",
+        "edition": "E-Tech"
+      },
+      "lengthCm": 248,
+      "widthCm": 73,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "E-tech",
+        "edition": "E-Tech"
+      },
+      "lengthCm": 248,
+      "widthCm": 76,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 242,
+      "widthCm": 67,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 245,
+      "widthCm": 71,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 248,
+      "widthCm": 73,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 248,
+      "widthCm": 76,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

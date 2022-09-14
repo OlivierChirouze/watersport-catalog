@@ -1,0 +1,178 @@
+{
+  "name": "Nitrix",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 115,
+      "weightKg": 9.15,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 249,
+      "widthCm": 66,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 125,
+      "weightKg": 9.15,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 135,
+      "weightKg": 9.15,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 255,
+      "widthCm": 70,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 145,
+      "weightKg": 9.15,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 260,
+      "widthCm": 74,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.8
+      }
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 155,
+      "weightKg": 9.15,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 155,
+      "lengthCm": 264,
+      "widthCm": 78,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.8
+      }
+    }
+  ],
+  "pictures": []
+}

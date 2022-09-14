@@ -1,0 +1,155 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Quatro",
+  "year": 2019,
+  "name": "Power",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 65,
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbone Sglass Sandwich",
+        "edition": "Pro"
+      },
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 223,
+      "widthCm": 59,
+      "volumeL": 85,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbone Sglass Sandwich",
+        "edition": "Pro"
+      },
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 226,
+      "widthCm": 62.5,
+      "volumeL": 95,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbone Sglass Sandwich",
+        "edition": "Pro"
+      },
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

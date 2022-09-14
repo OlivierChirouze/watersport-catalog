@@ -1,0 +1,73 @@
+{
+  "name": "Slam",
+  "year": 2011,
+  "programs": ["wave", "freestyle", "freestyle"],
+  "brandName": "Sailloft",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "boomLengthsCm": [162],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 435,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "boomLengthsCm": [174],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [182],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 461,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "boomLengthsCm": [187],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 463,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "boomLengthsCm": [192],
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

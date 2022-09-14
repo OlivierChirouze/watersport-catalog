@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2018,
+  "name": "GO Windsurfer",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 175,
+        "construction": "3dx"
+      },
+      "lengthCm": 268,
+      "widthCm": 83,
+      "volumeL": 175,
+      "weightKg": 13.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 195,
+        "construction": "3dx"
+      },
+      "lengthCm": 271,
+      "widthCm": 87,
+      "volumeL": 195,
+      "weightKg": 13.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "RS Speed",
+  "year": 2013,
+  "programs": ["race"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 68,
+      "lengthCm": 230,
+      "widthCm": 50,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.7
+      }
+    }
+  ],
+  "pictures": []
+}

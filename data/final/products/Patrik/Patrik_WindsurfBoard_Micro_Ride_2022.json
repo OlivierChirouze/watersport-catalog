@@ -1,0 +1,28 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "Micro Ride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115
+      },
+      "lengthCm": 222,
+      "widthCm": 67.5,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

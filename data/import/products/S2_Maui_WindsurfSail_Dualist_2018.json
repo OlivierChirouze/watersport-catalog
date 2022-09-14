@@ -1,0 +1,78 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "S2 Maui",
+  "year": 2018,
+  "name": "Dualist",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "boomLengthsCm": [
+        155
+      ],
+      "mastLengthsCm": [
+        100,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        277,
+        7
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 377
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "boomLengthsCm": [
+        164
+      ],
+      "mastLengthsCm": [
+        100,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        19,
+        289
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 389
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "boomLengthsCm": [
+        171
+      ],
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        12
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 412
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

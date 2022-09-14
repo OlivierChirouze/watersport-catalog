@@ -1,0 +1,73 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Naish",
+  "year": 2017,
+  "name": "Starship",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Wood Glass"
+      },
+      "lengthCm": 240,
+      "widthCm": 62.3,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Wood Glass"
+      },
+      "lengthCm": 245,
+      "widthCm": 65.6,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Wood Glass"
+      },
+      "lengthCm": 235,
+      "widthCm": 59.7,
+      "volumeL": 90,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

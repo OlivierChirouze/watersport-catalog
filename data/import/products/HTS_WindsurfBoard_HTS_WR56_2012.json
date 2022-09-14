@@ -1,0 +1,38 @@
+{
+  "name": "HTS WR56",
+  "year": 2012,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 230,
+      "widthCm": 56,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

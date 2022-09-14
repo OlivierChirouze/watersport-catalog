@@ -1,0 +1,35 @@
+{
+  "name": "WindSUP Freeride A.S.A.P.",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 238
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 238,
+      "lengthCm": 373,
+      "widthCm": 75,
+      "weightKg": 14.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

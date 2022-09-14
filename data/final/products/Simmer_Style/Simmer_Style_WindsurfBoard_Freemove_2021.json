@@ -1,0 +1,137 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Simmer Style",
+  "year": 2021,
+  "name": "Freemove",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Biax Carbon",
+        "edition": "CE"
+      },
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Biax Carbon",
+        "edition": "CE"
+      },
+      "lengthCm": 230.5,
+      "widthCm": 76,
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Biax Carbon",
+        "edition": "CE"
+      },
+      "lengthCm": 231,
+      "widthCm": 80,
+      "volumeL": 126,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Biax Carbon",
+        "edition": "CE"
+      },
+      "volumeL": 136,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Sandwich Duratech"
+      },
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Sandwich Duratech"
+      },
+      "lengthCm": 230.5,
+      "widthCm": 76,
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Sandwich Duratech"
+      },
+      "lengthCm": 231,
+      "widthCm": 80,
+      "volumeL": 126,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Sandwich Duratech"
+      },
+      "volumeL": 136,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

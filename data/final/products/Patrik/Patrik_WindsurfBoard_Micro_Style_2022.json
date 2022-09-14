@@ -1,0 +1,28 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "Micro Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 85
+      },
+      "lengthCm": 219.5,
+      "widthCm": 58,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

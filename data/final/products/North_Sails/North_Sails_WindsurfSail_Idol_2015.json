@@ -1,0 +1,129 @@
+{
+  "name": "Idol",
+  "year": 2015,
+  "programs": ["freestyle", "wave"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.4,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 2.7,
+      "boomLengthsCm": [160],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [24, 294],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 394
+    },
+    {
+      "variant": {
+        "size": 4.8,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 2.9,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [10],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 410
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "LTD"
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.55,
+      "boomLengthsCm": [158],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [274, 4],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 374
+    },
+    {
+      "variant": {
+        "size": 5.2,
+        "edition": "LTD"
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 3.15,
+      "boomLengthsCm": [168],
+      "mastLengthsCm": [100, 430],
+      "mastExtensionLengthsCm": [3, 333],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 433
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "luffLengthCm": 394,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [160],
+      "weightKg": 2.7,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 400,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [164],
+      "weightKg": 2.9,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 374,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [158],
+      "weightKg": 2.55,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 433,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [168],
+      "weightKg": 3.15,
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

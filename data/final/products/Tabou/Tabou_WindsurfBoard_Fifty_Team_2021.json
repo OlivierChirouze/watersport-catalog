@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Tabou",
+  "year": 2021,
+  "name": "Fifty Team",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115
+      },
+      "lengthCm": 232,
+      "widthCm": 72,
+      "volumeL": 115,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "lengthCm": 232,
+      "widthCm": 76,
+      "volumeL": 125,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

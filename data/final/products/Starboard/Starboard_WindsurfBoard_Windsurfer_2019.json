@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "Windsurfer",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 227,
+        "edition": "LT Flat Deck"
+      },
+      "lengthCm": 365.6,
+      "widthCm": 47.3,
+      "volumeL": 227,
+      "weightKg": 15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 227,
+        "edition": "LT One Design"
+      },
+      "lengthCm": 365.6,
+      "widthCm": 47.3,
+      "volumeL": 227,
+      "weightKg": 15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

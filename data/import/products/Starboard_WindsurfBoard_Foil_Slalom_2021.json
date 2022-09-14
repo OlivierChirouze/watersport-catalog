@@ -1,0 +1,111 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2021,
+  "name": "Foil Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 220,
+      "widthCm": 71,
+      "volumeL": 145,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 167,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 220,
+      "widthCm": 81,
+      "volumeL": 167,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 167,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 220,
+      "widthCm": 81,
+      "volumeL": 167,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 192,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 220,
+      "widthCm": 91,
+      "volumeL": 192,
+      "weightKg": 9.86,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 192,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 220,
+      "widthCm": 91,
+      "volumeL": 192,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

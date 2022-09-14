@@ -1,0 +1,48 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2014,
+  "name": "Fly Air Touring",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 11,
+        "construction": "Gonflable",
+        "edition": "Premium"
+      },
+      "volumeL": 11,
+      "weightKg": 13.5
+    },
+    {
+      "variant": {
+        "size": 12,
+        "construction": "Gonflable",
+        "edition": "Premium"
+      },
+      "volumeL": 12,
+      "weightKg": 13.5
+    },
+    {
+      "variant": {
+        "size": 265,
+        "construction": "Inflatable",
+        "edition": "Premium"
+      },
+      "volumeL": 265,
+      "weightKg": 13.5
+    },
+    {
+      "variant": {
+        "size": 300,
+        "construction": "Inflatable",
+        "edition": "Premium"
+      },
+      "volumeL": 300,
+      "weightKg": 13.5
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "HTS SR59II",
+  "year": 2010,
+  "programs": ["slalom"],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 96
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 96,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

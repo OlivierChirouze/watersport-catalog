@@ -1,0 +1,132 @@
+{
+  "name": "Traction",
+  "year": 2015,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Sailloft",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 495,
+      "mastLengthsCm": [
+        460,
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        208
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        35,
+        5
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 510,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        226,
+        228
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        23
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 501,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        218
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        11
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 523,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        243,
+        244
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        34
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 518,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        236
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        28
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

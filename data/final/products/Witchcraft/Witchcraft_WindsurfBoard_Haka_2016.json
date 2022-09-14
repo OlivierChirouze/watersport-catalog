@@ -1,0 +1,841 @@
+{
+  "name": "Haka",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Witchcraft",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 235.3,
+      "widthCm": 63.4,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 106,
+      "lengthCm": 236.9,
+      "widthCm": 64.5,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 114,
+      "lengthCm": 240.5,
+      "widthCm": 66.1,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 66,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 66,
+      "lengthCm": 213.8,
+      "widthCm": 52.6,
+      "weightKg": 5.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.8,
+        "toM2": 4.5
+      }
+    },
+    {
+      "variant": {
+        "size": 70,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 216.9,
+      "widthCm": 53.7,
+      "weightKg": 5.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 219.6,
+      "widthCm": 55,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 78,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 221.8,
+      "widthCm": 56.5,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 223.9,
+      "widthCm": 57.5,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 226.6,
+      "widthCm": 58.4,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 229.1,
+      "widthCm": 59.7,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 230.9,
+      "widthCm": 61,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 98,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 98,
+      "lengthCm": 233.1,
+      "widthCm": 62.1,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 102,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 235.3,
+      "widthCm": 63.4,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 106,
+      "lengthCm": 236.9,
+      "widthCm": 64.5,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 114,
+      "lengthCm": 240.5,
+      "widthCm": 66.1,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 66,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 66,
+      "lengthCm": 213.8,
+      "widthCm": 52.6,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.8,
+        "toM2": 4.5
+      }
+    },
+    {
+      "variant": {
+        "size": 70,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 216.9,
+      "widthCm": 53.7,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 219.6,
+      "widthCm": 55,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 78,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 221.8,
+      "widthCm": 56.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 223.9,
+      "widthCm": 57.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 226.6,
+      "widthCm": 58.4,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 229.1,
+      "widthCm": 59.7,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 230.9,
+      "widthCm": 61,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 98,
+        "edition": "HDD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 98,
+      "lengthCm": 233.1,
+      "widthCm": 62.1,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 102,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 235.3,
+      "widthCm": 63.4,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 106,
+      "lengthCm": 236.9,
+      "widthCm": 64.5,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 114,
+      "lengthCm": 240.5,
+      "widthCm": 66.1,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 66,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 66,
+      "lengthCm": 213.8,
+      "widthCm": 52.6,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.8,
+        "toM2": 4.5
+      }
+    },
+    {
+      "variant": {
+        "size": 70,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 216.9,
+      "widthCm": 53.7,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 219.6,
+      "widthCm": 55,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 78,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 221.8,
+      "widthCm": 56.5,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 223.9,
+      "widthCm": 57.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 226.6,
+      "widthCm": 58.4,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 229.1,
+      "widthCm": 59.7,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 230.9,
+      "widthCm": 61,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 98,
+        "edition": "SDT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 98,
+      "lengthCm": 233.1,
+      "widthCm": 62.1,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    }
+  ],
+  "pictures": []
+}

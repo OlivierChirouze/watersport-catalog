@@ -1,0 +1,108 @@
+{
+  "name": "Madd",
+  "year": 2010,
+  "programs": ["freeride", "freestyle"],
+  "brandName": "Hifly",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 248,
+      "widthCm": 65,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 245,
+      "widthCm": 69,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 138
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 138,
+      "lengthCm": 258,
+      "widthCm": 72,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 162
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 162,
+      "lengthCm": 258,
+      "widthCm": 81,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.3,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 236,
+      "widthCm": 61,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 6.7
+      }
+    }
+  ],
+  "pictures": []
+}

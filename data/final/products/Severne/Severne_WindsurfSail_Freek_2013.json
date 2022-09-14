@@ -1,0 +1,129 @@
+{
+  "name": "Freek",
+  "year": 2013,
+  "programs": ["freestyle"],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "mastLengthsCm": [370, 430],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "luffLengthCm": 388,
+      "mastLengthsCm": [370, 430],
+      "mastIMCS": [17],
+      "boomLengthsCm": [157],
+      "weightKg": 2.8,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 407,
+      "mastLengthsCm": [370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [161],
+      "weightKg": 2.95,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 372,
+      "mastLengthsCm": [370, 430],
+      "mastIMCS": [17],
+      "boomLengthsCm": [151],
+      "weightKg": 2.67,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 423,
+      "mastLengthsCm": [370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [168],
+      "weightKg": 3.1,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 432,
+      "mastLengthsCm": [370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [175],
+      "weightKg": 3.2,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [370, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [180],
+      "weightKg": 3.32,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [370, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [184],
+      "weightKg": 3.44,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

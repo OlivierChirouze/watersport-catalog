@@ -1,0 +1,139 @@
+{
+  "name": "One",
+  "year": 2014,
+  "programs": ["freeride", "wave"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Monocoque Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 105,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Monohull Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 105,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Monocoque Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 85,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Monohull Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 85,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Monocoque Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 95,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Monohull Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "volumeL": 95,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 230.4,
+      "widthCm": 65.2,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.8
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 225.7,
+      "widthCm": 59.2,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 228.6,
+      "widthCm": 62.4,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

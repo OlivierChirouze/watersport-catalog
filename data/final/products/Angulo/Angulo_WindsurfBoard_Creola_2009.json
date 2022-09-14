@@ -1,0 +1,40 @@
+{
+  "name": "Creola",
+  "year": 2009,
+  "programs": ["freestyle", "wave"],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 94
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 244,
+      "widthCm": 59
+    },
+    {
+      "variant": {
+        "size": 104
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 104,
+      "lengthCm": 244,
+      "widthCm": 62
+    },
+    {
+      "variant": {
+        "size": 114
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 114,
+      "lengthCm": 245,
+      "widthCm": 65
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,52 @@
+{
+  "dimensions": ["size"],
+  "brandName": "KA Sail",
+  "year": 2021,
+  "name": "KA.Speed",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "boomLengthsCm": [159],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [9],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 379
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [167],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [23],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 393
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [13],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 413
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

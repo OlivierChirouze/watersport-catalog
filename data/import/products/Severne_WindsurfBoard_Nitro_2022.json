@@ -1,0 +1,44 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Severne",
+  "year": 2022,
+  "name": "Nitro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100
+      },
+      "volumeL": 100,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "volumeL": 85,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 91
+      },
+      "volumeL": 91,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

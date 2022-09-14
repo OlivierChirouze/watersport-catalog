@@ -1,0 +1,45 @@
+{
+  "name": "Tactik",
+  "year": 2016,
+  "programs": ["freeride", "race"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 250,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 320,
+      "widthCm": 76,
+      "volumeL": 250,
+      "weightKg": 13,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 250
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 250,
+      "lengthCm": 320,
+      "widthCm": 76,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

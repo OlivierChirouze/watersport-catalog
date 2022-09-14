@@ -1,0 +1,57 @@
+{
+  "name": "RennSport HighWind",
+  "year": 2010,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 83,
+      "lengthCm": 241.5,
+      "widthCm": 54.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 93
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 93,
+      "lengthCm": 241.5,
+      "widthCm": 58.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 7.2
+      }
+    }
+  ],
+  "pictures": []
+}

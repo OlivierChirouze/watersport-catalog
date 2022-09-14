@@ -1,0 +1,121 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2019,
+  "name": "Falcon Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 63,
+      "volumeL": 89,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 68,
+      "volumeL": 98,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 71.5,
+      "volumeL": 106,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 114,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 121,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 63,
+      "volumeL": 140,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

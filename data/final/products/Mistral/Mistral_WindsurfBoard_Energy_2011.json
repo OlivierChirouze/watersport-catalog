@@ -1,0 +1,49 @@
+{
+  "name": "Energy",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 132
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 244,
+      "widthCm": 75,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 147
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 147,
+      "lengthCm": 248,
+      "widthCm": 80,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

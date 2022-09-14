@@ -1,0 +1,111 @@
+{
+  "name": "Guru",
+  "year": 2014,
+  "programs": ["kids"],
+  "brandName": "Goya",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.2,
+        "edition": "S"
+      },
+      "surfaceM2": 1.2,
+      "luffLengthCm": 211,
+      "boomLengthsCm": [82],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 1.5,
+        "edition": "S"
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 235,
+      "boomLengthsCm": [92],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 1.8,
+        "edition": "S"
+      },
+      "surfaceM2": 1.8,
+      "luffLengthCm": 260,
+      "boomLengthsCm": [102],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2.2,
+        "edition": "S"
+      },
+      "surfaceM2": 2.2,
+      "luffLengthCm": 287,
+      "boomLengthsCm": [114],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2.5,
+        "edition": "S"
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 306,
+      "mastLengthsCm": [310, 430],
+      "boomLengthsCm": [123],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2.8,
+        "edition": "S"
+      },
+      "surfaceM2": 2.8,
+      "luffLengthCm": 325,
+      "mastLengthsCm": [310, 430],
+      "boomLengthsCm": [133],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2,
+        "edition": "S"
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 273,
+      "boomLengthsCm": [108],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

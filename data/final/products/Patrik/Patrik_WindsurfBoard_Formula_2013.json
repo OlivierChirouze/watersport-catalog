@@ -1,0 +1,27 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "Formula",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 168,
+        "construction": "Biax Carbon"
+      },
+      "volumeL": 168,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

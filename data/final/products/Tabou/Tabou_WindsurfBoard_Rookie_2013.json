@@ -1,0 +1,57 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tabou",
+  "year": 2013,
+  "name": "Rookie",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 116,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Pvc Full Sandwich"
+      },
+      "volumeL": 96,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "PVC Full Sandwich"
+      },
+      "volumeL": 96,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

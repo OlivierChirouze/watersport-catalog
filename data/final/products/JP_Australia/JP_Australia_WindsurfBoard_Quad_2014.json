@@ -1,0 +1,37 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2014,
+  "name": "Quad",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Es"
+      },
+      "volumeL": 55,
+      "weightKg": 5.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "ES"
+      },
+      "volumeL": 55,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 4,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

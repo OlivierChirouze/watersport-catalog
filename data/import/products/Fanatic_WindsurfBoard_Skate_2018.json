@@ -1,0 +1,95 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Fanatic",
+  "year": 2018,
+  "name": "Skate",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 60,
+      "volumeL": 86,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 225,
+      "widthCm": 62,
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 64,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 226,
+      "widthCm": 66.5,
+      "volumeL": 108,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

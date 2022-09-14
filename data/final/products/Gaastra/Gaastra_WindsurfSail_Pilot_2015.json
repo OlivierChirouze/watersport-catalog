@@ -1,0 +1,205 @@
+{
+  "dimensions": ["size", "color"],
+  "brandName": "Gaastra",
+  "year": 2015,
+  "name": "Pilot",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2015/freeride-15/pilot/",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 402,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [159],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [2],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [400, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [178],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4,
+      "mastExtensionLengthsCm": [36, 6],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 418,
+      "mastLengthsCm": [30, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [170],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.6,
+      "mastExtensionLengthsCm": [18, 388],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [197],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.34,
+      "mastExtensionLengthsCm": [25],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [30, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [185],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.2,
+      "mastExtensionLengthsCm": [18, 418],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [218],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.7,
+      "mastExtensionLengthsCm": [39, 9],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 460,
+      "mastLengthsCm": [30, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [207],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.5,
+      "mastExtensionLengthsCm": [30, 430],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "mastExtensionLengthsCm": [2.5],
+      "luffLengthCm": 402,
+      "boomLengthsCm": [159],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "mastExtensionLengthsCm": [20],
+      "luffLengthCm": 418,
+      "boomLengthsCm": [170],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "mastExtensionLengthsCm": [7.5],
+      "luffLengthCm": 436,
+      "boomLengthsCm": [178],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "mastExtensionLengthsCm": [20],
+      "luffLengthCm": 448,
+      "boomLengthsCm": [185],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "mastExtensionLengthsCm": [25],
+      "luffLengthCm": 455,
+      "boomLengthsCm": [197],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "mastExtensionLengthsCm": [30],
+      "luffLengthCm": 460,
+      "boomLengthsCm": [207],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "mastLengthsCm": [460, 430],
+      "mastIMCS": [25, 21],
+      "mastExtensionLengthsCm": [10],
+      "luffLengthCm": 469,
+      "boomLengthsCm": [218],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {
+    "en": "“SIMPLIFIED FREERIDE ENJOYMENT!”\n\nThe 2015 Pilot has all the high grade finish features you expect from a GA Sails product.\n\nAnyone from an absolute beginner and beyond will enjoy its effectiveness. This lightweight user friendly rig allows its rider to progress and improves his or her skill effortlessly. A mast tolerant luff curve allows you to use a variety of masts with different bend characteristics. Super light, great for waterstarts and sail handling skills. An ideal ride for beginners getting the basic windsurfing moves dialed.\n\nKeeping the outline as simple as possible, we improved the batten configuration to compact their positioning, incorporating the Stabilized Head design. These new features, along with a revised panel layout (with less panels and also a repositioned luff panel), make our entry level sail even better in all aspects of sailing. From an absolute beginner to more performance-oriented sailors, the Pilot is a great sail that allows its user to progress and improve their skills.\n\n \n\nR&D Details\n\nFirst, we are using the “straight leech” design to keep the rig’s outline as simple as possible. Improved Compact Batten Positioning and a Stabilized Head configuration adds more comfort and control. The revised panel layout creates less seams, whilst we also reinforced the clew area for added protection. Bigger sizes have five battens; 4.5m and 5.0m have 4 battens, and all can be rigged on a 430 mast. We continue to use colored CFilm which offers greater visibility and recognition on the water with a much longer life due the high UV resistance. The Dacron luff panel provides the best solution for a neutral behavior.\n\n \n\n FACTS\n– Straight leech and re-worked twist\n– Compact Batten Positioning\n– Stabilized Head Configuration\n– Revised Panel Layout with less seams and better protected clew area\n– Use of NEW C-Film for better durability and performance\n– Use of Dacron in the luff panel for softer, smoother feeling and maximum neutrality\n– Radial Panel Layout 3G: improved layout for perfect locked in sail shape, smooth profile, twist control and durability\n– 3D EVA mast protector. New design, more user friendly, much easier to handle for maximum shock-absorbing and minimal weight\n– 3D mast head protector for maximum shock-absorbing and minimal weight\n– Vario Top protector. This little feature protects the exposed adjusting webbing from wear and tear\n– Revised window for higher durability\n– Tolerant luff curve gives the Pilot a forgiving character\n– Wide mast compatibility works great with various masts\n\n \n\nTHOMAS TRAVERSA\n\n“It’s very simple, very comfortable, looks great and is light for beginners to handle.”\n\nBottom Line\n\nLearning to windsurf has never been easier than with the Pilot. The design characteristics make it feel light in the hands and allow you to think about your moves. The Radial Panel Layout 3G makes it super robust and efficient."
+  },
+  "pictures": []
+}

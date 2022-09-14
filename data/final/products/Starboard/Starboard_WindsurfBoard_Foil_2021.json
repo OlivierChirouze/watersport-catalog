@@ -1,0 +1,98 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2021,
+  "name": "Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 185,
+      "widthCm": 63,
+      "volumeL": 105,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 190,
+      "widthCm": 67,
+      "volumeL": 125,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 190,
+      "widthCm": 67,
+      "volumeL": 125,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 193,
+      "widthCm": 71,
+      "volumeL": 145,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 193,
+      "widthCm": 71,
+      "volumeL": 145,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,96 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2019,
+  "name": "Super Lightwind",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "FWS"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Gold"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Pro"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

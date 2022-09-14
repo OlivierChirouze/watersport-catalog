@@ -1,0 +1,122 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "RRD",
+  "year": 2018,
+  "name": "Firestorm",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Ltd",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 65,
+      "volumeL": 101,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "LTD",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 65,
+      "volumeL": 101,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Ltd",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 112,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "LTD",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 112,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "Ltd",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 123,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "LTD",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 123,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Wood",
+        "edition": "Wood FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 65,
+      "volumeL": 101,
+      "weightKg": 7,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Wood",
+        "edition": "Wood FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 112,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "Wood",
+        "edition": "Wood FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 123,
+      "weightKg": 7.8,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V4"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Zen",
+  "year": 2012,
+  "programs": ["beginner"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 170,
+      "lengthCm": 270,
+      "widthCm": 79.5,
+      "weightKg": 11,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 190
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 190,
+      "lengthCm": 290,
+      "widthCm": 80.5,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 230
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 230,
+      "lengthCm": 295,
+      "widthCm": 90,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 10.5
+      }
+    }
+  ],
+  "pictures": []
+}

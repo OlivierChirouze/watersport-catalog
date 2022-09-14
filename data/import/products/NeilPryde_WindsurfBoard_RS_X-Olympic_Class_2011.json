@@ -1,0 +1,39 @@
+{
+  "name": "RS:X-Olympic Class",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "NeilPryde",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 220,
+      "lengthCm": 286,
+      "widthCm": 93,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 8.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

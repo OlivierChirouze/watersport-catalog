@@ -1,0 +1,115 @@
+{
+  "name": "Freestyle",
+  "year": 2015,
+  "programs": ["freestyle"],
+  "brandName": "Hot Sails Maui",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.6,
+        "edition": "Pro"
+      },
+      "surfaceM2": 3.6,
+      "luffLengthCm": 359,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [140, 144],
+      "weightKg": 2.4,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.4,
+      "luffLengthCm": 411,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [149, 153],
+      "weightKg": 2.6,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 427,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [161],
+      "weightKg": 2.8,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [26],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 393,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [143, 145],
+      "weightKg": 2.5,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166, 169],
+      "weightKg": 2.9,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [35],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [174, 176],
+      "weightKg": 3.1,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

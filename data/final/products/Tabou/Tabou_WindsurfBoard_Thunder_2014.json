@@ -1,0 +1,223 @@
+{
+  "name": "Thunder",
+  "year": 2014,
+  "programs": ["freeride", "race"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Pvc Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 110,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "PVC Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 110,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 232,
+      "widthCm": 70,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Pvc Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 120,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "PVC Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 120,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 232,
+      "widthCm": 75,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Pvc Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 130,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "PVC Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 130,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 232,
+      "widthCm": 80,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 110,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 232,
+      "widthCm": 70,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 120,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 232,
+      "widthCm": 75,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 130,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 232,
+      "widthCm": 80,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

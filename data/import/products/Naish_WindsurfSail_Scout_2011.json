@@ -1,0 +1,93 @@
+{
+  "name": "Scout",
+  "year": 2011,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 301,
+      "mastLengthsCm": [
+        340
+      ],
+      "mastIMCS": [
+        15
+      ],
+      "boomLengthsCm": [
+        120
+      ],
+      "weightKg": 1.43,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 357,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        142
+      ],
+      "weightKg": 1.7,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 369,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastIMCS": [
+        19
+      ],
+      "boomLengthsCm": [
+        163
+      ],
+      "weightKg": 2.05,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        176
+      ],
+      "weightKg": 2.6,
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

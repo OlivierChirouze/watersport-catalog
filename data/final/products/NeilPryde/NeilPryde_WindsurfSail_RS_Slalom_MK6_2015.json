@@ -1,0 +1,98 @@
+{
+  "name": "RS:Slalom",
+  "year": 2015,
+  "programs": ["freeride", "race", "slalom"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 428,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [184],
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [28],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [195],
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [18],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 492,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [215],
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [32],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [205],
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [10],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 512,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [229],
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [22],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 536,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [244],
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [16],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": [],
+  "version": "MK6"
+}

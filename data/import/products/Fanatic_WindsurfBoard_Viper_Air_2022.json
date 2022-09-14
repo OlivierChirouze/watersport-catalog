@@ -1,0 +1,58 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Viper Air",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 355,
+        "construction": "Double Layer (hd) Technology",
+        "edition": "WS Premium"
+      },
+      "lengthCm": 335.3,
+      "widthCm": 85.1,
+      "volumeL": 355,
+      "weightKg": 15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 355,
+        "construction": "Double Layer (hd) Technology",
+        "edition": "WS"
+      },
+      "lengthCm": 335.3,
+      "widthCm": 85.1,
+      "volumeL": 355,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

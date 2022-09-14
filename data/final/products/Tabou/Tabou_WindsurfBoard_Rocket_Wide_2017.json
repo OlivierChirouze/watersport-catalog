@@ -1,0 +1,293 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Tabou",
+  "year": 2017,
+  "name": "Rocket Wide",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Ced",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 73,
+      "volumeL": 100,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Ced",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 110,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Ced",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 84,
+      "volumeL": 120,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Ced",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 87,
+      "volumeL": 135,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 69,
+      "volumeL": 100,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 73,
+      "volumeL": 110,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 120,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 73,
+      "volumeL": 100,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 69,
+      "volumeL": 100,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 110,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 73,
+      "volumeL": 110,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 84,
+      "volumeL": 120,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 120,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 87,
+      "volumeL": 135,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "LTD"
+      },
+      "lengthCm": 240,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

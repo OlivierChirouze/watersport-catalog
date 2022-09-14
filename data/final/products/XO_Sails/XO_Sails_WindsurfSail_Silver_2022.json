@@ -1,0 +1,49 @@
+{
+  "dimensions": ["size"],
+  "brandName": "XO Sails",
+  "year": 2022,
+  "name": "Silver",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "boomLengthsCm": [193],
+      "mastLengthsCm": [80],
+      "mastExtensionLengthsCm": [357],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [57],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [215],
+      "mastLengthsCm": [19],
+      "mastExtensionLengthsCm": [463],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

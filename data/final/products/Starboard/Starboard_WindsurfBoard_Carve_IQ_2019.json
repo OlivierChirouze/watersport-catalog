@@ -1,0 +1,183 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "Carve IQ",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 104,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 231,
+      "widthCm": 71.5,
+      "weightKg": 7.1
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Starlite"
+      },
+      "volumeL": 104,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 231,
+      "widthCm": 71.5,
+      "weightKg": 8.4
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 231,
+      "widthCm": 76,
+      "weightKg": 7.4
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Starlite"
+      },
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 231,
+      "widthCm": 76,
+      "weightKg": 8.7
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 124,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 230,
+      "widthCm": 81,
+      "weightKg": 7.6
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Starlite"
+      },
+      "volumeL": 124,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 230,
+      "widthCm": 81,
+      "weightKg": 8.9
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 131,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 246,
+      "widthCm": 81,
+      "weightKg": 8.4
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Starlite"
+      },
+      "volumeL": 131,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 246,
+      "widthCm": 81,
+      "weightKg": 9.7
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 141,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 246,
+      "widthCm": 83.5,
+      "weightKg": 8.5
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Starlite"
+      },
+      "volumeL": 141,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 246,
+      "widthCm": 83.5,
+      "weightKg": 9.8
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

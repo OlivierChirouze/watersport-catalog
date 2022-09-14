@@ -1,0 +1,57 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "NoveNove",
+  "year": 2020,
+  "name": "Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbone Double Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 216,
+      "widthCm": 62,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Carbone Double Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 221,
+      "widthCm": 64,
+      "volumeL": 101,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

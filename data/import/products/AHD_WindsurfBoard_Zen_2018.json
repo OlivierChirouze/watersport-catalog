@@ -1,0 +1,75 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "AHD",
+  "year": 2018,
+  "name": "Zen",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 270,
+      "widthCm": 79.5,
+      "volumeL": 170,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 190,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 290,
+      "widthCm": 80.5,
+      "volumeL": 190,
+      "weightKg": 13,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 295,
+      "widthCm": 90,
+      "volumeL": 230,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

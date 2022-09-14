@@ -1,0 +1,97 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2017,
+  "name": "Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "volumeL": 117,
+      "fins": [
+        {
+          "count": 3,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "volumeL": 117,
+      "fins": [
+        {
+          "count": 3,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "volumeL": 117,
+      "fins": [
+        {
+          "count": 3,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "volumeL": 147,
+      "fins": [
+        {
+          "count": 3,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "volumeL": 147,
+      "fins": [
+        {
+          "count": 3,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "volumeL": 147,
+      "fins": [
+        {
+          "count": 3,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

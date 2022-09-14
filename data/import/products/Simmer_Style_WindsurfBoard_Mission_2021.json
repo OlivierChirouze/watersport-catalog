@@ -1,0 +1,54 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Simmer Style",
+  "year": 2021,
+  "name": "Mission",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Fiber Glass"
+      },
+      "volumeL": 135,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 255
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Fiber Glass"
+      },
+      "volumeL": 155,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 255
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

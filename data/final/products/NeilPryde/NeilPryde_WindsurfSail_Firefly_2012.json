@@ -1,0 +1,109 @@
+{
+  "name": "Firefly",
+  "year": 2012,
+  "programs": ["freeride", "freestyle", "wave"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.9
+      },
+      "surfaceM2": 4.9,
+      "luffLengthCm": 412,
+      "mastLengthsCm": [21, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [161],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.05,
+      "mastExtensionLengthsCm": [10, 40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 426,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.05,
+      "mastExtensionLengthsCm": [10, 40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 439,
+      "mastLengthsCm": [25, 400, 430, 9],
+      "mastIMCS": [21],
+      "boomLengthsCm": [173],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.05,
+      "mastExtensionLengthsCm": [10, 40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.1
+      },
+      "surfaceM2": 6.1,
+      "luffLengthCm": 453,
+      "mastLengthsCm": [400, 430, 9],
+      "mastIMCS": [21],
+      "boomLengthsCm": [183],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.05,
+      "mastExtensionLengthsCm": [10, 40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 461,
+      "mastLengthsCm": [400, 430, 460, 9],
+      "mastIMCS": [25],
+      "boomLengthsCm": [191],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.05,
+      "mastExtensionLengthsCm": [10, 40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "luffLengthCm": 476,
+      "mastLengthsCm": [400, 430, 460, 9],
+      "mastIMCS": [25],
+      "boomLengthsCm": [197],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.05,
+      "mastExtensionLengthsCm": [10, 40],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

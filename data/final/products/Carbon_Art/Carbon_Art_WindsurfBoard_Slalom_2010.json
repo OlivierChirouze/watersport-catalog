@@ -1,0 +1,165 @@
+{
+  "name": "Slalom",
+  "year": 2010,
+  "programs": ["slalom"],
+  "brandName": "Carbon Art",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 250,
+      "widthCm": 52,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 91
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 91,
+      "lengthCm": 250,
+      "widthCm": 55,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 96,
+      "lengthCm": 250,
+      "widthCm": 58,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 101
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 101,
+      "lengthCm": 250,
+      "widthCm": 62,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 108,
+      "lengthCm": 245,
+      "widthCm": 66,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 112
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 112,
+      "lengthCm": 245,
+      "widthCm": 70,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 117
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 117,
+      "lengthCm": 245,
+      "widthCm": 75,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 121
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 121,
+      "lengthCm": 245,
+      "widthCm": 80,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

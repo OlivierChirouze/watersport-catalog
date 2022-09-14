@@ -1,0 +1,56 @@
+{
+  "name": "AFS-1",
+  "year": 2015,
+  "programs": [
+    "foiling",
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": [
+        "fins",
+        "foil"
+      ],
+      "volumeL": 110,
+      "lengthCm": 238,
+      "widthCm": 67.5,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Double Sandwich Full Carbon"
+      },
+      "lengthCm": 328,
+      "widthCm": 67.5,
+      "volumeL": 112,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "pictures": []
+}

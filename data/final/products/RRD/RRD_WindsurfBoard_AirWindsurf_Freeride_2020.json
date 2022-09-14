@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2020,
+  "name": "AirWindsurf Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Air"
+      },
+      "lengthCm": 260,
+      "widthCm": 80,
+      "volumeL": 150,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

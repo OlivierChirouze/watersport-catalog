@@ -1,0 +1,56 @@
+{
+  "name": "Formula",
+  "year": 2014,
+  "programs": [
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 173,
+        "construction": "Pro"
+      },
+      "volumeL": 173,
+      "weightKg": 8.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 173
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 173,
+      "lengthCm": 229.5,
+      "widthCm": 100.4,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

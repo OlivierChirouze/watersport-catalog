@@ -1,0 +1,54 @@
+{
+  "name": "RS D2",
+  "year": 2013,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 428,
+        "edition": "Sport"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 428,
+      "lengthCm": 380,
+      "widthCm": 77,
+      "weightKg": 19,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 428,
+        "construction": "Custom Made Wood & Carbon - Rs D2 Sport - Ast"
+      },
+      "volumeL": 428,
+      "weightKg": 17.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

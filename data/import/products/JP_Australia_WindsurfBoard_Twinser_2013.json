@@ -1,0 +1,194 @@
+{
+  "name": "Twinser",
+  "year": 2013,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 68,
+        "construction": "Pro Carbon Innega",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 68,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 68,
+        "construction": "Pro Edition Carbon Innega",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 68,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Pro Carbon Innega",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 74,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Pro Edition Carbon Innega",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 74,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 68,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 68,
+      "lengthCm": 227,
+      "widthCm": 53,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 74,
+      "lengthCm": 227,
+      "widthCm": 55,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 227,
+      "widthCm": 57,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 227,
+      "widthCm": 59,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 231,
+      "widthCm": 61,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.2,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

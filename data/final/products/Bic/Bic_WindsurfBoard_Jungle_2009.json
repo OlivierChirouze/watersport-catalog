@@ -1,0 +1,28 @@
+{
+  "name": "Jungle",
+  "year": 2009,
+  "programs": ["freeride", "beginner"],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 175
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 175,
+      "lengthCm": 330,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null
+      ]
+    }
+  ],
+  "pictures": []
+}

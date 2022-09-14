@@ -1,0 +1,109 @@
+{
+  "name": "Viper",
+  "year": 2013,
+  "programs": ["wave"],
+  "brandName": "Avanti Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 350,
+      "mastLengthsCm": [340, 370, 400, 430],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142],
+      "weightKg": 2.3,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 389,
+      "mastLengthsCm": [340, 370, 400, 430],
+      "mastIMCS": [17],
+      "boomLengthsCm": [158],
+      "weightKg": 2.48,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 371,
+      "mastLengthsCm": [340, 370, 400, 430],
+      "mastIMCS": [17],
+      "boomLengthsCm": [151],
+      "weightKg": 2.32,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 425,
+      "mastLengthsCm": [340, 370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177],
+      "weightKg": 2.8,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [340, 370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166],
+      "weightKg": 2.7,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [340, 370, 400, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [187],
+      "weightKg": 2.98,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

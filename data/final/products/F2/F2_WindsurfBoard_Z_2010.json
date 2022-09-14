@@ -1,0 +1,31 @@
+{
+  "name": "Z",
+  "year": 2010,
+  "programs": ["race"],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 155,
+      "lengthCm": 230,
+      "widthCm": 100.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

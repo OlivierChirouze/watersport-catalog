@@ -1,0 +1,101 @@
+{
+  "name": "Switch Blade",
+  "year": 2011,
+  "programs": ["freeride", "race"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 538,
+      "mastLengthsCm": [520],
+      "boomLengthsCm": [254],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 416,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [188],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [193],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "luffLengthCm": 457,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [202],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [207],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [214],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 504,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [224],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [505],
+      "boomLengthsCm": [240],
+      "battenCount": 7,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

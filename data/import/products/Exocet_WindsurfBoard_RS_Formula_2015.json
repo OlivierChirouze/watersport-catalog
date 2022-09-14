@@ -1,0 +1,58 @@
+{
+  "name": "RS Formula",
+  "year": 2015,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Custom Made Wood & Carbone"
+      },
+      "lengthCm": 235,
+      "widthCm": 100,
+      "volumeL": 165,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 235,
+      "widthCm": 100,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.4,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

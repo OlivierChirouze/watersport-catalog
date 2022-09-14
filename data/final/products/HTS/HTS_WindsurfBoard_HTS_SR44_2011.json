@@ -1,0 +1,32 @@
+{
+  "name": "HTS SR44",
+  "year": 2011,
+  "programs": ["race"],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 64,
+      "lengthCm": 230,
+      "widthCm": 44,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5.8
+      }
+    }
+  ],
+  "pictures": []
+}

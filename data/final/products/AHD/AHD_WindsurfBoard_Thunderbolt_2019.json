@@ -1,0 +1,40 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AHD",
+  "year": 2019,
+  "name": "Thunderbolt",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 130
+      },
+      "lengthCm": 226,
+      "widthCm": 85,
+      "volumeL": 130,
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 141
+      },
+      "lengthCm": 215,
+      "widthCm": 91,
+      "volumeL": 141,
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "lengthCm": 226,
+      "widthCm": 85,
+      "volumeL": 155,
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

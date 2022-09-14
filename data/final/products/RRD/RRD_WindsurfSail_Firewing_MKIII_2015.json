@@ -1,0 +1,86 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2015,
+  "name": "Firewing",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [413],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 7,
+      "camCount": 3,
+      "luffLengthCm": 176
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "boomLengthsCm": [422],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 7,
+      "camCount": 3,
+      "luffLengthCm": 186
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [478],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 3,
+      "luffLengthCm": 214
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [452],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 3,
+      "luffLengthCm": 200
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "boomLengthsCm": [482],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 3,
+      "luffLengthCm": 220
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "boomLengthsCm": [508],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 3,
+      "luffLengthCm": 240
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MKIII"
+}

@@ -1,0 +1,158 @@
+{
+  "name": "KA.Race",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "KA Sail",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10.8
+      },
+      "surfaceM2": 10.8,
+      "luffLengthCm": 563,
+      "mastLengthsCm": [520, 550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [259],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [13, 43],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 11.8
+      },
+      "surfaceM2": 11.8,
+      "luffLengthCm": 585,
+      "mastLengthsCm": [100, 550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [271],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [35, 485],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [100, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [176],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [10, 310],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 437,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [191],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [337, 7],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "luffLengthCm": 466,
+      "mastLengthsCm": [100, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [203],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [366, 6],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [100, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [217],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [26, 386],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "luffLengthCm": 508,
+      "mastLengthsCm": [100, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [229],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [18, 408],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "luffLengthCm": 526,
+      "mastLengthsCm": [520],
+      "mastIMCS": [33],
+      "boomLengthsCm": [239],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.7
+      },
+      "surfaceM2": 9.7,
+      "mastLengthsCm": [520],
+      "mastIMCS": [33],
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 9.8
+      },
+      "surfaceM2": 9.8,
+      "luffLengthCm": 537,
+      "mastLengthsCm": [100, 520],
+      "mastIMCS": [33],
+      "boomLengthsCm": [245],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [17, 437],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

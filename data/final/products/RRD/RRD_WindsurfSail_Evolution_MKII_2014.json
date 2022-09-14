@@ -1,0 +1,79 @@
+{
+  "name": "Evolution",
+  "year": 2014,
+  "programs": ["freeride"],
+  "brandName": "RRD",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5,
+        "edition": "X"
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 407,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [165],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.7,
+        "edition": "X"
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 423,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [186],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.4,
+        "edition": "X"
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [195],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.2,
+        "edition": "X"
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [205],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 8,
+        "edition": "X"
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 483,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [219],
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": [],
+  "version": "MKII"
+}

@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2017,
+  "name": "Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 39,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 2275,
+      "widthCm": 395,
+      "volumeL": 39,
+      "weightKg": 3.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 43,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 2280,
+      "widthCm": 430,
+      "volumeL": 43,
+      "weightKg": 4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 48,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 48,
+      "volumeL": 48,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 53,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 2300,
+      "widthCm": 530,
+      "volumeL": 53,
+      "weightKg": 5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,78 @@
+{
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "brandName": "Loftsails",
+  "year": 2019,
+  "name": "Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 10,
+        "edition": "FR"
+      },
+      "surfaceM2": 10,
+      "weightKg": 7.84,
+      "boomLengthsCm": [
+        262
+      ],
+      "mastLengthsCm": [
+        530
+      ],
+      "mastExtensionLengthsCm": [
+        35
+      ],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 11,
+        "edition": "FR"
+      },
+      "surfaceM2": 11,
+      "weightKg": 8.38,
+      "boomLengthsCm": [
+        276
+      ],
+      "mastLengthsCm": [
+        550
+      ],
+      "mastExtensionLengthsCm": [
+        36
+      ],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 12,
+        "edition": "FR"
+      },
+      "surfaceM2": 12,
+      "weightKg": 7.84,
+      "boomLengthsCm": [
+        262
+      ],
+      "mastLengthsCm": [
+        530
+      ],
+      "mastExtensionLengthsCm": [
+        35
+      ],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

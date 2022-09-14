@@ -1,0 +1,94 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Horue",
+  "year": 2019,
+  "name": "Airtime",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Double Sandwich Glass"
+      },
+      "lengthCm": 221,
+      "widthCm": 80.3,
+      "volumeL": 125,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Double Sandwich Verre"
+      },
+      "lengthCm": 221,
+      "widthCm": 80.3,
+      "volumeL": 125,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Double Sandwich Glass"
+      },
+      "lengthCm": 221,
+      "widthCm": 80.3,
+      "volumeL": 145,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Double Sandwich Verre"
+      },
+      "lengthCm": 221,
+      "widthCm": 80.3,
+      "volumeL": 145,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

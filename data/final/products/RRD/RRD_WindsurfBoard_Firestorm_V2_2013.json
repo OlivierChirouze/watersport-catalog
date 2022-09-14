@@ -1,0 +1,62 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "RRD",
+  "year": 2013,
+  "name": "Firestorm",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "N",
+        "edition": "LTD"
+      },
+      "volumeL": 101,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "N",
+        "edition": "LTD"
+      },
+      "volumeL": 111,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "N",
+        "edition": "Wood"
+      },
+      "volumeL": 101,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "N",
+        "edition": "Wood"
+      },
+      "volumeL": 111,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

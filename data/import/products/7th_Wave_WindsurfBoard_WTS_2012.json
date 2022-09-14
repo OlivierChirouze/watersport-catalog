@@ -1,0 +1,52 @@
+{
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "brandName": "7th Wave",
+  "year": 2012,
+  "name": "WTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 74,
+        "edition": "Quad"
+      },
+      "volumeL": 74,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 79,
+        "edition": "Quad"
+      },
+      "volumeL": 79,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

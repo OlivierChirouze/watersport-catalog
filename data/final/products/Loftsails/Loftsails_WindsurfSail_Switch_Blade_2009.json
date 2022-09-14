@@ -1,0 +1,90 @@
+{
+  "name": "Switch Blade",
+  "year": 2009,
+  "programs": ["slalom"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 424,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [184],
+      "battenCount": 8,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [196],
+      "battenCount": 8,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "luffLengthCm": 468,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [208],
+      "battenCount": 8,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 480,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [213],
+      "battenCount": 8,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 490,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [218],
+      "battenCount": 8,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 508,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [230],
+      "battenCount": 8,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [247],
+      "battenCount": 8,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

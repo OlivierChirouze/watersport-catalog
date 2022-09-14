@@ -1,0 +1,158 @@
+{
+  "name": "Fast Forward",
+  "year": 2016,
+  "programs": ["freeride"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 107,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 250,
+      "widthCm": 64,
+      "volumeL": 107,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 252,
+      "widthCm": 67.5,
+      "volumeL": 117,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 117
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 117,
+      "lengthCm": 252,
+      "widthCm": 67.5,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 253,
+      "widthCm": 72,
+      "volumeL": 130,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 253,
+      "widthCm": 72,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 256,
+      "widthCm": 77,
+      "volumeL": 145,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 256,
+      "widthCm": 77,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 268,
+      "widthCm": 79,
+      "volumeL": 160,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 268,
+      "widthCm": 79,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

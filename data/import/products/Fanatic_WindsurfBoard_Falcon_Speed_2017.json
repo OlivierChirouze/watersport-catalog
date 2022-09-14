@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Fanatic",
+  "year": 2017,
+  "name": "Falcon Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Bcs"
+      },
+      "lengthCm": 230,
+      "widthCm": 68,
+      "volumeL": 50,
+      "weightKg": 4.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 56,
+        "construction": "Bcs"
+      },
+      "lengthCm": 235,
+      "widthCm": 79,
+      "volumeL": 56,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

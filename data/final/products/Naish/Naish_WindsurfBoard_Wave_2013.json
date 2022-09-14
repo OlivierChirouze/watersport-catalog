@@ -1,0 +1,71 @@
+{
+  "name": "Wave",
+  "year": 2013,
+  "programs": ["kids", "wave"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 65,
+        "construction": "Carbon"
+      },
+      "volumeL": 65,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 65
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 65,
+      "lengthCm": 222,
+      "widthCm": 55,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Carbon"
+      },
+      "volumeL": 74,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 224,
+      "widthCm": 57,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    }
+  ],
+  "pictures": []
+}

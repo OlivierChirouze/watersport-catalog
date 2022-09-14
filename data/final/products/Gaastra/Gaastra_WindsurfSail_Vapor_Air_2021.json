@@ -1,0 +1,224 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Gaastra",
+  "year": 2021,
+  "name": "Vapor Air",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2021/foil/vapor-air-21/",
+  "programs": ["freeride", "slalom"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10,
+        "edition": "R"
+      },
+      "surfaceM2": 10,
+      "boomLengthsCm": [227],
+      "mastLengthsCm": [100, 550],
+      "mastExtensionLengthsCm": [39, 489],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 589
+    },
+    {
+      "variant": {
+        "size": 11,
+        "edition": "R"
+      },
+      "surfaceM2": 11,
+      "mastLengthsCm": [100, 570],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.1,
+        "edition": "R"
+      },
+      "surfaceM2": 9.1,
+      "boomLengthsCm": [214],
+      "mastLengthsCm": [100, 520],
+      "mastExtensionLengthsCm": [31, 451],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 551
+    },
+    {
+      "variant": {
+        "size": 6.8,
+        "edition": "SL"
+      },
+      "surfaceM2": 6.8,
+      "boomLengthsCm": [181],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [364, 4],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 464
+    },
+    {
+      "variant": {
+        "size": 7.4,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.4,
+      "boomLengthsCm": [193],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [32, 392],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 492
+    },
+    {
+      "variant": {
+        "size": 8.2,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.2,
+      "boomLengthsCm": [204],
+      "mastLengthsCm": [100, 490],
+      "mastExtensionLengthsCm": [31, 421],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 521
+    },
+    {
+      "variant": {
+        "size": 9,
+        "edition": "SL"
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [213],
+      "mastLengthsCm": [490, 520],
+      "mastExtensionLengthsCm": [33, 63],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 553
+    },
+    {
+      "variant": {
+        "size": 10,
+        "construction": "R"
+      },
+      "surfaceM2": 10,
+      "mastLengthsCm": [550],
+      "mastIMCS": [37],
+      "mastExtensionLengthsCm": [40],
+      "luffLengthCm": 589,
+      "boomLengthsCm": [2271],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 11,
+        "construction": "R"
+      },
+      "surfaceM2": 11,
+      "mastLengthsCm": [550],
+      "mastIMCS": [37],
+      "mastExtensionLengthsCm": null,
+      "luffLengthCm": null,
+      "boomLengthsCm": null,
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.6,
+        "construction": "SL"
+      },
+      "surfaceM2": 6.6,
+      "mastLengthsCm": [460, 430],
+      "mastIMCS": [25, 21],
+      "mastExtensionLengthsCm": [6, 36],
+      "luffLengthCm": 464,
+      "boomLengthsCm": [181],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.4,
+        "construction": "SL"
+      },
+      "surfaceM2": 7.4,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "mastExtensionLengthsCm": [34],
+      "luffLengthCm": 492,
+      "boomLengthsCm": [193],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.2,
+        "construction": "SL"
+      },
+      "surfaceM2": 8.2,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "mastExtensionLengthsCm": [32],
+      "luffLengthCm": 521,
+      "boomLengthsCm": [204],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9,
+        "construction": "SL"
+      },
+      "surfaceM2": 9,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "mastExtensionLengthsCm": [34],
+      "luffLengthCm": 553,
+      "boomLengthsCm": [213],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.1,
+        "construction": "R"
+      },
+      "surfaceM2": 9.1,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "mastExtensionLengthsCm": [32],
+      "luffLengthCm": 551,
+      "boomLengthsCm": [214],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {
+    "en": "Based on the continuous evolution of the foiling discipline and new racing rules, we decided to design two individual Vapor Air lines to supply you with the perfect foil racing sail for your demands. The Vapor Air SL is dedicated to slalom racing on a foil with maximum stability, control and top speed in two configurations. A design with 8 battens on the smaller sizes enhances stability, while the setup with 7 battens on the 9.0 provides maximum performance in lightest winds. 8 battens with a double batten in the head on the Vapor Air R range stabilize the head twist and add exposure to the foot area for maximized upwind racing performance. The Vapor Air R has less pronounced leech twist than the Vapor Air SL, which again improves its upwind performance."
+  },
+  "pictures": []
+}

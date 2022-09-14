@@ -1,0 +1,107 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "KA Sail",
+  "year": 2020,
+  "name": "Kross-S",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "boomLengthsCm": [
+        192
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        28
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 458
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "boomLengthsCm": [
+        184
+      ],
+      "mastLengthsCm": [
+        430,
+        75
+      ],
+      "mastExtensionLengthsCm": [
+        28,
+        383
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 458
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "boomLengthsCm": [
+        198
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        47
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 477
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "boomLengthsCm": [
+        210
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        59
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 489
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

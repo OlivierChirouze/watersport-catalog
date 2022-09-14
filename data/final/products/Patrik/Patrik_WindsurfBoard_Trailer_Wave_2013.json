@@ -1,0 +1,35 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "Trailer Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Carbon"
+      },
+      "volumeL": 72,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Carbon"
+      },
+      "volumeL": 78,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

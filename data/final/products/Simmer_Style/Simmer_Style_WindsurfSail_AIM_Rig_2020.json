@@ -1,0 +1,52 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2020,
+  "name": "AIM Rig",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [192],
+      "mastLengthsCm": [398],
+      "mastExtensionLengthsCm": [0],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 398
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "boomLengthsCm": [205],
+      "mastLengthsCm": [426],
+      "mastExtensionLengthsCm": [0],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 426
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [218],
+      "mastLengthsCm": [454],
+      "mastExtensionLengthsCm": [0],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 454
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

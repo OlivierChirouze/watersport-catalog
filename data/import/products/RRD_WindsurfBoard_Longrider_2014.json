@@ -1,0 +1,57 @@
+{
+  "name": "Longrider",
+  "year": 2014,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Etech"
+      },
+      "volumeL": 180,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 340,
+      "widthCm": 70,
+      "weightKg": 14.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

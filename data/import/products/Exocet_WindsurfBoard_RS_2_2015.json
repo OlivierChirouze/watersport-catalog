@@ -1,0 +1,57 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Exocet",
+  "year": 2015,
+  "name": "RS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Custom Made Biax Carbon"
+      },
+      "lengthCm": 235,
+      "widthCm": 59,
+      "volumeL": 91,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Custom Made Biax Carbone"
+      },
+      "lengthCm": 235,
+      "widthCm": 59,
+      "volumeL": 91,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "2"
+}

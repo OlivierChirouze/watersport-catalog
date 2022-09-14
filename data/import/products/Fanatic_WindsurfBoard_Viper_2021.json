@@ -1,0 +1,115 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "Fanatic",
+  "year": 2021,
+  "name": "Viper",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Thermoform Hrs",
+        "edition": "HD"
+      },
+      "lengthCm": 245,
+      "widthCm": 87,
+      "volumeL": 87,
+      "weightKg": 16.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "High Resistance Composite"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 75,
+      "weightKg": 11.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "High Resistance Composite"
+      },
+      "lengthCm": 280,
+      "widthCm": 80,
+      "volumeL": 80,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "High Resistance Composite"
+      },
+      "lengthCm": 285,
+      "widthCm": 85,
+      "volumeL": 85,
+      "weightKg": 14.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "High Resistance Composite"
+      },
+      "lengthCm": 290,
+      "widthCm": 91,
+      "volumeL": 91,
+      "weightKg": 15.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

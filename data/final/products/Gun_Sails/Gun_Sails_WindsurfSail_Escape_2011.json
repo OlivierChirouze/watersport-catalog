@@ -1,0 +1,85 @@
+{
+  "name": "Escape",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 445,
+      "mastLengthsCm": [430],
+      "mastIMCS": [20, 22],
+      "boomLengthsCm": [189],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 465,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [197],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 477,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [204],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [214],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 498,
+      "mastLengthsCm": [490],
+      "mastIMCS": [28, 30],
+      "boomLengthsCm": [222],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 515,
+      "mastLengthsCm": [490],
+      "mastIMCS": [28, 30],
+      "boomLengthsCm": [230],
+      "battenCount": 6,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

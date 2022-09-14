@@ -1,0 +1,93 @@
+{
+  "name": "Sprint",
+  "year": 2016,
+  "programs": ["freeride"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 422,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166],
+      "weightKg": 3.45,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [22],
+      "masTypes": ["RDM", "SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [180],
+      "weightKg": 3.7,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["RDM", "SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 454,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [190],
+      "weightKg": 4.14,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["RDM", "SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "luffLengthCm": 476,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [202],
+      "weightKg": 4.36,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [46, 16],
+      "masTypes": ["RDM", "SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "luffLengthCm": 490,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212],
+      "weightKg": 4.56,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [30],
+      "masTypes": ["RDM", "SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

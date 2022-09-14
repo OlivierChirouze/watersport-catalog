@@ -1,0 +1,53 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "AHD",
+  "year": 2019,
+  "name": "SL-2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "edition": "Concept"
+      },
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "volumeL": 105,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "Concept"
+      },
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "volumeL": 115,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "edition": "Concept"
+      },
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "volumeL": 128,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "edition": "Concept"
+      },
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "volumeL": 132,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

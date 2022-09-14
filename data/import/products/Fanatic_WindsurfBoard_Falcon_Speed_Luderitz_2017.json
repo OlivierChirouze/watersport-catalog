@@ -1,0 +1,37 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Fanatic",
+  "year": 2017,
+  "name": "Falcon Speed Luderitz",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 44,
+        "construction": "Bcs"
+      },
+      "lengthCm": 230,
+      "widthCm": 54,
+      "volumeL": 44,
+      "weightKg": 4.45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

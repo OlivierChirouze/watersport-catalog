@@ -1,0 +1,52 @@
+{
+  "name": "Dagger",
+  "year": 2015,
+  "programs": ["freeride", "race"],
+  "brandName": "Aerotech",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 481,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [226],
+      "weightKg": 5.4,
+      "battenCount": 6,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 513,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [242],
+      "weightKg": 5.8,
+      "battenCount": 6,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 525,
+      "mastLengthsCm": [520],
+      "mastIMCS": [34],
+      "boomLengthsCm": [264],
+      "weightKg": 6.1,
+      "battenCount": 6,
+      "camCount": 4
+    }
+  ],
+  "pictures": []
+}

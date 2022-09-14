@@ -1,0 +1,74 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2019,
+  "name": "3XS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106
+      },
+      "volumeL": 106,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 231,
+      "widthCm": 68.5,
+      "weightKg": 6.4
+    },
+    {
+      "variant": {
+        "size": 116
+      },
+      "volumeL": 116,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 231,
+      "widthCm": 71.5,
+      "weightKg": 6.6
+    },
+    {
+      "variant": {
+        "size": 126
+      },
+      "volumeL": 126,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 228,
+      "widthCm": 83,
+      "weightKg": 7.3
+    },
+    {
+      "variant": {
+        "size": 136
+      },
+      "volumeL": 136,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 228,
+      "widthCm": 85,
+      "weightKg": 7.5
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "volumeL": 80,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 240,
+      "widthCm": 55,
+      "weightKg": 6.1
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "volumeL": 96,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 232,
+      "widthCm": 62,
+      "weightKg": 6.3
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

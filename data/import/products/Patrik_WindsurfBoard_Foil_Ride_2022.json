@@ -1,0 +1,72 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "Foil Ride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Aluminium"
+      },
+      "lengthCm": 210,
+      "widthCm": 70,
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Aluminium"
+      },
+      "lengthCm": 215,
+      "widthCm": 75,
+      "volumeL": 131,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Aluminium"
+      },
+      "lengthCm": 220,
+      "widthCm": 80,
+      "volumeL": 147,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

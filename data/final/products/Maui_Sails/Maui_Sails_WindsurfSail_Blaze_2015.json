@@ -1,0 +1,137 @@
+{
+  "name": "Blaze",
+  "year": 2015,
+  "programs": ["freeride", "race"],
+  "brandName": "Maui Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 454,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [189],
+      "weightKg": 4.6,
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [206],
+      "weightKg": 5.1,
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [22, 407],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 468,
+      "mastLengthsCm": [460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [197],
+      "weightKg": 4.9,
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [393, 8],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 508,
+      "mastLengthsCm": [490, 75],
+      "mastIMCS": [29],
+      "boomLengthsCm": [224],
+      "weightKg": 5.5,
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [18, 433],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 495,
+      "mastLengthsCm": [490, 75],
+      "mastIMCS": [29],
+      "boomLengthsCm": [215],
+      "weightKg": 5.3,
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [420, 5],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "weightKg": 5.9,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [520, 75],
+      "mastExtensionLengthsCm": [12, 457],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 532
+    },
+    {
+      "variant": {
+        "size": 9.8
+      },
+      "surfaceM2": 9.8,
+      "luffLengthCm": 532,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [240],
+      "weightKg": 5.9,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 526,
+      "mastLengthsCm": [490, 520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [230],
+      "weightKg": 5.6,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [36, 6],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

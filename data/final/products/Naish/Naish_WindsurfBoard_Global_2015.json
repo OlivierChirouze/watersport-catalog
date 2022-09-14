@@ -1,0 +1,109 @@
+{
+  "name": "Global",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 78,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 222,
+      "widthCm": 57,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 88,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 234,
+      "widthCm": 59,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 98,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 98,
+      "lengthCm": 240,
+      "widthCm": 62.8,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "lengthCm": 240,
+      "widthCm": 62.8,
+      "volumeL": 75,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78
+      },
+      "lengthCm": 234,
+      "widthCm": 59,
+      "volumeL": 78,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "lengthCm": 222,
+      "widthCm": 57,
+      "volumeL": 85,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "lengthCm": 234,
+      "widthCm": 59,
+      "volumeL": 95,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

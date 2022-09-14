@@ -1,0 +1,291 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2020,
+  "name": "Hydrofoil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 120,
+      "widthCm": 209,
+      "volumeL": 78,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 135,
+      "widthCm": 214,
+      "volumeL": 85,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 105,
+      "widthCm": 204,
+      "volumeL": 70,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 120,
+      "widthCm": 209,
+      "volumeL": 78,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 135,
+      "widthCm": 214,
+      "volumeL": 85,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 150,
+      "widthCm": 214,
+      "volumeL": 91,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "construction": "FWS"
+      },
+      "lengthCm": 105,
+      "widthCm": 204,
+      "volumeL": 70,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Pro"
+      },
+      "lengthCm": 105,
+      "widthCm": 204,
+      "volumeL": 70,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "ES"
+      },
+      "lengthCm": 120,
+      "widthCm": 209,
+      "volumeL": 78,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "FWS"
+      },
+      "lengthCm": 120,
+      "widthCm": 209,
+      "volumeL": 78,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Pro"
+      },
+      "lengthCm": 120,
+      "widthCm": 209,
+      "volumeL": 78,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "ES"
+      },
+      "lengthCm": 135,
+      "widthCm": 214,
+      "volumeL": 85,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "FWS"
+      },
+      "lengthCm": 135,
+      "widthCm": 214,
+      "volumeL": 85,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Pro"
+      },
+      "lengthCm": 135,
+      "widthCm": 214,
+      "volumeL": 85,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "FWS"
+      },
+      "lengthCm": 150,
+      "widthCm": 214,
+      "volumeL": 91,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Pro"
+      },
+      "lengthCm": 150,
+      "widthCm": 214,
+      "volumeL": 91,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

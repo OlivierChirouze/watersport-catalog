@@ -1,0 +1,118 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "North Sails",
+  "year": 2018,
+  "name": "S-Type",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6,
+        "edition": "SL"
+      },
+      "surfaceM2": 6,
+      "weightKg": 4.9,
+      "boomLengthsCm": [200],
+      "mastLengthsCm": [460, 100],
+      "mastExtensionLengthsCm": [336],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.6,
+        "edition": "SL"
+      },
+      "surfaceM2": 6.6,
+      "weightKg": 5.1,
+      "boomLengthsCm": [210],
+      "mastLengthsCm": [460, 100],
+      "mastExtensionLengthsCm": [348],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.3,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.3,
+      "weightKg": 5.3,
+      "boomLengthsCm": [218],
+      "mastLengthsCm": [460, 100],
+      "mastExtensionLengthsCm": [4, 364],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 5,
+      "boomLengthsCm": [226],
+      "mastLengthsCm": [460, 100],
+      "mastExtensionLengthsCm": [14, 374],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.3,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.3,
+      "weightKg": 6,
+      "boomLengthsCm": [230],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [35],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.8,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.8,
+      "weightKg": 6.3,
+      "boomLengthsCm": [237],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [19],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.3,
+        "edition": "SL"
+      },
+      "surfaceM2": 9.3,
+      "weightKg": 6.6,
+      "boomLengthsCm": [244],
+      "mastLengthsCm": [100],
+      "mastExtensionLengthsCm": [419],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

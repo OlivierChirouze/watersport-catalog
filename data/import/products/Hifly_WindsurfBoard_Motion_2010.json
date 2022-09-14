@@ -1,0 +1,39 @@
+{
+  "name": "Motion",
+  "year": 2010,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Hifly",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 219
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 219,
+      "lengthCm": 290,
+      "widthCm": 90,
+      "weightKg": 18.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

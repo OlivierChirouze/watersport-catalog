@@ -1,0 +1,97 @@
+{
+  "name": "Nexus",
+  "year": 2016,
+  "programs": ["freeride", "wave"],
+  "brandName": "Goya",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.9
+      },
+      "surfaceM2": 4.9,
+      "luffLengthCm": 408,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [169],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [8],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 421,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [174],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [21],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [184],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [8],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [194],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [26],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [202],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [9],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.4
+      },
+      "surfaceM2": 7.4,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [211],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [22],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

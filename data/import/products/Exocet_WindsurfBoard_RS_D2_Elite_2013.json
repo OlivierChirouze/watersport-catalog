@@ -1,0 +1,39 @@
+{
+  "name": "RS D2 Elite",
+  "year": 2013,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 428
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 428,
+      "lengthCm": 380,
+      "widthCm": 77,
+      "weightKg": 17.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

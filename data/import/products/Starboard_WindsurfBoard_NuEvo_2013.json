@@ -1,0 +1,60 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "NuEvo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 73,
+        "construction": "Carbon"
+      },
+      "volumeL": 73,
+      "weightKg": 6.45,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 73,
+        "construction": "Carbon"
+      },
+      "volumeL": 73,
+      "weightKg": 6.45,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 73,
+        "construction": "Wood"
+      },
+      "volumeL": 73,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Wood"
+      },
+      "volumeL": 80,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

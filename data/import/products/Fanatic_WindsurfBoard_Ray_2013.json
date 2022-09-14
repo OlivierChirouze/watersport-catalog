@@ -1,0 +1,103 @@
+{
+  "name": "Ray",
+  "year": 2013,
+  "programs": [
+    "freeride",
+    "race",
+    "slalom"
+  ],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Biax Glass Sandwich Light Finish"
+      },
+      "volumeL": 102,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 235,
+      "widthCm": 63,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Biax Glass Sandwich Light Finish"
+      },
+      "volumeL": 112,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 112
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 112,
+      "lengthCm": 235,
+      "widthCm": 69,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.6
+      }
+    },
+    {
+      "variant": {
+        "size": 122
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 122,
+      "lengthCm": 230,
+      "widthCm": 76,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.2
+      }
+    }
+  ],
+  "pictures": []
+}

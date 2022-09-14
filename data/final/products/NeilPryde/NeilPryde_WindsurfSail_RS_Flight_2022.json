@@ -1,0 +1,73 @@
+{
+  "dimensions": ["size"],
+  "brandName": "NeilPryde",
+  "year": 2022,
+  "name": "RS:Flight",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "weightKg": 6.75,
+      "boomLengthsCm": [227, 234],
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": [58],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 608
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 5.5,
+      "boomLengthsCm": [210, 217],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [5],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 525
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "weightKg": 5.5,
+      "boomLengthsCm": [210, 217],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [5],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 525
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "weightKg": 6.4,
+      "boomLengthsCm": [221, 228],
+      "mastLengthsCm": [520, 550],
+      "mastExtensionLengthsCm": [39, 9],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 559
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Chango",
+  "year": 2009,
+  "programs": ["wave"],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 67
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 233,
+      "widthCm": 52,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 73
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 73,
+      "lengthCm": 238,
+      "widthCm": 54,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 81
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 81,
+      "lengthCm": 240,
+      "widthCm": 57,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 241,
+      "widthCm": 59,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

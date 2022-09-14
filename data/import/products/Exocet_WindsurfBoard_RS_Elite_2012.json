@@ -1,0 +1,39 @@
+{
+  "name": "RS Elite",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 295
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 295,
+      "lengthCm": 380,
+      "widthCm": 65,
+      "weightKg": 13.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

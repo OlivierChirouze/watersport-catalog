@@ -1,0 +1,50 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "RRD",
+  "year": 2013,
+  "name": "TwinTip",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "N",
+        "edition": "LTD"
+      },
+      "volumeL": 100,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "N",
+        "edition": "LTD"
+      },
+      "volumeL": 90,
+      "weightKg": 6.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

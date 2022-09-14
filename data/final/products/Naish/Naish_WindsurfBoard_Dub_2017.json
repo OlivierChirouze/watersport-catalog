@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Naish",
+  "year": 2017,
+  "name": "Dub",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon",
+        "edition": "Carbon Pro"
+      },
+      "lengthCm": 230,
+      "widthCm": 63.5,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

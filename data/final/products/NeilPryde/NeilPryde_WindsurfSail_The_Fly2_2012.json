@@ -1,0 +1,141 @@
+{
+  "name": "The Fly2",
+  "year": 2012,
+  "programs": ["wave"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "luffLengthCm": 342,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [137],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "luffLengthCm": 346,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.9
+      },
+      "surfaceM2": 3.9,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [148],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 370,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [153],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 382,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [158],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 394,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [163],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [340, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [169],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 422,
+      "mastLengthsCm": [340, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [173],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.3,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

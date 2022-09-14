@@ -1,0 +1,127 @@
+{
+  "name": "Custom Wave",
+  "year": 2010,
+  "programs": ["wave"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 78,
+        "edition": "Eco Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 237,
+      "widthCm": 55.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Eco Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 239,
+      "widthCm": 56.8,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 66,
+        "edition": "Limited"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 66,
+      "lengthCm": 232,
+      "widthCm": 52,
+      "weightKg": 5.21,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 72,
+        "edition": "Limited"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 235,
+      "widthCm": 53.7,
+      "weightKg": 5.52,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 78,
+        "edition": "Limited"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 237,
+      "widthCm": 55.4,
+      "weightKg": 5.62,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Limited"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 239,
+      "widthCm": 56.8,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

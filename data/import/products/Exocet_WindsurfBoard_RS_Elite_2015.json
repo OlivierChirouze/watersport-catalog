@@ -1,0 +1,60 @@
+{
+  "name": "RS Elite",
+  "year": 2015,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 311,
+        "construction": "Custom Made Wood & Carbone"
+      },
+      "lengthCm": 380,
+      "widthCm": 65,
+      "volumeL": 311,
+      "weightKg": 13.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 311
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 311,
+      "lengthCm": 380,
+      "widthCm": 65,
+      "weightKg": 13.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

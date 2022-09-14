@@ -1,0 +1,61 @@
+{
+  "name": "Academy",
+  "year": 2016,
+  "programs": ["beginner"],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 165
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 267,
+      "widthCm": 80,
+      "weightKg": 12.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ]
+    },
+    {
+      "variant": {
+        "size": 185
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 185,
+      "lengthCm": 268,
+      "widthCm": 88,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ]
+    },
+    {
+      "variant": {
+        "size": 230
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 230,
+      "lengthCm": 260,
+      "widthCm": 100,
+      "weightKg": 14.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ]
+    }
+  ],
+  "pictures": []
+}

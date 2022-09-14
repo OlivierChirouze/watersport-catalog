@@ -1,0 +1,398 @@
+{
+  "name": "UltraKode",
+  "year": 2017,
+  "programs": ["wave"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 105,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 72,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 76,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 80,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 86,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 93,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Ultracore Reflex Carbon",
+        "edition": "Pure Thruster"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 99,
+      "weightKg": 5.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 234,
+      "widthCm": 65.5,
+      "volumeL": 105,
+      "weightKg": 6.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 234,
+      "widthCm": 65.5,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "volumeL": 72,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 217,
+      "widthCm": 53.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 219,
+      "widthCm": 55,
+      "volumeL": 76,
+      "weightKg": 5.82,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 76,
+      "lengthCm": 219,
+      "widthCm": 55,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 223,
+      "widthCm": 58,
+      "volumeL": 80,
+      "weightKg": 5.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 223,
+      "widthCm": 58,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 224,
+      "widthCm": 59,
+      "volumeL": 86,
+      "weightKg": 6.13,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 224,
+      "widthCm": 59,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 226,
+      "widthCm": 61,
+      "volumeL": 93,
+      "weightKg": 6.23,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 93,
+      "lengthCm": 226,
+      "widthCm": 61,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 62.5,
+      "volumeL": 99,
+      "weightKg": 6.45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 99,
+      "lengthCm": 230,
+      "widthCm": 62.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "StarBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

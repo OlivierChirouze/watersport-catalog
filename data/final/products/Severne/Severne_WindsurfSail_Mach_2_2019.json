@@ -1,0 +1,91 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Severne",
+  "year": 2019,
+  "name": "Mach",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 5,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "2"
+}

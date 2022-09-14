@@ -1,0 +1,105 @@
+{
+  "name": "Taka",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Ezzy Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.4
+      },
+      "surfaceM2": 3.4,
+      "luffLengthCm": 355,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [132, 140],
+      "weightKg": 2.679,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "luffLengthCm": 371,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [14, 17],
+      "boomLengthsCm": [136, 144],
+      "weightKg": 2.794,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.1
+      },
+      "surfaceM2": 4.1,
+      "luffLengthCm": 380,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [143, 151],
+      "weightKg": 2.913,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 391,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17, 19],
+      "boomLengthsCm": [152, 160],
+      "weightKg": 3.03,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 397,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17, 19],
+      "boomLengthsCm": [157, 165],
+      "weightKg": 3.102,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 404,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17, 19],
+      "boomLengthsCm": [160, 168],
+      "weightKg": 3.19,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 418,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166, 174],
+      "weightKg": 3.294,
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": [],
+  "version": "2"
+}

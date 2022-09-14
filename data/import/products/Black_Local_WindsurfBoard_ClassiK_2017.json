@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Black Local",
+  "year": 2017,
+  "name": "ClassiK",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Sandwi"
+      },
+      "lengthCm": 228,
+      "widthCm": 57.5,
+      "volumeL": 86,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 3,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 57.5,
+      "volumeL": 86,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 3,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Advance",
+  "year": 2010,
+  "programs": ["beginner"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 280,
+      "mastLengthsCm": [290],
+      "boomLengthsCm": [124],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 310,
+      "mastLengthsCm": [310],
+      "boomLengthsCm": [136],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 322,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [138],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 338,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [147],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 351,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [160],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 368,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [174],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "luffLengthCm": 409,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [186],
+      "weightKg": 3.18,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 430,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [194],
+      "weightKg": 3.3,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 452,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [204],
+      "weightKg": 3.44,
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

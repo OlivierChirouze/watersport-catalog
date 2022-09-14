@@ -1,0 +1,54 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Naish",
+  "year": 2022,
+  "name": "Micro Hover",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "S-glass"
+      },
+      "lengthCm": 200,
+      "widthCm": 65,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 200,
+      "widthCm": 65,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

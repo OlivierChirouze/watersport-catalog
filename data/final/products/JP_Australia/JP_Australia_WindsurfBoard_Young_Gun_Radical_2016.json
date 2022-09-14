@@ -1,0 +1,36 @@
+{
+  "name": "Young Gun Radical",
+  "year": 2016,
+  "programs": ["kids"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 59,
+        "edition": "Thruster Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 59,
+      "lengthCm": 207,
+      "widthCm": 50,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 5,
+        "fromM2": 3
+      }
+    }
+  ],
+  "pictures": []
+}

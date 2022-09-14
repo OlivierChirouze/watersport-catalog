@@ -1,0 +1,216 @@
+{
+  "name": "Techno",
+  "year": 2014,
+  "programs": ["beginner", "freeride", "race"],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ace-tec",
+        "edition": "D"
+      },
+      "volumeL": 160,
+      "weightKg": 11,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ace-Tec",
+        "edition": "D"
+      },
+      "volumeL": 160,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "D"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 82,
+      "weightKg": 11,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Ace-tec",
+        "edition": "D"
+      },
+      "volumeL": 205,
+      "weightKg": 11.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Ace-Tec",
+        "edition": "D"
+      },
+      "volumeL": 205,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "edition": "D"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Ace-tec",
+        "edition": "OD DTT"
+      },
+      "volumeL": 205,
+      "weightKg": 13,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Ace-Tec",
+        "edition": "OD DTT"
+      },
+      "volumeL": 205,
+      "weightKg": 13,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "edition": "OD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 133
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 133,
+      "lengthCm": 250,
+      "widthCm": 70,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ace-tec"
+      },
+      "volumeL": 147,
+      "weightKg": 10.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ace-Tec"
+      },
+      "volumeL": 147,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 148,
+      "lengthCm": 264,
+      "widthCm": 75,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

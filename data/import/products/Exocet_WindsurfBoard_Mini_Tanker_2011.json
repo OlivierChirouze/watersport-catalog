@@ -1,0 +1,40 @@
+{
+  "name": "Mini Tanker",
+  "year": 2011,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "edition": "TT"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 260,
+      "widthCm": 65,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

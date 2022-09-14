@@ -1,0 +1,139 @@
+{
+  "name": "F-Race",
+  "year": 2016,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Patrik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 70,
+      "volumeL": 120,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 238,
+      "widthCm": 70,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.7
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 236,
+      "widthCm": 75,
+      "volumeL": 130,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 236,
+      "widthCm": 75,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.2
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 234,
+      "widthCm": 80,
+      "volumeL": 140,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 234,
+      "widthCm": 80,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.8
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,63 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Gun Sails",
+  "year": 2018,
+  "name": "Rig Burner",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "weightKg": 2.7,
+      "boomLengthsCm": [
+        164
+      ],
+      "mastLengthsCm": [
+        340
+      ],
+      "mastExtensionLengthsCm": [
+        12
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 352
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "weightKg": 2.9,
+      "boomLengthsCm": [
+        178
+      ],
+      "mastLengthsCm": [
+        370
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 369
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

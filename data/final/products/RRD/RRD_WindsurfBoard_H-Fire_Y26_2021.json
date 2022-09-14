@@ -1,0 +1,58 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "RRD",
+  "year": 2021,
+  "name": "H-Fire",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Ltd",
+        "edition": "Pro LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "LTD",
+        "edition": "Pro LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Lte",
+        "edition": "Pro LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "LTE",
+        "edition": "Pro LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "Y26"
+}

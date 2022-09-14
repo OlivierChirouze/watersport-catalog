@@ -1,0 +1,27 @@
+{
+  "name": "Young Gun Freestyle",
+  "year": 2013,
+  "programs": ["kids"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 224,
+      "widthCm": 56.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

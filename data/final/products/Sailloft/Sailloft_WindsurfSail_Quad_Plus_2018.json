@@ -1,0 +1,78 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Sailloft",
+  "year": 2018,
+  "name": "Quad Plus",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [18],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 418
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [179],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [30],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 430
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "boomLengthsCm": [186],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [36, 6],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 436
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "boomLengthsCm": [187],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [24],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 454
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "boomLengthsCm": [195],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [30, 60],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 460
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

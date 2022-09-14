@@ -1,0 +1,157 @@
+{
+  "name": "iSonic Speed",
+  "year": 2015,
+  "programs": ["race"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 44,
+        "construction": "Carbone"
+      },
+      "lengthCm": 225,
+      "widthCm": 44,
+      "volumeL": 44,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 49,
+        "construction": "Carbone"
+      },
+      "lengthCm": 230,
+      "widthCm": 49,
+      "volumeL": 49,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 53
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 53,
+      "lengthCm": 225,
+      "widthCm": 44,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.1,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 54,
+        "construction": "Carbone"
+      },
+      "lengthCm": 230,
+      "widthCm": 54.5,
+      "volumeL": 54,
+      "weightKg": 4.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 58,
+        "construction": "Carbone"
+      },
+      "lengthCm": 231,
+      "widthCm": 58,
+      "volumeL": 58,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 64,
+      "lengthCm": 230,
+      "widthCm": 49,
+      "weightKg": 4.75,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.6,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 230,
+      "widthCm": 54.5,
+      "weightKg": 5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 231,
+      "widthCm": 58,
+      "weightKg": 5.25,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.6,
+        "toM2": 8.6
+      }
+    }
+  ],
+  "pictures": []
+}

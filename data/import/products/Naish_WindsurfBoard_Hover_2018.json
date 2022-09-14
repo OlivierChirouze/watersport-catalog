@@ -1,0 +1,51 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Naish",
+  "year": 2018,
+  "name": "Hover",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Eps",
+        "edition": "WS"
+      },
+      "lengthCm": 238,
+      "widthCm": 77.3,
+      "volumeL": 120,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Eps",
+        "edition": "WS"
+      },
+      "lengthCm": 229,
+      "widthCm": 73,
+      "volumeL": 122,
+      "compatibleFinFamilies": [
+        "foil"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

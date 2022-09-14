@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Goya",
+  "year": 2015,
+  "name": "Air Freestyle Serie",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Premium Pvc"
+      },
+      "lengthCm": 223.3,
+      "widthCm": 65.2,
+      "volumeL": 107,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Premium PVC"
+      },
+      "lengthCm": 223.3,
+      "widthCm": 65.2,
+      "volumeL": 107,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Premium Pvc"
+      },
+      "lengthCm": 224.9,
+      "widthCm": 63.8,
+      "volumeL": 99,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Premium PVC"
+      },
+      "lengthCm": 224.9,
+      "widthCm": 63.8,
+      "volumeL": 99,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

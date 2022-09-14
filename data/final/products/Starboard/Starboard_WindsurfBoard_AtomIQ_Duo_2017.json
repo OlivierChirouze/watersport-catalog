@@ -1,0 +1,124 @@
+{
+  "name": "AtomIQ Duo",
+  "year": 2017,
+  "programs": ["freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 114,
+        "construction": "3dx"
+      },
+      "lengthCm": 239,
+      "widthCm": 75.5,
+      "volumeL": 114,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 114,
+      "lengthCm": 239,
+      "widthCm": 75.5,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "3dx"
+      },
+      "lengthCm": 239,
+      "widthCm": 81,
+      "volumeL": 124,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 124
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 124,
+      "lengthCm": 239,
+      "widthCm": 81,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "3dx"
+      },
+      "lengthCm": 239,
+      "widthCm": 84,
+      "volumeL": 130,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 84,
+      "weightKg": 10.35,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

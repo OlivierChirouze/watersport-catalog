@@ -1,0 +1,109 @@
+{
+  "name": "Atlas",
+  "year": 2011,
+  "programs": ["wave"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 366,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [155],
+      "weightKg": 3.14,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 374,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [159],
+      "weightKg": 3.26,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 384,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [163],
+      "weightKg": 3.38,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 394,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [167],
+      "weightKg": 3.5,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 408,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [172],
+      "weightKg": 3.61,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 420,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [177],
+      "weightKg": 3.72,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 434,
+      "mastLengthsCm": [400, 430],
+      "boomLengthsCm": [184],
+      "weightKg": 3.79,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [189],
+      "weightKg": 3.92,
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

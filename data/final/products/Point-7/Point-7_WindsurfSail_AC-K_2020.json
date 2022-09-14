@@ -1,0 +1,111 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Point-7",
+  "year": 2020,
+  "name": "AC-K",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.5,
+      "weightKg": 5.1,
+      "boomLengthsCm": [194],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [35],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2,
+        "edition": "Pro"
+      },
+      "surfaceM2": 6.2,
+      "weightKg": 5.5,
+      "boomLengthsCm": [212],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [70],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.1,
+        "edition": "Pro"
+      },
+      "surfaceM2": 7.1,
+      "weightKg": 5.7,
+      "boomLengthsCm": [230],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [63],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 5,
+      "boomLengthsCm": [190],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [41],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 5.9,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [33],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5,
+        "edition": "Pro"
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 6.1,
+      "boomLengthsCm": [174],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.1,
+        "edition": "Pro"
+      },
+      "surfaceM2": 9.1,
+      "weightKg": 5,
+      "boomLengthsCm": [180],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [25],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

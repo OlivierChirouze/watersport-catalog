@@ -1,0 +1,61 @@
+{
+  "name": "WindSUP Blend",
+  "year": 2017,
+  "programs": [
+    "freeride",
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 185,
+        "construction": "Asap"
+      },
+      "lengthCm": 345,
+      "widthCm": 77.5,
+      "volumeL": 185,
+      "weightKg": 12.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 185
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 185,
+      "lengthCm": 345,
+      "widthCm": 77.5,
+      "weightKg": 11.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null,
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

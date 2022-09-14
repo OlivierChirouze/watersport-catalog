@@ -1,0 +1,100 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Fanatic",
+  "year": 2020,
+  "name": "Jag",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 61,
+      "volumeL": 94,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 69,
+      "volumeL": 108,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 125,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 82,
+      "volumeL": 135,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

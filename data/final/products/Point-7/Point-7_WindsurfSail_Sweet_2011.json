@@ -1,0 +1,46 @@
+{
+  "name": "Sweet",
+  "year": 2011,
+  "programs": ["wave", "freeride"],
+  "brandName": "Point-7",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 391,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [159],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 422,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [175],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [185],
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

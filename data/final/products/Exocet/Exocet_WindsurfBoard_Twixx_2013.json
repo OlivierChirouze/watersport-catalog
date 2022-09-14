@@ -1,0 +1,86 @@
+{
+  "name": "Twixx",
+  "year": 2013,
+  "programs": ["freeride"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Single Shot Glass Epoxy"
+      },
+      "volumeL": 115,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 248,
+      "widthCm": 68,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Single Shot Glass Epoxy"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 250,
+      "widthCm": 74,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 252,
+      "widthCm": 81,
+      "weightKg": 10,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

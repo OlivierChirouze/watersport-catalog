@@ -1,0 +1,33 @@
+{
+  "name": "I-Style",
+  "year": 2011,
+  "programs": ["freestyle"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 101,
+      "lengthCm": 235,
+      "widthCm": 62,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "III"
+}

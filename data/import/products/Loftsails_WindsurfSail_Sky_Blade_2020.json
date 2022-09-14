@@ -1,0 +1,77 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Loftsails",
+  "year": 2020,
+  "name": "Sky Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "weightKg": 6.62,
+      "boomLengthsCm": [
+        242
+      ],
+      "mastLengthsCm": [
+        530
+      ],
+      "mastExtensionLengthsCm": [
+        30
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 560
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "weightKg": 5.85,
+      "boomLengthsCm": [
+        210
+      ],
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        34
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 524
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "weightKg": 6.24,
+      "boomLengthsCm": [
+        224
+      ],
+      "mastLengthsCm": [
+        520
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 540
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

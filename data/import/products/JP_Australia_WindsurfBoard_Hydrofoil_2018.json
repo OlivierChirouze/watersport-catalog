@@ -1,0 +1,79 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "JP Australia",
+  "year": 2018,
+  "name": "Hydrofoil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 215,
+      "widthCm": 86,
+      "volumeL": 135,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 215,
+      "widthCm": 86,
+      "volumeL": 135,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 220,
+      "widthCm": 90,
+      "volumeL": 155,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,111 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2021,
+  "name": "Racing Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 5.17,
+      "boomLengthsCm": [184],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [22],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 422
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "weightKg": 5.05,
+      "boomLengthsCm": [172],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 404
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "weightKg": 5.53,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 444
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "weightKg": 5.92,
+      "boomLengthsCm": [204],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [40],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 470
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "weightKg": 6.04,
+      "boomLengthsCm": [218],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 494
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "weightKg": 6.2,
+      "boomLengthsCm": [224],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 518
+    },
+    {
+      "variant": {
+        "size": 9.1
+      },
+      "surfaceM2": 9.1,
+      "weightKg": 6.42,
+      "boomLengthsCm": [236],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [18],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 538
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

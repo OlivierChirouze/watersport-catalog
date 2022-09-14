@@ -1,0 +1,48 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2021,
+  "name": "Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 37
+      },
+      "volumeL": 37,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 39
+      },
+      "volumeL": 39,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 43
+      },
+      "volumeL": 43,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 48
+      },
+      "volumeL": 48,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 53
+      },
+      "volumeL": 53,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

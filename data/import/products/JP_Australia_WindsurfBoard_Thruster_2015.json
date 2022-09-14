@@ -1,0 +1,216 @@
+{
+  "name": "Thruster",
+  "year": 2015,
+  "programs": [
+    "race",
+    "wave"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Pro",
+        "edition": "Quad Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 62.5,
+      "volumeL": 103,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 73,
+        "construction": "Pro",
+        "edition": "Quad Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 55.5,
+      "volumeL": 73,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Pro",
+        "edition": "Quad Pro"
+      },
+      "lengthCm": 230,
+      "widthCm": 57.5,
+      "volumeL": 83,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Pro",
+        "edition": "Quad Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 60,
+      "volumeL": 93,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 103,
+      "lengthCm": 232,
+      "widthCm": 62.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 73,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 73,
+      "lengthCm": 228,
+      "widthCm": 55.5,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 83,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 83,
+      "lengthCm": 230,
+      "widthCm": 57.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 93,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 93,
+      "lengthCm": 232,
+      "widthCm": 60,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

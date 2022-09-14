@@ -1,0 +1,70 @@
+{
+  "name": "Formula",
+  "year": 2011,
+  "programs": ["race"],
+  "brandName": "Carbon Art",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 148
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 148,
+      "lengthCm": 235,
+      "widthCm": 100,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 152
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 152,
+      "lengthCm": 235,
+      "widthCm": 100,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 155,
+      "lengthCm": 235,
+      "widthCm": 100,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 10,
+        "toM2": 12
+      }
+    }
+  ],
+  "pictures": []
+}

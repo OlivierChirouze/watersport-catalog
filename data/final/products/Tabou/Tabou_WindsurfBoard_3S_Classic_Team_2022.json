@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Tabou",
+  "year": 2022,
+  "name": "3S Classic Team",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Pvc Full Sandwich Carbon",
+        "edition": "Carbon"
+      },
+      "lengthCm": 236,
+      "widthCm": 61,
+      "volumeL": 97,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Pvc Full Sandwich Carbon",
+        "edition": "Carbon"
+      },
+      "lengthCm": 236,
+      "widthCm": 64.5,
+      "volumeL": 107,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Pvc Full Sandwich Carbon",
+        "edition": "Carbon"
+      },
+      "lengthCm": 236,
+      "widthCm": 66,
+      "volumeL": 117,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

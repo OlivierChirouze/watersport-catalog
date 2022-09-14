@@ -1,0 +1,77 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Naish",
+  "year": 2020,
+  "name": "Hover SUP Crossover",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "S-glass"
+      },
+      "lengthCm": 223.5,
+      "widthCm": 76.2,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 223.5,
+      "widthCm": 76.2,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "S-glass"
+      },
+      "lengthCm": 223.5,
+      "widthCm": 81.3,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 223.5,
+      "widthCm": 81.3,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

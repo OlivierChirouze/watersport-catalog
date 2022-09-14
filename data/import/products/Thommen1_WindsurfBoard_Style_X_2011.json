@@ -1,0 +1,37 @@
+{
+  "name": "Style X",
+  "year": 2011,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 239,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

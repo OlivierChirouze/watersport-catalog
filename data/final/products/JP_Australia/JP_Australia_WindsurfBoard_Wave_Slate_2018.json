@@ -1,0 +1,76 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2018,
+  "name": "Wave Slate",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Pro"
+      },
+      "lengthCm": 215,
+      "widthCm": 55,
+      "volumeL": 79,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Pro"
+      },
+      "lengthCm": 218,
+      "widthCm": 57,
+      "volumeL": 87,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Pro"
+      },
+      "lengthCm": 219,
+      "widthCm": 59,
+      "volumeL": 96,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

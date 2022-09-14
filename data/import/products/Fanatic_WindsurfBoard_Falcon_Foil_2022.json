@@ -1,0 +1,129 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Falcon Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Biax Fiber",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 91,
+      "volumeL": 160,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Biax Fibre",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 91,
+      "volumeL": 160,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 185,
+        "construction": "Biax Fiber",
+        "edition": "TE"
+      },
+      "volumeL": 185,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 185,
+        "construction": "Biax Fibre",
+        "edition": "TE"
+      },
+      "volumeL": 185,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 200,
+        "construction": "Biax Fiber",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 100,
+      "volumeL": 200,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 200,
+        "construction": "Biax Fibre",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 100,
+      "volumeL": 200,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

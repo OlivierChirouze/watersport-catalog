@@ -1,0 +1,198 @@
+{
+  "name": "Surf",
+  "year": 2016,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Eco-wood"
+      },
+      "lengthCm": 247.6,
+      "widthCm": 77,
+      "volumeL": 150,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Eco-Wood"
+      },
+      "lengthCm": 247.6,
+      "widthCm": 77,
+      "volumeL": 150,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 247.6,
+      "widthCm": 77,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 8,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 200,
+        "construction": "Eco-wood"
+      },
+      "lengthCm": 279.7,
+      "widthCm": 84.7,
+      "volumeL": 200,
+      "weightKg": 14,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 200,
+        "construction": "Eco-Wood"
+      },
+      "lengthCm": 279.7,
+      "widthCm": 84.7,
+      "volumeL": 200,
+      "weightKg": 14,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 200
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 200,
+      "lengthCm": 279.7,
+      "widthCm": 84.7,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 10,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Eco-wood"
+      },
+      "lengthCm": 302.4,
+      "widthCm": 86,
+      "volumeL": 220,
+      "weightKg": 14.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Eco-Wood"
+      },
+      "lengthCm": 302.4,
+      "widthCm": 86,
+      "volumeL": 220,
+      "weightKg": 14.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 220,
+      "lengthCm": 302.4,
+      "widthCm": 86,
+      "weightKg": 14.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 10,
+        "toM2": 15
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Raceboard",
+  "year": 2015,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 492,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        242
+      ],
+      "weightKg": 5.27,
+      "battenCount": 6,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 534,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastIMCS": [
+        32
+      ],
+      "boomLengthsCm": [
+        268
+      ],
+      "weightKg": 5.79,
+      "battenCount": 6,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,83 @@
+{
+  "dimensions": ["size"],
+  "brandName": "KA Sail",
+  "year": 2019,
+  "name": "Koyote",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "boomLengthsCm": [161, 173],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [19, 7],
+      "masTypes": ["RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 419
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "boomLengthsCm": [173, 184],
+      "mastLengthsCm": [430, 75],
+      "mastExtensionLengthsCm": [27, 382, 7],
+      "masTypes": ["RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 437
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "boomLengthsCm": [184, 198],
+      "mastLengthsCm": [430, 460, 75],
+      "mastExtensionLengthsCm": [17, 27, 402],
+      "masTypes": ["RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 457
+    },
+    {
+      "variant": {
+        "size": 7.4
+      },
+      "surfaceM2": 7.4,
+      "boomLengthsCm": [198, 210],
+      "mastLengthsCm": [460, 75],
+      "mastExtensionLengthsCm": [17, 414],
+      "masTypes": ["RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 477
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "boomLengthsCm": [173, 210],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [29],
+      "masTypes": ["RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 489
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

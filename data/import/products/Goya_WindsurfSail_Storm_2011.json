@@ -1,0 +1,91 @@
+{
+  "name": "Storm",
+  "year": 2011,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "Goya",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 295,
+      "mastLengthsCm": [
+        310
+      ],
+      "mastIMCS": [
+        8,
+        2
+      ],
+      "boomLengthsCm": [
+        124
+      ],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 314,
+      "mastLengthsCm": [
+        310
+      ],
+      "mastIMCS": [
+        8,
+        2
+      ],
+      "boomLengthsCm": [
+        132
+      ],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 347,
+      "mastLengthsCm": [
+        340
+      ],
+      "mastIMCS": [
+        13
+      ],
+      "boomLengthsCm": [
+        139
+      ],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 367,
+      "mastLengthsCm": [
+        340
+      ],
+      "mastIMCS": [
+        13
+      ],
+      "boomLengthsCm": [
+        145
+      ],
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

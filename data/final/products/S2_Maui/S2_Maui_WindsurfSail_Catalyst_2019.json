@@ -1,0 +1,61 @@
+{
+  "dimensions": ["size"],
+  "brandName": "S2 Maui",
+  "year": 2019,
+  "name": "Catalyst",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "boomLengthsCm": [155],
+      "mastLengthsCm": [370, 100],
+      "mastExtensionLengthsCm": [7, 277],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "boomLengthsCm": [162],
+      "mastLengthsCm": [370, 100],
+      "mastExtensionLengthsCm": [16, 286],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [12],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [155],
+      "mastLengthsCm": [100],
+      "mastExtensionLengthsCm": [277],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

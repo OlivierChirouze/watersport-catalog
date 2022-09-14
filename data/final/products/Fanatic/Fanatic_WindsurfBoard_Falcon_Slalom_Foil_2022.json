@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Falcon Slalom Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Full Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 80,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Full Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

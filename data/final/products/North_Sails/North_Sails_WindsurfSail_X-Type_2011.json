@@ -1,0 +1,85 @@
+{
+  "name": "X-Type",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "boomLengthsCm": [172],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "boomLengthsCm": [180],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 468,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "boomLengthsCm": [190],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 475,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [202],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 483,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [209],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "luffLengthCm": 493,
+      "mastLengthsCm": [460],
+      "mastIMCS": [24, 26],
+      "boomLengthsCm": [218],
+      "battenCount": 7,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

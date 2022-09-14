@@ -1,0 +1,34 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Bic",
+  "year": 2013,
+  "name": "Ace-Tec SUP Wind",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 215,
+        "construction": "Ace Tec Thermoformé Verre"
+      },
+      "volumeL": 215,
+      "weightKg": 16.9
+    },
+    {
+      "variant": {
+        "size": 215,
+        "construction": "Epoxy"
+      },
+      "volumeL": 215,
+      "weightKg": 16.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "FCS"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

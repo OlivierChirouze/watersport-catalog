@@ -1,0 +1,54 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2019,
+  "name": "Helix",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "volumeL": 105,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 234,
+      "widthCm": 65,
+      "weightKg": 7
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "volumeL": 115,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 235,
+      "widthCm": 67,
+      "weightKg": 7.4
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "volumeL": 85,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 230,
+      "widthCm": 61,
+      "weightKg": 6.4
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "volumeL": 95,
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 234,
+      "widthCm": 63,
+      "weightKg": 6.7
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

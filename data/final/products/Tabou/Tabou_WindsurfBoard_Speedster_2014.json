@@ -1,0 +1,433 @@
+{
+  "name": "Speedster",
+  "year": 2014,
+  "programs": ["freeride", "race"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "volumeL": 100,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "volumeL": 100,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 65,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "volumeL": 108,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "volumeL": 108,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 108,
+      "lengthCm": 233,
+      "widthCm": 69,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.7,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 118,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "volumeL": 118,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 118,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "volumeL": 118,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 118,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 118,
+      "lengthCm": 233,
+      "widthCm": 75,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 233,
+      "widthCm": 79,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.6,
+        "toM2": 9.3
+      }
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "volumeL": 128,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "volumeL": 128,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "volumeL": 138,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "volumeL": 138,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 138,
+      "lengthCm": 233,
+      "widthCm": 85,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "volumeL": 148,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "volumeL": 148,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148,
+        "edition": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 148,
+      "lengthCm": 233,
+      "widthCm": 89,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 100,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 65,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 108,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 108,
+      "lengthCm": 233,
+      "widthCm": 69,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.7,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 118,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 118,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 118,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 118,
+      "lengthCm": 233,
+      "widthCm": 75,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 233,
+      "widthCm": 79,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.6,
+        "toM2": 9.3
+      }
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 128,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 138,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 138,
+      "lengthCm": 233,
+      "widthCm": 85,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "LTD"
+      },
+      "volumeL": 148,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 148,
+      "lengthCm": 233,
+      "widthCm": 89,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

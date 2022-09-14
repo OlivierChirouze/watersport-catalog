@@ -1,0 +1,90 @@
+{
+  "name": "Lightning",
+  "year": 2012,
+  "programs": ["freeride", "freeride", "race"],
+  "brandName": "Tushingham",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 418,
+      "mastIMCS": [19],
+      "boomLengthsCm": [176],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 436,
+      "mastIMCS": [21],
+      "boomLengthsCm": [186],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 453,
+      "mastIMCS": [21],
+      "boomLengthsCm": [196],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 476,
+      "mastIMCS": [25],
+      "boomLengthsCm": [198],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 490,
+      "mastIMCS": [25],
+      "boomLengthsCm": [213],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 505,
+      "mastIMCS": [29],
+      "boomLengthsCm": [225],
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "luffLengthCm": 530,
+      "mastIMCS": [29, 33],
+      "boomLengthsCm": [240],
+      "battenCount": 7,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,35 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Naish",
+  "year": 2020,
+  "name": "Windsurfer",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 229
+      },
+      "lengthCm": 365,
+      "widthCm": 73.9,
+      "volumeL": 229,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,66 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2022,
+  "name": "Compact Freefoil",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 367
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [174],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [77],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 447
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [33],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 403
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "boomLengthsCm": [175],
+      "mastLengthsCm": [370, 60],
+      "mastExtensionLengthsCm": [401, 91],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 461
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "Y25"
+}

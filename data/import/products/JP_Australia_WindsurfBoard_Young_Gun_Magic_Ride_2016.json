@@ -1,0 +1,78 @@
+{
+  "name": "Young Gun Magic Ride",
+  "year": 2016,
+  "programs": [
+    "kids",
+    "wave"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 118,
+        "construction": "Es"
+      },
+      "lengthCm": 239,
+      "widthCm": 76,
+      "volumeL": 118,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 118,
+        "construction": "ES"
+      },
+      "lengthCm": 239,
+      "widthCm": 76,
+      "volumeL": 118,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 118
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 118,
+      "lengthCm": 239,
+      "widthCm": 76,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 7.5,
+        "fromM2": 3
+      }
+    }
+  ],
+  "pictures": []
+}

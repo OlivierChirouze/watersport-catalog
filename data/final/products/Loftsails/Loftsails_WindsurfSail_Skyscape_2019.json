@@ -1,0 +1,65 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2019,
+  "name": "Skyscape",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 4.72,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [22],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "weightKg": 5.04,
+      "boomLengthsCm": [190],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 5.64,
+      "boomLengthsCm": [198],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "weightKg": 4.72,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [22],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

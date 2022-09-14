@@ -1,0 +1,77 @@
+{
+  "name": "Cross R",
+  "year": 2016,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 97
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 97,
+      "lengthCm": 236,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 107
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 238,
+      "widthCm": 63,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 113
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 113,
+      "lengthCm": 240,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

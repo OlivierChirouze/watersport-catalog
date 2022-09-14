@@ -1,0 +1,99 @@
+{
+  "name": "iSonic Slalom",
+  "year": 2017,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 71,
+      "volumeL": 107,
+      "weightKg": 6.04,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 107
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 231,
+      "widthCm": 71,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 8.6
+      }
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 67,
+      "volumeL": 97,
+      "weightKg": 5.85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 97
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 97,
+      "lengthCm": 231,
+      "widthCm": 67,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.6,
+        "toM2": 8.2
+      }
+    }
+  ],
+  "pictures": []
+}

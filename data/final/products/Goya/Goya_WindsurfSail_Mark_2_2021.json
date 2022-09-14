@@ -1,0 +1,126 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Goya",
+  "year": 2021,
+  "name": "Mark",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [8],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 408
+    },
+    {
+      "variant": {
+        "size": 5.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [185],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [20],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 420
+    },
+    {
+      "variant": {
+        "size": 6.2,
+        "edition": "Pro"
+      },
+      "surfaceM2": 6.2,
+      "boomLengthsCm": [189],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [5],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 435
+    },
+    {
+      "variant": {
+        "size": 6.6,
+        "edition": "Pro"
+      },
+      "surfaceM2": 6.6,
+      "boomLengthsCm": [193],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [20],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 450
+    },
+    {
+      "variant": {
+        "size": 7.2,
+        "edition": "Pro"
+      },
+      "surfaceM2": 7.2,
+      "boomLengthsCm": [202],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [7],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 467
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [214],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [18],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 478
+    },
+    {
+      "variant": {
+        "size": 8.5,
+        "edition": "Pro"
+      },
+      "surfaceM2": 8.5,
+      "boomLengthsCm": [224],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [7],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 497
+    },
+    {
+      "variant": {
+        "size": 9.5,
+        "edition": "Pro"
+      },
+      "surfaceM2": 9.5,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [24],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 514
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "2"
+}

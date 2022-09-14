@@ -1,0 +1,29 @@
+{
+  "name": "WS SUP",
+  "year": 2015,
+  "programs": ["beginner", "freeride"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 189
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 189,
+      "lengthCm": 328,
+      "widthCm": 81,
+      "weightKg": 12.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null
+      ]
+    }
+  ],
+  "pictures": []
+}

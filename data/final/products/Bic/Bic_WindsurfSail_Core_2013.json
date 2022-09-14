@@ -1,0 +1,52 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Bic",
+  "year": 2013,
+  "name": "Core",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "weightKg": 3.1,
+      "mastLengthsCm": [21, 430],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 456
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "weightKg": 3.1,
+      "mastLengthsCm": [21, 430],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 456
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "weightKg": 3.1,
+      "mastLengthsCm": [30, 430],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 456
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

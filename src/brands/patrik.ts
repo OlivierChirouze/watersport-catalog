@@ -383,7 +383,7 @@ class Patrik extends FileWriter<VariantType> {
 
   await brandCrawler.createModelFileFromUrl(
     "https://patrik-windsurf.com/qt-wave/",
-    "qt-wave",
+    "QT-Wave",
     2019,
     ProductType.board,
     BoardType.windsurfBoard,
@@ -392,7 +392,7 @@ class Patrik extends FileWriter<VariantType> {
   );
   await brandCrawler.createModelFileFromUrl(
     "https://patrik-windsurf.com/qt-wave-2/",
-    "qt-wave",
+    "QT-Wave",
     2021,
     ProductType.board,
     BoardType.windsurfBoard,
@@ -401,7 +401,7 @@ class Patrik extends FileWriter<VariantType> {
   );
   await brandCrawler.createModelFileFromUrl(
     "https://patrik-windsurf.com/foil-style/",
-    "foil-style",
+    "Foil Style",
     2021,
     ProductType.board,
     BoardType.windsurfBoard,
@@ -410,7 +410,7 @@ class Patrik extends FileWriter<VariantType> {
   );
   await brandCrawler.createModelFileFromUrl(
     "https://patrik-windsurf.com/air-style-2/",
-    "air-style",
+    "Air Style",
     2021,
     ProductType.board,
     BoardType.windsurfBoard,

@@ -1,0 +1,80 @@
+{
+  "name": "iSonic Race",
+  "year": 2017,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 117
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 117,
+      "lengthCm": 231,
+      "widthCm": 77,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.2
+      }
+    },
+    {
+      "variant": {
+        "size": 127
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 127,
+      "lengthCm": 231,
+      "widthCm": 82,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 137
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 137,
+      "lengthCm": 231,
+      "widthCm": 85,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Carb One",
+  "year": 2015,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Kona",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 220,
+      "lengthCm": 350,
+      "widthCm": 70,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,180 @@
+{
+  "name": "Fringe",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Goya",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "luffLengthCm": 348,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [138, 141],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17, 8],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 357,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [141, 145],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17, 27],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 367,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [14],
+      "boomLengthsCm": [145, 148],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [27, 37, 7],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 337,
+      "mastLengthsCm": [310, 340],
+      "boomLengthsCm": [134, 138],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [27, 8],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 387,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [151, 155],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17, 27],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 397,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [155, 158],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [27, 7],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 407,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [158, 161],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17, 7],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 377,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [148, 151],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17, 7],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 427,
+      "mastLengthsCm": [310, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167, 170],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [127, 27],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 437,
+      "mastLengthsCm": [310, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [170, 173],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [137, 7],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 447,
+      "mastLengthsCm": [310, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [134, 173],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17, 27],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 417,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [161, 167],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

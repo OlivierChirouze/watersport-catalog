@@ -1,0 +1,56 @@
+{
+  "name": "WindSUP Electric",
+  "year": 2015,
+  "programs": ["freeride", "beginner"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 185
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 185,
+      "lengthCm": 345,
+      "widthCm": 77.5,
+      "weightKg": 13.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 191
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 191,
+      "lengthCm": 306,
+      "widthCm": 85.5,
+      "weightKg": 13.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

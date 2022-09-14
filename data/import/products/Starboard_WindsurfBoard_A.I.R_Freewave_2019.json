@@ -1,0 +1,111 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "A.I.R Freewave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 222,
+      "widthCm": 65,
+      "weightKg": 7.4
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 79,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 214,
+      "widthCm": 58,
+      "weightKg": 6.45
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 83,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 220,
+      "widthCm": 59.3,
+      "weightKg": 6.7
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 222,
+      "widthCm": 61.3,
+      "weightKg": 6.8
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

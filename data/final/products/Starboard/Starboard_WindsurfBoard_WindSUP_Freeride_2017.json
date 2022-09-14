@@ -1,0 +1,57 @@
+{
+  "name": "WindSUP Freeride",
+  "year": 2017,
+  "programs": ["freeride", "beginner", "freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 238
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 238,
+      "lengthCm": 373,
+      "widthCm": 75,
+      "weightKg": 14.15,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 254
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 254,
+      "lengthCm": 368,
+      "widthCm": 81.5,
+      "weightKg": 14.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

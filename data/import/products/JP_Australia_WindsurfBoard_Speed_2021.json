@@ -1,0 +1,75 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2021,
+  "name": "Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 45,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 45,
+      "volumeL": 45,
+      "weightKg": 4.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 45,
+      "volumeL": 50,
+      "weightKg": 4.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 54,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 45,
+      "volumeL": 54,
+      "weightKg": 4.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

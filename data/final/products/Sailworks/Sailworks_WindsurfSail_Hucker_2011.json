@@ -1,0 +1,78 @@
+{
+  "name": "Hucker",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "Sailworks",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 378,
+      "mastLengthsCm": [370],
+      "mastIMCS": [15, 19],
+      "boomLengthsCm": [144],
+      "weightKg": 3.2,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 402,
+      "mastLengthsCm": [400],
+      "mastIMCS": [17, 21],
+      "boomLengthsCm": [157],
+      "weightKg": 3.5,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 428,
+      "mastLengthsCm": [430],
+      "mastIMCS": [17, 23],
+      "boomLengthsCm": [171],
+      "weightKg": 3.9,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [430],
+      "mastIMCS": [17, 23],
+      "boomLengthsCm": [184],
+      "weightKg": 4.2,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 467,
+      "mastLengthsCm": [460],
+      "mastIMCS": [21, 26],
+      "boomLengthsCm": [207],
+      "weightKg": 4.5,
+      "battenCount": 6,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

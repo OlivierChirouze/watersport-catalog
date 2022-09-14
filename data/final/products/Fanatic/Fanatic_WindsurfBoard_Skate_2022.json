@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Skate",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TE Boa"
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TE Boa"
+      },
+      "lengthCm": 220,
+      "widthCm": 62,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TE Boa"
+      },
+      "lengthCm": 225,
+      "widthCm": 65,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TE Boa"
+      },
+      "lengthCm": 226,
+      "widthCm": 66.5,
+      "volumeL": 108,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

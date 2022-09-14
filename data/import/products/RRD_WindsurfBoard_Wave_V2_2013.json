@@ -1,0 +1,50 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "RRD",
+  "year": 2013,
+  "name": "Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 66,
+        "construction": "N",
+        "edition": "Twin Contest"
+      },
+      "volumeL": 66,
+      "weightKg": 5.92,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "N",
+        "edition": "Twin Contest"
+      },
+      "volumeL": 82,
+      "weightKg": 5.73,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

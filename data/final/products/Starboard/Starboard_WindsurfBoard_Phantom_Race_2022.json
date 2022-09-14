@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2022,
+  "name": "Phantom Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 282,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 377,
+      "widthCm": 67,
+      "volumeL": 282,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 331,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 377,
+      "widthCm": 67,
+      "volumeL": 331,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Bic",
+  "year": 2019,
+  "name": "Beach",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Tough -tec"
+      },
+      "lengthCm": 285,
+      "widthCm": 78,
+      "volumeL": 160,
+      "weightKg": 16,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Tough-Tec"
+      },
+      "lengthCm": 255,
+      "widthCm": 82,
+      "volumeL": 160,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 175,
+        "construction": "Tough -tec"
+      },
+      "lengthCm": 290,
+      "widthCm": 90,
+      "volumeL": 175,
+      "weightKg": 18.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 175,
+        "construction": "Tough-Tec"
+      },
+      "lengthCm": 285,
+      "widthCm": 78,
+      "volumeL": 175,
+      "weightKg": 16,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 225,
+        "construction": "Tough -tec"
+      },
+      "lengthCm": 285,
+      "widthCm": 78,
+      "volumeL": 225,
+      "weightKg": 16,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 225,
+        "construction": "Tough-Tec"
+      },
+      "lengthCm": 290,
+      "widthCm": 90,
+      "volumeL": 225,
+      "weightKg": 18.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

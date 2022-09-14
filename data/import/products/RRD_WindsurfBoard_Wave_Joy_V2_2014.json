@@ -1,0 +1,39 @@
+{
+  "name": "Wave Joy",
+  "year": 2014,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 64,
+      "lengthCm": 229,
+      "widthCm": 53,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 5
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "V2"
+}

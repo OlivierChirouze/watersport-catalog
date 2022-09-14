@@ -1,0 +1,113 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ],
+      "lengthCm": 216,
+      "widthCm": 63.5,
+      "weightKg": 7.45
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 111,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ],
+      "lengthCm": 215.5,
+      "widthCm": 70.5,
+      "weightKg": 7.73
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ],
+      "lengthCm": 231,
+      "widthCm": 75.5,
+      "weightKg": 8
+    },
+    {
+      "variant": {
+        "size": 144,
+        "construction": "Flax Balsa"
+      },
+      "volumeL": 144,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ],
+      "lengthCm": 213,
+      "widthCm": 87,
+      "weightKg": 8.6
+    },
+    {
+      "variant": {
+        "size": 177,
+        "construction": "Carbon Reflex"
+      },
+      "lengthCm": 228.5,
+      "widthCm": 91,
+      "volumeL": 177,
+      "weightKg": 9.17,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

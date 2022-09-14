@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tribord",
+  "year": 2019,
+  "name": "Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "construction": "Epoxy"
+      },
+      "lengthCm": 270,
+      "widthCm": 79,
+      "volumeL": 170,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Mission",
+  "year": 2015,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Vandal Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        196
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        10
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        203
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        22
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 488,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        209,
+        211
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        28
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.3
+      },
+      "surfaceM2": 8.3,
+      "luffLengthCm": 512,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        213
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        22
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.8
+      },
+      "surfaceM2": 8.8,
+      "luffLengthCm": 523,
+      "mastLengthsCm": [
+        490,
+        520
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        221,
+        224
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [
+        1
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

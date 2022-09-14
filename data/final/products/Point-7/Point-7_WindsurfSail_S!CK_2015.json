@@ -1,0 +1,52 @@
+{
+  "name": "S!CK",
+  "year": 2015,
+  "programs": ["kids"],
+  "brandName": "Point-7",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.4
+      },
+      "surfaceM2": 2.4,
+      "luffLengthCm": 280,
+      "mastLengthsCm": [300],
+      "boomLengthsCm": [122],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.1
+      },
+      "surfaceM2": 3.1,
+      "luffLengthCm": 300,
+      "mastLengthsCm": [300],
+      "boomLengthsCm": [133, 138],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [0],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "luffLengthCm": 328,
+      "mastLengthsCm": [300],
+      "boomLengthsCm": [144],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [28],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

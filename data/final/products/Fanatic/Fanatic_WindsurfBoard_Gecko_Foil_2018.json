@@ -1,0 +1,49 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Fanatic",
+  "year": 2018,
+  "name": "Gecko Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Bxf"
+      },
+      "lengthCm": 242,
+      "widthCm": 76,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Bxf"
+      },
+      "lengthCm": 246,
+      "widthCm": 78,
+      "volumeL": 133,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

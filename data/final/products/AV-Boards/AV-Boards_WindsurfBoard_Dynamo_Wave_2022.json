@@ -1,0 +1,103 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AV-Boards",
+  "year": 2022,
+  "name": "Dynamo Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 70
+      },
+      "lengthCm": 219,
+      "widthCm": 55,
+      "volumeL": 70,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78
+      },
+      "lengthCm": 219.5,
+      "widthCm": 56,
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "lengthCm": 221.5,
+      "widthCm": 58,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "lengthCm": 223.5,
+      "widthCm": 59,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "lengthCm": 224.5,
+      "widthCm": 60.5,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116
+      },
+      "lengthCm": 225,
+      "widthCm": 64,
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

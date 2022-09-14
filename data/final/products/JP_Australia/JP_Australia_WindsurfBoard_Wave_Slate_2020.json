@@ -1,0 +1,72 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2020,
+  "name": "Wave Slate",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Pro"
+      },
+      "lengthCm": 79,
+      "widthCm": 215,
+      "volumeL": 55,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 57,
+        "construction": "Pro"
+      },
+      "lengthCm": 87,
+      "widthCm": 219,
+      "volumeL": 57,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 59,
+        "construction": "Pro"
+      },
+      "lengthCm": 96,
+      "widthCm": 219,
+      "volumeL": 59,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

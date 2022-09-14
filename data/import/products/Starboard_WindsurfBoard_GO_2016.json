@@ -1,0 +1,222 @@
+{
+  "name": "GO",
+  "year": 2016,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 121,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 131,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 141,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 151,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 161,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 171,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 171,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 99,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 121
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 121,
+      "lengthCm": 252,
+      "widthCm": 72.5,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 131
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 131,
+      "lengthCm": 252,
+      "widthCm": 76,
+      "weightKg": 10,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 141
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 141,
+      "lengthCm": 251,
+      "widthCm": 79.5,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 151
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 151,
+      "lengthCm": 251,
+      "widthCm": 81,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 161
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 161,
+      "lengthCm": 254,
+      "widthCm": 85,
+      "weightKg": 11.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 216,
+      "widthCm": 76.3,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

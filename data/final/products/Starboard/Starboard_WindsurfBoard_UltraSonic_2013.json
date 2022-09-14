@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "UltraSonic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Carbon"
+      },
+      "volumeL": 147,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Wood"
+      },
+      "volumeL": 147,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

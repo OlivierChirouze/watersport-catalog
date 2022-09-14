@@ -1,0 +1,113 @@
+{
+  "name": "Frugal",
+  "year": 2015,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 66
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 66,
+      "lengthCm": 210,
+      "widthCm": 55,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 77,
+      "lengthCm": 210,
+      "widthCm": 56.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 88,
+      "lengthCm": 214,
+      "widthCm": 59.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.6
+      }
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 216,
+      "widthCm": 62.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 5.9
+      }
+    }
+  ],
+  "pictures": []
+}

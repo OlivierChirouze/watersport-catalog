@@ -1,0 +1,133 @@
+{
+  "name": "Viper",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Avanti Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 350,
+      "mastLengthsCm": [100, 340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142],
+      "weightKg": 2.3,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [10, 250],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 381,
+      "mastLengthsCm": [100, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [154],
+      "weightKg": 2.6,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [11, 281],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 389,
+      "mastLengthsCm": [100, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [158],
+      "weightKg": 2.7,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [19, 289],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 399,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [161],
+      "weightKg": 2.9,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [29],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 374,
+      "mastLengthsCm": [100, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [151],
+      "weightKg": 2.5,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [274, 4],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 425,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177],
+      "weightKg": 3.1,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [25],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [100, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [166],
+      "weightKg": 3,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [10, 310],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [100, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [187],
+      "weightKg": 3.2,
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [16, 346],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,98 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Simmer Style",
+  "year": 2018,
+  "name": "3XS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 68.5,
+      "volumeL": 106,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 71.5,
+      "volumeL": 116,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 83,
+      "volumeL": 126,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 136,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 232,
+      "widthCm": 62,
+      "volumeL": 96,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

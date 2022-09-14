@@ -1,0 +1,71 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2021,
+  "name": "Air Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "infoUrl": "https://patrik-windsurf.com/air-style-2/",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 93
+      },
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 211.5,
+      "widthCm": 61.5,
+      "volumeL": 93,
+      "weightKg": null,
+      "strapInsertCount": 5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 212,
+      "widthCm": 64.5,
+      "volumeL": 99,
+      "weightKg": null,
+      "strapInsertCount": 5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "description": {
+    "en": "Simply amazing what is possible to do with a windsurfer and the young generation has pushed this discipline to another level. This shape is not just a board with a cut nose but it is a real developed short board and the differences are significant. No matter if in the air or on the water the rotation speed is simply faster and it is the key point to pull multiple moves."
+  },
+  "pictures": [
+    {
+      "variant": {
+        "size": 93
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_Air-style_93.png"
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2019/10/2020_Air-style_99.png"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Fusion",
+  "year": 2013,
+  "programs": ["freeride", "wave"],
+  "brandName": "XO Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 357,
+      "mastLengthsCm": [340, 460],
+      "mastIMCS": [15],
+      "boomLengthsCm": [145],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 324,
+      "mastLengthsCm": [340, 460],
+      "mastIMCS": [15],
+      "boomLengthsCm": [141],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 407,
+      "mastLengthsCm": [340, 400, 460],
+      "mastIMCS": [19],
+      "boomLengthsCm": [163],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 393,
+      "mastLengthsCm": [340, 370, 460],
+      "mastIMCS": [17],
+      "boomLengthsCm": [152],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastLengthsCm": [340, 460],
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 426,
+      "mastLengthsCm": [340, 400, 460],
+      "mastIMCS": [19],
+      "boomLengthsCm": [171],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [340, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [198],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [340, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [192],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [340, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [202],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "pictures": []
+}

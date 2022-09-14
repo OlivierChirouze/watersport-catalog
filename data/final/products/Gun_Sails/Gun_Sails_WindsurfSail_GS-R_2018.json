@@ -1,0 +1,153 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2018,
+  "name": "GS-R",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "boomLengthsCm": [181],
+      "mastLengthsCm": [438, 340],
+      "mastExtensionLengthsCm": [85],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 425
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [171],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [71, 41],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 411
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "boomLengthsCm": [189],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [108, 78],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 448
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [184],
+      "mastLengthsCm": [370, 439],
+      "mastExtensionLengthsCm": [68],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "boomLengthsCm": [208],
+      "mastLengthsCm": [440, 340],
+      "mastExtensionLengthsCm": [18, 118],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 458
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [215],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [117],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 487
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "boomLengthsCm": [221],
+      "mastLengthsCm": [441],
+      "mastExtensionLengthsCm": [49],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 490
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "boomLengthsCm": [227],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [164],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 504
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "boomLengthsCm": [232],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [150],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 520
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [442],
+      "mastExtensionLengthsCm": [82],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 524
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,41 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Bic",
+  "year": 2013,
+  "name": "Ace-Tec SUP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 185,
+        "construction": "Ace-tec"
+      },
+      "volumeL": 185,
+      "weightKg": 13.5
+    },
+    {
+      "variant": {
+        "size": 185,
+        "construction": "Ace-Tec"
+      },
+      "volumeL": 185,
+      "weightKg": 13.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

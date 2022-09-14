@@ -1,0 +1,38 @@
+{
+  "name": "HTS SR77",
+  "year": 2011,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 127
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 127,
+      "lengthCm": 230,
+      "widthCm": 77,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

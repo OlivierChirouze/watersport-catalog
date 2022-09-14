@@ -1,0 +1,103 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Challenger Sails",
+  "year": 2017,
+  "name": "4",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 3.8,
+      "boomLengthsCm": [146],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 368
+    },
+    {
+      "variant": {
+        "size": 4.1,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.1,
+      "boomLengthsCm": [151],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 376
+    },
+    {
+      "variant": {
+        "size": 4.4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [370, 400, 77],
+      "mastExtensionLengthsCm": [18, 311],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 388
+    },
+    {
+      "variant": {
+        "size": 4.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [156],
+      "mastLengthsCm": [370, 400, 99],
+      "mastExtensionLengthsCm": [10, 311, 40],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 410
+    },
+    {
+      "variant": {
+        "size": 5.2,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [400, 77],
+      "mastExtensionLengthsCm": [22, 345],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 422
+    },
+    {
+      "variant": {
+        "size": 5.4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [400, 99],
+      "mastExtensionLengthsCm": [28, 329],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 428
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

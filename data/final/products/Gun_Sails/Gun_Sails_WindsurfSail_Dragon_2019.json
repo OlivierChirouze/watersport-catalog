@@ -1,0 +1,78 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2019,
+  "name": "Dragon",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.8
+      },
+      "surfaceM2": 1.8,
+      "weightKg": 1.25,
+      "boomLengthsCm": [127],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2.2
+      },
+      "surfaceM2": 2.2,
+      "weightKg": 1.4,
+      "boomLengthsCm": [136],
+      "mastLengthsCm": [320],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2.6
+      },
+      "surfaceM2": 2.6,
+      "weightKg": 1.8,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [5],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "weightKg": 1.95,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [15],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "weightKg": 1.25,
+      "boomLengthsCm": [127],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "vario"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

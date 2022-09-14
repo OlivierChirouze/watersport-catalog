@@ -1,0 +1,71 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Tabou",
+  "year": 2014,
+  "name": "Manta",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "100% Carbon",
+        "edition": "PTE"
+      },
+      "volumeL": 106,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "100% Carbon",
+        "edition": "PTE"
+      },
+      "volumeL": 116,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "100% Carbon",
+        "edition": "PTE"
+      },
+      "volumeL": 128,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "100% Carbon",
+        "edition": "PTE"
+      },
+      "volumeL": 135,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "volumeL": 88,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "volumeL": 98,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Blade",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10,
+        "edition": "FR"
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 542,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [256],
+      "battenCount": 8,
+      "camCount": 4,
+      "weightKg": 7.06,
+      "mastExtensionLengthsCm": [24],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 11,
+        "edition": "FR"
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 568,
+      "mastLengthsCm": [530],
+      "mastIMCS": [34],
+      "boomLengthsCm": [272],
+      "battenCount": 8,
+      "camCount": 4,
+      "weightKg": 7.45,
+      "mastExtensionLengthsCm": [38],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 12,
+        "edition": "FR"
+      },
+      "surfaceM2": 12,
+      "luffLengthCm": 594,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [282],
+      "battenCount": 8,
+      "camCount": 4,
+      "weightKg": 7.87,
+      "mastExtensionLengthsCm": [44],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

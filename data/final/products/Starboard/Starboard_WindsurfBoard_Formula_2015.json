@@ -1,0 +1,66 @@
+{
+  "name": "Formula",
+  "year": 2015,
+  "programs": ["race"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 167,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 100,
+      "volumeL": 167,
+      "weightKg": 10.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 167,
+        "construction": "Carbone"
+      },
+      "lengthCm": 228,
+      "widthCm": 100,
+      "volumeL": 167,
+      "weightKg": 10.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 167
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 167,
+      "lengthCm": 228,
+      "widthCm": 100,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.5,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,150 @@
+{
+  "name": "Coolrider",
+  "year": 2014,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ast"
+      },
+      "volumeL": 160,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "AST"
+      },
+      "volumeL": 160,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 276,
+      "widthCm": 76,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 190,
+        "construction": "Ast"
+      },
+      "volumeL": 190,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 190,
+        "construction": "AST"
+      },
+      "volumeL": 190,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 190
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 190,
+      "lengthCm": 280,
+      "widthCm": 80,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "Ast"
+      },
+      "volumeL": 230,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "AST"
+      },
+      "volumeL": 230,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 230
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 230,
+      "lengthCm": 280,
+      "widthCm": 100,
+      "weightKg": 16,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

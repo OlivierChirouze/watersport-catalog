@@ -1,0 +1,24 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2017,
+  "name": "Explorair",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 295,
+        "construction": "Air"
+      },
+      "lengthCm": 295,
+      "widthCm": 85,
+      "volumeL": 295,
+      "weightKg": 8.5,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

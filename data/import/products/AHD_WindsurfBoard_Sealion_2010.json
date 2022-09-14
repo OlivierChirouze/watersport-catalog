@@ -1,0 +1,62 @@
+{
+  "name": "Sealion",
+  "year": 2010,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "edition": "XL"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 274,
+      "widthCm": 75.6,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 232,
+      "widthCm": 74,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

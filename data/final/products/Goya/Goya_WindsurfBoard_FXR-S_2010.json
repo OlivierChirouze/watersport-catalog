@@ -1,0 +1,67 @@
+{
+  "name": "FXR-S",
+  "year": 2010,
+  "programs": ["freeride"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 116,
+      "lengthCm": 242,
+      "widthCm": 69,
+      "weightKg": 7.15,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 246,
+      "widthCm": 74,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 144
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 144,
+      "lengthCm": 250,
+      "widthCm": 77,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

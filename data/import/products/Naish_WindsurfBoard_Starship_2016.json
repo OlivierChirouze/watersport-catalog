@@ -1,0 +1,94 @@
+{
+  "name": "Starship",
+  "year": 2016,
+  "programs": [
+    "freeride",
+    "freestyle",
+    "wave"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 240,
+      "widthCm": 62.3,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 245,
+      "widthCm": 65.6,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 235,
+      "widthCm": 59.7,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

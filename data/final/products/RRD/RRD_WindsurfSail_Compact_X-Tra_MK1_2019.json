@@ -1,0 +1,53 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "Compact X-Tra",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [175, 194],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [30, 66],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 400
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [194, 210],
+      "mastLengthsCm": [370, 60],
+      "mastExtensionLengthsCm": [398, 66, 88],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 436
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [194, 210],
+      "mastLengthsCm": [370, 60],
+      "mastExtensionLengthsCm": [376, 88],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 458
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MK1"
+}

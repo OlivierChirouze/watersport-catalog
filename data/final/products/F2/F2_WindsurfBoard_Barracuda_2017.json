@@ -1,0 +1,88 @@
+{
+  "dimensions": ["size"],
+  "brandName": "F2",
+  "year": 2017,
+  "name": "Barracuda",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 72
+      },
+      "lengthCm": 222,
+      "widthCm": 53,
+      "volumeL": 72,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "lengthCm": 223,
+      "widthCm": 55,
+      "volumeL": 77,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "lengthCm": 223,
+      "widthCm": 58,
+      "volumeL": 84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "lengthCm": 223,
+      "widthCm": 59,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "lengthCm": 225,
+      "widthCm": 61,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

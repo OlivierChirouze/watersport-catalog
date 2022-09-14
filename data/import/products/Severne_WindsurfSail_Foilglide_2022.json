@@ -1,0 +1,88 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Severne",
+  "year": 2022,
+  "name": "Foilglide",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [
+        170,
+        188
+      ],
+      "mastLengthsCm": [
+        430,
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        2,
+        5
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 465
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [
+        188,
+        202
+      ],
+      "mastLengthsCm": [
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        29,
+        5
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 489
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [
+        202
+      ],
+      "mastLengthsCm": [
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        29
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 489
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

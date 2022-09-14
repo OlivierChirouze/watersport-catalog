@@ -1,0 +1,141 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tabou",
+  "year": 2018,
+  "name": "Manta",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 233,
+      "widthCm": 66,
+      "volumeL": 106,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 233,
+      "widthCm": 71,
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 232,
+      "widthCm": 81,
+      "volumeL": 128,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 232,
+      "widthCm": 85,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 48,
+      "volumeL": 64,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 54,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 240,
+      "widthCm": 59,
+      "volumeL": 88,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Full Sandwich Carbon"
+      },
+      "lengthCm": 235,
+      "widthCm": 61,
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

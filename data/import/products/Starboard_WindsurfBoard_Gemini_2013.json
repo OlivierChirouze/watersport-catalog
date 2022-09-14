@@ -1,0 +1,37 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Gemini",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 384,
+        "construction": " "
+      },
+      "volumeL": 384,
+      "weightKg": 27.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 384,
+        "construction": "N"
+      },
+      "volumeL": 384,
+      "weightKg": 27.3
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

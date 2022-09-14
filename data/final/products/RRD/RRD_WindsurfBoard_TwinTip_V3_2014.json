@@ -1,0 +1,102 @@
+{
+  "name": "TwinTip",
+  "year": 2014,
+  "programs": ["freeride", "freestyle", "wave"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 101,
+      "lengthCm": 228,
+      "widthCm": 63,
+      "weightKg": 6.59,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 91,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 91,
+      "lengthCm": 229,
+      "widthCm": 59,
+      "weightKg": 6.28,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Ltd"
+      },
+      "volumeL": 101,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "LTD"
+      },
+      "volumeL": 101,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Ltd"
+      },
+      "volumeL": 91,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "LTD"
+      },
+      "volumeL": 91,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": [],
+  "version": "V3"
+}

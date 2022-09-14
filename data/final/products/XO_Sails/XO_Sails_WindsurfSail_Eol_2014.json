@@ -1,0 +1,97 @@
+{
+  "name": "Eol",
+  "year": 2014,
+  "programs": ["beginner", "freeride"],
+  "brandName": "XO Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [183],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 463,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [197],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [186],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 487,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [220],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 479,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [207],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 498,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [228],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "pictures": []
+}

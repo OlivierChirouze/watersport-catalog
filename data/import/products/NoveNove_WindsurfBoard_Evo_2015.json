@@ -1,0 +1,139 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "NoveNove",
+  "year": 2015,
+  "name": "Evo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Glass Epoxy",
+        "edition": "AST"
+      },
+      "lengthCm": 245,
+      "widthCm": 71,
+      "volumeL": 125,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Glass Epoxy",
+        "edition": "AST"
+      },
+      "lengthCm": 250,
+      "widthCm": 76,
+      "volumeL": 145,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Glass Epoxy",
+        "edition": "AST"
+      },
+      "lengthCm": 256,
+      "widthCm": 80,
+      "volumeL": 165,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Wood Glass Sandwich",
+        "edition": "Wood"
+      },
+      "lengthCm": 245,
+      "widthCm": 71,
+      "volumeL": 125,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Wood Glass Sandwich",
+        "edition": "Wood"
+      },
+      "lengthCm": 250,
+      "widthCm": 76,
+      "volumeL": 145,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Wood Glass Sandwich",
+        "edition": "Wood"
+      },
+      "lengthCm": 256,
+      "widthCm": 80,
+      "volumeL": 165,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

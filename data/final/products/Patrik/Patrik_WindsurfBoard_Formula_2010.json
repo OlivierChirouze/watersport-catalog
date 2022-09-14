@@ -1,0 +1,27 @@
+{
+  "name": "Formula",
+  "year": 2010,
+  "programs": ["race"],
+  "brandName": "Patrik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 164
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 164,
+      "lengthCm": 228.5,
+      "widthCm": 100,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

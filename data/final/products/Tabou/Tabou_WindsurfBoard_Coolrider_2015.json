@@ -1,0 +1,70 @@
+{
+  "name": "Coolrider",
+  "year": 2015,
+  "programs": ["beginner"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 226,
+      "widthCm": 76,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 190
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 190,
+      "lengthCm": 280,
+      "widthCm": 80,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 230
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 230,
+      "lengthCm": 280,
+      "widthCm": 100,
+      "weightKg": 16,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

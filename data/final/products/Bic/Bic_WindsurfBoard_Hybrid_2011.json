@@ -1,0 +1,34 @@
+{
+  "name": "Hybrid",
+  "year": 2011,
+  "programs": ["beginner"],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 240,
+        "edition": "OD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 240,
+      "lengthCm": 308,
+      "widthCm": 82,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

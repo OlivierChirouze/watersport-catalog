@@ -1,0 +1,118 @@
+{
+  "name": "Aero+",
+  "year": 2016,
+  "programs": ["race", "slalom"],
+  "brandName": "Challenger Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 408,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17, 19],
+      "boomLengthsCm": [175],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [400, 430, 99],
+      "mastIMCS": [19, 21],
+      "boomLengthsCm": [190],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [337, 36, 6],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 500,
+      "mastLengthsCm": [430, 460, 490, 99],
+      "mastIMCS": [25, 29],
+      "boomLengthsCm": [211],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [10, 40, 401, 70],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 463,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21, 25],
+      "boomLengthsCm": [196],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [3, 33],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 525,
+      "mastLengthsCm": [460, 490, 520],
+      "mastIMCS": [29, 32],
+      "boomLengthsCm": [230],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [35, 5, 65],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "luffLengthCm": 533,
+      "mastLengthsCm": [520, 99],
+      "mastIMCS": [32],
+      "boomLengthsCm": [238],
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [13, 434],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.8
+      },
+      "surfaceM2": 9.8,
+      "luffLengthCm": 544,
+      "mastLengthsCm": [460, 520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [242],
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [24, 84],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

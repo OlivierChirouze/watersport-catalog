@@ -1,0 +1,121 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Goya",
+  "year": 2018,
+  "name": "Proton Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Carbon Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 71,
+      "volumeL": 116,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Carbone Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 71,
+      "volumeL": 116,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Carbon Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 83.9,
+      "volumeL": 136,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Carbone Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 83.9,
+      "volumeL": 136,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Carbon Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 61.9,
+      "volumeL": 96,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Carbone Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 61.9,
+      "volumeL": 96,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

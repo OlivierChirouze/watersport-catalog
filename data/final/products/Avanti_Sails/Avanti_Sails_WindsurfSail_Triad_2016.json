@@ -1,0 +1,55 @@
+{
+  "name": "Triad",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Avanti Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "battenCount": 3,
+      "camCount": 0,
+      "weightKg": 2.4,
+      "boomLengthsCm": [155],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [10, 280],
+      "topType": "fixed",
+      "luffLengthCm": 380
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "battenCount": 3,
+      "camCount": 0,
+      "weightKg": 2.5,
+      "boomLengthsCm": [162],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [22, 292],
+      "topType": "fixed",
+      "luffLengthCm": 392
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "battenCount": 3,
+      "camCount": 0,
+      "weightKg": 2.7,
+      "boomLengthsCm": [172],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [7],
+      "topType": "fixed",
+      "luffLengthCm": 407
+    }
+  ],
+  "pictures": []
+}

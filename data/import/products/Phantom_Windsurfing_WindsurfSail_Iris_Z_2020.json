@@ -1,0 +1,82 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Phantom Windsurfing",
+  "year": 2020,
+  "name": "Iris Z",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [
+        192
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 5,
+      "camCount": 2,
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [
+        206
+      ],
+      "mastLengthsCm": [
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        16
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 5,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "boomLengthsCm": [
+        192,
+        206
+      ],
+      "mastLengthsCm": [
+        430,
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        16,
+        8
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 5,
+      "camCount": 2,
+      "luffLengthCm": 476
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

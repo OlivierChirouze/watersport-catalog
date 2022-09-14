@@ -1,0 +1,119 @@
+{
+  "name": "Young Gun",
+  "year": 2015,
+  "programs": ["kids"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "volumeL": 115,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Es",
+        "edition": "Quad ES"
+      },
+      "volumeL": 55,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "ES",
+        "edition": "Quad ES"
+      },
+      "volumeL": 55,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 55,
+      "lengthCm": 207,
+      "widthCm": 50,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "WS"
+      },
+      "lengthCm": 8,
+      "widthCm": 30,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "ES"
+      },
+      "volumeL": 115,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 240,
+      "widthCm": 70,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 240,
+      "widthCm": 70,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

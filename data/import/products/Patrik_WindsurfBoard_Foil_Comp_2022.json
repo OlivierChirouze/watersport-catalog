@@ -1,0 +1,105 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "Foil Comp",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "construction": "Aluminium"
+      },
+      "lengthCm": 220,
+      "widthCm": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Aluminium"
+      },
+      "lengthCm": 221,
+      "widthCm": 100,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Aluminium"
+      },
+      "widthCm": 78,
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Aluminium"
+      },
+      "widthCm": 85,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ],
+      "lengthCm": 221
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Aluminium"
+      },
+      "lengthCm": 221,
+      "widthCm": 91,
+      "volumeL": 91,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

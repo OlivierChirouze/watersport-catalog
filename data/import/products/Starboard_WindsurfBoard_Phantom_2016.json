@@ -1,0 +1,84 @@
+{
+  "name": "Phantom",
+  "year": 2016,
+  "programs": [
+    "freeride",
+    "beginner"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 217
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 217,
+      "lengthCm": 295,
+      "widthCm": 72,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 263
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 263,
+      "lengthCm": 377,
+      "widthCm": 67,
+      "weightKg": 12.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 298
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 298,
+      "lengthCm": 377,
+      "widthCm": 67,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

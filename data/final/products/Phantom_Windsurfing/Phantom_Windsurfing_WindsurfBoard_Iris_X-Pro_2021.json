@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Phantom Windsurfing",
+  "year": 2021,
+  "name": "Iris X-Pro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Custom Full Carbon"
+      },
+      "lengthCm": 210,
+      "widthCm": 83,
+      "volumeL": 150,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Custom Full Carbone"
+      },
+      "lengthCm": 210,
+      "widthCm": 83,
+      "volumeL": 150,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

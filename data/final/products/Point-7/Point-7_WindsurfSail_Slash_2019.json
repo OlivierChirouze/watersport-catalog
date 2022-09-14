@@ -1,0 +1,91 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Point-7",
+  "year": 2019,
+  "name": "Slash",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "boomLengthsCm": [142, 149],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [2, 22],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 362
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [153, 158],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [25, 7],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 395
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [158, 165],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [19, 7],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 407
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [149, 153],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [2, 25],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 372
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [165, 170],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [19, 8],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 419
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [149, 170],
+      "mastLengthsCm": [370, 430],
+      "mastExtensionLengthsCm": [2, 8],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 438
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

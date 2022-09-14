@@ -1,0 +1,139 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2018,
+  "name": "A.I.R Freewave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Carbon Lcf"
+      },
+      "lengthCm": 222,
+      "widthCm": 65,
+      "volumeL": 103,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Carbon LCF"
+      },
+      "lengthCm": 222,
+      "widthCm": 65,
+      "volumeL": 103,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Carbon Lcf"
+      },
+      "lengthCm": 220,
+      "widthCm": 59.3,
+      "volumeL": 83,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Carbon LCF"
+      },
+      "lengthCm": 220,
+      "widthCm": 59.3,
+      "volumeL": 83,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon Lcf"
+      },
+      "lengthCm": 222,
+      "widthCm": 61.3,
+      "volumeL": 93,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon LCF"
+      },
+      "lengthCm": 222,
+      "widthCm": 61.3,
+      "volumeL": 93,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

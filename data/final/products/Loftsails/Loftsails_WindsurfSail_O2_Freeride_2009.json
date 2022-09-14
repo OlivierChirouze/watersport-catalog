@@ -1,0 +1,79 @@
+{
+  "name": "O2 Freeride",
+  "year": 2009,
+  "programs": ["freeride", "slalom"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 424,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [180],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "luffLengthCm": 445,
+      "mastLengthsCm": [430, 460],
+      "boomLengthsCm": [192],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [460, 490],
+      "boomLengthsCm": [205],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.4
+      },
+      "surfaceM2": 7.4,
+      "luffLengthCm": 488,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [218],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "luffLengthCm": 513,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [229],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 532,
+      "mastLengthsCm": [520],
+      "boomLengthsCm": [245],
+      "battenCount": 7,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

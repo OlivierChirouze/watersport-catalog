@@ -1,0 +1,95 @@
+{
+  "name": "Speed",
+  "year": 2013,
+  "programs": [
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 53,
+        "construction": "Pro"
+      },
+      "volumeL": 53,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 53
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 53,
+      "lengthCm": 228,
+      "widthCm": 45,
+      "weightKg": 4.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Pro"
+      },
+      "volumeL": 64,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 64,
+      "lengthCm": 228,
+      "widthCm": 50,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 73
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 73,
+      "lengthCm": 231,
+      "widthCm": 54,
+      "weightKg": 5.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

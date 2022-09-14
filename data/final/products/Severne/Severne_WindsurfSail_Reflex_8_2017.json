@@ -1,0 +1,112 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Severne",
+  "year": 2017,
+  "name": "Reflex",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 5,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [6],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 406
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "weightKg": 5.1,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [23],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 423
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "weightKg": 5.3,
+      "boomLengthsCm": [189],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [13],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 443
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 6,
+      "boomLengthsCm": [222],
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [20],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 480
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 5.7,
+      "boomLengthsCm": [202],
+      "mastLengthsCm": [430, 460],
+      "mastExtensionLengthsCm": [0, 30],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 460
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "weightKg": 6.3,
+      "boomLengthsCm": [229],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [15],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 505
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "weightKg": 6.6,
+      "boomLengthsCm": [236],
+      "mastLengthsCm": [400, 490],
+      "mastExtensionLengthsCm": [132, 42],
+      "battenCount": 8,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 532
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "8"
+}

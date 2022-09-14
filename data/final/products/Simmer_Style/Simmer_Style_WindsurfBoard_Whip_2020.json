@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Simmer Style",
+  "year": 2020,
+  "name": "Whip",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Carbon X Sandwich"
+      },
+      "lengthCm": 221,
+      "widthCm": 64,
+      "volumeL": 102,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Carbon X-Sandwich"
+      },
+      "lengthCm": 221,
+      "widthCm": 64,
+      "volumeL": 102,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbon X Sandwich"
+      },
+      "lengthCm": 221,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbon X-Sandwich"
+      },
+      "lengthCm": 221,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

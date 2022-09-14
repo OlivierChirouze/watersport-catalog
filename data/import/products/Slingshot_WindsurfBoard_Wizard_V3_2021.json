@@ -1,0 +1,69 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Slingshot",
+  "year": 2021,
+  "name": "Wizard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 114
+      },
+      "lengthCm": 178,
+      "widthCm": 66,
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "lengthCm": 188,
+      "widthCm": 78,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "lengthCm": 147,
+      "widthCm": 63.5,
+      "volumeL": 90,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V3"
+}

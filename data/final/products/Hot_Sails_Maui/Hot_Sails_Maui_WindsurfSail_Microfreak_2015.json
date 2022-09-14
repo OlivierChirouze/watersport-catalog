@@ -1,0 +1,109 @@
+{
+  "name": "Microfreak",
+  "year": 2015,
+  "programs": ["kids"],
+  "brandName": "Hot Sails Maui",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 0.8
+      },
+      "surfaceM2": 0.8,
+      "luffLengthCm": 150,
+      "boomLengthsCm": [91],
+      "weightKg": 0.9,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 1.2
+      },
+      "surfaceM2": 1.2,
+      "luffLengthCm": 191,
+      "boomLengthsCm": [94],
+      "weightKg": 1,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 1.6
+      },
+      "surfaceM2": 1.6,
+      "luffLengthCm": 209,
+      "boomLengthsCm": [105],
+      "weightKg": 1.2,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.1
+      },
+      "surfaceM2": 2.1,
+      "luffLengthCm": 259,
+      "boomLengthsCm": [122],
+      "weightKg": 1.6,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.8
+      },
+      "surfaceM2": 2.8,
+      "luffLengthCm": 310,
+      "mastLengthsCm": [310],
+      "mastIMCS": [12],
+      "boomLengthsCm": [131],
+      "weightKg": 1.7,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.8
+      },
+      "surfaceM2": 2.8,
+      "luffLengthCm": 310,
+      "mastLengthsCm": [310],
+      "mastIMCS": [12],
+      "boomLengthsCm": [130],
+      "weightKg": 1.9,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "luffLengthCm": 310,
+      "mastLengthsCm": [310],
+      "mastIMCS": [12],
+      "boomLengthsCm": [136],
+      "weightKg": 2,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "luffLengthCm": 340,
+      "mastLengthsCm": [310],
+      "mastIMCS": [12],
+      "boomLengthsCm": [154],
+      "weightKg": 2.4,
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

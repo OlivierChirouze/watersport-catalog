@@ -1,0 +1,58 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AV-Boards",
+  "year": 2022,
+  "name": "Modena Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 40
+      },
+      "lengthCm": 227,
+      "widthCm": 40,
+      "volumeL": 40,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 45
+      },
+      "lengthCm": 228,
+      "widthCm": 45,
+      "volumeL": 45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 52
+      },
+      "lengthCm": 229,
+      "widthCm": 52,
+      "volumeL": 52,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

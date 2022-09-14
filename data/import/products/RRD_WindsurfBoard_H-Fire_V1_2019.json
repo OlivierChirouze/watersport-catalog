@@ -1,0 +1,136 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "H-Fire",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Lte",
+        "edition": "LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ltd"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 147,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 147,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V1"
+}

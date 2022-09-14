@@ -1,0 +1,432 @@
+{
+  "name": "Manta",
+  "year": 2012,
+  "programs": ["freeride", "race", "slalom"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "edition": "FR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 65,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "FR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 233,
+      "widthCm": 69,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.7,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "FR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 233,
+      "widthCm": 75,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "FR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 233,
+      "widthCm": 79,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.6,
+        "toM2": 9.3
+      }
+    },
+    {
+      "variant": {
+        "size": 138,
+        "edition": "FR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 138,
+      "lengthCm": 233,
+      "widthCm": 85,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 148,
+        "edition": "FR"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 148,
+      "lengthCm": 233,
+      "widthCm": 89,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 65,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 65,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 65,
+        "construction": "Carbone Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 65,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 69,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 69,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 69,
+        "construction": "Carbone Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 69,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 75,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbone Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 75,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 79,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Carbone Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 79,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 85,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbone Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 85,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Carbon Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 89,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Carbone Biax Sandwich",
+        "edition": "FR"
+      },
+      "volumeL": 89,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 65,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 233,
+      "widthCm": 69,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 113
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 113,
+      "lengthCm": 233,
+      "widthCm": 71,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 233,
+      "widthCm": 79,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 134
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 134,
+      "lengthCm": 233,
+      "widthCm": 84.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 138
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 138,
+      "lengthCm": 233,
+      "widthCm": 85,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 63
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 63,
+      "lengthCm": 222,
+      "widthCm": 49,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 237,
+      "widthCm": 54,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 86
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 233,
+      "widthCm": 59,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 233,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,149 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "PC²",
+  "year": 2018,
+  "name": "Guru",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Inegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 65.5,
+      "volumeL": 105,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Innegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 65.5,
+      "volumeL": 105,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Inegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 55.5,
+      "volumeL": 75,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Innegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 55.5,
+      "volumeL": 75,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Inegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 59,
+      "volumeL": 85,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Innegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 59,
+      "volumeL": 85,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Inegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 61.5,
+      "volumeL": 95,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Innegra"
+      },
+      "lengthCm": 235,
+      "widthCm": 61.5,
+      "volumeL": 95,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

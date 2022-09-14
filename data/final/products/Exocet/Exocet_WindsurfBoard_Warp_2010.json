@@ -1,0 +1,172 @@
+{
+  "name": "Warp",
+  "year": 2010,
+  "programs": ["kids", "race", "slalom"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 129,
+        "edition": "SL HC"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 129,
+      "lengthCm": 247,
+      "widthCm": 78,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.7,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "edition": "SL"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 243,
+      "widthCm": 66,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 118,
+        "edition": "SL"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 118,
+      "lengthCm": 245,
+      "widthCm": 71,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 129,
+        "edition": "SL"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 129,
+      "lengthCm": 247,
+      "widthCm": 78,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.7,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 68,
+        "edition": "SL"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 68,
+      "lengthCm": 235,
+      "widthCm": 50,
+      "weightKg": 4.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.6
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "SL"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 235,
+      "widthCm": 56,
+      "weightKg": 5.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.6
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "SL"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 238,
+      "widthCm": 61,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 161
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 161,
+      "lengthCm": 235,
+      "widthCm": 100,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.4,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

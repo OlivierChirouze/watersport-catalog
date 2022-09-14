@@ -1,0 +1,32 @@
+{
+  "name": "Stylerider",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 256,
+      "widthCm": 73,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

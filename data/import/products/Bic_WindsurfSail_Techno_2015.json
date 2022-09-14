@@ -1,0 +1,105 @@
+{
+  "name": "Techno",
+  "year": 2015,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Bic",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        165
+      ],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [
+        430,
+        460
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        185,
+        190
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 450,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        185,
+        190
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [
+        430,
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        185,
+        190
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,125 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2019,
+  "name": "Vector",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "weightKg": 5.1,
+      "boomLengthsCm": [184, 177],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [22],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 5.46,
+      "boomLengthsCm": [191, 184],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "weightKg": 5.76,
+      "boomLengthsCm": [204, 197],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "weightKg": 6.2,
+      "boomLengthsCm": [217, 210],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [25],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 6.6,
+      "boomLengthsCm": [230, 223],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [13],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "weightKg": 6.71,
+      "boomLengthsCm": [234, 227],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "weightKg": 6.82,
+      "boomLengthsCm": [236, 229],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [30],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "weightKg": 5.1,
+      "boomLengthsCm": [184, 177],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [22],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}
