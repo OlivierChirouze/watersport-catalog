@@ -1,0 +1,42 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Gong",
+  "year": 2015,
+  "name": "DA Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Xtr Windsurf:full Carbon, Pont Pvc Et Rails Kevlar Belt"
+      },
+      "lengthCm": 234,
+      "widthCm": 70,
+      "volumeL": 125,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Xtr WS:Full Carbon, PVC Rails Kevlar Belt"
+      },
+      "lengthCm": 234,
+      "widthCm": 70,
+      "volumeL": 125,
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

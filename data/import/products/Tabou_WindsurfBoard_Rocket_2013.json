@@ -1,0 +1,370 @@
+{
+  "name": "Rocket",
+  "year": 2013,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Biax Carbon",
+        "edition": "LTD"
+      },
+      "volumeL": 105,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 246,
+      "widthCm": 63,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 242,
+      "widthCm": 66,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Biax Carbon",
+        "edition": "LTD"
+      },
+      "volumeL": 95,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 237,
+      "widthCm": 58,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 246,
+      "widthCm": 63,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Std",
+        "edition": "STD"
+      },
+      "volumeL": 115,
+      "weightKg": 8.95,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 242,
+      "widthCm": 66,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Std",
+        "edition": "STD"
+      },
+      "volumeL": 95,
+      "weightKg": 8.95,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 237,
+      "widthCm": 58,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "STD"
+      },
+      "volumeL": 115,
+      "weightKg": 8.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "STD"
+      },
+      "volumeL": 95,
+      "weightKg": 8.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

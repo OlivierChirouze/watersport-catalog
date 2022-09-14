@@ -1,0 +1,83 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Naish",
+  "year": 2022,
+  "name": "Lift RN",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [136],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [10],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 440
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [146],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [22],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 452
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 468
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 502
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [160],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 488
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

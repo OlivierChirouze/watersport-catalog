@@ -1,0 +1,178 @@
+{
+  "name": "Rio",
+  "year": 2016,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 187,
+        "edition": "Armour Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 187,
+      "lengthCm": 276,
+      "widthCm": 78,
+      "weightKg": 15.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 192,
+        "edition": "Armour Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 192,
+      "lengthCm": 290,
+      "widthCm": 81,
+      "weightKg": 16.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 231,
+        "edition": "Armour Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 231,
+      "lengthCm": 302,
+      "widthCm": 86,
+      "weightKg": 17.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "construction": "Tufskin Armourtech",
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Tufskin Armourtech",
+        "edition": "Tufskin"
+      },
+      "volumeL": 180,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 187,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 187,
+      "lengthCm": 276,
+      "widthCm": 78,
+      "weightKg": 12.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 192,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 192,
+      "lengthCm": 290,
+      "widthCm": 81,
+      "weightKg": 13.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 231,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 231,
+      "lengthCm": 302,
+      "widthCm": 86,
+      "weightKg": 14.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

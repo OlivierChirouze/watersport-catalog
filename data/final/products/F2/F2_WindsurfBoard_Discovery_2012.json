@@ -1,0 +1,73 @@
+{
+  "name": "Discovery",
+  "year": 2012,
+  "programs": ["beginner", "kids"],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 165
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 280,
+      "widthCm": 71,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 185
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 185,
+      "lengthCm": 270,
+      "widthCm": 80,
+      "weightKg": 13.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 225
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 225,
+      "lengthCm": 275,
+      "widthCm": 90,
+      "weightKg": 14.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

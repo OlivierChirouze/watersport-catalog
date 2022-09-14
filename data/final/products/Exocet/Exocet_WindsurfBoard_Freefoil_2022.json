@@ -1,0 +1,135 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Exocet",
+  "year": 2022,
+  "name": "Freefoil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Ast",
+        "edition": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 76,
+      "volumeL": 112,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Ast",
+        "edition": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 86,
+      "volumeL": 132,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 76,
+      "volumeL": 112,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Silver"
+      },
+      "lengthCm": 210,
+      "widthCm": 76,
+      "volumeL": 112,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 86,
+      "volumeL": 132,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Silver"
+      },
+      "lengthCm": 210,
+      "widthCm": 86,
+      "volumeL": 132,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

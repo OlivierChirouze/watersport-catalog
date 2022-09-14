@@ -1,0 +1,179 @@
+{
+  "name": "RS:Racing",
+  "year": 2016,
+  "programs": ["race", "slalom"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 555,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [251, 256],
+      "battenCount": 9,
+      "camCount": 5,
+      "mastExtensionLengthsCm": [35],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 11
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 577,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [268, 273],
+      "battenCount": 9,
+      "camCount": 5,
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 12.2
+      },
+      "surfaceM2": 12.2,
+      "luffLengthCm": 602,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [285, 290],
+      "battenCount": 9,
+      "camCount": 5,
+      "mastExtensionLengthsCm": [52],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 404,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [170, 175],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [34],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 424,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177, 182],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 447,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [186, 191],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [17],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 493,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [206, 211],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [33],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 471,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [196, 201],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [11],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 518,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [217, 222],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "luffLengthCm": 534,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [225, 230],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [14],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 544,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [229, 234],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": [],
+  "version": "EVO8"
+}

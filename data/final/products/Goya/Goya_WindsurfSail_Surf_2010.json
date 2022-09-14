@@ -1,0 +1,79 @@
+{
+  "name": "Surf",
+  "year": 2010,
+  "programs": ["beginner", "kids"],
+  "brandName": "Goya",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 223,
+      "mastLengthsCm": [240],
+      "boomLengthsCm": [105],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 262,
+      "mastLengthsCm": [290],
+      "boomLengthsCm": [122],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 296,
+      "mastLengthsCm": [310],
+      "boomLengthsCm": [135],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 322,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [145],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 348,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [155],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 375,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [165],
+      "battenCount": 1,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

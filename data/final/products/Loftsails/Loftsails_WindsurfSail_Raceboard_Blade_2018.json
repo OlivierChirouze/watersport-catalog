@@ -1,0 +1,54 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2018,
+  "name": "Raceboard Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 5.26,
+      "boomLengthsCm": [242],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [2],
+      "battenCount": 6,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 492
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "weightKg": 5.84,
+      "boomLengthsCm": [264],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 530
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "weightKg": 5.62,
+      "boomLengthsCm": [254],
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": [2],
+      "battenCount": 5,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,68 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Slingshot",
+  "year": 2019,
+  "name": "Wizard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 103
+      },
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 152.4,
+      "widthCm": 76.2
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 177.8,
+      "widthCm": 76.2
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 198.1,
+      "widthCm": 78.5
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

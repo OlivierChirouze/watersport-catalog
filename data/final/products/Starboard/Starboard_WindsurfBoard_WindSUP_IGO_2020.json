@@ -1,0 +1,42 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2020,
+  "name": "WindSUP IGO",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 329,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 325,
+      "widthCm": 84,
+      "volumeL": 329,
+      "weightKg": 9.8
+    },
+    {
+      "variant": {
+        "size": 330,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 325,
+      "widthCm": 84,
+      "volumeL": 330,
+      "weightKg": 9.8
+    },
+    {
+      "variant": {
+        "size": 351,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 325,
+      "widthCm": 84,
+      "volumeL": 351,
+      "weightKg": 9.8
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

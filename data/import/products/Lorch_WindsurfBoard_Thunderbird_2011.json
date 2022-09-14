@@ -1,0 +1,51 @@
+{
+  "name": "Thunderbird",
+  "year": 2011,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 170,
+      "lengthCm": 229,
+      "widthCm": 100,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 183
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 183,
+      "lengthCm": 231,
+      "widthCm": 100,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

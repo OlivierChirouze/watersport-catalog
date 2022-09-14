@@ -1,0 +1,34 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "NoveNove",
+  "year": 2019,
+  "name": "Aero Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 122
+      },
+      "lengthCm": 225,
+      "widthCm": 76,
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

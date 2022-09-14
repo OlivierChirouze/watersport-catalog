@@ -1,0 +1,219 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Exocet",
+  "year": 2019,
+  "name": "RF Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Ast",
+        "edition": "AST"
+      },
+      "lengthCm": 155,
+      "widthCm": 91,
+      "volumeL": 135,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Ast",
+        "edition": "AST"
+      },
+      "lengthCm": 155,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Carbon",
+        "edition": "Carbon/Texalium"
+      },
+      "lengthCm": 230,
+      "widthCm": 81,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Carbone",
+        "edition": "Carbon/Texalium"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Carbon",
+        "edition": "Carbon/Texalium"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Carbone",
+        "edition": "Carbon/Texalium"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 155,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "AST"
+      },
+      "lengthCm": 230,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Carbone"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 135,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "AST"
+      },
+      "lengthCm": 155,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Carbone"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Cruiser Kids",
+  "year": 2010,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 118
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 118,
+      "lengthCm": 243,
+      "widthCm": 69,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

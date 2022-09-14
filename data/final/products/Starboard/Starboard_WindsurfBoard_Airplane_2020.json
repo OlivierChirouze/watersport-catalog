@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2020,
+  "name": "Airplane",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 201,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 242,
+      "widthCm": 72,
+      "volumeL": 201,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 229,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 255,
+      "widthCm": 78,
+      "volumeL": 229,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 290,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 290,
+      "widthCm": 90,
+      "volumeL": 290,
+      "weightKg": 14,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

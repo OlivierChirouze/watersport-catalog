@@ -1,0 +1,141 @@
+{
+  "name": "Torro",
+  "year": 2012,
+  "programs": ["freeride", "freestyle", "wave"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.3
+      },
+      "surfaceM2": 4.3,
+      "luffLengthCm": 407,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [156],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 415,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [163],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [174],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 444,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [177],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 422,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 459,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [186],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 465,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [193],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 450,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [182],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Helix",
+  "year": 2016,
+  "programs": [
+    "freestyle",
+    "wave"
+  ],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 230,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.6
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 234,
+      "widthCm": 63,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 234,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.7
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "V1"
+}

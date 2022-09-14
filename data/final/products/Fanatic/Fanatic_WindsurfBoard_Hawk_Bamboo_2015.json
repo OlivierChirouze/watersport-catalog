@@ -1,0 +1,118 @@
+{
+  "name": "Hawk Bamboo",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Bamboo"
+      },
+      "lengthCm": 241,
+      "widthCm": 66,
+      "volumeL": 113,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 113,
+      "lengthCm": 241,
+      "widthCm": 66,
+      "weightKg": 7.95,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Bamboo"
+      },
+      "lengthCm": 242,
+      "widthCm": 70,
+      "volumeL": 124,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 124
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 124,
+      "lengthCm": 242,
+      "widthCm": 70,
+      "weightKg": 8.05,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Bamboo"
+      },
+      "lengthCm": 239,
+      "widthCm": 62,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 99,
+      "lengthCm": 239,
+      "widthCm": 62,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

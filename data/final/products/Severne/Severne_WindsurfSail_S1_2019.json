@@ -1,0 +1,201 @@
+{
+  "dimensions": ["edition", "size"],
+  "brandName": "Severne",
+  "year": 2019,
+  "name": "S1",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.6,
+        "edition": "Pro"
+      },
+      "surfaceM2": 3.6,
+      "weightKg": 2.2,
+      "boomLengthsCm": [151],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [3],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 2.5,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [2],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 2.6,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "Pro"
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.4,
+      "boomLengthsCm": [156],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 2.7,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [30],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6,
+        "edition": "Pro"
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 2.2,
+      "boomLengthsCm": [151],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [3],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "weightKg": 2.6,
+      "boomLengthsCm": [146],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [23],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "weightKg": 2.7,
+      "boomLengthsCm": [152],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [2],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 2.9,
+      "boomLengthsCm": [162],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [3],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 3,
+      "boomLengthsCm": [168],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [19],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.8,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [14],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 3.1,
+      "boomLengthsCm": [174],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [30],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 2.6,
+      "boomLengthsCm": [146],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [23],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

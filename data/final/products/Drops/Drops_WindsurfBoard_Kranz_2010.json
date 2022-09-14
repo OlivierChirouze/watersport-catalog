@@ -1,0 +1,108 @@
+{
+  "name": "Kranz",
+  "year": 2010,
+  "programs": ["race"],
+  "brandName": "Drops",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 166
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 166,
+      "lengthCm": 228,
+      "widthCm": 100,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 96,
+      "lengthCm": 234,
+      "widthCm": 64,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 106
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 106,
+      "lengthCm": 235,
+      "widthCm": 68,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 90
+      }
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 231,
+      "widthCm": 75,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 222.7,
+      "widthCm": 85,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 10.5
+      }
+    }
+  ],
+  "pictures": []
+}

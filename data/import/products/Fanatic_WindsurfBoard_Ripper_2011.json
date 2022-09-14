@@ -1,0 +1,38 @@
+{
+  "name": "Ripper",
+  "year": 2011,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 242,
+      "widthCm": 69,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Blow",
+  "year": 2012,
+  "programs": ["wave"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "luffLengthCm": 361,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [15],
+      "boomLengthsCm": [149],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.85,
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.1
+      },
+      "surfaceM2": 4.1,
+      "luffLengthCm": 379,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [153],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.85,
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "luffLengthCm": 391,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [167],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.85,
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [171],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.85,
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

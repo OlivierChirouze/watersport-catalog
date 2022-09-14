@@ -1,0 +1,32 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Severne",
+  "year": 2019,
+  "name": "Hyperglide",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "2"
+}

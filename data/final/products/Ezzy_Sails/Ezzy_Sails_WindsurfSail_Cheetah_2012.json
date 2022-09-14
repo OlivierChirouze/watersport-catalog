@@ -1,0 +1,104 @@
+{
+  "name": "Cheetah",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Ezzy Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 439,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [183],
+      "weightKg": 3.73,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [190],
+      "weightKg": 4.12,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 458,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [198],
+      "weightKg": 4.32,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [460],
+      "mastIMCS": [23],
+      "boomLengthsCm": [205],
+      "weightKg": 4.49,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460],
+      "mastIMCS": [23],
+      "boomLengthsCm": [214],
+      "weightKg": 4.66,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 507,
+      "mastLengthsCm": [490],
+      "mastIMCS": [26],
+      "boomLengthsCm": [229],
+      "weightKg": 5.03,
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [490],
+      "mastIMCS": [26],
+      "boomLengthsCm": [247],
+      "weightKg": 5.35,
+      "battenCount": 7,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

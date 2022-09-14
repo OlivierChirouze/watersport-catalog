@@ -1,0 +1,70 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2017,
+  "name": "GromStyle",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "boomLengthsCm": [124],
+      "mastLengthsCm": [310],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 293
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [144],
+      "mastLengthsCm": [310],
+      "mastExtensionLengthsCm": [13],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 323
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "boomLengthsCm": [132],
+      "mastLengthsCm": [310],
+      "mastExtensionLengthsCm": [3],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 313
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [156],
+      "mastLengthsCm": [310, 340],
+      "mastExtensionLengthsCm": [39, 9],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 349
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MK4"
+}

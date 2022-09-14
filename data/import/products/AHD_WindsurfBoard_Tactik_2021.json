@@ -1,0 +1,52 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "AHD",
+  "year": 2021,
+  "name": "Tactik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 250,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "volumeL": 250,
+      "weightKg": 17,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 250,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "volumeL": 250,
+      "weightKg": 17,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

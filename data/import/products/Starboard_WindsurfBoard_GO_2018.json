@@ -1,0 +1,113 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2018,
+  "name": "GO",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 121,
+        "construction": "3dx"
+      },
+      "lengthCm": 251,
+      "widthCm": 75.5,
+      "volumeL": 121,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "3dx"
+      },
+      "lengthCm": 252,
+      "widthCm": 81,
+      "volumeL": 131,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "3dx"
+      },
+      "lengthCm": 251,
+      "widthCm": 83.5,
+      "volumeL": 141,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "3dx"
+      },
+      "lengthCm": 251,
+      "widthCm": 86,
+      "volumeL": 151,
+      "weightKg": 10.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "3dx"
+      },
+      "lengthCm": 250,
+      "widthCm": 86.5,
+      "volumeL": 161,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2022,
+  "name": "Pure",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [153],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [22, 292],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 392
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 412
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [146],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [10, 280],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 380
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [168],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [24, 324],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 424
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

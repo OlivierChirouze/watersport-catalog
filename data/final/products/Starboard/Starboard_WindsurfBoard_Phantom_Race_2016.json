@@ -1,0 +1,34 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Starboard",
+  "year": 2016,
+  "name": "Phantom Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 298,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 377,
+      "widthCm": 67,
+      "volumeL": 298,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 295,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 295,
+      "widthCm": 72,
+      "volumeL": 295,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

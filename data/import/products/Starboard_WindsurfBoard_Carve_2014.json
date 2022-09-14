@@ -1,0 +1,408 @@
+{
+  "name": "Carve",
+  "year": 2014,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 111,
+        "edition": "AST"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 111,
+      "lengthCm": 246,
+      "widthCm": 66.5,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 121,
+        "edition": "AST"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 121,
+      "lengthCm": 252,
+      "widthCm": 72.5,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 131,
+        "edition": "AST"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 131,
+      "lengthCm": 252,
+      "widthCm": 76.5,
+      "weightKg": 9.14,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 141,
+        "edition": "AST"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 141,
+      "lengthCm": 251,
+      "widthCm": 79.5,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 151,
+        "edition": "AST"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 151,
+      "lengthCm": 251,
+      "widthCm": 81,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 161,
+        "edition": "AST"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 161,
+      "lengthCm": 254,
+      "widthCm": 85,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 111,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 111,
+      "lengthCm": 246,
+      "widthCm": 66.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 121,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 121,
+      "lengthCm": 252,
+      "widthCm": 72.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 131,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 131,
+      "lengthCm": 252,
+      "widthCm": 76.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 141,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 141,
+      "lengthCm": 251,
+      "widthCm": 79.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 151,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 151,
+      "lengthCm": 251,
+      "widthCm": 81,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 161,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 161,
+      "lengthCm": 254,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 111,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 111,
+      "lengthCm": 246,
+      "widthCm": 66.5,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 121,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 121,
+      "lengthCm": 252,
+      "widthCm": 72.5,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 131,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 131,
+      "lengthCm": 252,
+      "widthCm": 76.5,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 141,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 141,
+      "lengthCm": 251,
+      "widthCm": 79.5,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 151,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 151,
+      "lengthCm": 251,
+      "widthCm": 81,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 161,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 161,
+      "lengthCm": 254,
+      "widthCm": 85,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

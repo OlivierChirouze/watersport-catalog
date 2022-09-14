@@ -1,0 +1,73 @@
+{
+  "name": "Ripper",
+  "year": 2013,
+  "programs": ["kids"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.7
+      },
+      "surfaceM2": 2.7,
+      "luffLengthCm": 308,
+      "mastLengthsCm": [340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [116],
+      "weightKg": 2.35,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "luffLengthCm": 328,
+      "mastLengthsCm": [340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [128],
+      "weightKg": 2.52,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 348,
+      "mastLengthsCm": [340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [136],
+      "weightKg": 2.68,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 363,
+      "mastLengthsCm": [340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [145],
+      "weightKg": 2.87,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

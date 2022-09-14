@@ -1,0 +1,57 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Point-7",
+  "year": 2017,
+  "name": "F-One",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 11
+      },
+      "surfaceM2": 11,
+      "mastLengthsCm": [550, 570],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 12
+      },
+      "surfaceM2": 12,
+      "mastLengthsCm": [520, 570],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

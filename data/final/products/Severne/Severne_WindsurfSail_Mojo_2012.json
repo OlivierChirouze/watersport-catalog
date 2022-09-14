@@ -1,0 +1,65 @@
+{
+  "name": "Mojo",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 432,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [170],
+      "weightKg": 4.11,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [178],
+      "weightKg": 4.37,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 467,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [187],
+      "weightKg": 4.49,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [198],
+      "weightKg": 4.79,
+      "battenCount": 6,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

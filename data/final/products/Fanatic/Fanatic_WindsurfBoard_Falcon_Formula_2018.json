@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Fanatic",
+  "year": 2018,
+  "name": "Falcon Formula",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 172,
+        "construction": "Full Bxc"
+      },
+      "lengthCm": 230,
+      "widthCm": 100,
+      "volumeL": 172,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 159,
+        "construction": "Full Bxc"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 159,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

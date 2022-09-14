@@ -1,0 +1,97 @@
+{
+  "name": "Koncept",
+  "year": 2012,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 70
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 70,
+      "lengthCm": 231,
+      "widthCm": 55,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 234,
+      "widthCm": 58,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 236,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 240,
+      "widthCm": 63,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

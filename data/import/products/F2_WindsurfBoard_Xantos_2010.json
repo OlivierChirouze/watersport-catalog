@@ -1,0 +1,101 @@
+{
+  "name": "Xantos",
+  "year": 2010,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 260,
+      "widthCm": 66,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 263,
+      "widthCm": 71,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 266,
+      "widthCm": 76,
+      "weightKg": 10.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 280,
+      "widthCm": 72,
+      "weightKg": 12,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

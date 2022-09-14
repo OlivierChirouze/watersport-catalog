@@ -1,0 +1,75 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2020,
+  "name": "Funster Sport",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Asa"
+      },
+      "lengthCm": 145,
+      "widthCm": 270,
+      "volumeL": 70,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Asa"
+      },
+      "lengthCm": 165,
+      "widthCm": 275,
+      "volumeL": 75,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 82.5,
+        "construction": "Asa"
+      },
+      "lengthCm": 195,
+      "widthCm": 280,
+      "volumeL": 82.5,
+      "weightKg": 14,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

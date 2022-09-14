@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "E-Ride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 165
+      },
+      "lengthCm": 255,
+      "widthCm": 80,
+      "volumeL": 165,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "lengthCm": 269,
+      "widthCm": 89,
+      "volumeL": 205,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

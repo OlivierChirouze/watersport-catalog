@@ -1,0 +1,62 @@
+{
+  "name": "GromStyle",
+  "year": 2015,
+  "programs": ["kids"],
+  "brandName": "RRD",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 289,
+      "mastLengthsCm": [320],
+      "boomLengthsCm": [123],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 326,
+      "mastLengthsCm": [320],
+      "boomLengthsCm": [146],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 308,
+      "mastLengthsCm": [320],
+      "boomLengthsCm": [132],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 343,
+      "mastLengthsCm": [320],
+      "boomLengthsCm": [160],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "pictures": [],
+  "version": "MKII"
+}

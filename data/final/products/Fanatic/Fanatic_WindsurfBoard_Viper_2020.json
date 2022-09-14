@@ -1,0 +1,98 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Fanatic",
+  "year": 2020,
+  "name": "Viper",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Hrs Softdeck"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 160,
+      "weightKg": 11.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 190,
+        "construction": "Hrs Softdeck"
+      },
+      "lengthCm": 280,
+      "widthCm": 80,
+      "volumeL": 190,
+      "weightKg": 13.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Hrs Softdeck"
+      },
+      "lengthCm": 285,
+      "widthCm": 85,
+      "volumeL": 220,
+      "weightKg": 14.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 240,
+        "construction": "Hrs Softdeck"
+      },
+      "lengthCm": 290,
+      "widthCm": 91,
+      "volumeL": 240,
+      "weightKg": 15.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 355,
+        "construction": "Hrs Softdeck"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 355,
+      "weightKg": 11.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

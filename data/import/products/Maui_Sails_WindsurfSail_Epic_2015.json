@@ -1,0 +1,93 @@
+{
+  "name": "Epic",
+  "year": 2015,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Maui Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.9
+      },
+      "surfaceM2": 3.9,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [
+        340
+      ],
+      "mastIMCS": [
+        15
+      ],
+      "boomLengthsCm": [
+        149
+      ],
+      "weightKg": 2.7,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.3
+      },
+      "surfaceM2": 4.3,
+      "luffLengthCm": 375,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        157
+      ],
+      "weightKg": 2.8,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "luffLengthCm": 384,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        164
+      ],
+      "weightKg": 2.9,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 393,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        170
+      ],
+      "weightKg": 3,
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

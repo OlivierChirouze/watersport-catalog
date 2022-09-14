@@ -1,0 +1,65 @@
+{
+  "name": "Fire Power",
+  "year": 2012,
+  "programs": ["wave", "freeride"],
+  "brandName": "Hot Sails Maui",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 427,
+      "mastLengthsCm": [400],
+      "mastIMCS": [21],
+      "boomLengthsCm": [170],
+      "weightKg": 4.4,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 439,
+      "mastLengthsCm": [430],
+      "mastIMCS": [25],
+      "boomLengthsCm": [179],
+      "weightKg": 4.6,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [430],
+      "mastIMCS": [25],
+      "boomLengthsCm": [185],
+      "weightKg": 5.1,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 468,
+      "mastLengthsCm": [430],
+      "mastIMCS": [25],
+      "boomLengthsCm": [192],
+      "weightKg": 5.2,
+      "battenCount": 6,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

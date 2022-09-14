@@ -1,0 +1,116 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Gaastra",
+  "year": 2022,
+  "name": "Vapor Air",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10,
+        "edition": "R"
+      },
+      "surfaceM2": 10,
+      "boomLengthsCm": [227],
+      "mastLengthsCm": [100, 550],
+      "mastExtensionLengthsCm": [39, 489],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 589
+    },
+    {
+      "variant": {
+        "size": 11,
+        "edition": "R"
+      },
+      "surfaceM2": 11,
+      "mastLengthsCm": [100, 570],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.1,
+        "edition": "R"
+      },
+      "surfaceM2": 9.1,
+      "boomLengthsCm": [214],
+      "mastLengthsCm": [100, 520],
+      "mastExtensionLengthsCm": [31, 451],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 551
+    },
+    {
+      "variant": {
+        "size": 6.6,
+        "edition": "SL"
+      },
+      "surfaceM2": 6.6,
+      "boomLengthsCm": [181],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [364, 4],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 464
+    },
+    {
+      "variant": {
+        "size": 7.4,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.4,
+      "boomLengthsCm": [193],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [32, 392],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 492
+    },
+    {
+      "variant": {
+        "size": 8.2,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.2,
+      "boomLengthsCm": [204],
+      "mastLengthsCm": [100, 490],
+      "mastExtensionLengthsCm": [31, 421],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 521
+    },
+    {
+      "variant": {
+        "size": 9,
+        "edition": "SL"
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [213],
+      "mastLengthsCm": [490, 520],
+      "mastExtensionLengthsCm": [33, 63],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 553
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

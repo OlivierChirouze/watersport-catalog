@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2016,
+  "name": "GO Tuffskin",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 121,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 131,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 141,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 151,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 161,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 171,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 171,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Tuffskin EVA"
+      },
+      "volumeL": 99,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,43 @@
+{
+  "name": "WindSUP Converse",
+  "year": 2017,
+  "programs": ["freeride", "kids"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Asap"
+      },
+      "lengthCm": 277,
+      "widthCm": 77.5,
+      "volumeL": 137,
+      "weightKg": 10.3
+    },
+    {
+      "variant": {
+        "size": 137
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 137,
+      "lengthCm": 277,
+      "widthCm": 77.5,
+      "weightKg": 10.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6
+      }
+    }
+  ],
+  "pictures": []
+}

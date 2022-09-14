@@ -1,0 +1,74 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Exocet",
+  "year": 2013,
+  "name": "Cross",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Single Shot Glass",
+        "edition": "Pro"
+      },
+      "volumeL": 84,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Single Shot Glass",
+        "edition": "Pro"
+      },
+      "volumeL": 94,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Single Shot Glass"
+      },
+      "volumeL": 84,
+      "weightKg": 6.7,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Single Shot Glass"
+      },
+      "volumeL": 94,
+      "weightKg": 6.7,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "IV"
+}

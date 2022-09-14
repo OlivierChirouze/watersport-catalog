@@ -1,0 +1,82 @@
+{
+  "name": "S-Line",
+  "year": 2016,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 235,
+      "widthCm": 67,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 235,
+      "widthCm": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 122
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 122,
+      "lengthCm": 235,
+      "widthCm": 73,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.3,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

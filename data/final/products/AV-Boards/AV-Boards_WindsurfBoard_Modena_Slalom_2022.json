@@ -1,0 +1,103 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AV-Boards",
+  "year": 2022,
+  "name": "Modena Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 88
+      },
+      "lengthCm": 229,
+      "widthCm": 60,
+      "volumeL": 88,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98
+      },
+      "lengthCm": 229,
+      "widthCm": 62,
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "lengthCm": 229,
+      "widthCm": 68,
+      "volumeL": 108,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 118
+      },
+      "lengthCm": 229,
+      "widthCm": 72.5,
+      "volumeL": 118,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128
+      },
+      "lengthCm": 229,
+      "widthCm": 77,
+      "volumeL": 128,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138
+      },
+      "lengthCm": 227,
+      "widthCm": 85,
+      "volumeL": 138,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

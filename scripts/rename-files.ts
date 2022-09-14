@@ -2,8 +2,7 @@ import fs from "fs";
 import { Product } from "../src";
 import path from "path";
 import { ProductToWrite } from "../src/file-writer";
-import prompts, { PromptObject } from "prompts";
-import yargs, { argv } from "yargs";
+import { argv } from "yargs";
 
 export class FileRenamer {
   constructor(private filePath: string) {

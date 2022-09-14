@@ -1,0 +1,93 @@
+{
+  "name": "Wave",
+  "year": 2013,
+  "programs": ["wave"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 66,
+        "edition": "Twin Contest"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 66,
+      "lengthCm": 232,
+      "widthCm": 52.5,
+      "weightKg": 5.73,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "Twin Contest"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 233,
+      "widthCm": 55,
+      "weightKg": 5.92,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Twin Contest"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 234,
+      "widthCm": 57.5,
+      "weightKg": 6.14,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "Twin Contest"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 235,
+      "widthCm": 60,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.3
+      }
+    }
+  ],
+  "pictures": []
+}

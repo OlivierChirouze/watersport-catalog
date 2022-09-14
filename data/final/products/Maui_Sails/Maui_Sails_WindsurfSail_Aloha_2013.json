@@ -1,0 +1,104 @@
+{
+  "name": "Aloha",
+  "year": 2013,
+  "programs": ["beginner"],
+  "brandName": "Maui Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 411,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [160],
+      "weightKg": 3,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 427,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [173],
+      "weightKg": 3.2,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [182],
+      "weightKg": 3.5,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [193],
+      "weightKg": 3.8,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 468,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [202],
+      "weightKg": 4,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 480,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [208],
+      "weightKg": 4.2,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 488,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [220],
+      "weightKg": 4.5,
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

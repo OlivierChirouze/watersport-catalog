@@ -1,0 +1,25 @@
+{
+  "name": "Pacer",
+  "year": 2011,
+  "programs": ["slalom"],
+  "brandName": "Aerotech",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 523,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [258],
+      "battenCount": 7,
+      "camCount": 4
+    }
+  ],
+  "pictures": []
+}

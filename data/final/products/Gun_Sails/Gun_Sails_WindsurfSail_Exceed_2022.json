@@ -1,0 +1,111 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2022,
+  "name": "Exceed",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "boomLengthsCm": [190],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 446
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [198],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "boomLengthsCm": [193],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [39],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 469
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [201],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [25],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 455
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [67],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 497
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [204],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [55],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 485
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "boomLengthsCm": [209],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [89],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 519
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

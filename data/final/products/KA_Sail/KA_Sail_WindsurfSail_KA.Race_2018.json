@@ -1,0 +1,111 @@
+{
+  "dimensions": ["size"],
+  "brandName": "KA Sail",
+  "year": 2018,
+  "name": "KA.Race",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [176],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [10, 310],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 410
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "boomLengthsCm": [191],
+      "mastLengthsCm": [100, 430],
+      "mastExtensionLengthsCm": [337, 7],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 437
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "boomLengthsCm": [205],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [366, 6],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 466
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "boomLengthsCm": [219],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [26, 386],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 486
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "boomLengthsCm": [229],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 508
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "boomLengthsCm": [239],
+      "mastLengthsCm": [100, 520],
+      "mastExtensionLengthsCm": [426, 6],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 526
+    },
+    {
+      "variant": {
+        "size": 9.7
+      },
+      "surfaceM2": 9.7,
+      "boomLengthsCm": [245],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [17],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 537
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

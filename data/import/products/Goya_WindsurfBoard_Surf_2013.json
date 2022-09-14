@@ -1,0 +1,59 @@
+{
+  "name": "Surf",
+  "year": 2013,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 202,
+        "construction": "Wood",
+        "edition": "Eco"
+      },
+      "volumeL": 202,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 202,
+        "edition": "Eco"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 202,
+      "lengthCm": 279.7,
+      "widthCm": 84.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Drive Grom",
+  "year": 2011,
+  "programs": ["kids"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1
+      },
+      "surfaceM2": 1,
+      "luffLengthCm": 199,
+      "mastLengthsCm": [200],
+      "mastIMCS": [4],
+      "boomLengthsCm": [98],
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 199,
+      "mastLengthsCm": [200],
+      "mastIMCS": [4],
+      "boomLengthsCm": [118],
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 260,
+      "mastLengthsCm": [260, 290],
+      "mastIMCS": [4],
+      "boomLengthsCm": [119],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 290,
+      "mastLengthsCm": [260, 290],
+      "mastIMCS": [6],
+      "boomLengthsCm": [129],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 318,
+      "mastLengthsCm": [360],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 327,
+      "mastLengthsCm": [360],
+      "mastIMCS": [14],
+      "boomLengthsCm": [150],
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

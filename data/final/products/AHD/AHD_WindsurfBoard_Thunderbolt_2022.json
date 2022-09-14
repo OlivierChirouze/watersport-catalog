@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2022,
+  "name": "Thunderbolt",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 130,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 130,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 226,
+      "widthCm": 85,
+      "volumeL": 141,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "lengthCm": 226,
+      "widthCm": 85,
+      "volumeL": 141,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 215,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "lengthCm": 215,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

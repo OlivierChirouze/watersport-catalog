@@ -1,0 +1,71 @@
+{
+  "name": "Wave",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "edition": "TT"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 298,
+      "widthCm": 60,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 320,
+      "widthCm": 65,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 170,
+      "lengthCm": 350,
+      "widthCm": 70,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

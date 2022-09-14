@@ -1,0 +1,138 @@
+{
+  "name": "Freestyle",
+  "year": 2015,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 64,
+      "volumeL": 101,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 101
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 101,
+      "lengthCm": 227,
+      "widthCm": 64,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 65.5,
+      "volumeL": 106,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 106
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 227,
+      "widthCm": 65.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.8,
+        "toM2": 6.9
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 227,
+      "widthCm": 62,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.2,
+        "toM2": 5.8
+      }
+    }
+  ],
+  "pictures": []
+}

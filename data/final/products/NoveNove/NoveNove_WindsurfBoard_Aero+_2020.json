@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "NoveNove",
+  "year": 2020,
+  "name": "Aero+",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 142,
+        "construction": "Biax Carbon Innegra",
+        "edition": "Pro"
+      },
+      "lengthCm": 198,
+      "widthCm": 71,
+      "volumeL": 142,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 182,
+        "construction": "Biax Carbon Innegra",
+        "edition": "Pro"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 182,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Flywave",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 69
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 69,
+      "lengthCm": 223,
+      "widthCm": 54,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 227,
+      "widthCm": 55,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 231,
+      "widthCm": 56.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.6
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 229,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "count": 4,
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.9
+      }
+    }
+  ],
+  "pictures": []
+}

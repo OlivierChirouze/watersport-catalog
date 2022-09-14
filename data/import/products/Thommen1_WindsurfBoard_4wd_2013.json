@@ -1,0 +1,42 @@
+{
+  "name": "4wd",
+  "year": 2013,
+  "programs": [
+    "freestyle",
+    "wave",
+    "freestyle"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 107
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 260,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

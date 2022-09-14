@@ -1,0 +1,79 @@
+{
+  "name": "U-Surf",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 68,
+      "lengthCm": 225,
+      "widthCm": 56,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 76,
+      "lengthCm": 228,
+      "widthCm": 58,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 86
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 230,
+      "widthCm": 59.5,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.4
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,91 @@
+{
+  "dimensions": ["size", "color"],
+  "brandName": "Gaastra",
+  "year": 2020,
+  "name": "Pilot",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2020/freeride/pilot-20/",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "mastExtensionLengthsCm": [7, 7.5],
+      "luffLengthCm": 407,
+      "boomLengthsCm": [153],
+      "battenCount": 4,
+      "topType": "vario",
+      "masTypes": ["SDM"],
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "mastLengthsCm": [400, 430, 70],
+      "mastIMCS": [21],
+      "mastExtensionLengthsCm": [35, 365, 7.5],
+      "luffLengthCm": 435,
+      "boomLengthsCm": [180],
+      "battenCount": 5,
+      "topType": "fixed",
+      "masTypes": ["SDM"],
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "mastLengthsCm": [400, 90],
+      "mastIMCS": [19],
+      "mastExtensionLengthsCm": [22, 22.5, 332],
+      "luffLengthCm": 422,
+      "boomLengthsCm": [166],
+      "battenCount": 4,
+      "topType": "vario",
+      "masTypes": ["SDM"],
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "mastLengthsCm": [400, 430, 50],
+      "mastIMCS": [21],
+      "mastExtensionLengthsCm": [25, 403, 53],
+      "luffLengthCm": 453,
+      "boomLengthsCm": [189],
+      "battenCount": 5,
+      "topType": "fixed",
+      "masTypes": ["SDM"],
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "mastLengthsCm": [400, 460],
+      "mastIMCS": [25],
+      "mastExtensionLengthsCm": [10, 68],
+      "luffLengthCm": 468,
+      "boomLengthsCm": [199],
+      "battenCount": 5,
+      "topType": "fixed",
+      "masTypes": ["SDM"],
+      "camCount": 0
+    }
+  ],
+  "description": {
+    "en": "The Pilot is designed for sailors, who look for top performance and high quality at a maximum value. Everybody, who enjoys a smooth freeride session or is making his first steps into the foot straps will love the Pilot. The relaxed luff curve improves compatibility with nearly any mast brand, making the Pilot an economical sail for families. Super smooth batten rotation, progressive pull and the backhanded profile offer enough power to move and manoeuvre even heavier older boards."
+  },
+  "pictures": []
+}

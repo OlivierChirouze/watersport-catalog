@@ -1,0 +1,67 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "JP Australia",
+  "year": 2016,
+  "name": "Young Gun",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 59,
+        "construction": "Es",
+        "edition": "Quad ES"
+      },
+      "lengthCm": 207,
+      "widthCm": 50,
+      "volumeL": 59,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 59,
+        "construction": "ES",
+        "edition": "Quad ES"
+      },
+      "lengthCm": 207,
+      "widthCm": 50,
+      "volumeL": 59,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Soft Deck",
+        "edition": "WS"
+      },
+      "lengthCm": 8,
+      "widthCm": 29.9,
+      "volumeL": 126,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

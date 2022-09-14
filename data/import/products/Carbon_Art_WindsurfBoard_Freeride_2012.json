@@ -1,0 +1,122 @@
+{
+  "name": "Freeride",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Carbon Art",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 245,
+      "widthCm": 56,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 97
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 97,
+      "lengthCm": 245,
+      "widthCm": 59,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 250,
+      "widthCm": 63,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 118
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 118,
+      "lengthCm": 250,
+      "widthCm": 68,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 77,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

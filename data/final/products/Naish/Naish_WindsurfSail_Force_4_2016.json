@@ -1,0 +1,142 @@
+{
+  "name": "Force",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.4
+      },
+      "surfaceM2": 3.4,
+      "luffLengthCm": 336,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [140],
+      "weightKg": 2.67,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 356,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [144, 146],
+      "weightKg": 2.76,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.1
+      },
+      "surfaceM2": 4.1,
+      "luffLengthCm": 376,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [148, 150],
+      "weightKg": 2.88,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [4],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 388,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [154],
+      "weightKg": 3.06,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 400,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [158, 160],
+      "weightKg": 3.11,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 420,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [168],
+      "weightKg": 3.27,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 432,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [174, 178],
+      "weightKg": 3.42,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [4],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [164],
+      "weightKg": 3.19,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": [],
+  "version": "4"
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Link",
+  "year": 2016,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 220,
+        "edition": "L"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 220,
+      "lengthCm": 300,
+      "widthCm": 80,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 170,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 170,
+      "lengthCm": 280,
+      "widthCm": 75,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 175
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 175,
+      "lengthCm": 305,
+      "widthCm": 81.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 220,
+      "lengthCm": 360,
+      "widthCm": 79,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,90 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "KA Sail",
+  "year": 2020,
+  "name": "KA.Speed",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "boomLengthsCm": [
+        159
+      ],
+      "mastLengthsCm": [
+        100,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        279,
+        9
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 379
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [
+        167
+      ],
+      "mastLengthsCm": [
+        100,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        23,
+        293
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 393
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [
+        176
+      ],
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        19
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 419
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

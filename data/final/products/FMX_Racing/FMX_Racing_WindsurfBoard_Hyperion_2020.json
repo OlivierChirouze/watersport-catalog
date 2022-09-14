@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "FMX Racing",
+  "year": 2020,
+  "name": "Hyperion",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 184,
+        "edition": "Foilbox"
+      },
+      "lengthCm": 220,
+      "widthCm": 91,
+      "volumeL": 184,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

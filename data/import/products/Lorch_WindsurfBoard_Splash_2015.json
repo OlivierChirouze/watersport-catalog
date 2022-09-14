@@ -1,0 +1,65 @@
+{
+  "name": "Splash",
+  "year": 2015,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 230,
+      "widthCm": 55,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 86
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 232,
+      "widthCm": 59,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

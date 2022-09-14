@@ -1,0 +1,41 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Black Local",
+  "year": 2015,
+  "name": "Slalom/Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Ep.san"
+      },
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "EP.Sand"
+      },
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

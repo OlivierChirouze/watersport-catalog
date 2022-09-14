@@ -1,0 +1,169 @@
+{
+  "name": "Warp",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 9,
+        "edition": "LW"
+      },
+      "surfaceM2": 9,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "weightKg": 6.5,
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 405,
+      "mastLengthsCm": [100, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177],
+      "weightKg": 4.6,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [305, 5],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 412,
+      "mastLengthsCm": [100, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [183],
+      "weightKg": 4.8,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [12, 312],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 439,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [193],
+      "weightKg": 5,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [339, 9],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [199],
+      "weightKg": 5.2,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [25, 355],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "luffLengthCm": 480,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [223],
+      "weightKg": 6,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 475,
+      "mastLengthsCm": [100, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [211],
+      "weightKg": 5.6,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [15, 375],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "luffLengthCm": 501,
+      "mastLengthsCm": [100, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [230],
+      "weightKg": 6.3,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [11, 401],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 529,
+      "mastLengthsCm": [100, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [248],
+      "weightKg": 6.6,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [39, 429],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 519,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [245],
+      "weightKg": 6.5,
+      "battenCount": 7,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [29],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,65 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Tribord",
+  "year": 2015,
+  "name": "Freeride",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 400
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "boomLengthsCm": [173],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 425
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 475
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [183],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 455
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

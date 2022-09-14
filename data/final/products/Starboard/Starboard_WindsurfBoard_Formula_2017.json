@@ -1,0 +1,49 @@
+{
+  "name": "Formula",
+  "year": 2017,
+  "programs": ["race"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 177,
+        "construction": "Reflex Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 100.5,
+      "volumeL": 177,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 177
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 177,
+      "lengthCm": 228,
+      "widthCm": 100.5,
+      "weightKg": 9.15,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.5,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

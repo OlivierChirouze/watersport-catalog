@@ -1,0 +1,182 @@
+{
+  "name": "Reflex",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10.7
+      },
+      "surfaceM2": 10.7,
+      "luffLengthCm": 558,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [214, 262],
+      "weightKg": 7.6,
+      "battenCount": 9,
+      "camCount": 5,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 538,
+      "mastLengthsCm": [530],
+      "mastIMCS": [32],
+      "boomLengthsCm": [214, 252],
+      "weightKg": 7.31,
+      "battenCount": 9,
+      "camCount": 5,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 11.5
+      },
+      "surfaceM2": 11.5,
+      "luffLengthCm": 584,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [214, 276],
+      "weightKg": 8.1,
+      "battenCount": 9,
+      "camCount": 5,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 12.5
+      },
+      "surfaceM2": 12.5,
+      "luffLengthCm": 603,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [214, 285],
+      "weightKg": 8.43,
+      "battenCount": 9,
+      "camCount": 5,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "luffLengthCm": 404,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [176, 214],
+      "weightKg": 5.17,
+      "battenCount": 8,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 409,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [188, 214],
+      "weightKg": 5.36,
+      "battenCount": 8,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [192, 214],
+      "weightKg": 6,
+      "battenCount": 9,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [214],
+      "weightKg": 6.59,
+      "battenCount": 9,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 460,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [204, 214],
+      "weightKg": 6.29,
+      "battenCount": 9,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 502,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [214, 228],
+      "weightKg": 6.84,
+      "battenCount": 9,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 518,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [214, 240],
+      "weightKg": 7.22,
+      "battenCount": 9,
+      "camCount": 5,
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 509,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [214, 234],
+      "weightKg": 7.02,
+      "battenCount": 9,
+      "camCount": 4,
+      "masTypes": ["SDM"]
+    }
+  ],
+  "pictures": [],
+  "version": "6"
+}

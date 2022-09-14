@@ -1,0 +1,155 @@
+{
+  "name": "Funster",
+  "year": 2013,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Asa"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 255,
+      "widthCm": 72,
+      "weightKg": 10.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Asa"
+      },
+      "volumeL": 145,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 258,
+      "widthCm": 75,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 258,
+      "widthCm": 80,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 258,
+      "widthCm": 91,
+      "weightKg": 13.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 260,
+      "widthCm": 101,
+      "weightKg": 14.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

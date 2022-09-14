@@ -1,0 +1,67 @@
+{
+  "name": "Screamer",
+  "year": 2011,
+  "programs": ["freestyle", "freeride", "slalom"],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 240,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 240,
+      "widthCm": 67,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 123
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 123,
+      "lengthCm": 238,
+      "widthCm": 75,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

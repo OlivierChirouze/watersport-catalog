@@ -1,0 +1,97 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "RRD",
+  "year": 2021,
+  "name": "Pocket Rocket",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "E-tech",
+        "edition": "E-Tech"
+      },
+      "lengthCm": 180,
+      "widthCm": 76,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "E-tech",
+        "edition": "E-Tech"
+      },
+      "lengthCm": 200,
+      "widthCm": 80,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 180,
+      "widthCm": 76,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Ltd",
+        "edition": "LTD"
+      },
+      "lengthCm": 200,
+      "widthCm": 80,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 180,
+      "widthCm": 76,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "LTD"
+      },
+      "lengthCm": 180,
+      "widthCm": 76,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 200,
+      "widthCm": 80,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "LTD"
+      },
+      "lengthCm": 200,
+      "widthCm": 80,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

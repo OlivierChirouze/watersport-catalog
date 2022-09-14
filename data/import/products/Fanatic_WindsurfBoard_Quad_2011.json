@@ -1,0 +1,118 @@
+{
+  "name": "Quad",
+  "year": 2011,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 72,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 72,
+      "lengthCm": 226,
+      "widthCm": 53.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 227,
+      "widthCm": 55.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 228,
+      "widthCm": 57.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 93,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 93,
+      "lengthCm": 229,
+      "widthCm": 59.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

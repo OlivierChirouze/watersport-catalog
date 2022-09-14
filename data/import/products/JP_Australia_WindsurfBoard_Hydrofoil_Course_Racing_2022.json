@@ -1,0 +1,36 @@
+{
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "brandName": "JP Australia",
+  "year": 2022,
+  "name": "Hydrofoil Course Racing",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 230,
+        "edition": "Pro"
+      },
+      "lengthCm": 215,
+      "widthCm": 100,
+      "volumeL": 230,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

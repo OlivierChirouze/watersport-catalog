@@ -1,0 +1,113 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2018,
+  "name": "SC Race",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "mastLengthsCm": [11, 400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [187],
+      "mastLengthsCm": [11, 400],
+      "mastExtensionLengthsCm": [16, 405],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 416
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "mastLengthsCm": [11, 400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "boomLengthsCm": [197],
+      "mastLengthsCm": [11, 430],
+      "mastExtensionLengthsCm": [4, 423],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 434
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [224],
+      "mastLengthsCm": [11, 460],
+      "mastExtensionLengthsCm": [22, 471],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 482
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [211],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [22],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 452
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "boomLengthsCm": [229],
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [12, 42],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 502
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "boomLengthsCm": [241],
+      "mastLengthsCm": [11, 490],
+      "mastExtensionLengthsCm": [30, 509],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 520
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

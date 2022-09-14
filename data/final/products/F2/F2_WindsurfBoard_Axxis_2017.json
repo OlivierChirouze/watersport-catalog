@@ -1,0 +1,26 @@
+{
+  "dimensions": ["size"],
+  "brandName": "F2",
+  "year": 2017,
+  "name": "Axxis",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 95
+      },
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

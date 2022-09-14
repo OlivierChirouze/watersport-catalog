@@ -1,0 +1,106 @@
+{
+  "name": "Phantom",
+  "year": 2017,
+  "programs": ["race", "slalom"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 217,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 295,
+      "widthCm": 72,
+      "volumeL": 217,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 217
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 217,
+      "lengthCm": 295,
+      "widthCm": 72,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 249
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 249,
+      "lengthCm": 299,
+      "widthCm": 69,
+      "weightKg": 12.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 263
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 263,
+      "lengthCm": 377,
+      "widthCm": 67,
+      "weightKg": 12.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 298
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 298,
+      "lengthCm": 377,
+      "widthCm": 67,
+      "weightKg": 14.45,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

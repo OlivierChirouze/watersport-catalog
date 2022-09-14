@@ -1,0 +1,178 @@
+{
+  "name": "Icon",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Simmer Style",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.4
+      },
+      "surfaceM2": 3.4,
+      "luffLengthCm": 346,
+      "mastLengthsCm": [340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [131],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [340, 8],
+      "mastIMCS": [15],
+      "boomLengthsCm": [139],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [20, 352],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 378,
+      "mastLengthsCm": [370, 8],
+      "mastIMCS": [17],
+      "boomLengthsCm": [149],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [370, 8],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 386,
+      "mastLengthsCm": [370, 8],
+      "mastIMCS": [17],
+      "boomLengthsCm": [152],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [16, 378],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 401,
+      "mastLengthsCm": [400, 8],
+      "mastIMCS": [19],
+      "boomLengthsCm": [155],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [1, 393],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 370,
+      "mastLengthsCm": [370, 8],
+      "mastIMCS": [17],
+      "boomLengthsCm": [144],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [0, 362],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [168],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [14],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [400, 8],
+      "mastIMCS": [19],
+      "boomLengthsCm": [174],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [28, 420],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "luffLengthCm": 441,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [178],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [11, 41],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 408,
+      "mastLengthsCm": [400, 8],
+      "mastIMCS": [19],
+      "boomLengthsCm": [160],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [400, 8],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 454,
+      "mastLengthsCm": [430, 8],
+      "mastIMCS": [21],
+      "boomLengthsCm": [182],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [24, 446],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2020,
+  "name": "Raise",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "weightKg": 5,
+      "boomLengthsCm": [205],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [24],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 4.6,
+      "boomLengthsCm": [188],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [7],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 5.4,
+      "boomLengthsCm": [223],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "weightKg": 4.6,
+      "boomLengthsCm": [188],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [7],
+      "masTypes": ["SDM"],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

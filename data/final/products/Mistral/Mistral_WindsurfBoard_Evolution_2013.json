@@ -1,0 +1,55 @@
+{
+  "name": "Evolution",
+  "year": 2013,
+  "programs": ["beginner"],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 260,
+      "widthCm": 85,
+      "fins": [null],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 260,
+      "widthCm": 83,
+      "fins": [null],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 210
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 210,
+      "lengthCm": 270,
+      "widthCm": 90,
+      "fins": [null],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

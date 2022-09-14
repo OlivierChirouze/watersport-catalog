@@ -1,0 +1,76 @@
+{
+  "name": "Easy Ride",
+  "year": 2012,
+  "programs": ["beginner"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 220,
+        "edition": "L"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 220,
+      "lengthCm": 270,
+      "widthCm": 100,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 180,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 260,
+      "widthCm": 85,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 166,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 166,
+      "lengthCm": 260,
+      "widthCm": 80,
+      "weightKg": 12.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

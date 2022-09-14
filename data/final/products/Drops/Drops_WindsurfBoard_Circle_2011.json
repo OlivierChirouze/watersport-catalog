@@ -1,0 +1,33 @@
+{
+  "name": "Circle",
+  "year": 2011,
+  "programs": ["beginner"],
+  "brandName": "Drops",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 198
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 198,
+      "lengthCm": 272,
+      "widthCm": 100,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.6,
+        "toM2": 8.1
+      }
+    }
+  ],
+  "pictures": []
+}

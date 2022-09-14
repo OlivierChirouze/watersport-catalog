@@ -1,0 +1,150 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2016,
+  "name": "Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 100,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 110,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 115,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 122,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 128,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 135,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 87,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 85,
+      "volumeL": 92,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V4"
+}

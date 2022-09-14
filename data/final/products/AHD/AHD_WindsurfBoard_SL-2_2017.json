@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2017,
+  "name": "SL-2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 28,
+      "widthCm": 59.6,
+      "volumeL": 92,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 236,
+      "widthCm": 68,
+      "volumeL": 112,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 234.5,
+      "widthCm": 76,
+      "volumeL": 122,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "volumeL": 132,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

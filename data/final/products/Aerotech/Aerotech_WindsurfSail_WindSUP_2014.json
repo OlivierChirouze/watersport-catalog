@@ -1,0 +1,76 @@
+{
+  "name": "WindSUP",
+  "year": 2014,
+  "programs": ["beginner"],
+  "brandName": "Aerotech",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "weightKg": 1.7,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "luffLengthCm": 326,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [146],
+      "weightKg": 2.1,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 357,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [166],
+      "weightKg": 2.25,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 399,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [177],
+      "weightKg": 2.5,
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 447,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [187],
+      "weightKg": 2.74,
+      "battenCount": 2,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

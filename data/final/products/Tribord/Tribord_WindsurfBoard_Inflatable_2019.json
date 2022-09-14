@@ -1,0 +1,35 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tribord",
+  "year": 2019,
+  "name": "Inflatable",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 320,
+        "construction": "Drop Stitch"
+      },
+      "lengthCm": 335,
+      "widthCm": 81,
+      "volumeL": 320,
+      "weightKg": 13,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 320,
+        "construction": "Dropstitch"
+      },
+      "lengthCm": 335,
+      "widthCm": 81,
+      "volumeL": 320,
+      "weightKg": 13,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

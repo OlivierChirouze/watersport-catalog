@@ -1,0 +1,32 @@
+{
+  "name": "Speed Slalom",
+  "year": 2016,
+  "programs": ["race", "slalom"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 235,
+      "widthCm": 55,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 7.2,
+        "fromM2": 3
+      }
+    }
+  ],
+  "pictures": []
+}

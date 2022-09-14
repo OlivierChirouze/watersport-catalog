@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2022,
+  "name": "Fast Forward",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Sandwich Glass"
+      },
+      "lengthCm": 252,
+      "widthCm": 68,
+      "volumeL": 117,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Sandwich Verre"
+      },
+      "lengthCm": 252,
+      "widthCm": 68,
+      "volumeL": 117,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Sandwich Glass"
+      },
+      "lengthCm": 253,
+      "widthCm": 72,
+      "volumeL": 130,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Sandwich Verre"
+      },
+      "lengthCm": 253,
+      "widthCm": 72,
+      "volumeL": 130,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Sandwich Glass"
+      },
+      "lengthCm": 256,
+      "widthCm": 77,
+      "volumeL": 145,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Sandwich Verre"
+      },
+      "lengthCm": 256,
+      "widthCm": 77,
+      "volumeL": 145,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

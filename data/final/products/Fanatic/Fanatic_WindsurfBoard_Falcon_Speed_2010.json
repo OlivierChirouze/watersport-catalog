@@ -1,0 +1,32 @@
+{
+  "name": "Falcon Speed",
+  "year": 2010,
+  "programs": ["race"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 68,
+      "lengthCm": 242,
+      "widthCm": 48,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

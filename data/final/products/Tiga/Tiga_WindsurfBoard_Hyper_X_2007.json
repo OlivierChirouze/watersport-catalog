@@ -1,0 +1,89 @@
+{
+  "name": "Hyper X",
+  "year": 2007,
+  "programs": ["slalom"],
+  "brandName": "Tiga",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 240,
+      "widthCm": 58,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 238,
+      "widthCm": 64,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 235,
+      "widthCm": 74,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 80,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 11.5
+      }
+    }
+  ],
+  "pictures": []
+}

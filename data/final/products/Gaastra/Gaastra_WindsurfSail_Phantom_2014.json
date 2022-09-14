@@ -1,0 +1,103 @@
+{
+  "name": "Phantom",
+  "year": 2014,
+  "programs": ["freeride", "race"],
+  "brandName": "Gaastra",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 412,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [169],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [183],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "luffLengthCm": 452,
+      "mastLengthsCm": [430, 460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [197],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [209],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 491,
+      "mastLengthsCm": [430, 460, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [217],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "luffLengthCm": 512,
+      "mastLengthsCm": [430, 460, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [225],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

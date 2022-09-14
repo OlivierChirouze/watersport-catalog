@@ -1,0 +1,148 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Severne",
+  "year": 2022,
+  "name": "Pyro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "lengthCm": 226,
+      "widthCm": 62.5,
+      "volumeL": 105,
+      "weightKg": 6.45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 62
+      },
+      "volumeL": 62,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 68
+      },
+      "volumeL": 68,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "lengthCm": 217,
+      "widthCm": 56,
+      "volumeL": 74,
+      "weightKg": 5.45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 79
+      },
+      "lengthCm": 218,
+      "widthCm": 57,
+      "volumeL": 79,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "lengthCm": 219,
+      "widthCm": 58,
+      "volumeL": 83,
+      "weightKg": 5.85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87
+      },
+      "lengthCm": 220,
+      "widthCm": 59,
+      "volumeL": 87,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93
+      },
+      "lengthCm": 221,
+      "widthCm": 60,
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "lengthCm": 224,
+      "widthCm": 61.5,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

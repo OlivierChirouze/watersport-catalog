@@ -1,0 +1,132 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2017,
+  "name": "Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 68,
+      "volumeL": 105,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 71,
+      "volumeL": 113,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 82,
+      "volumeL": 121,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 131,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 55,
+      "volumeL": 78,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 60,
+      "volumeL": 88,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

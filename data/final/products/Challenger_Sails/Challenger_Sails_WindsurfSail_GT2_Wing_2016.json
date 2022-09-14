@@ -1,0 +1,88 @@
+{
+  "name": "GT2 Wing",
+  "year": 2016,
+  "programs": ["freeride", "race", "slalom"],
+  "brandName": "Challenger Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 415,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [194],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [430, 99],
+      "mastIMCS": [21],
+      "boomLengthsCm": [204],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [10, 341],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "luffLengthCm": 457,
+      "mastLengthsCm": [430, 99],
+      "mastIMCS": [21],
+      "boomLengthsCm": [214],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [27, 358],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [460, 99],
+      "mastIMCS": [25],
+      "boomLengthsCm": [222],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [15, 376],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "luffLengthCm": 505,
+      "mastLengthsCm": [460, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [232],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [16, 46],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

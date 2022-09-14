@@ -1,0 +1,73 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Point-7",
+  "year": 2019,
+  "name": "AC-F",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [189],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [32],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "boomLengthsCm": [199],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "boomLengthsCm": [212],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "boomLengthsCm": [189],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

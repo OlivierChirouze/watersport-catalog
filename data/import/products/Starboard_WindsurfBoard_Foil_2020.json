@@ -1,0 +1,94 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2020,
+  "name": "Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 182,
+      "widthCm": 63,
+      "volumeL": 105,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Starlite"
+      },
+      "lengthCm": 190,
+      "widthCm": 71,
+      "volumeL": 105,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 190,
+      "widthCm": 71,
+      "volumeL": 145,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Starlite"
+      },
+      "lengthCm": 190,
+      "widthCm": 71,
+      "volumeL": 145,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

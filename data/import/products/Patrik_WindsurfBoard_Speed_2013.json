@@ -1,0 +1,44 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 51,
+        "construction": "Biax Carbon"
+      },
+      "volumeL": 51,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Biax Carbon"
+      },
+      "volumeL": 71,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

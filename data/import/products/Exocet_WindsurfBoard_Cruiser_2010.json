@@ -1,0 +1,64 @@
+{
+  "name": "Cruiser",
+  "year": 2010,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 205,
+        "edition": "L"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 252,
+      "widthCm": 100,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 175,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 175,
+      "lengthCm": 250,
+      "widthCm": 90,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

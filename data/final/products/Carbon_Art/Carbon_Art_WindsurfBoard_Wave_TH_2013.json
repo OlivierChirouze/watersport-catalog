@@ -1,0 +1,70 @@
+{
+  "name": "Wave TH",
+  "year": 2013,
+  "programs": ["wave"],
+  "brandName": "Carbon Art",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 230,
+      "widthCm": 56,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 230,
+      "widthCm": 62,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

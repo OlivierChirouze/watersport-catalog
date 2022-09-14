@@ -1,0 +1,125 @@
+{
+  "name": "Barracuda",
+  "year": 2013,
+  "programs": ["wave"],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 225,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "N"
+      },
+      "volumeL": 72,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 222,
+      "widthCm": 53,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "N"
+      },
+      "volumeL": 77,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 77,
+      "lengthCm": 223,
+      "widthCm": 55,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 223,
+      "widthCm": 58,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 223,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

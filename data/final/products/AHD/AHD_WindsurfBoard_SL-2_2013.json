@@ -1,0 +1,97 @@
+{
+  "name": "SL-2",
+  "year": 2013,
+  "programs": ["race", "slalom"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 112
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 112,
+      "lengthCm": 236,
+      "widthCm": 68,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 122
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 122,
+      "lengthCm": 234,
+      "widthCm": 76,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 9.7
+      }
+    },
+    {
+      "variant": {
+        "size": 132
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 238,
+      "widthCm": 59.6,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

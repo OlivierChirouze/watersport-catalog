@@ -1,0 +1,83 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Phantom Windsurfing",
+  "year": 2021,
+  "name": "Iris RF",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": [38],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 588
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 436
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 480
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [214],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [34],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 524
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [228],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [38],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 558
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

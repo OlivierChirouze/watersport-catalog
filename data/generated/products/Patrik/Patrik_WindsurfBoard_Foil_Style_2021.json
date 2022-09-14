@@ -1,0 +1,39 @@
+{
+  "dimensions": [],
+  "brandName": "Patrik",
+  "year": 2021,
+  "name": "Foil Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "infoUrl": "https://patrik-windsurf.com/foil-style/",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["foil"],
+      "lengthCm": 188.8,
+      "widthCm": 64.2,
+      "volumeL": 95,
+      "weightKg": null,
+      "strapInsertCount": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 0
+      }
+    }
+  ],
+  "description": {},
+  "pictures": [
+    {
+      "variant": {},
+      "url": "https://patrik-windsurf.com/wp-content/uploads/2021/02/Foil-Style.png"
+    }
+  ]
+}

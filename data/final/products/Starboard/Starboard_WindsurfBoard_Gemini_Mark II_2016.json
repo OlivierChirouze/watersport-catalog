@@ -1,0 +1,54 @@
+{
+  "name": "Gemini",
+  "year": 2016,
+  "programs": ["freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 384
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 384,
+      "lengthCm": 399,
+      "widthCm": 100.5,
+      "weightKg": 25.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 384
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 384,
+      "lengthCm": 399,
+      "widthCm": 100.5,
+      "weightKg": 12.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "Mark II"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "TwinTip Young",
+  "year": 2010,
+  "programs": ["freestyle", "wave"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 233,
+      "widthCm": 62,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.4
+      }
+    }
+  ],
+  "pictures": []
+}

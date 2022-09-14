@@ -1,0 +1,49 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2021,
+  "name": "Foilstyler",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Biax Fiber",
+        "edition": "LTD"
+      },
+      "lengthCm": 199,
+      "widthCm": 64,
+      "volumeL": 103,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 199,
+      "widthCm": 64,
+      "volumeL": 103,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

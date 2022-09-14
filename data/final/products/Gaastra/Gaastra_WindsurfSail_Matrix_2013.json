@@ -1,0 +1,118 @@
+{
+  "name": "Matrix",
+  "year": 2013,
+  "programs": ["freeride", "race"],
+  "brandName": "Gaastra",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430, 75],
+      "mastIMCS": [21],
+      "boomLengthsCm": [168],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 450,
+      "mastLengthsCm": [460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [187],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 441,
+      "mastLengthsCm": [430, 75],
+      "mastIMCS": [21],
+      "boomLengthsCm": [175],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 477,
+      "mastLengthsCm": [460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [203],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 466,
+      "mastLengthsCm": [460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [195],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 496,
+      "mastLengthsCm": [490, 75],
+      "mastIMCS": [29],
+      "boomLengthsCm": [219],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [460, 75],
+      "mastIMCS": [25],
+      "boomLengthsCm": [213],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

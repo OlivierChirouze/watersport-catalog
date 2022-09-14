@@ -1,0 +1,75 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2017,
+  "name": "Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 45,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 45,
+      "volumeL": 45,
+      "weightKg": 4.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 50,
+      "volumeL": 50,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 54,
+        "construction": "Pro"
+      },
+      "lengthCm": 231,
+      "widthCm": 54,
+      "volumeL": 54,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

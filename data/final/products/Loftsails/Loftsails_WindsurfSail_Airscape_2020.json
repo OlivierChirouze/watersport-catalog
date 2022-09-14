@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2020,
+  "name": "Airscape",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 2.84,
+      "boomLengthsCm": [152],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [22],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 392
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 3.01,
+      "boomLengthsCm": [158],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [8],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 408
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.74,
+      "boomLengthsCm": [150],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 384
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 3.08,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 426
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

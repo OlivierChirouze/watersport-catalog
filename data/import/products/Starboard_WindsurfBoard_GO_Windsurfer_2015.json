@@ -1,0 +1,79 @@
+{
+  "name": "GO Windsurfer",
+  "year": 2015,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 171,
+        "construction": "Tuffskin AST"
+      },
+      "lengthCm": 271,
+      "widthCm": 85.5,
+      "volumeL": 171,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 171,
+        "construction": "Tufskin Ast"
+      },
+      "lengthCm": 271,
+      "widthCm": 85.5,
+      "volumeL": 171,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 171
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 171,
+      "lengthCm": 271,
+      "widthCm": 85.5,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

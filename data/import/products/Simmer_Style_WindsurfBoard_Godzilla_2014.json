@@ -1,0 +1,37 @@
+{
+  "name": "Godzilla",
+  "year": 2014,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 240,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

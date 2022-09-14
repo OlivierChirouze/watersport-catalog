@@ -1,0 +1,80 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Loftsails",
+  "year": 2019,
+  "name": "Speed Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "weightKg": 5.56,
+      "boomLengthsCm": [
+        170,
+        176
+      ],
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "weightKg": 5.74,
+      "boomLengthsCm": [
+        176,
+        178
+      ],
+      "mastLengthsCm": [
+        400,
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        2
+      ],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.1
+      },
+      "surfaceM2": 6.1,
+      "weightKg": 5.56,
+      "boomLengthsCm": [
+        176,
+        178
+      ],
+      "mastLengthsCm": [
+        400,
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "battenCount": 9,
+      "camCount": 4,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

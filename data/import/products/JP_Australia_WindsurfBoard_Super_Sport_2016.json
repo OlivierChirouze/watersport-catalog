@@ -1,0 +1,225 @@
+{
+  "name": "Super Sport",
+  "year": 2016,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 124,
+        "edition": "Gold"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 124,
+      "lengthCm": 245,
+      "widthCm": 73,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 100,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 240,
+      "widthCm": 62,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 112,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 112,
+      "lengthCm": 245,
+      "widthCm": 67,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 124,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 124,
+      "lengthCm": 245,
+      "widthCm": 73,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 136,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 136,
+      "lengthCm": 245,
+      "widthCm": 80,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.7,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 62,
+      "volumeL": 100,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Pro"
+      },
+      "lengthCm": 245,
+      "widthCm": 67,
+      "volumeL": 112,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Gold"
+      },
+      "lengthCm": 245,
+      "widthCm": 73,
+      "volumeL": 124,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Pro"
+      },
+      "lengthCm": 245,
+      "widthCm": 73,
+      "volumeL": 124,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Pro"
+      },
+      "lengthCm": 245,
+      "widthCm": 80,
+      "volumeL": 136,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

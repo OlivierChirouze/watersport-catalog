@@ -1,0 +1,129 @@
+{
+  "name": "Link",
+  "year": 2014,
+  "programs": ["beginner"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "construction": "Asa"
+      },
+      "volumeL": 170,
+      "weightKg": 15.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 175,
+        "construction": "Asa"
+      },
+      "volumeL": 175,
+      "weightKg": 15.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 175
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 175,
+      "lengthCm": 305,
+      "widthCm": 81.2,
+      "weightKg": 13.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 281,
+      "widthCm": 76,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Asa"
+      },
+      "volumeL": 220,
+      "weightKg": 15.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 220,
+      "lengthCm": 360,
+      "widthCm": 79,
+      "weightKg": 15.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 220,
+      "lengthCm": 300,
+      "widthCm": 80,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 295,
+        "construction": "Asa"
+      },
+      "volumeL": 295,
+      "weightKg": 15.5,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

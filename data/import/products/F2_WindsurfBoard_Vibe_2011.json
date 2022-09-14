@@ -1,0 +1,81 @@
+{
+  "name": "Vibe",
+  "year": 2011,
+  "programs": [
+    "freestyle",
+    "wave"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 240,
+      "widthCm": 58.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 94
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 94,
+      "lengthCm": 242,
+      "widthCm": 60.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 104
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 244,
+      "widthCm": 62.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.8
+      }
+    }
+  ],
+  "pictures": []
+}

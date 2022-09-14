@@ -1,0 +1,95 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Simmer Style",
+  "year": 2020,
+  "name": "Monster",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 70,
+      "volumeL": 106,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 74,
+      "volumeL": 116,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 82,
+      "volumeL": 126,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 86,
+      "volumeL": 136,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

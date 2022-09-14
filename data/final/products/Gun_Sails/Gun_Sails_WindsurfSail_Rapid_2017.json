@@ -1,0 +1,97 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2017,
+  "name": "Rapid",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [181],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 418
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "boomLengthsCm": [191],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [7],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 437
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "boomLengthsCm": [198],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [28],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 458
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "boomLengthsCm": [205],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [9],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 469
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "boomLengthsCm": [213],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [17],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 477
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "boomLengthsCm": [225],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [9],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 499
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

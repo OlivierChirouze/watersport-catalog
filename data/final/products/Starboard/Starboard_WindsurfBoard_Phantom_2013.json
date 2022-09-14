@@ -1,0 +1,21 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Phantom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 192,
+        "construction": "N"
+      },
+      "volumeL": 192,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

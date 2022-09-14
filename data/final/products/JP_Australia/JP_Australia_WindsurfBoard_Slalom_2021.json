@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2021,
+  "name": "Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Pro"
+      },
+      "lengthCm": 233,
+      "widthCm": 55,
+      "volumeL": 55,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 62,
+        "construction": "Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 62,
+      "volumeL": 62,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 71,
+      "volumeL": 71,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 85,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

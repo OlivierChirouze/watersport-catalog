@@ -1,0 +1,188 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Starboard",
+  "year": 2012,
+  "name": "Futura",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 101,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 111,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 122,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 133,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 144,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 144,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 155,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 93,
+      "weightKg": 8.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Carbon"
+      },
+      "volumeL": 101,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Carbon"
+      },
+      "volumeL": 111,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Carbon"
+      },
+      "volumeL": 122,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Carbon"
+      },
+      "volumeL": 133,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 144,
+        "construction": "Carbon"
+      },
+      "volumeL": 144,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Carbon"
+      },
+      "volumeL": 155,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon"
+      },
+      "volumeL": 93,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

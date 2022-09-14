@@ -1,0 +1,104 @@
+{
+  "dimensions": ["edition", "size"],
+  "brandName": "F2",
+  "year": 2016,
+  "name": "Rodeo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116,
+        "edition": "JR"
+      },
+      "lengthCm": 240,
+      "widthCm": 67,
+      "volumeL": 116,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "lengthCm": 227,
+      "widthCm": 64,
+      "volumeL": 102,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "lengthCm": 226,
+      "widthCm": 67,
+      "volumeL": 108,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "lengthCm": 218,
+      "widthCm": 58,
+      "volumeL": 80,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 90,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "lengthCm": 227,
+      "widthCm": 62,
+      "volumeL": 96,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

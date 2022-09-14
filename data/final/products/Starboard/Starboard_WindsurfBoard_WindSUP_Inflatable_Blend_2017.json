@@ -1,0 +1,54 @@
+{
+  "name": "WindSUP Inflatable Blend",
+  "year": 2017,
+  "programs": ["freeride", "beginner", "freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 330,
+        "edition": "Deluxe"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 330,
+      "lengthCm": 341,
+      "widthCm": 81.5,
+      "weightKg": 11.55,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 261,
+        "edition": "Zen"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 261,
+      "lengthCm": 341,
+      "widthCm": 81.5,
+      "weightKg": 11.55,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

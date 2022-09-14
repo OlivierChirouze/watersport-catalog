@@ -1,0 +1,73 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2015,
+  "name": "F-Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 700,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 236,
+      "widthCm": 75,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 234,
+      "widthCm": 800,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

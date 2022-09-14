@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2021,
+  "name": "Easy Ride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 166,
+        "construction": "Softskin"
+      },
+      "lengthCm": 260,
+      "widthCm": 80,
+      "volumeL": 166,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Softskin"
+      },
+      "lengthCm": 260,
+      "widthCm": 85,
+      "volumeL": 180,
+      "weightKg": 13,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Softskin"
+      },
+      "lengthCm": 270,
+      "widthCm": 100,
+      "volumeL": 220,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

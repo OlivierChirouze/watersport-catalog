@@ -1,0 +1,78 @@
+{
+  "name": "Formula Experience",
+  "year": 2013,
+  "programs": ["slalom"],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 11
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 556,
+      "mastLengthsCm": [530],
+      "mastIMCS": [32],
+      "boomLengthsCm": [262],
+      "weightKg": 7.13,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 11
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 548,
+      "mastLengthsCm": [530],
+      "mastIMCS": [32],
+      "boomLengthsCm": [258],
+      "weightKg": 7.33,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [208],
+      "weightKg": 5.56,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 500,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [224],
+      "weightKg": 5.96,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.7
+      },
+      "surfaceM2": 9.7,
+      "luffLengthCm": 534,
+      "mastLengthsCm": [530],
+      "mastIMCS": [32],
+      "boomLengthsCm": [254],
+      "weightKg": 6.61,
+      "battenCount": 7,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

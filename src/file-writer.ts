@@ -132,6 +132,14 @@ export type ProductIdentifier<T = unknown> = Pick<
   "brandName" | "name" | "version" | "year" | "type" | "subType"
 >;
 
+export const defaultOutputDir = path.join(
+  path.dirname(__dirname),
+  "data",
+  "generated"
+);
+
+export const defaultBrandsDir = path.join(path.dirname(__dirname), "data", "brands");
+
 export class FileWriter<T> {
   static sanitize(value: string) {
     return value.replace(/[ :\/]+/g, "_");
@@ -139,13 +147,8 @@ export class FileWriter<T> {
 
   constructor(
     public brandName: string,
-    protected brandsDir = path.join(path.dirname(__dirname), "data", "brands"),
-    protected productsDir = path.join(
-      path.dirname(__dirname),
-      "data",
-      "products",
-      FileWriter.sanitize(brandName)
-    )
+    protected brandsDir = defaultBrandsDir,
+    protected productsDir = path.join(defaultOutputDir, "products", FileWriter.sanitize(brandName))
   ) {}
 
   async writeProductFile(

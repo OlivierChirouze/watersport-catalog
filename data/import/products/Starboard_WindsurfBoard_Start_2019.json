@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "Start",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 238,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 285,
+      "widthCm": 100.5,
+      "volumeL": 238,
+      "weightKg": 20.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 246,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 285,
+      "widthCm": 100.5,
+      "volumeL": 246,
+      "weightKg": 20.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

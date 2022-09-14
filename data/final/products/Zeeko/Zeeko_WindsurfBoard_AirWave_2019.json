@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Zeeko",
+  "year": 2019,
+  "name": "AirWave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Eps"
+      },
+      "lengthCm": 218,
+      "widthCm": 77,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Sandwich PVC"
+      },
+      "lengthCm": 218,
+      "widthCm": 77,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

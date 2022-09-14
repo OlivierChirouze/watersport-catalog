@@ -1,0 +1,269 @@
+{
+  "dimensions": ["edition", "size"],
+  "brandName": "Loftsails",
+  "year": 2020,
+  "name": "Switch Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.3,
+        "edition": "HD"
+      },
+      "surfaceM2": 5.3,
+      "weightKg": 4.77,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.8,
+        "edition": "HD"
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 4.87,
+      "boomLengthsCm": [190],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.3,
+        "edition": "HD"
+      },
+      "surfaceM2": 6.3,
+      "weightKg": 5.12,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.8,
+        "edition": "HD"
+      },
+      "surfaceM2": 6.8,
+      "weightKg": 5.25,
+      "boomLengthsCm": [202],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.3,
+        "edition": "HD"
+      },
+      "surfaceM2": 7.3,
+      "weightKg": 5.5,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "HD"
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 6.11,
+      "boomLengthsCm": [212],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [32],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7,
+        "edition": "HD"
+      },
+      "surfaceM2": 7,
+      "weightKg": 5.36,
+      "boomLengthsCm": [204],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5,
+        "edition": "HD"
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 6.2,
+      "boomLengthsCm": [220],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [20],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.3,
+        "edition": "HD"
+      },
+      "surfaceM2": 9.3,
+      "weightKg": 6.38,
+      "boomLengthsCm": [232],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "weightKg": 4.87,
+      "boomLengthsCm": [190],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 5.12,
+      "boomLengthsCm": [196],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "weightKg": 5.25,
+      "boomLengthsCm": [202],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "weightKg": 5.36,
+      "boomLengthsCm": [204],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "weightKg": 6.11,
+      "boomLengthsCm": [212],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [32],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 4.77,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 6.2,
+      "boomLengthsCm": [220],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [20],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "weightKg": 5.5,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 6.38,
+      "boomLengthsCm": [232],
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "weightKg": 4.77,
+      "boomLengthsCm": [182],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,109 @@
+{
+  "name": "KA.Race",
+  "year": 2011,
+  "programs": ["slalom", "freestyle"],
+  "brandName": "KA Sail",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10.8
+      },
+      "surfaceM2": 10.8,
+      "luffLengthCm": 563,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [263],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 11.8
+      },
+      "surfaceM2": 11.8,
+      "luffLengthCm": 587,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [278],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 423,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 447,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [184],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "luffLengthCm": 474,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [201],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "luffLengthCm": 495,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [216],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 8.9
+      },
+      "surfaceM2": 8.9,
+      "luffLengthCm": 519,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [233],
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 9.8
+      },
+      "surfaceM2": 9.8,
+      "luffLengthCm": 540,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [248],
+      "battenCount": 8,
+      "camCount": 5
+    }
+  ],
+  "pictures": []
+}

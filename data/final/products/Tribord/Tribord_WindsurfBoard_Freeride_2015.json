@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tribord",
+  "year": 2015,
+  "name": "Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "construction": "Epoxy"
+      },
+      "lengthCm": 268,
+      "widthCm": 79,
+      "volumeL": 170,
+      "weightKg": 12.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

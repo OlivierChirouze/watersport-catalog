@@ -1,0 +1,109 @@
+{
+  "name": "X-15",
+  "year": 2013,
+  "programs": ["slalom"],
+  "brandName": "Tushingham",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "luffLengthCm": 390,
+      "mastLengthsCm": [370],
+      "mastIMCS": [16],
+      "boomLengthsCm": [170],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 410,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [180],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 435,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [189],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 449,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [195],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 478,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [202],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "luffLengthCm": 480,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [211],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 8.3
+      },
+      "surfaceM2": 8.3,
+      "luffLengthCm": 496,
+      "mastLengthsCm": [520],
+      "mastIMCS": [29],
+      "boomLengthsCm": [222],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 525,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [234],
+      "battenCount": 7,
+      "camCount": 4
+    }
+  ],
+  "pictures": []
+}

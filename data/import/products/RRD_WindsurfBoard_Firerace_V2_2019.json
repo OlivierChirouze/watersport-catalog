@@ -1,0 +1,38 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "Firerace",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Wood"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 120,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

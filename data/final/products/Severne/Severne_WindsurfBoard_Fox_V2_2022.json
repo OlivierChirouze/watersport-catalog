@@ -1,0 +1,138 @@
+{
+  "dimensions": ["edition", "size"],
+  "brandName": "Severne",
+  "year": 2022,
+  "name": "Fox",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "edition": "HD"
+      },
+      "lengthCm": 239,
+      "widthCm": 65,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "HD"
+      },
+      "lengthCm": 244,
+      "widthCm": 70,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "HD"
+      },
+      "lengthCm": 249,
+      "widthCm": 78,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "edition": "HD"
+      },
+      "lengthCm": 236,
+      "widthCm": 61,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "lengthCm": 239,
+      "widthCm": 65,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "lengthCm": 244,
+      "widthCm": 70,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "lengthCm": 249,
+      "widthCm": 78,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "lengthCm": 236,
+      "widthCm": 61,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

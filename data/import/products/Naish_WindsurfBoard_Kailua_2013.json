@@ -1,0 +1,222 @@
+{
+  "name": "Kailua",
+  "year": 2013,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Asa",
+        "edition": "SE"
+      },
+      "volumeL": 160,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Glass Composite",
+        "edition": "SE"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 267,
+      "widthCm": 79,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 8,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 180,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 278,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 250,
+        "edition": "SE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 250,
+      "lengthCm": 319,
+      "widthCm": 89,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Glass Composite"
+      },
+      "volumeL": 140,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 254,
+      "widthCm": 77,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 267,
+      "widthCm": 79,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 8,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 278,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 15
+      }
+    },
+    {
+      "variant": {
+        "size": 250
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 250,
+      "lengthCm": 319,
+      "widthCm": 89,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 9,
+        "toM2": 15
+      }
+    }
+  ],
+  "pictures": []
+}

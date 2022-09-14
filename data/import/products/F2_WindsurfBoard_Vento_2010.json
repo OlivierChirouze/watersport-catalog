@@ -1,0 +1,77 @@
+{
+  "name": "Vento",
+  "year": 2010,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 96
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 96,
+      "lengthCm": 242,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 106
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 244,
+      "widthCm": 62,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.8
+      }
+    },
+    {
+      "variant": {
+        "size": 116
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 246,
+      "widthCm": 67,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

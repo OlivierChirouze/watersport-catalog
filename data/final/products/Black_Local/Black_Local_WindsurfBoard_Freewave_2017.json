@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Black Local",
+  "year": 2017,
+  "name": "Freewave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Sandwi"
+      },
+      "lengthCm": 232,
+      "widthCm": 63.5,
+      "volumeL": 103,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Sandwich"
+      },
+      "lengthCm": 232,
+      "widthCm": 63.5,
+      "volumeL": 103,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

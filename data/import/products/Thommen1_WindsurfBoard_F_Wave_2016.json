@@ -1,0 +1,74 @@
+{
+  "name": "F Wave",
+  "year": 2016,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 227,
+      "widthCm": 61.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 101
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 101,
+      "lengthCm": 229,
+      "widthCm": 62.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 106
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 231,
+      "widthCm": 64,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

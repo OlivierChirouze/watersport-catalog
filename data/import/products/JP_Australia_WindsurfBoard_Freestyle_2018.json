@@ -1,0 +1,94 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "JP Australia",
+  "year": 2018,
+  "name": "Freestyle",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Pro"
+      },
+      "lengthCm": 220,
+      "widthCm": 64,
+      "volumeL": 101,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro"
+      },
+      "lengthCm": 221,
+      "widthCm": 65,
+      "volumeL": 105,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Pro"
+      },
+      "lengthCm": 220,
+      "widthCm": 60.5,
+      "volumeL": 85,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Pro"
+      },
+      "lengthCm": 220,
+      "widthCm": 62,
+      "volumeL": 92,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Horue",
+  "year": 2019,
+  "name": "Femto",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Double Sandwich Carbon Fabriqué EN UE"
+      },
+      "lengthCm": 148,
+      "widthCm": 72.9,
+      "volumeL": 100,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Double Sandwich Carbone - Fabriqué En Ue"
+      },
+      "lengthCm": 148,
+      "widthCm": 72.9,
+      "volumeL": 100,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Double Sandwich Carbon Fabriqué EN UE"
+      },
+      "lengthCm": 148,
+      "widthCm": 72.9,
+      "volumeL": 115,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Double Sandwich Carbone - Fabriqué En Ue"
+      },
+      "lengthCm": 148,
+      "widthCm": 72.9,
+      "volumeL": 115,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Double Sandwich Carbon Fabriqué EN UE"
+      },
+      "lengthCm": 148,
+      "widthCm": 72.9,
+      "volumeL": 86,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Double Sandwich Carbone - Fabriqué En Ue"
+      },
+      "lengthCm": 148,
+      "widthCm": 72.9,
+      "volumeL": 86,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

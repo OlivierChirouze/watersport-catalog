@@ -1,0 +1,69 @@
+{
+  "name": "Start",
+  "year": 2016,
+  "programs": ["beginner"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 238,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "volumeL": 238,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 238
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 238,
+      "lengthCm": 284,
+      "widthCm": 94.5,
+      "weightKg": 16.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 246
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 246,
+      "lengthCm": 285,
+      "widthCm": 100.5,
+      "weightKg": 17.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

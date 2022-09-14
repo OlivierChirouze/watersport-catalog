@@ -1,0 +1,97 @@
+{
+  "name": "Wave R",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 78
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 221,
+      "widthCm": 58,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 222,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 89
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 89,
+      "lengthCm": 223,
+      "widthCm": 60,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 224,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    }
+  ],
+  "pictures": []
+}

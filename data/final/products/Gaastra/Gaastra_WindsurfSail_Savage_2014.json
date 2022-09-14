@@ -1,0 +1,103 @@
+{
+  "name": "Savage",
+  "year": 2014,
+  "programs": ["freeride", "race", "slalom"],
+  "brandName": "Gaastra",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 411,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [167],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [430, 460, 75],
+      "mastIMCS": [21],
+      "boomLengthsCm": [186],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 430,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [178],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 458,
+      "mastLengthsCm": [430, 460, 55],
+      "mastIMCS": [25],
+      "boomLengthsCm": [196],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [207],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 493,
+      "mastLengthsCm": [430, 460, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [216],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

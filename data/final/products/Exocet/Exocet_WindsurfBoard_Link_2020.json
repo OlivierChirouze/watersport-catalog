@@ -1,0 +1,98 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Exocet",
+  "year": 2020,
+  "name": "Link",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "construction": "Ast"
+      },
+      "lengthCm": 280,
+      "widthCm": 75,
+      "volumeL": 170,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Ast"
+      },
+      "lengthCm": 300,
+      "widthCm": 80,
+      "volumeL": 220,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "Ast"
+      },
+      "lengthCm": 270,
+      "widthCm": 90,
+      "volumeL": 230,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 175,
+        "construction": "Ast"
+      },
+      "lengthCm": 305,
+      "widthCm": 81.2,
+      "volumeL": 175,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Ast"
+      },
+      "lengthCm": 360,
+      "widthCm": 79,
+      "volumeL": 220,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,52 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Hot Sails Maui",
+  "year": 2016,
+  "name": "Superfree",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.9
+      },
+      "surfaceM2": 4.9,
+      "boomLengthsCm": [
+        174
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 425
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "boomLengthsCm": [
+        195
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 454
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

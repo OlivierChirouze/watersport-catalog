@@ -1,0 +1,37 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2017,
+  "name": "Formula",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Hollow"
+      },
+      "lengthCm": 230,
+      "widthCm": 100,
+      "volumeL": 165,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V4"
+}

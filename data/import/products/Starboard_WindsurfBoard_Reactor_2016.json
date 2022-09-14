@@ -1,0 +1,429 @@
+{
+  "name": "Reactor",
+  "year": 2016,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 211,
+      "widthCm": 58.5,
+      "volumeL": 79,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 212,
+      "widthCm": 59.5,
+      "volumeL": 82,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 214,
+      "widthCm": 61.5,
+      "volumeL": 87,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 219,
+      "widthCm": 63.5,
+      "volumeL": 92,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 220,
+      "widthCm": 65.5,
+      "volumeL": 99,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 211,
+      "widthCm": 58.5,
+      "volumeL": 79,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 79,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 211,
+      "widthCm": 58.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 212,
+      "widthCm": 59.5,
+      "volumeL": 82,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 212,
+      "widthCm": 59.5,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 214,
+      "widthCm": 61.5,
+      "volumeL": 87,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 214,
+      "widthCm": 61.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 219,
+      "widthCm": 63.5,
+      "volumeL": 92,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 219,
+      "widthCm": 63.5,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 220,
+      "widthCm": 65.5,
+      "volumeL": 99,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 220,
+      "widthCm": 65.5,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 211,
+      "widthCm": 58.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 212,
+      "widthCm": 59.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 214,
+      "widthCm": 61.5,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 219,
+      "widthCm": 63.5,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 220,
+      "widthCm": 65.5,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 211,
+      "widthCm": 58.5,
+      "volumeL": 79,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 212,
+      "widthCm": 59.5,
+      "volumeL": 82,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 214,
+      "widthCm": 61.5,
+      "volumeL": 87,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 219,
+      "widthCm": 63.5,
+      "volumeL": 92,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 220,
+      "widthCm": 65.5,
+      "volumeL": 99,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

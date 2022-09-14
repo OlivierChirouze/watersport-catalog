@@ -1,0 +1,143 @@
+{
+  "name": "Speed",
+  "year": 2012,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Carbon Art",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 60
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 60,
+      "lengthCm": 235,
+      "widthCm": 40,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 65
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 65,
+      "lengthCm": 238,
+      "widthCm": 44,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 77,
+      "lengthCm": 242,
+      "widthCm": 49,
+      "weightKg": 5.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 242,
+      "widthCm": 53,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 245,
+      "widthCm": 58,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 108,
+      "lengthCm": 245,
+      "widthCm": 63,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

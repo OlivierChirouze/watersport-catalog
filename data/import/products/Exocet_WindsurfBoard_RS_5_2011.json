@@ -1,0 +1,39 @@
+{
+  "name": "RS",
+  "year": 2011,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 230,
+      "widthCm": 73,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "5"
+}

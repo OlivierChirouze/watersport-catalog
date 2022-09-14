@@ -1,0 +1,89 @@
+{
+  "name": "Breeze",
+  "year": 2010,
+  "programs": ["freeride"],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 129
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 129,
+      "lengthCm": 254,
+      "widthCm": 66.5,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 142
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 142,
+      "lengthCm": 256,
+      "widthCm": 73,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 164
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 164,
+      "lengthCm": 267,
+      "widthCm": 77,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 180,
+      "lengthCm": 268,
+      "widthCm": 85,
+      "weightKg": 10.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

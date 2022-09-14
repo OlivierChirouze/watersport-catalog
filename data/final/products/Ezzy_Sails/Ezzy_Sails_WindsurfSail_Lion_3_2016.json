@@ -1,0 +1,79 @@
+{
+  "name": "Lion",
+  "year": 2016,
+  "programs": ["freeride", "race"],
+  "brandName": "Ezzy Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 444,
+      "mastLengthsCm": [430],
+      "mastIMCS": [25, 21],
+      "boomLengthsCm": [183, 189],
+      "weightKg": 4.082,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [430],
+      "mastIMCS": [25, 21],
+      "boomLengthsCm": [190, 197],
+      "weightKg": 4.238,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 478,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [206, 212],
+      "weightKg": 4.862,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 501,
+      "mastLengthsCm": [490],
+      "mastIMCS": [26, 29],
+      "boomLengthsCm": [223, 229],
+      "weightKg": 5.23,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 514,
+      "mastLengthsCm": [490],
+      "mastIMCS": [26, 29],
+      "boomLengthsCm": [247],
+      "weightKg": 5.546,
+      "battenCount": 7,
+      "camCount": 2
+    }
+  ],
+  "pictures": [],
+  "version": "3"
+}

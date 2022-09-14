@@ -1,0 +1,84 @@
+{
+  "dimensions": ["size"],
+  "brandName": "XO Sails",
+  "year": 2022,
+  "name": "Gold Foil",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [169],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 407,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [7]
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [171],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 463,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [3]
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [184],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 498,
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [8]
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [202],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 522,
+      "mastLengthsCm": [520],
+      "mastExtensionLengthsCm": [2]
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [204],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 571,
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": [21]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

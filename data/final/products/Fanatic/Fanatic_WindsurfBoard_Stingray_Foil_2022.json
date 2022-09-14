@@ -1,0 +1,99 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2022,
+  "name": "Stingray Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "High Resistance Composite",
+        "edition": "HRS"
+      },
+      "lengthCm": 228,
+      "widthCm": 75,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "High Resistance Composite",
+        "edition": "HRS"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 140,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 215,
+      "widthCm": 65,
+      "volumeL": 115,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 228,
+      "widthCm": 75,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Biax Fibre",
+        "edition": "LTD"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

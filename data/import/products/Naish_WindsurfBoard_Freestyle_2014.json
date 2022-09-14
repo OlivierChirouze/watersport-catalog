@@ -1,0 +1,112 @@
+{
+  "name": "Freestyle",
+  "year": 2014,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 100,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 229,
+      "widthCm": 64,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 90,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 90,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 227,
+      "widthCm": 60.5,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

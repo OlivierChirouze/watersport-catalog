@@ -1,0 +1,136 @@
+{
+  "name": "Thunderbird",
+  "year": 2010,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 239,
+      "widthCm": 55.5,
+      "weightKg": 4.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 88,
+      "lengthCm": 237,
+      "widthCm": 60,
+      "weightKg": 4.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 108,
+      "lengthCm": 230,
+      "widthCm": 64,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 108,
+      "lengthCm": 230,
+      "widthCm": 64,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 232,
+      "widthCm": 67,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 231,
+      "widthCm": 75,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 231,
+      "widthCm": 85,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

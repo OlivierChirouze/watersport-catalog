@@ -1,0 +1,93 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "NoveNove",
+  "year": 2020,
+  "name": "Squadra Corse Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Squadra Corse Construction"
+      },
+      "lengthCm": 235,
+      "widthCm": 61,
+      "volumeL": 89,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Squadra Corse Construction"
+      },
+      "lengthCm": 235,
+      "widthCm": 63,
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 109,
+        "construction": "Squadra Corse Construction"
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 109,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 119,
+        "construction": "Squadra Corse Construction"
+      },
+      "lengthCm": 235,
+      "widthCm": 72,
+      "volumeL": 119,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 129,
+        "construction": "Squadra Corse Construction"
+      },
+      "lengthCm": 235,
+      "widthCm": 61,
+      "volumeL": 129,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

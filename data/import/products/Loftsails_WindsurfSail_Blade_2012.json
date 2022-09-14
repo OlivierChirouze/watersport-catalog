@@ -1,0 +1,56 @@
+{
+  "name": "Blade",
+  "year": 2012,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 11,
+        "edition": "FR"
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 560,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastIMCS": [
+        33
+      ],
+      "boomLengthsCm": [
+        270
+      ],
+      "battenCount": 7,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 12,
+        "edition": "FR"
+      },
+      "surfaceM2": 12,
+      "luffLengthCm": 588,
+      "mastLengthsCm": [
+        550
+      ],
+      "mastIMCS": [
+        35
+      ],
+      "boomLengthsCm": [
+        288
+      ],
+      "battenCount": 7,
+      "camCount": 4
+    }
+  ],
+  "pictures": []
+}

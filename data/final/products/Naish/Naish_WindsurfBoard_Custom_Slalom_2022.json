@@ -1,0 +1,77 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Naish",
+  "year": 2022,
+  "name": "Custom Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 114,
+        "construction": "S-glass"
+      },
+      "lengthCm": 229,
+      "widthCm": 71,
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 229,
+      "widthCm": 71,
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "S-glass"
+      },
+      "lengthCm": 234,
+      "widthCm": 65.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "S-Glass"
+      },
+      "lengthCm": 234,
+      "widthCm": 65.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

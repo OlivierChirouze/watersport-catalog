@@ -1,0 +1,37 @@
+{
+  "name": "eXperience",
+  "year": 2011,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 165
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 295,
+      "widthCm": 74.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

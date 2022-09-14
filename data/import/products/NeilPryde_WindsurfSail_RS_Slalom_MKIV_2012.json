@@ -1,0 +1,153 @@
+{
+  "name": "RS:Slalom",
+  "year": 2012,
+  "programs": [
+    "freeride",
+    "race",
+    "slalom"
+  ],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 399,
+      "mastLengthsCm": [
+        370,
+        400,
+        460
+      ],
+      "mastIMCS": [
+        16,
+        19
+      ],
+      "boomLengthsCm": [
+        180
+      ],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 423,
+      "mastLengthsCm": [
+        400,
+        460
+      ],
+      "mastIMCS": [
+        19
+      ],
+      "boomLengthsCm": [
+        190
+      ],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 473,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        210
+      ],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [
+        430,
+        460
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        200
+      ],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 494,
+      "mastLengthsCm": [
+        460,
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        223
+      ],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [
+        460,
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        233
+      ],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": [],
+  "version": "MKIV"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Rookie Wave",
+  "year": 2013,
+  "programs": ["kids"],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 61
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 61,
+      "lengthCm": 225,
+      "widthCm": 53,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

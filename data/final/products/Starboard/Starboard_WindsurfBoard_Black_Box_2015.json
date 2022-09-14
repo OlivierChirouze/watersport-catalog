@@ -1,0 +1,233 @@
+{
+  "name": "Black Box",
+  "year": 2015,
+  "programs": ["race", "wave"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 219,
+      "widthCm": 65,
+      "volumeL": 107,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 107,
+      "lengthCm": 219,
+      "widthCm": 65,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "lengthCm": 215,
+      "widthCm": 62,
+      "volumeL": 87,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 215,
+      "widthCm": 62,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 107,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 107,
+      "lengthCm": 219,
+      "widthCm": 65,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 215,
+      "widthCm": 62,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Carbon"
+      },
+      "lengthCm": 219,
+      "widthCm": 65,
+      "volumeL": 107,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Wood"
+      },
+      "lengthCm": 219,
+      "widthCm": 65,
+      "volumeL": 107,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbon"
+      },
+      "lengthCm": 215,
+      "widthCm": 62,
+      "volumeL": 87,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Wood"
+      },
+      "lengthCm": 215,
+      "widthCm": 62,
+      "volumeL": 87,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

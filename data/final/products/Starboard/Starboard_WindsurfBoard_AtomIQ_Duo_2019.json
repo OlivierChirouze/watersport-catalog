@@ -1,0 +1,61 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "AtomIQ Duo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 114,
+        "construction": "3dx"
+      },
+      "volumeL": 114,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 239,
+      "widthCm": 75.5
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "3dx"
+      },
+      "volumeL": 124,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 239,
+      "widthCm": 81
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "3dx"
+      },
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 239,
+      "widthCm": 84
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,93 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "Exocet",
+  "year": 2020,
+  "name": "RF",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Ast",
+        "edition": "AST"
+      },
+      "lengthCm": 198,
+      "widthCm": 71,
+      "volumeL": 71,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "Ast",
+        "edition": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 81,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 71,
+        "construction": "AST"
+      },
+      "lengthCm": 198,
+      "widthCm": 71,
+      "volumeL": 71,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 81,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

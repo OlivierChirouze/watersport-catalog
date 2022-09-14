@@ -1,0 +1,98 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2014,
+  "name": "Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 59,
+        "construction": "Pro"
+      },
+      "volumeL": 59,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 66,
+        "construction": "Pro"
+      },
+      "volumeL": 66,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 68,
+        "construction": "Pro"
+      },
+      "volumeL": 68,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Pro"
+      },
+      "volumeL": 80,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Pro"
+      },
+      "volumeL": 84,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Pro"
+      },
+      "volumeL": 91,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "X"
+}

@@ -1,0 +1,91 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Exocet",
+  "year": 2022,
+  "name": "X-Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Carbon"
+      },
+      "lengthCm": 221,
+      "widthCm": 56.5,
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon"
+      },
+      "lengthCm": 223,
+      "widthCm": 58.5,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon"
+      },
+      "lengthCm": 227,
+      "widthCm": 60.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 62.5,
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V2"
+}

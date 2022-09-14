@@ -1,0 +1,25 @@
+{
+  "name": "Zephyr",
+  "year": 2010,
+  "programs": ["freeride"],
+  "brandName": "Ezzy Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 489,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212],
+      "battenCount": 6,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

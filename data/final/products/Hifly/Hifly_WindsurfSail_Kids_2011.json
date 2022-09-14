@@ -1,0 +1,53 @@
+{
+  "name": "Kids",
+  "year": 2011,
+  "programs": ["kids"],
+  "brandName": "Hifly",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "mastLengthsCm": [270],
+      "boomLengthsCm": [120],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "mastLengthsCm": [315],
+      "boomLengthsCm": [120],
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "mastLengthsCm": [315],
+      "boomLengthsCm": [145],
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "mastLengthsCm": [380],
+      "boomLengthsCm": [145],
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

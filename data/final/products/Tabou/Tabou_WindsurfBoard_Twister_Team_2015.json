@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tabou",
+  "year": 2015,
+  "name": "Twister Team",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 64,
+      "volumeL": 100,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "lengthCm": 230,
+      "widthCm": 59,
+      "volumeL": 80,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 61,
+      "volumeL": 90,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 64.5,
+      "volumeL": 107,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

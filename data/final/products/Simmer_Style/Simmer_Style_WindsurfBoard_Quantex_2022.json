@@ -1,0 +1,58 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2022,
+  "name": "Quantex",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 109
+      },
+      "lengthCm": 229,
+      "widthCm": 63,
+      "volumeL": 109,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 79
+      },
+      "lengthCm": 223,
+      "widthCm": 58,
+      "volumeL": 79,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "lengthCm": 225,
+      "widthCm": 59,
+      "volumeL": 85,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "lengthCm": 226,
+      "widthCm": 60,
+      "volumeL": 92,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99
+      },
+      "lengthCm": 227,
+      "widthCm": 61,
+      "volumeL": 99,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

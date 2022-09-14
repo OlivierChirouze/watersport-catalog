@@ -1,0 +1,31 @@
+{
+  "name": "Viper Air",
+  "year": 2015,
+  "programs": ["beginner", "kids"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 290
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 290,
+      "lengthCm": 285,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

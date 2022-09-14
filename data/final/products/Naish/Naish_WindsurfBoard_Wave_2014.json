@@ -1,0 +1,188 @@
+{
+  "name": "Wave",
+  "year": 2014,
+  "programs": ["wave"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 70,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 70,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 70
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 224,
+      "widthCm": 57,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 75,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 75,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 232,
+      "widthCm": 55,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 80,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 80,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 237,
+      "widthCm": 56.3,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 85,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 85,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 240,
+      "widthCm": 57.7,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon Inegra Sandwich"
+      },
+      "volumeL": 95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon Innegra Sandwich"
+      },
+      "volumeL": 95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 244,
+      "widthCm": 59.7,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

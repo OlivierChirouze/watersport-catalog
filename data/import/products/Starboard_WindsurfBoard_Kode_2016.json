@@ -1,0 +1,124 @@
+{
+  "name": "Kode",
+  "year": 2016,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "lengthCm": 236,
+      "widthCm": 67.5,
+      "volumeL": 113,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 113,
+      "lengthCm": 236,
+      "widthCm": 67.5,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "lengthCm": 235,
+      "widthCm": 71.5,
+      "volumeL": 123,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 123,
+      "lengthCm": 235,
+      "widthCm": 71.5,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Tufskin Eva",
+        "edition": "Tufskin"
+      },
+      "lengthCm": 246,
+      "widthCm": 74.5,
+      "volumeL": 137,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 137,
+      "lengthCm": 246,
+      "widthCm": 74.5,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Bolt",
+  "year": 2016,
+  "programs": ["freeride"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 236.7,
+      "widthCm": 61.9,
+      "weightKg": 6.2,
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 235.3,
+      "widthCm": 64.1,
+      "weightKg": 6.3,
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 241.5,
+      "widthCm": 71.8,
+      "weightKg": 6.8,
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

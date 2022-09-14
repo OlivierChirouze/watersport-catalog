@@ -1,0 +1,67 @@
+{
+  "name": "Freeride",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 236.2,
+      "widthCm": 62.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 245.9,
+      "widthCm": 67.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 150,
+      "lengthCm": 253.4,
+      "widthCm": 74.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

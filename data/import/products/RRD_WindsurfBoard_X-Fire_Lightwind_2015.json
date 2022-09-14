@@ -1,0 +1,79 @@
+{
+  "name": "X-Fire Lightwind",
+  "year": 2015,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 236,
+      "widthCm": 91,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ltd"
+      },
+      "lengthCm": 236,
+      "widthCm": 91,
+      "volumeL": 147,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "LTD"
+      },
+      "lengthCm": 236,
+      "widthCm": 91,
+      "volumeL": 147,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

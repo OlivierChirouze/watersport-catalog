@@ -1,0 +1,39 @@
+{
+  "name": "Primo",
+  "year": 2010,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Hifly",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 240
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 240,
+      "lengthCm": 335,
+      "widthCm": 78,
+      "weightKg": 19.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.6,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

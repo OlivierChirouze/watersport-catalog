@@ -1,0 +1,104 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Point-7",
+  "year": 2018,
+  "name": "Skool",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "boomLengthsCm": [105],
+      "mastLengthsCm": [260],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 270
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "boomLengthsCm": [132],
+      "mastLengthsCm": [300],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 298
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "boomLengthsCm": [113],
+      "mastLengthsCm": [260],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 270
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [153],
+      "mastLengthsCm": [330],
+      "mastExtensionLengthsCm": [15],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 345
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "boomLengthsCm": [146],
+      "mastLengthsCm": [330],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 326
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [156],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [0],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 400
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [156],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 395
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

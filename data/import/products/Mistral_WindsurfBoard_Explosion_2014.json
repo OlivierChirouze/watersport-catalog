@@ -1,0 +1,78 @@
+{
+  "name": "Explosion",
+  "year": 2014,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 127
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 127,
+      "lengthCm": 250,
+      "widthCm": 66,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 147
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 147,
+      "lengthCm": 256,
+      "widthCm": 75,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 260,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

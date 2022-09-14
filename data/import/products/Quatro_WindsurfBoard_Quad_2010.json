@@ -1,0 +1,59 @@
+{
+  "name": "Quad",
+  "year": 2010,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 75,
+      "lengthCm": 227.5,
+      "widthCm": 54.4,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 230,
+      "widthCm": 56.9,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    }
+  ],
+  "pictures": []
+}

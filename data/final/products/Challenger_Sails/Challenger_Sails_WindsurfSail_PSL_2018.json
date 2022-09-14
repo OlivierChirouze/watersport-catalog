@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Challenger Sails",
+  "year": 2018,
+  "name": "PSL",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [172],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [38, 8],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 408
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [180],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [26, 326],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 426
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [165],
+      "mastLengthsCm": [100, 370],
+      "mastExtensionLengthsCm": [18, 288],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 388
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "boomLengthsCm": [189],
+      "mastLengthsCm": [400, 430],
+      "mastExtensionLengthsCm": [12, 42],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 442
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

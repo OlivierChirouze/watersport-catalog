@@ -1,0 +1,35 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Flare",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Carbon"
+      },
+      "volumeL": 101,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Carbon"
+      },
+      "volumeL": 91,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

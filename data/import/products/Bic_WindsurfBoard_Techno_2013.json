@@ -1,0 +1,89 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "Bic",
+  "year": 2013,
+  "name": "Techno",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Cts",
+        "edition": "OD DTT"
+      },
+      "volumeL": 205,
+      "weightKg": 12.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Cts"
+      },
+      "volumeL": 133,
+      "weightKg": 9.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Cts"
+      },
+      "volumeL": 147,
+      "weightKg": 10.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Cts"
+      },
+      "volumeL": 160,
+      "weightKg": 10.7,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

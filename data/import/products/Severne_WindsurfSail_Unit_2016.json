@@ -1,0 +1,123 @@
+{
+  "name": "Unit",
+  "year": 2016,
+  "programs": [
+    "freeride",
+    "wave"
+  ],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 432,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastIMCS": [
+        19
+      ],
+      "boomLengthsCm": [
+        175
+      ],
+      "weightKg": 3.4,
+      "battenCount": 5,
+      "camCount": 1,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 460,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        185
+      ],
+      "weightKg": 3.8,
+      "battenCount": 5,
+      "camCount": 1,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 445,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        183
+      ],
+      "weightKg": 3.6,
+      "battenCount": 5,
+      "camCount": 1,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        197
+      ],
+      "weightKg": 4,
+      "battenCount": 5,
+      "camCount": 1,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 463,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        193
+      ],
+      "weightKg": 3.9,
+      "battenCount": 5,
+      "camCount": 1,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

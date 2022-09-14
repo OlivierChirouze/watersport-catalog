@@ -1,0 +1,218 @@
+{
+  "name": "Funster",
+  "year": 2014,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Asa Whit Eva Deck"
+      },
+      "volumeL": 145,
+      "weightKg": 11.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Asa+EVA"
+      },
+      "volumeL": 145,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 258,
+      "widthCm": 75,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Asa Whit Eva Deck"
+      },
+      "volumeL": 160,
+      "weightKg": 11.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Asa+EVA"
+      },
+      "volumeL": 160,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 258,
+      "widthCm": 80,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Asa Whit Eva Deck"
+      },
+      "volumeL": 180,
+      "weightKg": 11.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Asa+EVA"
+      },
+      "volumeL": 180,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 180
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 180,
+      "lengthCm": 258,
+      "widthCm": 91,
+      "weightKg": 13.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Asa Whit Eva Deck"
+      },
+      "volumeL": 205,
+      "weightKg": 11.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Asa+EVA"
+      },
+      "volumeL": 205,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 260,
+      "widthCm": 101,
+      "weightKg": 14.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

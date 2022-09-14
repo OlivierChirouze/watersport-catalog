@@ -1,0 +1,73 @@
+{
+  "name": "Curve",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 389,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "boomLengthsCm": [161],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 416,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "boomLengthsCm": [169],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 439,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "boomLengthsCm": [179],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [430],
+      "mastIMCS": [20, 22],
+      "boomLengthsCm": [183],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 457,
+      "mastLengthsCm": [430],
+      "mastIMCS": [20, 22],
+      "boomLengthsCm": [192],
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

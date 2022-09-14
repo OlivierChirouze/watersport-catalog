@@ -1,0 +1,53 @@
+{
+  "name": "Fun",
+  "year": 2012,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Aerotech",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 406,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastIMCS": [
+        19
+      ],
+      "boomLengthsCm": [
+        178
+      ],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.9
+      },
+      "surfaceM2": 4.9,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        193
+      ],
+      "battenCount": 1,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

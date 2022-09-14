@@ -1,0 +1,81 @@
+{
+  "name": "Chango FW",
+  "year": 2011,
+  "programs": [
+    "freestyle",
+    "wave"
+  ],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 93
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 93,
+      "lengthCm": 239,
+      "widthCm": 60,
+      "weightKg": 6.94,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.6
+      }
+    },
+    {
+      "variant": {
+        "size": 101
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 101,
+      "lengthCm": 240,
+      "widthCm": 62,
+      "weightKg": 7.28,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 109
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 109,
+      "lengthCm": 241,
+      "widthCm": 64,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.2
+      }
+    }
+  ],
+  "pictures": []
+}

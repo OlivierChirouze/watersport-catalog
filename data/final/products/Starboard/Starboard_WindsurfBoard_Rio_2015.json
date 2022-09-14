@@ -1,0 +1,106 @@
+{
+  "name": "Rio",
+  "year": 2015,
+  "programs": ["beginner", "freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Tufskin Ast",
+        "edition": "Tufskin"
+      },
+      "lengthCm": 276,
+      "widthCm": 78,
+      "volumeL": 180,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 206,
+        "construction": "Tufskin Ast",
+        "edition": "Tufskin"
+      },
+      "lengthCm": 290,
+      "widthCm": 81,
+      "volumeL": 206,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 238,
+        "construction": "Tufskin Ast",
+        "edition": "Tufskin"
+      },
+      "lengthCm": 302,
+      "widthCm": 86,
+      "volumeL": 238,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 187
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 187,
+      "lengthCm": 276,
+      "widthCm": 78,
+      "weightKg": 15.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 192
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 192,
+      "lengthCm": 290,
+      "widthCm": 81,
+      "weightKg": 17.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 231
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 231,
+      "lengthCm": 302,
+      "widthCm": 86,
+      "weightKg": 18.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

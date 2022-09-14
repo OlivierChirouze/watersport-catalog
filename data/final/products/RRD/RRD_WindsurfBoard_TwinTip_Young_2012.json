@@ -1,0 +1,67 @@
+{
+  "name": "TwinTip Young",
+  "year": 2012,
+  "programs": ["freestyle"],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 233,
+      "widthCm": 62,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 64,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 109
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 109,
+      "lengthCm": 233,
+      "widthCm": 67,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.8
+      }
+    }
+  ],
+  "pictures": []
+}

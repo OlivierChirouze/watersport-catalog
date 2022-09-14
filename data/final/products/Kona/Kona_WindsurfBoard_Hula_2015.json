@@ -1,0 +1,29 @@
+{
+  "name": "Hula",
+  "year": 2015,
+  "programs": ["beginner"],
+  "brandName": "Kona",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 264
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 264,
+      "lengthCm": 297,
+      "widthCm": 87.6,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ]
+    }
+  ],
+  "pictures": []
+}

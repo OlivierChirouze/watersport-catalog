@@ -1,0 +1,183 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "Futura",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "volumeL": 107,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 71,
+      "weightKg": 6.8
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 228,
+      "volumeL": 107,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 71,
+      "weightKg": 6.7
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "volumeL": 117,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 77.5,
+      "weightKg": 7.3
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 228,
+      "volumeL": 117,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 77.5,
+      "weightKg": 7.2
+    },
+    {
+      "variant": {
+        "size": 127,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "volumeL": 127,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 86.5,
+      "weightKg": 7.9
+    },
+    {
+      "variant": {
+        "size": 127,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 228,
+      "volumeL": 127,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 86.5,
+      "weightKg": 7.7
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "volumeL": 137,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 88.5,
+      "weightKg": 8
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 228,
+      "volumeL": 137,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 88.5,
+      "weightKg": 7.9
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "volumeL": 97,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 67,
+      "weightKg": 6.5
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 228,
+      "volumeL": 97,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "widthCm": 67,
+      "weightKg": 6.5
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Savage",
+  "year": 2016,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Gaastra",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 412,
+      "mastLengthsCm": [
+        400,
+        430,
+        75
+      ],
+      "mastIMCS": [
+        19,
+        21
+      ],
+      "boomLengthsCm": [
+        170
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        337
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 443,
+      "mastLengthsCm": [
+        430,
+        75
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        187
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        368
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 431,
+      "mastLengthsCm": [
+        430,
+        60
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        178
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        371
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 457,
+      "mastLengthsCm": [
+        430,
+        460,
+        60
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        198
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        397
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [
+        430,
+        460,
+        75
+      ],
+      "mastIMCS": [
+        21,
+        25
+      ],
+      "boomLengthsCm": [
+        208
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        395
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 494,
+      "mastLengthsCm": [
+        460,
+        490,
+        60
+      ],
+      "mastIMCS": [
+        29,
+        25
+      ],
+      "boomLengthsCm": [
+        217
+      ],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        434
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

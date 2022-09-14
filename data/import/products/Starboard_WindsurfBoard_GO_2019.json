@@ -1,0 +1,75 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "GO",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 141,
+        "construction": "3dx"
+      },
+      "volumeL": 141,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 251,
+      "widthCm": 83.5,
+      "weightKg": 10.4
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "3dx"
+      },
+      "volumeL": 151,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 251,
+      "widthCm": 86.5,
+      "weightKg": 10.5
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "3dx"
+      },
+      "volumeL": 161,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 250,
+      "widthCm": 87,
+      "weightKg": 10.8
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

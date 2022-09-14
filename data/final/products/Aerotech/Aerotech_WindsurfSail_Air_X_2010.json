@@ -1,0 +1,73 @@
+{
+  "name": "Air X",
+  "year": 2010,
+  "programs": ["freestyle"],
+  "brandName": "Aerotech",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 359,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [144],
+      "weightKg": 3.28,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 380,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [153],
+      "weightKg": 3.6,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 399,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [163],
+      "weightKg": 3.79,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 424,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [171],
+      "weightKg": 3.86,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [187],
+      "weightKg": 4.32,
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

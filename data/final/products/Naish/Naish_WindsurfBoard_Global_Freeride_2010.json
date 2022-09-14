@@ -1,0 +1,121 @@
+{
+  "name": "Global Freeride",
+  "year": 2010,
+  "programs": ["kids", "slalom"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 85,
+      "lengthCm": 236,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 240,
+      "widthCm": 62,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 244,
+      "widthCm": 64,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 246,
+      "widthCm": 67,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 255,
+      "widthCm": 70,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.3,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 260,
+      "widthCm": 74,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

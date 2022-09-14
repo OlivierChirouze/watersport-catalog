@@ -1,0 +1,78 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2022,
+  "name": "Airscape",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.9,
+      "boomLengthsCm": [150],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 3,
+      "boomLengthsCm": [158],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [16],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 2.8,
+      "boomLengthsCm": [148],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [8],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 3.22,
+      "boomLengthsCm": [168],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "weightKg": 2.8,
+      "boomLengthsCm": [148],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [8],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

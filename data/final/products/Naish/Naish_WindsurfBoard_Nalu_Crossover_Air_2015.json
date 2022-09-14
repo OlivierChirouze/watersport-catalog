@@ -1,0 +1,28 @@
+{
+  "name": "Nalu Crossover Air",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 210
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 210,
+      "lengthCm": 335.3,
+      "widthCm": 76.2,
+      "weightKg": 11.5,
+      "fins": [null],
+      "sailRange": {
+        "toM2": 7,
+        "fromM2": 3
+      }
+    }
+  ],
+  "pictures": []
+}

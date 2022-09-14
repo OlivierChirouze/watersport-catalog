@@ -1,0 +1,72 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2017,
+  "name": "Rio Long Tail School",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 196,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 295,
+      "widthCm": 79,
+      "volumeL": 196,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 219,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 308,
+      "widthCm": 81.5,
+      "volumeL": 219,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 259,
+        "construction": "Armourtech"
+      },
+      "lengthCm": 333,
+      "widthCm": 86.5,
+      "volumeL": 259,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

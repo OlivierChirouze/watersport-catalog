@@ -1,0 +1,118 @@
+{
+  "name": "Hornet",
+  "year": 2016,
+  "programs": ["race", "slalom"],
+  "brandName": "Attitude Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [192],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 4.9,
+      "mastExtensionLengthsCm": [0, 25],
+      "topType": "fixed",
+      "luffLengthCm": 425
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [198],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.2,
+      "mastExtensionLengthsCm": [0, 8],
+      "topType": "fixed",
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [204],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.4,
+      "mastExtensionLengthsCm": [0, 26],
+      "topType": "fixed",
+      "luffLengthCm": 456
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.6,
+      "mastExtensionLengthsCm": [0, 12],
+      "topType": "fixed",
+      "luffLengthCm": 472
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [222],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [0, 28],
+      "topType": "fixed",
+      "luffLengthCm": 488
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [228],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6,
+      "mastExtensionLengthsCm": [0, 14],
+      "topType": "fixed",
+      "luffLengthCm": 504
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [238],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6.3,
+      "mastExtensionLengthsCm": [0, 32],
+      "topType": "fixed",
+      "luffLengthCm": 522
+    }
+  ],
+  "pictures": []
+}

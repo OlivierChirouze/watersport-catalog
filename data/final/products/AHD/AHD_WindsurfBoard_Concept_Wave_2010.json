@@ -1,0 +1,70 @@
+{
+  "name": "Concept Wave",
+  "year": 2010,
+  "programs": ["wave"],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 67
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 233,
+      "widthCm": 53,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.9,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 77,
+      "lengthCm": 234,
+      "widthCm": 55.3,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 87
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 238,
+      "widthCm": 58.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

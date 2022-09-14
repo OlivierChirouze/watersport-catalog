@@ -1,0 +1,57 @@
+{
+  "name": "Grom",
+  "year": 2012,
+  "programs": ["kids"],
+  "brandName": "Simmer Style",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.2
+      },
+      "surfaceM2": 2.2,
+      "luffLengthCm": 268,
+      "mastLengthsCm": [268],
+      "boomLengthsCm": [119],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.8
+      },
+      "surfaceM2": 2.8,
+      "luffLengthCm": 300,
+      "mastLengthsCm": [310],
+      "boomLengthsCm": [134],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.4
+      },
+      "surfaceM2": 3.4,
+      "luffLengthCm": 328,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [152],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 343,
+      "mastLengthsCm": [340],
+      "boomLengthsCm": [165],
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

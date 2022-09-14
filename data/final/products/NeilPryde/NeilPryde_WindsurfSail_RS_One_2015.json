@@ -1,0 +1,25 @@
+{
+  "name": "RS:One",
+  "year": 2015,
+  "programs": ["slalom"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 485,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [222],
+      "battenCount": 5,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

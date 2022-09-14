@@ -1,0 +1,35 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Biax Carbon"
+      },
+      "volumeL": 87,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Biax Carbon"
+      },
+      "volumeL": 92,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

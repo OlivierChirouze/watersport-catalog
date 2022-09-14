@@ -1,0 +1,65 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Severne",
+  "year": 2017,
+  "name": "FW",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10.5
+      },
+      "surfaceM2": 10.5,
+      "boomLengthsCm": [260],
+      "mastLengthsCm": [530, 550],
+      "mastExtensionLengthsCm": [27, 7],
+      "battenCount": 9,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 557
+    },
+    {
+      "variant": {
+        "size": 11.5
+      },
+      "surfaceM2": 11.5,
+      "boomLengthsCm": [273],
+      "mastLengthsCm": [550],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 9,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 584
+    },
+    {
+      "variant": {
+        "size": 12.5
+      },
+      "surfaceM2": 12.5,
+      "boomLengthsCm": [285],
+      "mastLengthsCm": [490, 530, 550],
+      "mastExtensionLengthsCm": [112, 52, 72],
+      "battenCount": 9,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 602
+    },
+    {
+      "variant": {
+        "size": 9.7
+      },
+      "surfaceM2": 9.7,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [490, 530],
+      "mastExtensionLengthsCm": [0, 40],
+      "battenCount": 9,
+      "camCount": 5,
+      "topType": "fixed",
+      "luffLengthCm": 530
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Scout",
+  "year": 2016,
+  "programs": ["beginner", "kids"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5,
+        "edition": "SE"
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 304,
+      "mastLengthsCm": [290, 340],
+      "boomLengthsCm": [120],
+      "weightKg": 1.43,
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.5,
+        "edition": "SE"
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142, 160],
+      "weightKg": 1.7,
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [17],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3,
+        "edition": "SE"
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 318,
+      "mastLengthsCm": [290, 340],
+      "boomLengthsCm": [128, 129],
+      "weightKg": 1.62,
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.5,
+        "edition": "SE"
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 402,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [160, 163],
+      "weightKg": 2.05,
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [26],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.5,
+        "edition": "SE"
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [174, 176],
+      "weightKg": 2.6,
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [10],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

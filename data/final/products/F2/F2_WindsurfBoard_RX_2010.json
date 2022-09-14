@@ -1,0 +1,70 @@
+{
+  "name": "RX",
+  "year": 2010,
+  "programs": ["freeride", "slalom"],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 240,
+      "widthCm": 68,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 132
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 240,
+      "widthCm": 74,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 144
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 144,
+      "lengthCm": 240,
+      "widthCm": 80,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

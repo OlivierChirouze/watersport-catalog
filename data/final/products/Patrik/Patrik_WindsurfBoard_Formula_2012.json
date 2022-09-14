@@ -1,0 +1,28 @@
+{
+  "name": "Formula",
+  "year": 2012,
+  "programs": ["slalom"],
+  "brandName": "Patrik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 168
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 168,
+      "lengthCm": 230,
+      "widthCm": 100.2,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

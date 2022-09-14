@@ -1,0 +1,124 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Challenger Sails",
+  "year": 2017,
+  "name": "Fluido",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "boomLengthsCm": [173, 233],
+      "mastLengthsCm": [490, 520],
+      "mastExtensionLengthsCm": [29],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 549
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "boomLengthsCm": [192, 199],
+      "mastLengthsCm": [430, 460, 88],
+      "mastExtensionLengthsCm": [23, 378, 6],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 453
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [173],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 438
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [192],
+      "mastLengthsCm": [88, 430],
+      "mastExtensionLengthsCm": [365, 23],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "boomLengthsCm": [199, 210],
+      "mastLengthsCm": [460, 88],
+      "mastExtensionLengthsCm": [20, 392, 6],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 466
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [210, 215],
+      "mastLengthsCm": [460, 88],
+      "mastExtensionLengthsCm": [20, 410],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 480
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "boomLengthsCm": [215, 229],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [38, 52],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 498
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "boomLengthsCm": [229, 233],
+      "mastLengthsCm": [490, 88],
+      "mastExtensionLengthsCm": [22, 461],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 512
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

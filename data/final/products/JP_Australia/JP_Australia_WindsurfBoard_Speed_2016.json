@@ -1,0 +1,102 @@
+{
+  "name": "Speed",
+  "year": 2016,
+  "programs": ["race"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 45,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 45,
+      "volumeL": 45,
+      "weightKg": 4.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 50,
+      "volumeL": 50,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Pro"
+      },
+      "lengthCm": 235,
+      "widthCm": 55,
+      "volumeL": 55,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 58
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 58,
+      "lengthCm": 228,
+      "widthCm": 45,
+      "weightKg": 4.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 6.2,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 64,
+      "lengthCm": 228,
+      "widthCm": 50,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 7,
+        "fromM2": 3
+      }
+    }
+  ],
+  "pictures": []
+}

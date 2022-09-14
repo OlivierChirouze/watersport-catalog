@@ -1,0 +1,99 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "NoveNove",
+  "year": 2019,
+  "name": "Aero",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Biax Carbon",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 76,
+      "volumeL": 122,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Biax Carbone",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 76,
+      "volumeL": 122,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 159,
+        "construction": "Biax Carbon",
+        "edition": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 91,
+      "volumeL": 159,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 159,
+        "construction": "Biax Carbone",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 76,
+      "volumeL": 159,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

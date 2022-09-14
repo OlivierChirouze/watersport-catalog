@@ -1,0 +1,72 @@
+{
+  "name": "Techno",
+  "year": 2010,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Challenger Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 475,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        206
+      ],
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        211
+      ],
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "luffLengthCm": 498,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        216
+      ],
+      "battenCount": 7,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

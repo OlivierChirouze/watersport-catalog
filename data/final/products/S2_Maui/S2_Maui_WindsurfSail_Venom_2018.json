@@ -1,0 +1,104 @@
+{
+  "dimensions": ["size"],
+  "brandName": "S2 Maui",
+  "year": 2018,
+  "name": "Venom",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [183],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [14, 314],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 414
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [172],
+      "mastLengthsCm": [100, 400],
+      "mastExtensionLengthsCm": [304, 4],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 404
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "boomLengthsCm": [193],
+      "mastLengthsCm": [100, 430],
+      "mastExtensionLengthsCm": [334, 4],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 434
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "boomLengthsCm": [218],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [21],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 481
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [100, 430],
+      "mastExtensionLengthsCm": [30, 360],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 460
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "boomLengthsCm": [232],
+      "mastLengthsCm": [100, 460],
+      "mastExtensionLengthsCm": [31, 391],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 491
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "boomLengthsCm": [240],
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [29, 59],
+      "battenCount": 8,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 519
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

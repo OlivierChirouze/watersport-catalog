@@ -1,0 +1,39 @@
+{
+  "name": "AFS-1",
+  "year": 2013,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 112
+      },
+      "compatibleFinFamilies": [
+        "fins",
+        "foil"
+      ],
+      "volumeL": 112,
+      "lengthCm": 238,
+      "widthCm": 67.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

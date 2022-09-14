@@ -1,0 +1,131 @@
+{
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "brandName": "Naish",
+  "year": 2017,
+  "name": "Titan",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Glass",
+        "edition": "Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 77.3,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Wood",
+        "edition": "Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 77.3,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Glass",
+        "edition": "Carbon"
+      },
+      "lengthCm": 240,
+      "widthCm": 83.8,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood",
+        "edition": "Carbon"
+      },
+      "lengthCm": 240,
+      "widthCm": 83.8,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Wood Glass"
+      },
+      "lengthCm": 238,
+      "widthCm": 77.3,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood Glass"
+      },
+      "lengthCm": 240,
+      "widthCm": 83.8,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

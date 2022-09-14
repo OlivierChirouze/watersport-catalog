@@ -1,0 +1,37 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2020,
+  "name": "AirWindsurf Evolution",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Air"
+      },
+      "lengthCm": 295,
+      "widthCm": 85,
+      "volumeL": 220,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

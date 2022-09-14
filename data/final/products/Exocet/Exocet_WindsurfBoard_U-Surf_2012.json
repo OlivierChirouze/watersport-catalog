@@ -1,0 +1,112 @@
+{
+  "name": "U-Surf",
+  "year": 2012,
+  "programs": ["wave"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Biax Carbone - Biax Glass",
+        "edition": "Core"
+      },
+      "volumeL": 70,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "edition": "Core"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 70,
+      "lengthCm": 225,
+      "widthCm": 54,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Biax Carbone - Biax Glass",
+        "edition": "Core"
+      },
+      "volumeL": 80,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "edition": "Core"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 227,
+      "widthCm": 56,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Biax Carbone - Biax Glass",
+        "edition": "Core"
+      },
+      "volumeL": 90,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "edition": "Core"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.4
+      }
+    }
+  ],
+  "pictures": []
+}

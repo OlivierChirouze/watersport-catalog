@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2017,
+  "name": "SL-3",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 67,
+      "volumeL": 105,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 71,
+      "volumeL": 115,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 81.5,
+      "volumeL": 128,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

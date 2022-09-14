@@ -1,0 +1,103 @@
+{
+  "name": "Core",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 133
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 133,
+      "lengthCm": 250,
+      "widthCm": 70,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 148
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 148,
+      "lengthCm": 264,
+      "widthCm": 75,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 82,
+      "weightKg": 11,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Formula",
+  "year": 2011,
+  "programs": [
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 168
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 168,
+      "lengthCm": 228,
+      "widthCm": 100,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 9.5,
+        "toM2": 12
+      }
+    }
+  ],
+  "pictures": []
+}

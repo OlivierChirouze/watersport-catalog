@@ -1,0 +1,60 @@
+{
+  "name": "Freewave",
+  "year": 2011,
+  "programs": [
+    "freestyle",
+    "wave"
+  ],
+  "brandName": "Drops",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 236,
+      "widthCm": 66,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 236,
+      "widthCm": 64,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

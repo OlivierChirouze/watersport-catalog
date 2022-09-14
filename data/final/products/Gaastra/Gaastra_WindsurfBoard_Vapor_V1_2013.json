@@ -1,0 +1,29 @@
+{
+  "name": "Vapor",
+  "year": 2013,
+  "programs": ["race"],
+  "brandName": "Gaastra",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 156
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 156,
+      "lengthCm": 230,
+      "widthCm": 100.5,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": [],
+  "version": "V1"
+}

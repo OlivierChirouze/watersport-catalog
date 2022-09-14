@@ -1,0 +1,71 @@
+{
+  "name": "Traction",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Sailloft",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 495,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        211
+      ],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 513,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        229
+      ],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 524,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        246
+      ],
+      "battenCount": 6,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

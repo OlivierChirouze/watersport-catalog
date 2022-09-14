@@ -1,0 +1,77 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Naish",
+  "year": 2019,
+  "name": "Global",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Wood"
+      },
+      "volumeL": 102,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 224,
+      "widthCm": 62
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Wood"
+      },
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 216,
+      "widthCm": 55.5
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Wood"
+      },
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 219,
+      "widthCm": 58
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Wood"
+      },
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 222,
+      "widthCm": 60
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

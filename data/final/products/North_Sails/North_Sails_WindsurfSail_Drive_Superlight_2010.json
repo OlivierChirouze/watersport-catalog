@@ -1,0 +1,49 @@
+{
+  "name": "Drive Superlight",
+  "year": 2010,
+  "programs": ["beginner", "freeride"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "luffLengthCm": 347,
+      "mastLengthsCm": [360],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 367,
+      "mastLengthsCm": [360],
+      "mastIMCS": [14],
+      "boomLengthsCm": [157],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 391,
+      "mastLengthsCm": [360],
+      "mastIMCS": [14],
+      "boomLengthsCm": [161],
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Super Lightwind",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Gold"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    }
+  ],
+  "pictures": []
+}

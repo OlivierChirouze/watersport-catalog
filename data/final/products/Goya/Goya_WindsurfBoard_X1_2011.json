@@ -1,0 +1,49 @@
+{
+  "name": "X1",
+  "year": 2011,
+  "programs": ["freestyle"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 235,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 236,
+      "widthCm": 68,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

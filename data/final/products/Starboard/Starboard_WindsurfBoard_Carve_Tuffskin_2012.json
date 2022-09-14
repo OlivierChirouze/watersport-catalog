@@ -1,0 +1,103 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2012,
+  "name": "Carve Tuffskin",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Tuffskin"
+      },
+      "volumeL": 111,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Tuffskin"
+      },
+      "volumeL": 121,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Tuffskin"
+      },
+      "volumeL": 131,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Tuffskin"
+      },
+      "volumeL": 141,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "Tuffskin"
+      },
+      "volumeL": 151,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 171,
+        "construction": "Tuffskin"
+      },
+      "volumeL": 171,
+      "weightKg": 11.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

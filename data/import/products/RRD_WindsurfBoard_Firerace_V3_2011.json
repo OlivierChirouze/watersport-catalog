@@ -1,0 +1,38 @@
+{
+  "name": "Firerace",
+  "year": 2011,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 225,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.4,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "V3"
+}

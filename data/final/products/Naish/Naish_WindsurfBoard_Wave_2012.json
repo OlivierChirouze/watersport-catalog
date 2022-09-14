@@ -1,0 +1,223 @@
+{
+  "name": "Wave",
+  "year": 2012,
+  "programs": ["kids", "wave"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Carbon Kevlar"
+      },
+      "volumeL": 55,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55,
+        "construction": "Carbone Kevlar"
+      },
+      "volumeL": 55,
+      "weightKg": 7.6,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 55
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 55,
+      "lengthCm": 215,
+      "widthCm": 50,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.2,
+        "toM2": 4.2
+      }
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Carbon Kevlar"
+      },
+      "volumeL": 64,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Carbone Kevlar"
+      },
+      "volumeL": 64,
+      "weightKg": 7.6,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 64,
+      "lengthCm": 228,
+      "widthCm": 53,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Carbon Kevlar"
+      },
+      "volumeL": 74,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Carbone Kevlar"
+      },
+      "volumeL": 74,
+      "weightKg": 7.6,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 225,
+      "widthCm": 56,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbon Kevlar"
+      },
+      "volumeL": 80,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Carbone Kevlar"
+      },
+      "volumeL": 80,
+      "weightKg": 7.6,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 227,
+      "widthCm": 56.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbon Kevlar"
+      },
+      "volumeL": 87,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbone Kevlar"
+      },
+      "volumeL": 87,
+      "weightKg": 7.6,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 87
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 229,
+      "widthCm": 59.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Dragon",
+  "year": 2016,
+  "programs": ["kids"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.8
+      },
+      "surfaceM2": 1.8
+    },
+    {
+      "variant": {
+        "size": 2.2
+      },
+      "surfaceM2": 2.2
+    },
+    {
+      "variant": {
+        "size": 2.6
+      },
+      "surfaceM2": 2.6
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2
+    },
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6
+    }
+  ],
+  "pictures": []
+}

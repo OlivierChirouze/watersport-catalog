@@ -1,0 +1,43 @@
+{
+  "name": "Formula One",
+  "year": 2016,
+  "programs": ["race", "slalom"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 177,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 229,
+      "widthCm": 100.5,
+      "volumeL": 177,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 167
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 167,
+      "lengthCm": 228,
+      "widthCm": 100,
+      "weightKg": 11.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

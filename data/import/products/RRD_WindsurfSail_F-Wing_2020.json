@@ -1,0 +1,109 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "RRD",
+  "year": 2020,
+  "name": "F-Wing",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "boomLengthsCm": [
+        186
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        16
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 446
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [
+        176
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        6
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 436
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "boomLengthsCm": [
+        184
+      ],
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        28
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 458
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "boomLengthsCm": [
+        194
+      ],
+      "mastLengthsCm": [
+        460
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 480
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

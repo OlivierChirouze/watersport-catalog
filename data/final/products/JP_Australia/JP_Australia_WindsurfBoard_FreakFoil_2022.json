@@ -1,0 +1,29 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2022,
+  "name": "FreakFoil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Pro"
+      },
+      "lengthCm": 184,
+      "widthCm": 62,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

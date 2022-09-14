@@ -1,0 +1,51 @@
+{
+  "name": "Mirage",
+  "year": 2016,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 232,
+      "widthCm": 78,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 232,
+      "widthCm": 82,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

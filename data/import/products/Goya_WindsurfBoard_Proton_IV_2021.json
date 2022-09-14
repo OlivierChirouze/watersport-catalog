@@ -1,0 +1,100 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Goya",
+  "year": 2021,
+  "name": "Proton",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Pro Full Carbon Hull",
+        "edition": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 62.4,
+      "volumeL": 97,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Pro Full Carbon Hull",
+        "edition": "Pro"
+      },
+      "lengthCm": 230,
+      "widthCm": 70.7,
+      "volumeL": 112,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 118,
+        "construction": "Pro Full Carbon Hull",
+        "edition": "Pro"
+      },
+      "lengthCm": 230,
+      "widthCm": 72.1,
+      "volumeL": 118,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Pro Full Carbon Hull",
+        "edition": "Pro"
+      },
+      "lengthCm": 231,
+      "widthCm": 83.8,
+      "volumeL": 137,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "IV"
+}

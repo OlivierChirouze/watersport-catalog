@@ -1,0 +1,77 @@
+{
+  "name": "Noa",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 428,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [166],
+      "weightKg": 4.26,
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [176],
+      "weightKg": 4.46,
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 478,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [204],
+      "weightKg": 4.98,
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [190],
+      "weightKg": 4.72,
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [2],
+      "masTypes": ["SDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

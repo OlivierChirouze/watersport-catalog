@@ -1,0 +1,37 @@
+{
+  "name": "Raceboard Blade",
+  "year": 2013,
+  "programs": ["slalom"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 494,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [235],
+      "battenCount": 5,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 532,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [258],
+      "battenCount": 5,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

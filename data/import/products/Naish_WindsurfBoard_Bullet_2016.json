@@ -1,0 +1,39 @@
+{
+  "name": "Bullet",
+  "year": 2016,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 235,
+      "widthCm": 65.5,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 7.6
+      }
+    }
+  ],
+  "pictures": []
+}

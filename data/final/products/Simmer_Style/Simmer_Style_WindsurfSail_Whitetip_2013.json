@@ -1,0 +1,69 @@
+{
+  "name": "Whitetip",
+  "year": 2013,
+  "programs": ["freestyle"],
+  "brandName": "Simmer Style",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "luffLengthCm": 392,
+      "mastLengthsCm": [370, 430],
+      "mastIMCS": [17],
+      "boomLengthsCm": [156],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [162],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 425,
+      "mastLengthsCm": [370, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [170],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [370, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [172],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

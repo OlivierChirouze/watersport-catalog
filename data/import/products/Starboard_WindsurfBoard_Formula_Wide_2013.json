@@ -1,0 +1,35 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Formula Wide",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 167,
+        "construction": "Carbon"
+      },
+      "volumeL": 167,
+      "weightKg": 9.1,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,93 @@
+{
+  "name": "UltraSonic",
+  "year": 2016,
+  "programs": ["freeride", "race"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Carbone Reflex",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 241,
+      "widthCm": 95,
+      "volumeL": 147,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 147,
+      "lengthCm": 241,
+      "widthCm": 95,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 147,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 147,
+      "lengthCm": 241,
+      "widthCm": 95,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Wood"
+      },
+      "lengthCm": 241,
+      "widthCm": 95,
+      "volumeL": 147,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 232,
+      "widthCm": 58.5,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.1,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

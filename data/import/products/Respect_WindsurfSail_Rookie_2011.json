@@ -1,0 +1,62 @@
+{
+  "name": "Rookie",
+  "year": 2011,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "Respect",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 1
+      },
+      "surfaceM2": 1,
+      "luffLengthCm": 185,
+      "mastLengthsCm": [
+        200
+      ],
+      "boomLengthsCm": [
+        100
+      ],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 215,
+      "mastLengthsCm": [
+        200
+      ],
+      "boomLengthsCm": [
+        110
+      ],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 230,
+      "mastLengthsCm": [
+        240
+      ],
+      "boomLengthsCm": [
+        113
+      ],
+      "battenCount": 1,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

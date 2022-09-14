@@ -1,0 +1,167 @@
+{
+  "name": "Hardcore Wave",
+  "year": 2014,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 68,
+        "construction": "Carbon Innegra",
+        "edition": "Contest"
+      },
+      "volumeL": 68,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 68,
+        "edition": "Contest"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 68,
+      "lengthCm": 229,
+      "widthCm": 53,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Carbon Innegra",
+        "edition": "Contest"
+      },
+      "volumeL": 76,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 76,
+        "edition": "Contest"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 229,
+      "widthCm": 54,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Carbon Innegra",
+        "edition": "Contest"
+      },
+      "volumeL": 84,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Contest"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 229,
+      "widthCm": 55.5,
+      "weightKg": 6.55,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Carbon Innegra",
+        "edition": "Contest"
+      },
+      "volumeL": 91,
+      "weightKg": 6.2,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "edition": "Contest"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 91,
+      "lengthCm": 230,
+      "widthCm": 58,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.8
+      }
+    }
+  ],
+  "pictures": []
+}

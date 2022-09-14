@@ -1,0 +1,89 @@
+{
+  "name": "Ride School",
+  "year": 2013,
+  "programs": ["beginner"],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "N"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 80,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 185,
+        "construction": "N"
+      },
+      "volumeL": 185,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 185
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 185,
+      "lengthCm": 260,
+      "widthCm": 90,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 215
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 215,
+      "lengthCm": 303,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

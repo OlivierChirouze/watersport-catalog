@@ -1,0 +1,109 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "F-Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Deck:Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 55.5,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Deck:carbone"
+      },
+      "lengthCm": 229,
+      "widthCm": 55.5,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Deck:Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Deck:carbone"
+      },
+      "lengthCm": 230,
+      "widthCm": 58.5,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Deck:Carbon"
+      },
+      "lengthCm": 233,
+      "widthCm": 60.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Deck:carbone"
+      },
+      "lengthCm": 233,
+      "widthCm": 60.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

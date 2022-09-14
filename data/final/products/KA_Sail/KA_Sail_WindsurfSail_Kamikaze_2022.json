@@ -1,0 +1,117 @@
+{
+  "dimensions": ["size"],
+  "brandName": "KA Sail",
+  "year": 2022,
+  "name": "Kamikaze",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "boomLengthsCm": [137],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [0],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 340
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "boomLengthsCm": [141],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [15],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 355
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [8],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 378
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [159],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 384
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 398
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [148],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [1],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 371
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [21],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 421
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [167],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [6],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 406
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

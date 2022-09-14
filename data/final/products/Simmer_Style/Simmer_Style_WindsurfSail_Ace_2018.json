@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Simmer Style",
+  "year": 2018,
+  "name": "Ace",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [10, 370],
+      "mastExtensionLengthsCm": [26, 386],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 396
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [158],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 416
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [152],
+      "mastLengthsCm": [10, 370],
+      "mastExtensionLengthsCm": [366, 6],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 376
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [10, 400],
+      "mastExtensionLengthsCm": [26, 416],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 426
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

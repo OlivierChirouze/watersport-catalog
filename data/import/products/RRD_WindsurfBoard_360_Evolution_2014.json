@@ -1,0 +1,69 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2014,
+  "name": "360 Evolution",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Duratech"
+      },
+      "volumeL": 135,
+      "weightKg": 9.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Duratech"
+      },
+      "volumeL": 145,
+      "weightKg": 9.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Duratech"
+      },
+      "volumeL": 155,
+      "weightKg": 9.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

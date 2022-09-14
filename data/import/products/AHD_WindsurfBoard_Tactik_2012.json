@@ -1,0 +1,39 @@
+{
+  "name": "Tactik",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 250
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 250,
+      "lengthCm": 320,
+      "widthCm": 76,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

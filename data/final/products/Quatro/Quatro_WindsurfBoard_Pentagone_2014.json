@@ -1,0 +1,40 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Quatro",
+  "year": 2014,
+  "name": "Pentagone",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "volumeL": 128,
+      "weightKg": 8.25,
+      "fins": [
+        {
+          "count": 4,
+          "type": "FCS"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "volumeL": 165,
+      "weightKg": 8.25,
+      "fins": [
+        {
+          "count": 4,
+          "type": "FCS"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

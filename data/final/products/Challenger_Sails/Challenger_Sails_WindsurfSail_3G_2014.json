@@ -1,0 +1,73 @@
+{
+  "name": "3G",
+  "year": 2014,
+  "programs": ["wave"],
+  "brandName": "Challenger Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "luffLengthCm": 345,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [139],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 357,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [145],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 381,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [149],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 401,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [162],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "luffLengthCm": 415,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167],
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

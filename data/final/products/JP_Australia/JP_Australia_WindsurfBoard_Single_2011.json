@@ -1,0 +1,228 @@
+{
+  "name": "Single",
+  "year": 2011,
+  "programs": ["wave"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 69,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 69,
+      "lengthCm": 228,
+      "widthCm": 53.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 0,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 75,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 229,
+      "widthCm": 55.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 83,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 230,
+      "widthCm": 57.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 93,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 93,
+      "lengthCm": 232,
+      "widthCm": 60.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 99,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 69,
+        "edition": "Thruster Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 69,
+      "lengthCm": 228,
+      "widthCm": 53.5,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 0,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 75,
+        "edition": "Thruster Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 229,
+      "widthCm": 55.5,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 83,
+        "edition": "Thruster Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 230,
+      "widthCm": 57.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 93,
+        "edition": "Thruster Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 93,
+      "lengthCm": 232,
+      "widthCm": 60.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Thruster Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 99,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

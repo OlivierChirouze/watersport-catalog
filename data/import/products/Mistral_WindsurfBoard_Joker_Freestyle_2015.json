@@ -1,0 +1,57 @@
+{
+  "name": "Joker Freestyle",
+  "year": 2015,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 98
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 98,
+      "lengthCm": 233,
+      "widthCm": 63,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 108,
+      "lengthCm": 236,
+      "widthCm": 66.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

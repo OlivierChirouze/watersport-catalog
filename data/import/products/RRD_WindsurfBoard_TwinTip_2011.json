@@ -1,0 +1,59 @@
+{
+  "name": "TwinTip",
+  "year": 2011,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 64,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 109
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 109,
+      "lengthCm": 233,
+      "widthCm": 67,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.8
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Rebel",
+  "year": 2010,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 63
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 63,
+      "lengthCm": 228,
+      "widthCm": 49.5,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 68,
+      "lengthCm": 228,
+      "widthCm": 52.5,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 75,
+      "lengthCm": 230,
+      "widthCm": 55.5,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 91
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 91,
+      "lengthCm": 238,
+      "widthCm": 61,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.6
+      }
+    }
+  ],
+  "pictures": []
+}

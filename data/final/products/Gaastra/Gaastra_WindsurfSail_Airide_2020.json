@@ -1,0 +1,68 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2020,
+  "name": "Airide",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [116, 120],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 275
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "boomLengthsCm": [116, 120],
+      "mastLengthsCm": [430, 90],
+      "mastExtensionLengthsCm": [185],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 287
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "boomLengthsCm": [138],
+      "mastLengthsCm": [90],
+      "mastExtensionLengthsCm": [233],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "boomLengthsCm": [116, 138],
+      "mastLengthsCm": [430, 90],
+      "mastExtensionLengthsCm": [185],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 323
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

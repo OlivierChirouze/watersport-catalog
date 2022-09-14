@@ -1,0 +1,119 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2021,
+  "name": "Phantom",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "infoUrl": "https://ga-windsurfing.com/sails/2021/slalom-race/phantom-21/",
+  "programs": ["freeride", "race", "slalom"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19, 21],
+      "mastExtensionLengthsCm": [20, 22],
+      "luffLengthCm": 420,
+      "boomLengthsCm": [180],
+      "battenCount": 7,
+      "camCount": null,
+      "topType": "vario",
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "mastLengthsCm": [100, 400, 430],
+      "mastIMCS": [21, 19],
+      "mastExtensionLengthsCm": [10, 339, 39, 40, 9],
+      "luffLengthCm": 439,
+      "boomLengthsCm": [193],
+      "battenCount": 7,
+      "camCount": null,
+      "topType": "fixed",
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 7.1
+      },
+      "surfaceM2": 7.1,
+      "mastLengthsCm": [400, 430, 90],
+      "mastIMCS": [21],
+      "mastExtensionLengthsCm": [31, 32, 371, 61],
+      "luffLengthCm": 461,
+      "boomLengthsCm": [203],
+      "battenCount": 7,
+      "camCount": null,
+      "topType": "fixed",
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "mastExtensionLengthsCm": [30],
+      "luffLengthCm": 489,
+      "boomLengthsCm": [213],
+      "battenCount": 7,
+      "camCount": null,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "boomLengthsCm": [213],
+      "mastLengthsCm": [100, 430, 460],
+      "mastExtensionLengthsCm": [29, 389, 59],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2,
+      "topType": "fixed",
+      "luffLengthCm": 489
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "mastLengthsCm": [490, 90],
+      "mastIMCS": [29],
+      "mastExtensionLengthsCm": [24, 26, 424],
+      "luffLengthCm": 514,
+      "boomLengthsCm": [220],
+      "battenCount": 7,
+      "camCount": null,
+      "topType": "fixed",
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 9.4
+      },
+      "surfaceM2": 9.4,
+      "mastLengthsCm": [430, 490],
+      "mastIMCS": [29],
+      "mastExtensionLengthsCm": [37, 38, 97],
+      "luffLengthCm": 527,
+      "boomLengthsCm": [232],
+      "battenCount": 7,
+      "camCount": null,
+      "topType": "fixed",
+      "masTypes": ["SDM"]
+    }
+  ],
+  "description": {
+    "en": "Reaching top racing performance without demanding too much from the rider – the Phantom is ready to compete with pure slalom sails. By adding a vertical luff panel near the sleeve, we increased the shape, which together with a change in the outline with a higher clew and closer batten spacing leads to even more power. A slightly increased luff curve and some more release in the lower leech twist adds great control in the top end, which allows you to focus on reaching higher speed. Sharing most characteristics with the Vapor reflects in the Phantom’s performance, while a narrower mast sleeve and the 2 + 1 camber setup makes it easier to handle and use."
+  },
+  "pictures": []
+}

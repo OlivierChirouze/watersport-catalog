@@ -1,0 +1,31 @@
+{
+  "name": "Flywave",
+  "year": 2014,
+  "programs": ["wave"],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 69
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 69,
+      "lengthCm": 223,
+      "widthCm": 54,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5
+      }
+    }
+  ],
+  "pictures": []
+}

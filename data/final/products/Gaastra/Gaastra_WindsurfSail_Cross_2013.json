@@ -1,0 +1,109 @@
+{
+  "name": "Cross",
+  "year": 2013,
+  "programs": ["freeride", "wave"],
+  "brandName": "Gaastra",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 407,
+      "mastLengthsCm": [100, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.1,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 420,
+      "mastLengthsCm": [21, 400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [172],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.1,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 430,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [176],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.1,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [195],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.1,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "luffLengthCm": 458,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [208],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.1,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [100, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [185],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.1,
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

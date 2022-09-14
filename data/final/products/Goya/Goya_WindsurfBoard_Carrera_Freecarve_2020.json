@@ -1,0 +1,67 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Goya",
+  "year": 2020,
+  "name": "Carrera Freecarve",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 241.9,
+      "widthCm": 66.8,
+      "volumeL": 116,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 245.4,
+      "widthCm": 70.2,
+      "volumeL": 130,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 144,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 250,
+      "widthCm": 75.2,
+      "volumeL": 144,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

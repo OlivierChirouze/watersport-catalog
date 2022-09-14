@@ -1,0 +1,57 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Naish",
+  "year": 2018,
+  "name": "Kailua",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Eps",
+        "edition": "SE"
+      },
+      "lengthCm": 278,
+      "widthCm": 85,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Eps",
+        "edition": "SE"
+      },
+      "lengthCm": 267,
+      "widthCm": 79,
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Eps",
+        "edition": "SE"
+      },
+      "lengthCm": 267,
+      "widthCm": 79,
+      "volumeL": 180,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 250,
+        "construction": "Eps",
+        "edition": "SE"
+      },
+      "lengthCm": 319,
+      "widthCm": 89,
+      "volumeL": 250,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

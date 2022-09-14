@@ -1,0 +1,78 @@
+{
+  "name": "Indy",
+  "year": 2013,
+  "programs": ["slalom"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 420,
+      "mastLengthsCm": [430],
+      "mastIMCS": [23],
+      "boomLengthsCm": [172],
+      "weightKg": 3.92,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [430],
+      "mastIMCS": [23],
+      "boomLengthsCm": [179],
+      "weightKg": 4.08,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [460],
+      "mastIMCS": [26],
+      "boomLengthsCm": [186],
+      "weightKg": 4.26,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [460],
+      "mastIMCS": [26],
+      "boomLengthsCm": [198],
+      "weightKg": 4.37,
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460],
+      "mastIMCS": [26],
+      "boomLengthsCm": [206],
+      "weightKg": 4.49,
+      "battenCount": 6,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

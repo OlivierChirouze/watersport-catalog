@@ -1,0 +1,58 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Patrik",
+  "year": 2022,
+  "name": "Foil Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125
+      },
+      "lengthCm": 210,
+      "widthCm": 76,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "lengthCm": 210,
+      "widthCm": 83,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 165
+      },
+      "lengthCm": 210,
+      "widthCm": 89,
+      "volumeL": 165,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

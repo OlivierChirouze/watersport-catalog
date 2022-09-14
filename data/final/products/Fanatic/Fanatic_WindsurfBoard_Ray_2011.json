@@ -1,0 +1,169 @@
+{
+  "name": "Ray",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 240,
+      "widthCm": 61,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 8.3
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 240,
+      "widthCm": 67,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 8.8
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 235,
+      "widthCm": 73,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.8,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 235,
+      "widthCm": 81,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 240,
+      "widthCm": 61,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.8,
+        "toM2": 8.3
+      }
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 240,
+      "widthCm": 67,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 8.8
+      }
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 235,
+      "widthCm": 73,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.8,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 235,
+      "widthCm": 81,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

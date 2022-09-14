@@ -1,0 +1,133 @@
+{
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "brandName": "FMX Racing",
+  "year": 2020,
+  "name": "Veloce",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "edition": "GTS Foilbox"
+      },
+      "lengthCm": 238,
+      "widthCm": 69,
+      "volumeL": 110,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "edition": "GTS Foilbox"
+      },
+      "lengthCm": 238,
+      "widthCm": 77,
+      "volumeL": 122,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "edition": "GTS Foilbox"
+      },
+      "lengthCm": 226,
+      "widthCm": 78,
+      "volumeL": 124,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "LTD Foilbox"
+      },
+      "lengthCm": 238,
+      "widthCm": 69,
+      "volumeL": 110,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "edition": "LTD Foilbox"
+      },
+      "lengthCm": 238,
+      "widthCm": 77,
+      "volumeL": 122,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "edition": "LTD Foilbox"
+      },
+      "lengthCm": 226,
+      "widthCm": 78,
+      "volumeL": 124,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

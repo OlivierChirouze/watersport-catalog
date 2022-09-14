@@ -1,0 +1,63 @@
+{
+  "name": "Windstyler",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 170,
+      "lengthCm": 295,
+      "widthCm": 70,
+      "weightKg": 12.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 220
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 220,
+      "lengthCm": 325,
+      "widthCm": 72,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

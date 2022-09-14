@@ -1,0 +1,31 @@
+{
+  "name": "Gun",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 272,
+      "widthCm": 62.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

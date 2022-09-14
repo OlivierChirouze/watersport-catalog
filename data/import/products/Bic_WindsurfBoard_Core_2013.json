@@ -1,0 +1,79 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Bic",
+  "year": 2013,
+  "name": "Core",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ts",
+        "edition": "D"
+      },
+      "volumeL": 160,
+      "weightKg": 11,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "TS",
+        "edition": "D"
+      },
+      "volumeL": 160,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Ts",
+        "edition": "D"
+      },
+      "volumeL": 205,
+      "weightKg": 11.5,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "TS",
+        "edition": "D"
+      },
+      "volumeL": 205,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

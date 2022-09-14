@@ -1,0 +1,83 @@
+{
+  "dimensions": ["size"],
+  "brandName": "XO Sails",
+  "year": 2020,
+  "name": "Vega",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [167],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 402,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [2]
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [170],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 420,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [20]
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "boomLengthsCm": [197],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 442,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [12]
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [184],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [1]
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "boomLengthsCm": [211],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 457,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [27]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

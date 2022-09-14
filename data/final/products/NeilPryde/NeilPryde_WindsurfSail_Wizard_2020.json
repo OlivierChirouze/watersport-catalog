@@ -1,0 +1,236 @@
+{
+  "dimensions": ["edition", "size"],
+  "brandName": "NeilPryde",
+  "year": 2020,
+  "name": "Wizard",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "infoUrl": "https://www.neilpryde.com/collections/sails-2020/products/wizard-2020",
+  "programs": ["freestyle", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.8,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 3.8,
+      "boomLengthsCm": [141],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [30],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 370
+    },
+    {
+      "variant": {
+        "size": 4.2,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 4.2,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 384
+    },
+    {
+      "variant": {
+        "size": 4.5,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [150],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 398
+    },
+    {
+      "variant": {
+        "size": 4.8,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [155],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 414
+    },
+    {
+      "variant": {
+        "size": 5.1,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 5.1,
+      "boomLengthsCm": [160],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 428
+    },
+    {
+      "variant": {
+        "size": 5.4,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 5.4,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [6],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 436
+    },
+    {
+      "variant": {
+        "size": 5.7,
+        "edition": "Pro HD"
+      },
+      "surfaceM2": 5.7,
+      "boomLengthsCm": [172],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [18],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 448
+    },
+    {
+      "surfaceM2": 3.8,
+      "luffLengthCm": 370,
+      "boomLengthsCm": [141],
+      "mastExtensionLengthsCm": [30],
+      "weightKg": 2.69,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM"],
+      "mastLengthsCm": [340],
+      "topType": "fixed",
+      "variant": {
+        "size": 3.8
+      }
+    },
+    {
+      "surfaceM2": 4.2,
+      "luffLengthCm": 384,
+      "boomLengthsCm": [145],
+      "mastExtensionLengthsCm": [14],
+      "weightKg": 2.81,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM"],
+      "mastLengthsCm": [370],
+      "topType": "fixed",
+      "variant": {
+        "size": 4.2
+      }
+    },
+    {
+      "surfaceM2": 4.5,
+      "luffLengthCm": 398,
+      "boomLengthsCm": [150],
+      "mastExtensionLengthsCm": [28],
+      "weightKg": 2.94,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM"],
+      "mastLengthsCm": [370],
+      "topType": "fixed",
+      "variant": {
+        "size": 4.5
+      }
+    },
+    {
+      "surfaceM2": 4.8,
+      "luffLengthCm": 414,
+      "boomLengthsCm": [155],
+      "mastExtensionLengthsCm": [14],
+      "weightKg": 3.04,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM"],
+      "mastLengthsCm": [400],
+      "topType": "fixed",
+      "variant": {
+        "size": 4.8
+      }
+    },
+    {
+      "surfaceM2": 5.1,
+      "luffLengthCm": 428,
+      "boomLengthsCm": [160],
+      "mastExtensionLengthsCm": [28],
+      "weightKg": 3.16,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM"],
+      "mastLengthsCm": [400],
+      "topType": "fixed",
+      "variant": {
+        "size": 5.1
+      }
+    },
+    {
+      "surfaceM2": 5.4,
+      "luffLengthCm": 436,
+      "boomLengthsCm": [169],
+      "mastExtensionLengthsCm": [6],
+      "weightKg": 3.24,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM", "SDM"],
+      "mastLengthsCm": [430],
+      "topType": "fixed",
+      "variant": {
+        "size": 5.4
+      }
+    },
+    {
+      "surfaceM2": 5.7,
+      "luffLengthCm": 448,
+      "boomLengthsCm": [172],
+      "mastExtensionLengthsCm": [18],
+      "weightKg": 3.38,
+      "battenCount": 4,
+      "camCount": 0,
+      "masTypes": ["RDM", "SDM"],
+      "mastLengthsCm": [430],
+      "topType": "fixed",
+      "variant": {
+        "size": 5.7
+      }
+    }
+  ],
+  "description": {
+    "en": "When you want to flick the switch between freestyling in flat-water or waves, you need the Wizard PRO HD! Light to handle and fast to gain momentum, this sail will ignite your passion, letting you make the rules on the water whatever the conditions. Early planing, stability and insane lift, the Wizard has it all!\n\nWhether you ́re going for your first spocks or double power moves, the Wizard will handle it."
+  },
+  "pictures": [
+    {
+      "url": "//cdn.shopify.com/s/files/1/2119/3655/products/19_05_09_2019-Product-Book-Drawings_Freestyle_wizard.jpg?v=1567555401",
+      "variant": {}
+    },
+    {
+      "url": "//cdn.shopify.com/s/files/1/2119/3655/products/Wizard_Nico_A..jpg?v=1567555401",
+      "variant": {}
+    },
+    {
+      "url": "//cdn.shopify.com/s/files/1/2119/3655/products/Wizard_Sam.jpg?v=1567555401",
+      "variant": {}
+    },
+    {
+      "url": "//cdn.shopify.com/s/files/1/2119/3655/products/Wizard_Sarah_Quita.jpg?v=1567555401",
+      "variant": {}
+    }
+  ]
+}

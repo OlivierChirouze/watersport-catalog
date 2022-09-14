@@ -1,0 +1,98 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2018,
+  "name": "Airplane",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 230,
+      "widthCm": 65,
+      "volumeL": 136,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 201,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 242,
+      "widthCm": 72,
+      "volumeL": 201,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 229,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 255,
+      "widthCm": 78,
+      "volumeL": 229,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 261,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 270,
+      "widthCm": 84,
+      "volumeL": 261,
+      "weightKg": 10.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 290,
+        "construction": "Deluxe"
+      },
+      "lengthCm": 290,
+      "widthCm": 90,
+      "volumeL": 290,
+      "weightKg": 11.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

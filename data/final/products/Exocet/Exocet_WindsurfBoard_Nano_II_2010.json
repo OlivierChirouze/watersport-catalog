@@ -1,0 +1,52 @@
+{
+  "name": "Nano",
+  "year": 2010,
+  "programs": ["freeride"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 67,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 155,
+      "lengthCm": 255,
+      "widthCm": 77,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "II"
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Quantum",
+  "year": 2013,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Simmer Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 75,
+        "construction": "N"
+      },
+      "volumeL": 75,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 75,
+      "lengthCm": 224.7,
+      "widthCm": 56.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "N"
+      },
+      "volumeL": 85,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 228.6,
+      "widthCm": 58.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.6
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 230.9,
+      "widthCm": 60.6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

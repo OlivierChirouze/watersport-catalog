@@ -1,0 +1,90 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Patrik",
+  "year": 2021,
+  "name": "Air Style",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Deck:Carbon"
+      },
+      "lengthCm": 211,
+      "widthCm": 61,
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Deck:carbone"
+      },
+      "lengthCm": 211,
+      "widthCm": 61,
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Deck:Carbon"
+      },
+      "lengthCm": 212,
+      "widthCm": 64,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Deck:carbone"
+      },
+      "lengthCm": 212,
+      "widthCm": 64,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

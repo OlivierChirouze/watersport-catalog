@@ -1,0 +1,55 @@
+{
+  "name": "Speed",
+  "year": 2012,
+  "programs": ["race"],
+  "brandName": "Patrik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 54
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 54,
+      "lengthCm": 228,
+      "widthCm": 43,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 68,
+      "lengthCm": 229,
+      "widthCm": 48,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 230,
+      "widthCm": 53,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

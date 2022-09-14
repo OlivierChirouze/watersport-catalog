@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Formula Experience",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 117,
+        "construction": "N"
+      },
+      "volumeL": 117,
+      "weightKg": 10.3,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "N"
+      },
+      "volumeL": 117,
+      "weightKg": 11.7,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

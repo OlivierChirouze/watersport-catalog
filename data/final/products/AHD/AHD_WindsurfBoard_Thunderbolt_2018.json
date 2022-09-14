@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2018,
+  "name": "Thunderbolt",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 112,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 84,
+      "volumeL": 125,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 91,
+      "volumeL": 147,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 158,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 158,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

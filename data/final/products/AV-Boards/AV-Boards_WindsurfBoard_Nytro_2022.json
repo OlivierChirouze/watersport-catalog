@@ -1,0 +1,73 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AV-Boards",
+  "year": 2022,
+  "name": "Nytro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 87
+      },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 87,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97
+      },
+      "lengthCm": 229,
+      "widthCm": 60,
+      "volumeL": 97,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103
+      },
+      "lengthCm": 230,
+      "widthCm": 62,
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113
+      },
+      "lengthCm": 232,
+      "widthCm": 64.5,
+      "volumeL": 113,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Fanatic",
+  "year": 2017,
+  "name": "Falcon Lightwind",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 159,
+        "construction": "Bxf Biax Fiber Full PVC Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 159,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 159,
+        "construction": "Bxf Biax Fibre Full Pvc Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 159,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

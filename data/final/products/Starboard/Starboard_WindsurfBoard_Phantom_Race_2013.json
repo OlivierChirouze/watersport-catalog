@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Phantom Race",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 260,
+        "construction": "N"
+      },
+      "volumeL": 260,
+      "weightKg": 15.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 260,
+        "construction": "N"
+      },
+      "volumeL": 260,
+      "weightKg": 15.8,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

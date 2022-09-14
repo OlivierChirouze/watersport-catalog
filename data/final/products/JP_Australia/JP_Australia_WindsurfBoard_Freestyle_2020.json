@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2020,
+  "name": "Freestyle",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 60.5,
+        "construction": "Pro"
+      },
+      "lengthCm": 85,
+      "widthCm": 220,
+      "volumeL": 60.5,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 62,
+        "construction": "Pro"
+      },
+      "lengthCm": 92,
+      "widthCm": 220,
+      "volumeL": 62,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Pro"
+      },
+      "lengthCm": 101,
+      "widthCm": 220,
+      "volumeL": 64,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 65,
+        "construction": "Pro"
+      },
+      "lengthCm": 105,
+      "widthCm": 221,
+      "volumeL": 65,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

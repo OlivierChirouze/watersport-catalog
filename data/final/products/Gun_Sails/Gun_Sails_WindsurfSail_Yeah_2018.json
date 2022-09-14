@@ -1,0 +1,83 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2018,
+  "name": "Yeah",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [153],
+      "mastLengthsCm": [405, 340],
+      "mastExtensionLengthsCm": [56],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 396
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [158],
+      "mastLengthsCm": [370, 406],
+      "mastExtensionLengthsCm": [43, 7],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 413
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [149],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [42, 12],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 382
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [166],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [95],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 435
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "boomLengthsCm": [173],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [83],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 453
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

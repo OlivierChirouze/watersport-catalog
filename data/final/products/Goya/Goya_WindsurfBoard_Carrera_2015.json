@@ -1,0 +1,70 @@
+{
+  "name": "Carrera",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 116,
+      "lengthCm": 241.9,
+      "widthCm": 66.8,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.4,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 245.4,
+      "widthCm": 70.2,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 144
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 144,
+      "lengthCm": 250,
+      "widthCm": 75.2,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.9,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

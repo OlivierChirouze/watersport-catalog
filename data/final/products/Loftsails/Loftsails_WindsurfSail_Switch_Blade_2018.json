@@ -1,0 +1,125 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Loftsails",
+  "year": 2018,
+  "name": "Switch Blade",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 4.88,
+      "boomLengthsCm": [186],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [22],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario",
+      "luffLengthCm": 422
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "weightKg": 4.67,
+      "boomLengthsCm": [180],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "vario",
+      "luffLengthCm": 398
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "weightKg": 5.09,
+      "boomLengthsCm": [192],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [10],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 440
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "weightKg": 5.26,
+      "boomLengthsCm": [200],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [26],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 456
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "weightKg": 5.5,
+      "boomLengthsCm": [206],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 6,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 474
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 5.9,
+      "boomLengthsCm": [214],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [32],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 492
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "weightKg": 6.13,
+      "boomLengthsCm": [220],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [18],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 508
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "weightKg": 6.31,
+      "boomLengthsCm": [228],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [34],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed",
+      "luffLengthCm": 524
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

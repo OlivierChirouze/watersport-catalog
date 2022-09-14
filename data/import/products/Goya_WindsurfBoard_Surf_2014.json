@@ -1,0 +1,100 @@
+{
+  "name": "Surf",
+  "year": 2014,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Wood Sandwich Eva Deck"
+      },
+      "volumeL": 150,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Wood Sandwich EVA Deck"
+      },
+      "volumeL": 150,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 247.6,
+      "widthCm": 76.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 202,
+        "construction": "Wood Sandwich Eva Deck"
+      },
+      "volumeL": 202,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 202,
+        "construction": "Wood Sandwich EVA Deck"
+      },
+      "volumeL": 202,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 202
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 202,
+      "lengthCm": 279.7,
+      "widthCm": 84.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

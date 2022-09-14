@@ -1,0 +1,149 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2021,
+  "name": "iSonic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 55,
+      "volumeL": 76,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 86,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 96,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 67,
+      "volumeL": 113,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 72,
+      "volumeL": 123,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 77,
+      "volumeL": 126,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 83,
+      "volumeL": 138,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 139,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 139,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

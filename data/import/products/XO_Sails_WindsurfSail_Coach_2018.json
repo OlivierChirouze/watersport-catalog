@@ -1,0 +1,61 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "XO Sails",
+  "year": 2018,
+  "name": "Coach",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "boomLengthsCm": [
+        235
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 518,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        28
+      ]
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "boomLengthsCm": [
+        245
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 6,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 540,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

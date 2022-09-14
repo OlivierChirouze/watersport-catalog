@@ -1,0 +1,38 @@
+{
+  "name": "HTS FR81II",
+  "year": 2010,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 154
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 154,
+      "lengthCm": 230,
+      "widthCm": 81,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 11
+      }
+    }
+  ],
+  "pictures": []
+}

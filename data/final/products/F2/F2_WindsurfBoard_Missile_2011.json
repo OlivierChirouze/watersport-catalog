@@ -1,0 +1,51 @@
+{
+  "name": "Missile",
+  "year": 2011,
+  "programs": ["race"],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 54
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 54,
+      "lengthCm": 225,
+      "widthCm": 43,
+      "weightKg": 3.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 66
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 66,
+      "lengthCm": 227,
+      "widthCm": 49,
+      "weightKg": 4.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

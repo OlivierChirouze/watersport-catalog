@@ -1,0 +1,80 @@
+{
+  "name": "Kihei",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 251,
+      "widthCm": 64,
+      "weightKg": 7.98,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 259,
+      "widthCm": 69,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 155
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 155,
+      "lengthCm": 265,
+      "widthCm": 72,
+      "weightKg": 9.99,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

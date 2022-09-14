@@ -1,0 +1,35 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "Freestyle",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Carbon"
+      },
+      "volumeL": 99,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Carbon"
+      },
+      "volumeL": 99,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

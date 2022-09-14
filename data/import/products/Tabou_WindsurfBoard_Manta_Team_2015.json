@@ -1,0 +1,115 @@
+{
+  "name": "Manta Team",
+  "year": 2015,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 106
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 233,
+      "widthCm": 66,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 116
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 233,
+      "widthCm": 71,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 128
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 128,
+      "lengthCm": 232,
+      "widthCm": 81,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 232,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 98
+      },
+      "lengthCm": 240,
+      "widthCm": 61,
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

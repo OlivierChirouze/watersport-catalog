@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2018,
+  "name": "AirWindsurf",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Air"
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 100,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Air"
+      },
+      "lengthCm": 260,
+      "widthCm": 80,
+      "volumeL": 150,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Air"
+      },
+      "lengthCm": 240,
+      "widthCm": 50,
+      "volumeL": 70,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

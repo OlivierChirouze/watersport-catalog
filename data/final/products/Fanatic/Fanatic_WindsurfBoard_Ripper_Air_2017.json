@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2017,
+  "name": "Ripper Air",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 187,
+        "construction": "Gonflable",
+        "edition": "WS"
+      },
+      "lengthCm": 274.3,
+      "widthCm": 73.7,
+      "volumeL": 187,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

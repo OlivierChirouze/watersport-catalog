@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2020,
+  "name": "Formula",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 177,
+        "construction": "Carbon Reflex"
+      },
+      "lengthCm": 227,
+      "widthCm": 100.5,
+      "volumeL": 177,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

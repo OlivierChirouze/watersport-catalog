@@ -1,0 +1,141 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2022,
+  "name": "SL-3",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 67,
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 71,
+      "volumeL": 115,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "volumeL": 115,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 229,
+      "widthCm": 82,
+      "volumeL": 128,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "volumeL": 128,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Sandwich Pvc Carbon"
+      },
+      "lengthCm": 231,
+      "widthCm": 67,
+      "volumeL": 132,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Sandwich PVC Carbon"
+      },
+      "volumeL": 132,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "NoveNove",
+  "year": 2019,
+  "name": "Revo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Carbone Wood Sandwich"
+      },
+      "lengthCm": 236,
+      "widthCm": 82,
+      "volumeL": 110,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Carbone Wood Sandwich"
+      },
+      "lengthCm": 236,
+      "widthCm": 85,
+      "volumeL": 122,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Carbone Wood Sandwich"
+      },
+      "lengthCm": 236,
+      "widthCm": 82,
+      "volumeL": 135,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

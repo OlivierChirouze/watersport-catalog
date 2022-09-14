@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Black Local",
+  "year": 2017,
+  "name": "CompQwad",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Sandwi"
+      },
+      "lengthCm": 226,
+      "widthCm": 64,
+      "volumeL": 108,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "Sandwich"
+      },
+      "lengthCm": 226,
+      "widthCm": 64,
+      "volumeL": 108,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

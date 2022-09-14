@@ -1,0 +1,134 @@
+{
+  "name": "X-Fire",
+  "year": 2012,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 235,
+      "widthCm": 53,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 240,
+      "widthCm": 59,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 98
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 98,
+      "lengthCm": 235,
+      "widthCm": 62,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 235,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 114
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 235,
+      "widthCm": 70,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 122
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 122,
+      "lengthCm": 228,
+      "widthCm": 81,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 129
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 129,
+      "lengthCm": 228,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": [],
+  "version": "V4"
+}

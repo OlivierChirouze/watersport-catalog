@@ -1,0 +1,57 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Phantom Windsurfing",
+  "year": 2021,
+  "name": "Iris X",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Glass"
+      },
+      "lengthCm": 210,
+      "widthCm": 83,
+      "volumeL": 150,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Semi Custom Carbone"
+      },
+      "lengthCm": 210,
+      "widthCm": 83,
+      "volumeL": 150,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

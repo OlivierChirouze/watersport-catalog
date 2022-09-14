@@ -1,0 +1,55 @@
+{
+  "dimensions": ["size"],
+  "brandName": "NeilPryde",
+  "year": 2019,
+  "name": "Dragonfly",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.2
+      },
+      "surfaceM2": 2.2,
+      "weightKg": 2.83,
+      "boomLengthsCm": [125, 138],
+      "mastLengthsCm": [240],
+      "mastExtensionLengthsCm": [119, 35],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 275
+    },
+    {
+      "variant": {
+        "size": 2.7
+      },
+      "surfaceM2": 2.7,
+      "weightKg": 2.92,
+      "boomLengthsCm": [138, 150],
+      "mastLengthsCm": [240],
+      "mastExtensionLengthsCm": [128],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 359
+    },
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "weightKg": 2.83,
+      "boomLengthsCm": [138, 150],
+      "mastLengthsCm": [240],
+      "mastExtensionLengthsCm": [119],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 368
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

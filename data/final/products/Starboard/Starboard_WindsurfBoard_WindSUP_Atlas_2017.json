@@ -1,0 +1,51 @@
+{
+  "name": "WindSUP Atlas",
+  "year": 2017,
+  "programs": ["freeride", "beginner", "freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Asap"
+      },
+      "lengthCm": 370,
+      "widthCm": 82,
+      "volumeL": 205,
+      "weightKg": 14.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 205,
+      "lengthCm": 370,
+      "widthCm": 82,
+      "weightKg": 14.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

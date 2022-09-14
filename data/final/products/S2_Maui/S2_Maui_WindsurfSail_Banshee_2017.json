@@ -1,0 +1,78 @@
+{
+  "dimensions": ["size"],
+  "brandName": "S2 Maui",
+  "year": 2017,
+  "name": "Banshee",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "boomLengthsCm": [177],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [6],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 436
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "boomLengthsCm": [188],
+      "mastLengthsCm": [430, 75],
+      "mastExtensionLengthsCm": [13, 368],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 443
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "boomLengthsCm": [209],
+      "mastLengthsCm": [460, 75],
+      "mastExtensionLengthsCm": [18, 403],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 478
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [198],
+      "mastLengthsCm": [460, 75],
+      "mastExtensionLengthsCm": [389, 4],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 464
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "boomLengthsCm": [219],
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [27],
+      "battenCount": 6,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 487
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Chopper",
+  "year": 2013,
+  "programs": ["wave"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "mastLengthsCm": [370, 90],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "mastLengthsCm": [370, 90],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "mastLengthsCm": [370, 90],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {},
+      "luffLengthCm": 374,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [152, 157, 168, 178],
+      "weightKg": 3.18,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {},
+      "luffLengthCm": 352,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [157],
+      "weightKg": 3.08,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {},
+      "luffLengthCm": 345,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [152],
+      "weightKg": 2.95,
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {},
+      "luffLengthCm": 390,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [178],
+      "weightKg": 3.36,
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

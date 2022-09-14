@@ -1,0 +1,125 @@
+{
+  "name": "AC-One",
+  "year": 2015,
+  "programs": ["race", "slalom"],
+  "brandName": "Point-7",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 418,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [18],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 402,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [168],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [32],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [19],
+      "boomLengthsCm": [186],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [6],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [192],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [32],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "luffLengthCm": 498,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [204],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [38],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 522,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [216, 226],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [32],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "luffLengthCm": 538,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [229],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [18],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.7
+      },
+      "surfaceM2": 9.7,
+      "luffLengthCm": 548,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [234],
+      "battenCount": 8,
+      "camCount": 4,
+      "mastExtensionLengthsCm": [28],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

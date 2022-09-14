@@ -1,0 +1,117 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "RRD",
+  "year": 2020,
+  "name": "Compact SUP",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "beginner"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "boomLengthsCm": [
+        110
+      ],
+      "mastLengthsCm": [
+        175
+      ],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 173
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "boomLengthsCm": [
+        140
+      ],
+      "mastLengthsCm": [
+        265,
+        3
+      ],
+      "mastExtensionLengthsCm": [
+        260
+      ],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 263
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [
+        164
+      ],
+      "mastLengthsCm": [
+        265,
+        310
+      ],
+      "mastExtensionLengthsCm": [
+        43
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 308
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [
+        175
+      ],
+      "mastLengthsCm": [
+        310,
+        370,
+        4
+      ],
+      "mastExtensionLengthsCm": [
+        364,
+        58
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 368
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [
+        182
+      ],
+      "mastLengthsCm": [
+        370,
+        4
+      ],
+      "mastExtensionLengthsCm": [
+        28,
+        394
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 398
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

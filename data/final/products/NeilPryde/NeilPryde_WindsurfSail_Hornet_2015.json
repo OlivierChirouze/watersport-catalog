@@ -1,0 +1,111 @@
+{
+  "name": "Hornet",
+  "year": 2015,
+  "programs": ["freeride"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 413,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [188],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [13],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 432,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [194],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [2, 32],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [201],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [21],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [460, 490],
+      "mastIMCS": [25],
+      "boomLengthsCm": [207],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [10],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "luffLengthCm": 489,
+      "mastLengthsCm": [460, 490],
+      "mastIMCS": [25],
+      "boomLengthsCm": [213],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "luffLengthCm": 506,
+      "mastLengthsCm": [490, 520],
+      "mastIMCS": [29],
+      "boomLengthsCm": [219],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "luffLengthCm": 522,
+      "mastLengthsCm": [400, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [225],
+      "battenCount": 7,
+      "camCount": 2,
+      "mastExtensionLengthsCm": [122],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,74 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "Compact SUP Sail",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [265],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "boomLengthsCm": [165],
+      "mastLengthsCm": [3],
+      "mastExtensionLengthsCm": [305],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [175],
+      "mastLengthsCm": [310],
+      "mastExtensionLengthsCm": [58],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [185],
+      "mastLengthsCm": [5, 370],
+      "mastExtensionLengthsCm": [393, 28],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [5],
+      "mastExtensionLengthsCm": [258],
+      "battenCount": 1,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MKIII"
+}

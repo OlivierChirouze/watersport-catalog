@@ -1,0 +1,38 @@
+{
+  "name": "380 Elite",
+  "year": 2010,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Kona",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 310
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 310,
+      "lengthCm": 380,
+      "widthCm": 65,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

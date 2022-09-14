@@ -1,0 +1,227 @@
+{
+  "name": "Super Lightwind",
+  "year": 2014,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "volumeL": 165,
+      "weightKg": 10.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "weightKg": 10.3,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Gold"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "Gold"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 154,
+        "construction": "Gold"
+      },
+      "volumeL": 154,
+      "weightKg": 7.9,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "construction": "Pro"
+      },
+      "volumeL": 154,
+      "weightKg": 8.7,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "FWS"
+      },
+      "volumeL": 165,
+      "weightKg": 10.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Gold"
+      },
+      "volumeL": 165,
+      "weightKg": 7.9,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Pro"
+      },
+      "volumeL": 165,
+      "weightKg": 8.7,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

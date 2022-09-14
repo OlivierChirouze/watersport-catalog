@@ -1,0 +1,60 @@
+{
+  "name": "UltraSonic",
+  "year": 2017,
+  "programs": [
+    "freeride",
+    "race",
+    "slalom"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 147,
+        "construction": "Ultracore Reflex Carbon"
+      },
+      "lengthCm": 241,
+      "widthCm": 95,
+      "volumeL": 147,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 147
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 147,
+      "lengthCm": 241,
+      "widthCm": 95,
+      "weightKg": 8.15,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 12
+      }
+    }
+  ],
+  "pictures": []
+}

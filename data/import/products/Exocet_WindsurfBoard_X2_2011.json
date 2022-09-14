@@ -1,0 +1,38 @@
+{
+  "name": "X2",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 230
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 230,
+      "lengthCm": 350,
+      "widthCm": 80,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.6
+      }
+    }
+  ],
+  "pictures": []
+}

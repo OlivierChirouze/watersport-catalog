@@ -1,0 +1,41 @@
+{
+  "name": "RB",
+  "year": 2013,
+  "programs": ["race", "slalom"],
+  "brandName": "XO Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 510,
+      "mastLengthsCm": [490, 520],
+      "mastIMCS": [29],
+      "boomLengthsCm": [248],
+      "battenCount": 5,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 538,
+      "mastLengthsCm": [490, 520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [265],
+      "battenCount": 5,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

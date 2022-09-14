@@ -1,0 +1,123 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Fanatic",
+  "year": 2019,
+  "name": "Gecko Cork/Bamboo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Cork"
+      },
+      "lengthCm": 239,
+      "widthCm": 72,
+      "volumeL": 110,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Liège"
+      },
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Cork"
+      },
+      "lengthCm": 242,
+      "widthCm": 76,
+      "volumeL": 120,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Liège"
+      },
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Cork"
+      },
+      "lengthCm": 246,
+      "widthCm": 78,
+      "volumeL": 133,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Liège"
+      },
+      "volumeL": 133,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

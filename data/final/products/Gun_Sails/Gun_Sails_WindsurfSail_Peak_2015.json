@@ -1,0 +1,173 @@
+{
+  "name": "Peak",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "luffLengthCm": 357,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [142],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 2.94,
+      "mastExtensionLengthsCm": [17],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [144],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 2.94,
+      "mastExtensionLengthsCm": [20],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 365,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [146],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.04,
+      "mastExtensionLengthsCm": [25],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 384,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [152],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.24,
+      "mastExtensionLengthsCm": [14],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 392,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [156],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.34,
+      "mastExtensionLengthsCm": [22],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 397,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [161],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.49,
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 376,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [149],
+      "battenCount": 4,
+      "camCount": 0,
+      "weightKg": 3.14,
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 426,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [173],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.84,
+      "mastExtensionLengthsCm": [26],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [178],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.14,
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 415,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [169],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.74,
+      "mastExtensionLengthsCm": [15],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

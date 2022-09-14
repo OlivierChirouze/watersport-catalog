@@ -1,0 +1,162 @@
+{
+  "name": "RS Slalom",
+  "year": 2015,
+  "programs": ["slalom"],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 65
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 65,
+      "lengthCm": 230,
+      "widthCm": 50,
+      "weightKg": 4.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 91
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 91,
+      "lengthCm": 235,
+      "widthCm": 59,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.2,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 235,
+      "widthCm": 64,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 111
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 111,
+      "lengthCm": 235,
+      "widthCm": 69,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.3,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 126
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 126,
+      "lengthCm": 233,
+      "widthCm": 79,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 138
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 138,
+      "lengthCm": 233,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 149
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 149,
+      "lengthCm": 232,
+      "widthCm": 90,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 216
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 216,
+      "lengthCm": 260,
+      "widthCm": 90,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

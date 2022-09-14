@@ -1,0 +1,68 @@
+{
+  "name": "Black Box",
+  "year": 2014,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 215,
+      "widthCm": 62,
+      "weightKg": 6.23,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 215,
+      "widthCm": 62,
+      "weightKg": 6.37,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6
+      }
+    }
+  ],
+  "pictures": []
+}

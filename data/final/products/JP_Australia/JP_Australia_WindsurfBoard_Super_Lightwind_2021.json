@@ -1,0 +1,65 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2021,
+  "name": "Super Lightwind",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Lxt",
+        "edition": "LXT"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Gold"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "LXT"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

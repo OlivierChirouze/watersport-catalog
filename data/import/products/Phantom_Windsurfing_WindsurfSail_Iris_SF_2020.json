@@ -1,0 +1,80 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Phantom Windsurfing",
+  "year": 2020,
+  "name": "Iris SF",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "boomLengthsCm": [
+        240
+      ],
+      "mastLengthsCm": [
+        550
+      ],
+      "mastExtensionLengthsCm": [
+        38
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 8,
+      "camCount": 4,
+      "luffLengthCm": 588
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [
+        210
+      ],
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        34
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 8,
+      "camCount": 4,
+      "luffLengthCm": 524
+    },
+    {
+      "variant": {
+        "size": 9
+      },
+      "surfaceM2": 9,
+      "boomLengthsCm": [
+        226
+      ],
+      "mastLengthsCm": [
+        520
+      ],
+      "mastExtensionLengthsCm": [
+        36
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 8,
+      "camCount": 4,
+      "luffLengthCm": 556
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

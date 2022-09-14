@@ -1,0 +1,103 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2019,
+  "name": "Gecko",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Bxf",
+        "edition": "BXF"
+      },
+      "lengthCm": 239,
+      "widthCm": 72,
+      "volumeL": 100,
+      "weightKg": 7.05,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Bxf",
+        "edition": "BXF"
+      },
+      "lengthCm": 242,
+      "widthCm": 76,
+      "volumeL": 110,
+      "weightKg": 7.55,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Bxf",
+        "edition": "BXF"
+      },
+      "lengthCm": 246,
+      "widthCm": 78,
+      "volumeL": 120,
+      "weightKg": 7.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Bxf",
+        "edition": "BXF"
+      },
+      "lengthCm": 250,
+      "widthCm": 83,
+      "volumeL": 133,
+      "weightKg": 8.25,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "construction": "Bxf",
+        "edition": "BXF"
+      },
+      "lengthCm": 239,
+      "widthCm": 72,
+      "volumeL": 146,
+      "weightKg": 7.05,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

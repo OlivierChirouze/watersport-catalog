@@ -1,0 +1,85 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Tabou",
+  "year": 2018,
+  "name": "Rocket Wide Foil Ready",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 77,
+      "volumeL": 120,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 77,
+      "volumeL": 120,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Pvc Full Sandwich Hd",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

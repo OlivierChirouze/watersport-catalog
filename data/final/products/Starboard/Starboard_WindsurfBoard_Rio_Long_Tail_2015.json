@@ -1,0 +1,40 @@
+{
+  "name": "Rio Long Tail",
+  "year": 2015,
+  "programs": ["beginner", "freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 206
+      },
+      "volumeL": 206,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 259
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 259,
+      "lengthCm": 333,
+      "widthCm": 87,
+      "weightKg": 19,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

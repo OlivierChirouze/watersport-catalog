@@ -1,0 +1,40 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2013,
+  "name": "WS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 157,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 157,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 189,
+        "construction": "Wood Sandwich"
+      },
+      "volumeL": 189,
+      "weightKg": 16.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

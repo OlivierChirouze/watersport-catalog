@@ -1,0 +1,162 @@
+{
+  "name": "Techno",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Thermoformé"
+      },
+      "volumeL": 133,
+      "weightKg": 10.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Thermoformed"
+      },
+      "volumeL": 133,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 133,
+      "lengthCm": 250,
+      "widthCm": 70,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "Thermoformé"
+      },
+      "volumeL": 148,
+      "weightKg": 10.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "Thermoformed"
+      },
+      "volumeL": 148,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 148,
+      "lengthCm": 264,
+      "widthCm": 7.5,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Thermoformé"
+      },
+      "volumeL": 160,
+      "weightKg": 10.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Thermoformed"
+      },
+      "volumeL": 160,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 82,
+      "weightKg": 9.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 7.8
+      }
+    }
+  ],
+  "pictures": []
+}

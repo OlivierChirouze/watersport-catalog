@@ -1,0 +1,70 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Naish",
+  "year": 2021,
+  "name": "Chopper",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "boomLengthsCm": [147],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [4],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 344
+    },
+    {
+      "variant": {
+        "size": 4.3
+      },
+      "surfaceM2": 4.3,
+      "boomLengthsCm": [156],
+      "mastLengthsCm": [340, 370],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 356
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [167],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [2],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 372
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "boomLengthsCm": [177],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [16],
+      "masTypes": ["RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 386
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MK2"
+}

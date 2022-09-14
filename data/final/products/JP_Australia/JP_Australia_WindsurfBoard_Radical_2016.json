@@ -1,0 +1,238 @@
+{
+  "name": "Radical",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 69,
+        "construction": "Pro",
+        "edition": "Thruster Quad Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 52.5,
+      "volumeL": 69,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Pro",
+        "edition": "Thruster Quad Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 54.5,
+      "volumeL": 75,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Pro",
+        "edition": "Thruster Quad Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 56.5,
+      "volumeL": 83,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Pro",
+        "edition": "Thruster Quad Pro"
+      },
+      "lengthCm": 228,
+      "widthCm": 58.3,
+      "volumeL": 88,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Pro",
+        "edition": "Thruster Quad Pro"
+      },
+      "lengthCm": 230,
+      "widthCm": 59,
+      "volumeL": 94,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 69,
+        "edition": "Thruster Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 69,
+      "lengthCm": 225,
+      "widthCm": 52.5,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 5,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 75,
+        "edition": "Thruster Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 227,
+      "widthCm": 54.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "toM2": 5.4,
+        "fromM2": 3
+      }
+    },
+    {
+      "variant": {
+        "size": 83,
+        "edition": "Thruster Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 228,
+      "widthCm": 56.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 88,
+        "edition": "Thruster Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 228,
+      "widthCm": 58.3,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "Thruster Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 5.8
+      }
+    }
+  ],
+  "pictures": []
+}

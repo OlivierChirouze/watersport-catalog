@@ -1,0 +1,33 @@
+{
+  "name": "Mambo",
+  "year": 2010,
+  "programs": ["beginner"],
+  "brandName": "Hifly",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 175
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 175,
+      "lengthCm": 275,
+      "widthCm": 80,
+      "weightKg": 15.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

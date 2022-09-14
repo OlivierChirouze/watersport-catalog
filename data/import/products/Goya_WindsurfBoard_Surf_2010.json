@@ -1,0 +1,39 @@
+{
+  "name": "Surf",
+  "year": 2010,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 192
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 192,
+      "lengthCm": 280,
+      "widthCm": 85,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1.6,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

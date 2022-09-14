@@ -1,0 +1,37 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "RRD",
+  "year": 2013,
+  "name": "Firerace Club",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "C",
+        "edition": "W-Tech One Design"
+      },
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "N",
+        "edition": "W-Tech One Design"
+      },
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

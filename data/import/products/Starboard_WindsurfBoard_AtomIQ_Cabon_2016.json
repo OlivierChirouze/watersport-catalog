@@ -1,0 +1,143 @@
+{
+  "name": "AtomIQ Cabon",
+  "year": 2016,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 104
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 239,
+      "widthCm": 70,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 114
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 239,
+      "widthCm": 75.5,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 124
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 124,
+      "lengthCm": 239,
+      "widthCm": 81,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 84,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 235,
+      "widthCm": 89,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10.5
+      }
+    }
+  ],
+  "pictures": []
+}

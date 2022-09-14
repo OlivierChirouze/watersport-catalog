@@ -1,0 +1,79 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Starboard",
+  "year": 2021,
+  "name": "Ignite",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 210,
+      "widthCm": 59.5,
+      "volumeL": 87,
+      "weightKg": 6.05,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 210,
+      "widthCm": 63.5,
+      "volumeL": 93,
+      "weightKg": 6.67,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Carbon Reflex Sandwich",
+        "edition": "Carbon Reflex"
+      },
+      "lengthCm": 210,
+      "widthCm": 66.5,
+      "volumeL": 103,
+      "weightKg": 6.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

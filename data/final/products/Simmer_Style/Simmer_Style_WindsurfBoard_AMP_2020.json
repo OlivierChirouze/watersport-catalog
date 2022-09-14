@@ -1,0 +1,64 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Simmer Style",
+  "year": 2020,
+  "name": "AMP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Wood"
+      },
+      "lengthCm": 256,
+      "widthCm": 85,
+      "volumeL": 160,
+      "weightKg": 12.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Wood"
+      },
+      "lengthCm": 260,
+      "widthCm": 83,
+      "volumeL": 180,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 210,
+        "construction": "Wood"
+      },
+      "lengthCm": 268,
+      "widthCm": 90,
+      "volumeL": 210,
+      "weightKg": 14.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

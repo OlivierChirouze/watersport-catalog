@@ -1,0 +1,101 @@
+{
+  "name": "Mono",
+  "year": 2016,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 67
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 67,
+      "lengthCm": 232,
+      "widthCm": 52,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.7,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 72,
+      "lengthCm": 237.5,
+      "widthCm": 53.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 79
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 240.5,
+      "widthCm": 56,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 86
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 242.5,
+      "widthCm": 58,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.5
+      }
+    }
+  ],
+  "pictures": []
+}

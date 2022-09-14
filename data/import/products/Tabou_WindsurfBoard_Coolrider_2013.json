@@ -1,0 +1,130 @@
+{
+  "name": "Coolrider",
+  "year": 2013,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "Tabou",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ast"
+      },
+      "volumeL": 160,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "AST"
+      },
+      "volumeL": 160,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 266,
+      "widthCm": 76,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Ast"
+      },
+      "volumeL": 180,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "AST"
+      },
+      "volumeL": 180,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 190
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 190,
+      "lengthCm": 280,
+      "widthCm": 80,
+      "weightKg": 14,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 200
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 200,
+      "lengthCm": 288,
+      "widthCm": 85,
+      "weightKg": 14.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

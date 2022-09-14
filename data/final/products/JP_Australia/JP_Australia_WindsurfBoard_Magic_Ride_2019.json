@@ -1,0 +1,385 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2019,
+  "name": "Magic Ride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 240,
+      "widthCm": 72,
+      "volumeL": 103,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 240,
+      "widthCm": 75,
+      "volumeL": 112,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 119,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 119,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 251,
+      "widthCm": 84,
+      "volumeL": 130,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 240,
+      "widthCm": 68.5,
+      "volumeL": 154,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "lengthCm": 240,
+      "widthCm": 68.5,
+      "volumeL": 97,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 142,
+        "construction": "Es",
+        "edition": "Family"
+      },
+      "lengthCm": 251,
+      "widthCm": 84,
+      "volumeL": 142,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "construction": "Es",
+        "edition": "Family"
+      },
+      "lengthCm": 251,
+      "widthCm": 84,
+      "volumeL": 154,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 72,
+      "volumeL": 103,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 75,
+      "volumeL": 112,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 119,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 119,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 249,
+      "widthCm": 81,
+      "volumeL": 130,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 142,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 251,
+      "widthCm": 84,
+      "volumeL": 142,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 68.5,
+      "volumeL": 154,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 68.5,
+      "volumeL": 97,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 72,
+      "volumeL": 103,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 75,
+      "volumeL": 112,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 119,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 78,
+      "volumeL": 119,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Pro"
+      },
+      "lengthCm": 249,
+      "widthCm": 81,
+      "volumeL": 130,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 142,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 68.5,
+      "volumeL": 142,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 68.5,
+      "volumeL": 97,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

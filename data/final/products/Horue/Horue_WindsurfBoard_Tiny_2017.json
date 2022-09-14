@@ -1,0 +1,83 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "Horue",
+  "year": 2017,
+  "name": "Tiny",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Carbon Fabriqué EN UE",
+        "edition": "Pro"
+      },
+      "lengthCm": 175,
+      "widthCm": 73,
+      "volumeL": 90,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Carbone - Fabriqué En Ue",
+        "edition": "Pro"
+      },
+      "lengthCm": 175,
+      "widthCm": 73,
+      "volumeL": 90,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Carbon Fabriqué EN UE"
+      },
+      "lengthCm": 210,
+      "widthCm": 75.8,
+      "volumeL": 110,
+      "weightKg": 6.62,
+      "fins": [
+        {
+          "count": 4,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Carbone - Fabriqué En Ue"
+      },
+      "lengthCm": 210,
+      "widthCm": 75.8,
+      "volumeL": 110,
+      "weightKg": 6.62,
+      "fins": [
+        {
+          "count": 4,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Fire",
+  "year": 2015,
+  "programs": ["freeride", "race"],
+  "brandName": "RRD",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 452,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [190, 452],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [200, 462],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [211, 482],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "luffLengthCm": 500,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [223, 500],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 9.2
+      },
+      "surfaceM2": 9.2,
+      "luffLengthCm": 513,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [237, 513],
+      "battenCount": 7,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "pictures": [],
+  "version": "MKIII"
+}

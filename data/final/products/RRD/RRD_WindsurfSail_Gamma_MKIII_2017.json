@@ -1,0 +1,126 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2017,
+  "name": "Gamma",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [370, 340],
+      "mastExtensionLengthsCm": [3],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 343
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "boomLengthsCm": [152],
+      "mastLengthsCm": [370, 340],
+      "mastExtensionLengthsCm": [12],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 352
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "boomLengthsCm": [160],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [6],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 376
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 388
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "boomLengthsCm": [168],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 397
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [157],
+      "mastLengthsCm": [370, 340],
+      "mastExtensionLengthsCm": [27],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 367
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "boomLengthsCm": [174],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [18],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 418
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [171],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [9],
+      "masTypes": ["RDM"],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 409
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MKIII"
+}

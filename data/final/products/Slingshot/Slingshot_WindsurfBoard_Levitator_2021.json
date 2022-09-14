@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Slingshot",
+  "year": 2021,
+  "name": "Levitator",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 150
+      },
+      "lengthCm": 198,
+      "widthCm": 83.8,
+      "volumeL": 150,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "lengthCm": 213,
+      "widthCm": 86.4,
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,100 @@
+{
+  "name": "SX Silberpfeil",
+  "year": 2012,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 91
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 91,
+      "lengthCm": 236,
+      "widthCm": 58,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 111
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 111,
+      "lengthCm": 234,
+      "widthCm": 69,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 234,
+      "widthCm": 82,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 234,
+      "widthCm": 85,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

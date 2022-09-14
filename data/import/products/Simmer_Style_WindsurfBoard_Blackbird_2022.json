@@ -1,0 +1,93 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Simmer Style",
+  "year": 2022,
+  "name": "Blackbird",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Full Epoxy Woodglass Sandwich",
+        "edition": "WF"
+      },
+      "lengthCm": 186,
+      "widthCm": 76,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Full Epoxy Woodglass Sandwich",
+        "edition": "WF"
+      },
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Sandwich Duratech",
+        "edition": "WS"
+      },
+      "lengthCm": 213,
+      "widthCm": 80,
+      "volumeL": 128,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "Sandwich Duratech",
+        "edition": "WS"
+      },
+      "lengthCm": 212,
+      "widthCm": 88,
+      "volumeL": 138,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

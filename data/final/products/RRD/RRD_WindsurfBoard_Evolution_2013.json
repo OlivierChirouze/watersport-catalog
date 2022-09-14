@@ -1,0 +1,39 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "RRD",
+  "year": 2013,
+  "name": "Evolution",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Duratech",
+        "edition": "XS"
+      },
+      "volumeL": 128,
+      "weightKg": 9.9,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "construction": "Duratech",
+        "edition": "XS"
+      },
+      "volumeL": 128,
+      "weightKg": 9.9,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

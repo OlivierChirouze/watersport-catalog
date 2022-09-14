@@ -1,0 +1,40 @@
+{
+  "name": "Super Lightwind",
+  "year": 2011,
+  "programs": [
+    "race"
+  ],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 0
+      }
+    }
+  ],
+  "pictures": []
+}

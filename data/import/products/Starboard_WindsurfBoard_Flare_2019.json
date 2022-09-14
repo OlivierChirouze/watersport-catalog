@@ -1,0 +1,94 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Starboard",
+  "year": 2019,
+  "name": "Flare",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freestyle"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Carbon Reflex"
+      },
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 225,
+      "widthCm": 65,
+      "weightKg": 6.3
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Carbon Reflex"
+      },
+      "volumeL": 113,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 224,
+      "widthCm": 68.5,
+      "weightKg": 6.5
+    },
+    {
+      "variant": {
+        "size": 87,
+        "construction": "Carbon Reflex"
+      },
+      "volumeL": 87,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 210,
+      "widthCm": 59.5,
+      "weightKg": 5.8
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Carbon Reflex"
+      },
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "lengthCm": 223,
+      "widthCm": 63,
+      "weightKg": 6.1
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Falcon Formula",
+  "year": 2014,
+  "programs": ["race"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 170,
+        "construction": "Bcs"
+      },
+      "volumeL": 170,
+      "weightKg": 8.8,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 170,
+      "lengthCm": 230,
+      "widthCm": 100,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

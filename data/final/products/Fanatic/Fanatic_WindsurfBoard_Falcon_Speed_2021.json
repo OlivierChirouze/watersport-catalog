@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2021,
+  "name": "Falcon Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Biax Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 52.5,
+      "volumeL": 70,
+      "weightKg": 4.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

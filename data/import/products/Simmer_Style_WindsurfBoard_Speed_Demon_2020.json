@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Simmer Style",
+  "year": 2020,
+  "name": "Speed Demon",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 227,
+      "widthCm": 40,
+      "volumeL": 50,
+      "weightKg": 4.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 58,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 227,
+      "widthCm": 43,
+      "volumeL": 58,
+      "weightKg": 4.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

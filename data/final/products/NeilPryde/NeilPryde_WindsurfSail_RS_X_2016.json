@@ -1,0 +1,39 @@
+{
+  "name": "RS:X",
+  "year": 2016,
+  "programs": ["slalom"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 519,
+      "mastLengthsCm": [492],
+      "mastIMCS": [29],
+      "boomLengthsCm": [233],
+      "weightKg": 5.5,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 552,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [262],
+      "weightKg": 6.1,
+      "battenCount": 7,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

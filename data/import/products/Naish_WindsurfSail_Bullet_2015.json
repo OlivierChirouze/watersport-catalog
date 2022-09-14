@@ -1,0 +1,148 @@
+{
+  "name": "Bullet",
+  "year": 2015,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 434,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        168
+      ],
+      "weightKg": 4.87,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        4
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 448,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        180
+      ],
+      "weightKg": 5.12,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        18
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 476,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        204
+      ],
+      "weightKg": 5.68,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        16
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        190
+      ],
+      "weightKg": 5.37,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        2
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.8
+      },
+      "surfaceM2": 8.8,
+      "luffLengthCm": 490,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        216
+      ],
+      "weightKg": 6.02,
+      "battenCount": 7,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        30
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Exocet",
+  "year": 2018,
+  "name": "RS D2 Elite",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 428,
+        "construction": "Pro Model"
+      },
+      "lengthCm": 380,
+      "widthCm": 65,
+      "volumeL": 428,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 311,
+        "construction": "Pro Model"
+      },
+      "lengthCm": 380,
+      "widthCm": 77,
+      "volumeL": 311,
+      "weightKg": 14.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

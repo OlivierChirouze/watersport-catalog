@@ -1,0 +1,85 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2014,
+  "name": "Easy Ride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 166,
+        "construction": "Dura-Tec"
+      },
+      "volumeL": 166,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 166,
+        "construction": "Duractech"
+      },
+      "volumeL": 166,
+      "weightKg": 12,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Dura-Tec"
+      },
+      "volumeL": 180,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Duractech"
+      },
+      "volumeL": 180,
+      "weightKg": 12,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Dura-Tec"
+      },
+      "volumeL": 220,
+      "weightKg": 12,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Duractech"
+      },
+      "volumeL": 220,
+      "weightKg": 12,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Discovery",
+  "year": 2010,
+  "programs": [
+    "beginner"
+  ],
+  "brandName": "F2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 225,
+        "edition": "L"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 225,
+      "lengthCm": 275,
+      "widthCm": 90,
+      "weightKg": 14.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 185,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 185,
+      "lengthCm": 270,
+      "widthCm": 80,
+      "weightKg": 13.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "S"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 280,
+      "widthCm": 71,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

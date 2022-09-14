@@ -1,0 +1,83 @@
+{
+  "name": "Switch Blade",
+  "year": 2010,
+  "programs": ["freeride", "race"],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [192],
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.3
+      },
+      "surfaceM2": 6.3,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [197],
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "luffLengthCm": 460,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [205],
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 474,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [212],
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 486,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [222],
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 502,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [231],
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [490],
+      "boomLengthsCm": [247],
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,67 @@
+{
+  "name": "RennSport",
+  "year": 2010,
+  "programs": ["slalom"],
+  "brandName": "Thommen1",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 111
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 111,
+      "lengthCm": 239,
+      "widthCm": 67.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 123
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 123,
+      "lengthCm": 239,
+      "widthCm": 73.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 133
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 133,
+      "lengthCm": 239,
+      "widthCm": 84.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,61 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gaastra",
+  "year": 2022,
+  "name": "Phantom Air",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "mastLengthsCm": [100, 430],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "mastLengthsCm": [430, 460],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "mastLengthsCm": [100, 490],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "mastLengthsCm": [460, 490],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 3,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

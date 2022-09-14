@@ -1,0 +1,49 @@
+{
+  "name": "KS3 Micro",
+  "year": 2014,
+  "programs": ["kids"],
+  "brandName": "Hot Sails Maui",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.4
+      },
+      "surfaceM2": 2.4,
+      "luffLengthCm": 280,
+      "mastLengthsCm": [270],
+      "boomLengthsCm": [121],
+      "weightKg": 2.2,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.7
+      },
+      "surfaceM2": 2.7,
+      "luffLengthCm": 296,
+      "mastLengthsCm": [270],
+      "boomLengthsCm": [128],
+      "weightKg": 2.2,
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 303,
+      "mastLengthsCm": [270],
+      "boomLengthsCm": [139],
+      "weightKg": 2.3,
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

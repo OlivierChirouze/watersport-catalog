@@ -1,0 +1,111 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2022,
+  "name": "Foil Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 220,
+      "widthCm": 71,
+      "volumeL": 145,
+      "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 220,
+      "widthCm": 71,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 163,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 163,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 163,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 163,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 191,
+        "construction": "Carbon Reflex Sandwich"
+      },
+      "lengthCm": 210,
+      "widthCm": 91,
+      "volumeL": 191,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 191,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 210,
+      "widthCm": 91,
+      "volumeL": 191,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Super Lightwind",
+  "year": 2013,
+  "programs": ["freeride", "race"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "volumeL": 165,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "volumeL": 92,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Gold"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "Gold"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 154,
+      "lengthCm": 237,
+      "widthCm": 90,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 154,
+        "construction": "Pro"
+      },
+      "volumeL": 154,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "FWS"
+      },
+      "volumeL": 165,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "FWS"
+      },
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

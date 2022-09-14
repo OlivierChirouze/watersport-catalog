@@ -1,0 +1,102 @@
+{
+  "name": "Wave",
+  "year": 2014,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Carbon Art",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 74,
+      "lengthCm": 232,
+      "widthCm": 53,
+      "weightKg": 5.6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 78
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 78,
+      "lengthCm": 232,
+      "widthCm": 55,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 232,
+      "widthCm": 57,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 232,
+      "widthCm": 59,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    }
+  ],
+  "pictures": [],
+  "version": "V"
+}

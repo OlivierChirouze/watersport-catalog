@@ -1,0 +1,80 @@
+{
+  "name": "TT",
+  "year": 2010,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Kona",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 320,
+      "widthCm": 65,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 170,
+      "lengthCm": 350,
+      "widthCm": 70,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 300,
+      "widthCm": 60,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

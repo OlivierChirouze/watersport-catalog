@@ -1,0 +1,277 @@
+{
+  "name": "Pyramid",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 219,
+      "widthCm": 54,
+      "volumeL": 72,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Carbone Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 219,
+      "widthCm": 54,
+      "volumeL": 72,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 221,
+      "widthCm": 55,
+      "volumeL": 77,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Carbone Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 221,
+      "widthCm": 55,
+      "volumeL": 77,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 225,
+      "widthCm": 58,
+      "volumeL": 86,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Carbone Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 225,
+      "widthCm": 58,
+      "volumeL": 86,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 227,
+      "widthCm": 59,
+      "volumeL": 95,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbone Sandwich",
+        "edition": "Thruster"
+      },
+      "lengthCm": 227,
+      "widthCm": 59,
+      "volumeL": 95,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 219,
+      "widthCm": 54,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.7,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
+        "size": 77
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 77,
+      "lengthCm": 221,
+      "widthCm": 55,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 86
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 225,
+      "widthCm": 58,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 227,
+      "widthCm": 59,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    }
+  ],
+  "pictures": []
+}

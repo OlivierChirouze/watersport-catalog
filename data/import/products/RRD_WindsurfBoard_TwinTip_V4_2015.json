@@ -1,0 +1,140 @@
+{
+  "name": "TwinTip",
+  "year": 2015,
+  "programs": [
+    "freestyle"
+  ],
+  "brandName": "RRD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 101,
+      "lengthCm": 227,
+      "widthCm": 63,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 91,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 91,
+      "lengthCm": 230,
+      "widthCm": 59.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Ltd"
+      },
+      "lengthCm": 227,
+      "widthCm": 63,
+      "volumeL": 101,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "LTD"
+      },
+      "lengthCm": 227,
+      "widthCm": 63,
+      "volumeL": 101,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Ltd"
+      },
+      "lengthCm": 230,
+      "widthCm": 59.5,
+      "volumeL": 91,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "LTD"
+      },
+      "lengthCm": 230,
+      "widthCm": 59.5,
+      "volumeL": 91,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": [],
+  "version": "V4"
+}

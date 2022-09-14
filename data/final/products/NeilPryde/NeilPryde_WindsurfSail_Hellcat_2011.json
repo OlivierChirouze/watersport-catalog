@@ -1,0 +1,61 @@
+{
+  "name": "Hellcat",
+  "year": 2011,
+  "programs": ["freeride"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 396,
+      "mastLengthsCm": [370],
+      "boomLengthsCm": [170],
+      "weightKg": 3.64,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 414,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [177],
+      "weightKg": 3.8,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 433,
+      "mastLengthsCm": [400, 430],
+      "boomLengthsCm": [183],
+      "weightKg": 4,
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 453,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [189],
+      "weightKg": 4.2,
+      "battenCount": 5,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

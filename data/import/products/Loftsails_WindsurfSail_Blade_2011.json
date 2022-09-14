@@ -1,0 +1,94 @@
+{
+  "name": "Blade",
+  "year": 2011,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 11.8,
+        "edition": "FR"
+      },
+      "surfaceM2": 11.8,
+      "luffLengthCm": 567,
+      "mastLengthsCm": [
+        550
+      ],
+      "mastIMCS": [
+        35
+      ],
+      "boomLengthsCm": [
+        282
+      ],
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 11,
+        "edition": "FR"
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 554,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastIMCS": [
+        33
+      ],
+      "boomLengthsCm": [
+        274
+      ],
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 12.5,
+        "edition": "FR"
+      },
+      "surfaceM2": 12.5,
+      "luffLengthCm": 578,
+      "mastLengthsCm": [
+        550
+      ],
+      "mastIMCS": [
+        35
+      ],
+      "boomLengthsCm": [
+        292
+      ],
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 9.5,
+        "edition": "RB"
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 524,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastIMCS": [
+        33
+      ],
+      "boomLengthsCm": [
+        250
+      ],
+      "battenCount": 7,
+      "camCount": 4
+    }
+  ],
+  "pictures": []
+}

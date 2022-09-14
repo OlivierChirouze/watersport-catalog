@@ -1,0 +1,65 @@
+{
+  "name": "Freeslalom",
+  "year": 2015,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Drops",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 240,
+      "widthCm": 63,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 244,
+      "widthCm": 66,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 245,
+      "widthCm": 76,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Starboard",
+  "year": 2013,
+  "name": "Quad",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Carbon"
+      },
+      "volumeL": 70,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 70,
+        "construction": "Wood"
+      },
+      "volumeL": 70,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Carbon"
+      },
+      "volumeL": 77,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Wood"
+      },
+      "volumeL": 77,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

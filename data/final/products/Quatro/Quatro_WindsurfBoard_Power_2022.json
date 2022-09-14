@@ -1,0 +1,149 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Quatro",
+  "year": 2022,
+  "name": "Power",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro Carbon Monocoque Construction",
+        "edition": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 64,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 229,
+      "widthCm": 64,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pro Carbon Monocoque Construction",
+        "edition": "Pro"
+      },
+      "lengthCm": 231,
+      "widthCm": 67.5,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 231,
+      "widthCm": 67.5,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Pro Carbon Monocoque Construction",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 59,
+      "volumeL": 86,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 225,
+      "widthCm": 59,
+      "volumeL": 86,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Pro Carbon Monocoque Construction",
+        "edition": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 61.5,
+      "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 227,
+      "widthCm": 61.5,
+      "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

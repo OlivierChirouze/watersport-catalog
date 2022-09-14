@@ -1,0 +1,46 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Goya",
+  "year": 2021,
+  "name": "AirBolt",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 199.5,
+      "widthCm": 66,
+      "volumeL": 105,
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 205,
+      "widthCm": 71,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 220.8,
+      "widthCm": 83.6,
+      "volumeL": 155,
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

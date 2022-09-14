@@ -1,0 +1,55 @@
+{
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "brandName": "Tabou",
+  "year": 2015,
+  "name": "Rookie Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "kids"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 96,
+        "edition": "L"
+      },
+      "lengthCm": 239,
+      "widthCm": 61,
+      "volumeL": 96,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 61
+      },
+      "lengthCm": 225,
+      "widthCm": 53,
+      "volumeL": 61,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

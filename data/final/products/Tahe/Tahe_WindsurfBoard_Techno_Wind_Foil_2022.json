@@ -1,0 +1,81 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tahe",
+  "year": 2022,
+  "name": "Techno Wind Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Ace-tec"
+      },
+      "lengthCm": 230,
+      "widthCm": 81.5,
+      "volumeL": 130,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Ace-Tec"
+      },
+      "lengthCm": 230,
+      "widthCm": 81.5,
+      "volumeL": 130,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ace-tec"
+      },
+      "lengthCm": 255,
+      "widthCm": 82,
+      "volumeL": 160,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Ace-Tec"
+      },
+      "lengthCm": 255,
+      "widthCm": 82,
+      "volumeL": 160,
+      "weightKg": 11,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

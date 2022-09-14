@@ -1,0 +1,133 @@
+{
+  "name": "H2 Racing",
+  "year": 2013,
+  "programs": ["freeride", "race"],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 540,
+      "mastLengthsCm": [460, 520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [237],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 436,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [184],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 451,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [195],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "luffLengthCm": 466,
+      "mastLengthsCm": [460],
+      "mastIMCS": [26],
+      "boomLengthsCm": [204],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.7
+      },
+      "surfaceM2": 7.7,
+      "luffLengthCm": 480,
+      "mastLengthsCm": [460],
+      "mastIMCS": [26],
+      "boomLengthsCm": [211],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.2
+      },
+      "surfaceM2": 8.2,
+      "luffLengthCm": 493,
+      "mastLengthsCm": [460, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [218],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "luffLengthCm": 506,
+      "mastLengthsCm": [460, 490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [225],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.3
+      },
+      "surfaceM2": 9.3,
+      "luffLengthCm": 520,
+      "mastLengthsCm": [460, 520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [232],
+      "battenCount": 8,
+      "camCount": 2,
+      "weightKg": 5.8,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,82 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "TwinTip",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freestyle"],
+  "variants": [
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Ltd"
+      },
+      "lengthCm": 219,
+      "widthCm": 60.5,
+      "volumeL": 101,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "LTD"
+      },
+      "lengthCm": 219,
+      "widthCm": 63,
+      "volumeL": 101,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "Ltd"
+      },
+      "lengthCm": 219,
+      "widthCm": 60.5,
+      "volumeL": 91,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 91,
+        "construction": "LTD"
+      },
+      "lengthCm": 219,
+      "widthCm": 60.5,
+      "volumeL": 91,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V7"
+}

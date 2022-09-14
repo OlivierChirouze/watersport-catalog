@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2017,
+  "name": "Explorer",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Asa+eva"
+      },
+      "lengthCm": 270,
+      "widthCm": 70,
+      "volumeL": 145,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Asa+EVA"
+      },
+      "lengthCm": 270,
+      "widthCm": 70,
+      "volumeL": 145,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Asa+eva"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 165,
+      "weightKg": 12.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "Asa+EVA"
+      },
+      "lengthCm": 275,
+      "widthCm": 75,
+      "volumeL": 165,
+      "weightKg": 12.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 195,
+        "construction": "Asa+eva"
+      },
+      "lengthCm": 280,
+      "widthCm": 82.5,
+      "volumeL": 195,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 195,
+        "construction": "Asa+EVA"
+      },
+      "lengthCm": 280,
+      "widthCm": 82.5,
+      "volumeL": 195,
+      "weightKg": 13.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

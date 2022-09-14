@@ -1,0 +1,71 @@
+{
+  "name": "Phantom",
+  "year": 2015,
+  "programs": ["beginner", "freeride", "race"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 260,
+        "edition": "Tufskin"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 260,
+      "lengthCm": 320,
+      "widthCm": 71,
+      "weightKg": 15.75,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 217,
+        "construction": "Ast"
+      },
+      "lengthCm": 295,
+      "widthCm": 72,
+      "volumeL": 217,
+      "weightKg": 13.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 217
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 217,
+      "lengthCm": 295,
+      "widthCm": 72,
+      "weightKg": 13.25,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9.5
+      }
+    }
+  ],
+  "pictures": []
+}

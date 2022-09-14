@@ -1,0 +1,97 @@
+{
+  "name": "Cross",
+  "year": 2015,
+  "programs": ["freeride", "freestyle"],
+  "brandName": "Sailloft",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 440,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [179, 181],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [10],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 449,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [185],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [19],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 449,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [187],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [19],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 474,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [204],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [14],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 465,
+      "mastLengthsCm": [430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [198],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [35],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 490,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212],
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [30],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

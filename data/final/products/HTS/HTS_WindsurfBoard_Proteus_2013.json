@@ -1,0 +1,58 @@
+{
+  "name": "Proteus",
+  "year": 2013,
+  "programs": ["slalom", "freeride"],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 118
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 118,
+      "lengthCm": 230,
+      "widthCm": 68,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 132
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 230,
+      "widthCm": 72,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 150,
+      "lengthCm": 230,
+      "widthCm": 80,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

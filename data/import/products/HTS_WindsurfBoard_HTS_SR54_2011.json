@@ -1,0 +1,38 @@
+{
+  "name": "HTS SR54",
+  "year": 2011,
+  "programs": [
+    "slalom"
+  ],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 84
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 230,
+      "widthCm": 54,
+      "weightKg": 5.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

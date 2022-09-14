@@ -1,0 +1,109 @@
+{
+  "dimensions": ["size", "edition"],
+  "brandName": "Tabou",
+  "year": 2022,
+  "name": "Magic Carpet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "edition": "MTE"
+      },
+      "lengthCm": 189,
+      "widthCm": 73.2,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "MTE"
+      },
+      "lengthCm": 195,
+      "widthCm": 76.8,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "MTE"
+      },
+      "lengthCm": 195,
+      "widthCm": 81,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "Team"
+      },
+      "lengthCm": 189,
+      "widthCm": 73.2,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "Team"
+      },
+      "lengthCm": 195,
+      "widthCm": 76.8,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "Team"
+      },
+      "lengthCm": 195,
+      "widthCm": 81,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

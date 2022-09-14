@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "AHD",
+  "year": 2017,
+  "name": "AFS-2",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Full Sandwich Double Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 125,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

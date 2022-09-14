@@ -1,0 +1,61 @@
+{
+  "name": "One Design",
+  "year": 2010,
+  "programs": ["slalom", "freeride", "race"],
+  "brandName": "Bic",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 432,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [190],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.8
+      },
+      "surfaceM2": 6.8,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [210],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 492,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [223],
+      "battenCount": 6,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 515,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [235],
+      "battenCount": 6,
+      "camCount": 2
+    }
+  ],
+  "pictures": []
+}

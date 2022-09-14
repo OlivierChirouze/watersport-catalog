@@ -1,0 +1,53 @@
+{
+  "name": "Beach",
+  "year": 2010,
+  "programs": ["beginner"],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 175
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 175,
+      "lengthCm": 285,
+      "widthCm": 78,
+      "weightKg": 14.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 225
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 225,
+      "lengthCm": 290,
+      "widthCm": 90,
+      "weightKg": 16.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

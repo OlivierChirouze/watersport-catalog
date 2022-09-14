@@ -1,0 +1,120 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Goya",
+  "year": 2020,
+  "name": "Bolt",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 236,
+      "widthCm": 61.9,
+      "volumeL": 97,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 236.8,
+      "widthCm": 65.2,
+      "volumeL": 107,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 237.8,
+      "widthCm": 69.3,
+      "volumeL": 117,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 127,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 239.8,
+      "widthCm": 74.8,
+      "volumeL": 127,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Pro Full Carbon Deck",
+        "edition": "Pro"
+      },
+      "lengthCm": 242.3,
+      "widthCm": 79.2,
+      "volumeL": 137,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

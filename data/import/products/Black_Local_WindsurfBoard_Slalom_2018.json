@@ -1,0 +1,73 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Black Local",
+  "year": 2018,
+  "name": "Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "construction": "Sandwich"
+      },
+      "lengthCm": 230,
+      "widthCm": 72,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Epoxy"
+      },
+      "lengthCm": 230,
+      "widthCm": 72,
+      "volumeL": 110,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Sandwich"
+      },
+      "lengthCm": 230,
+      "widthCm": 72,
+      "volumeL": 110,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

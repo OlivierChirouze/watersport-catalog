@@ -1,0 +1,115 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Black Local",
+  "year": 2015,
+  "name": "Wave Comp",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Ep.sand"
+      },
+      "lengthCm": 224,
+      "widthCm": 61.5,
+      "volumeL": 100,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "EP.Sand"
+      },
+      "lengthCm": 224,
+      "widthCm": 61.5,
+      "volumeL": 100,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Ep.sand"
+      },
+      "lengthCm": 228,
+      "widthCm": 64.5,
+      "volumeL": 105,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "EP.Sand"
+      },
+      "lengthCm": 228,
+      "widthCm": 64.5,
+      "volumeL": 105,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Ep.sand"
+      },
+      "lengthCm": 232,
+      "widthCm": 68.5,
+      "volumeL": 112,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "EP.Sand"
+      },
+      "lengthCm": 232,
+      "widthCm": 68.5,
+      "volumeL": 112,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 4,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

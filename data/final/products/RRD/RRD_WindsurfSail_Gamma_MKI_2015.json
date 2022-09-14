@@ -1,0 +1,90 @@
+{
+  "name": "Gamma",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "RRD",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.3
+      },
+      "surfaceM2": 3.3,
+      "luffLengthCm": 341,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [147],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.4
+      },
+      "surfaceM2": 3.4,
+      "boomLengthsCm": [147],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "luffLengthCm": 341
+    },
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 341,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [147],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 376,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [156],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 399,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [162],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 420,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "pictures": [],
+  "version": "MKI"
+}

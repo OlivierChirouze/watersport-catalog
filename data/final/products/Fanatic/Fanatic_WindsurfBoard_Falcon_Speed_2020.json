@@ -1,0 +1,47 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Fanatic",
+  "year": 2020,
+  "name": "Falcon Speed",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 52.5,
+        "construction": "Bxc"
+      },
+      "lengthCm": 230,
+      "widthCm": 52.5,
+      "volumeL": 52.5,
+      "weightKg": 4.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 44,
+        "construction": "Bxc"
+      },
+      "lengthCm": 230,
+      "widthCm": 44,
+      "volumeL": 44,
+      "weightKg": 4.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

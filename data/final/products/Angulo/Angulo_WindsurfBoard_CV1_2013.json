@@ -1,0 +1,108 @@
+{
+  "name": "CV1",
+  "year": 2013,
+  "programs": ["freestyle"],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 237,
+      "widthCm": 62,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 242,
+      "widthCm": 62,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 247,
+      "widthCm": 64,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 240,
+      "widthCm": 70,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8.8
+      }
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 150,
+      "lengthCm": 240,
+      "widthCm": 72,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9.3
+      }
+    }
+  ],
+  "pictures": []
+}

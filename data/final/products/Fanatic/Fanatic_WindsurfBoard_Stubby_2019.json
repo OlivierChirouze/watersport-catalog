@@ -1,0 +1,101 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2019,
+  "name": "Stubby",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 214,
+      "widthCm": 56,
+      "volumeL": 76,
+      "weightKg": 6.45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 215,
+      "widthCm": 57.5,
+      "volumeL": 82,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 89,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 218,
+      "widthCm": 60,
+      "volumeL": 89,
+      "weightKg": 6.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Bxic",
+        "edition": "TE"
+      },
+      "lengthCm": 214,
+      "widthCm": 56,
+      "volumeL": 99,
+      "weightKg": 6.45,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

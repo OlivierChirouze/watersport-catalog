@@ -1,0 +1,97 @@
+{
+  "name": "Cannonball",
+  "year": 2010,
+  "programs": ["freeride", "race"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 450,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [189],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [197],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 480,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [203],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 487,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 502,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [222],
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 518,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [231],
+      "battenCount": 8,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.6
+      },
+      "surfaceM2": 9.6,
+      "luffLengthCm": 535,
+      "mastLengthsCm": [520],
+      "mastIMCS": [33],
+      "boomLengthsCm": [241],
+      "battenCount": 8,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

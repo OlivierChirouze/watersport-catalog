@@ -1,0 +1,73 @@
+{
+  "name": "Drive First",
+  "year": 2010,
+  "programs": ["kids"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1
+      },
+      "surfaceM2": 1,
+      "luffLengthCm": 199,
+      "mastLengthsCm": [200],
+      "mastIMCS": [4],
+      "boomLengthsCm": [0, 97],
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 199,
+      "mastLengthsCm": [200],
+      "mastIMCS": [4],
+      "boomLengthsCm": [117],
+      "battenCount": 2,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 260,
+      "mastLengthsCm": [290],
+      "mastIMCS": [6],
+      "boomLengthsCm": [118],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 290,
+      "mastLengthsCm": [290],
+      "mastIMCS": [6],
+      "boomLengthsCm": [128],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 318,
+      "mastLengthsCm": [330],
+      "mastIMCS": [14],
+      "boomLengthsCm": [141],
+      "battenCount": 3,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

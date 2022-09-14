@@ -1,0 +1,85 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Exocet",
+  "year": 2017,
+  "name": "S-Line",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Pro Am",
+        "edition": "Pro AM"
+      },
+      "lengthCm": 235,
+      "widthCm": 67,
+      "volumeL": 110,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Pro Am",
+        "edition": "Pro AM"
+      },
+      "lengthCm": 235,
+      "widthCm": 73,
+      "volumeL": 122,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "Pro Am",
+        "edition": "Pro AM"
+      },
+      "lengthCm": 250,
+      "widthCm": 78,
+      "volumeL": 138,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 149,
+        "construction": "Pro Am",
+        "edition": "Pro AM"
+      },
+      "lengthCm": 232,
+      "widthCm": 90,
+      "volumeL": 149,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

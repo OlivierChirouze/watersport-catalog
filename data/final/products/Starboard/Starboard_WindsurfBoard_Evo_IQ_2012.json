@@ -1,0 +1,53 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Starboard",
+  "year": 2012,
+  "name": "Evo IQ",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 71,
+        "construction": "Wood Carbon Technology",
+        "edition": "Wood Carbon"
+      },
+      "volumeL": 71,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Wood Carbon Technology",
+        "edition": "Wood Carbon"
+      },
+      "volumeL": 76,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "Wood Carbon Technology",
+        "edition": "Wood Carbon"
+      },
+      "volumeL": 81,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Wood Carbon Technology",
+        "edition": "Wood Carbon"
+      },
+      "volumeL": 86,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

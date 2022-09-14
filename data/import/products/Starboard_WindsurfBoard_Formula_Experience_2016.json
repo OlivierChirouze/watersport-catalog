@@ -1,0 +1,40 @@
+{
+  "name": "Formula Experience",
+  "year": 2016,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "edition"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 117,
+        "edition": "ProKids"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 117,
+      "lengthCm": 216,
+      "widthCm": 92.5,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

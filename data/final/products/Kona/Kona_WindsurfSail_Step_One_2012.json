@@ -1,0 +1,72 @@
+{
+  "name": "Step One",
+  "year": 2012,
+  "programs": ["freeride"],
+  "brandName": "Kona",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 223,
+      "mastLengthsCm": [230],
+      "boomLengthsCm": [108],
+      "battenCount": 1,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 268,
+      "mastLengthsCm": [310],
+      "mastIMCS": [15],
+      "boomLengthsCm": [146],
+      "battenCount": 3,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 334,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [156],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 381,
+      "mastLengthsCm": [370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [177],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "luffLengthCm": 429,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [190],
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

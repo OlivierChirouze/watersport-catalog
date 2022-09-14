@@ -1,0 +1,433 @@
+{
+  "name": "Cross",
+  "year": 2014,
+  "programs": [
+    "freeride",
+    "freestyle",
+    "wave"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 104,
+      "weightKg": 6.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 245,
+      "widthCm": 63,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 114,
+      "weightKg": 6.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 243,
+      "widthCm": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.9
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 84,
+      "weightKg": 6.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Carbone",
+        "edition": "Carbon"
+      },
+      "volumeL": 94,
+      "weightKg": 6.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 94,
+      "lengthCm": 240,
+      "widthCm": 60.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.6
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "PVC Glass Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 104,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Pvc Verre Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 104,
+      "weightKg": 6.9,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 245,
+      "widthCm": 63,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "PVC Glass Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 114,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Pvc Verre Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 114,
+      "weightKg": 6.9,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 243,
+      "widthCm": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.9
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "PVC Glass Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 84,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Pvc Verre Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 84,
+      "weightKg": 6.9,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "PVC Glass Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 94,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Pvc Verre Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 94,
+      "weightKg": 6.9,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 94,
+      "lengthCm": 240,
+      "widthCm": 60.5,
+      "weightKg": 5.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.6
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Carbon"
+      },
+      "volumeL": 104,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Carbon"
+      },
+      "volumeL": 114,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Carbon"
+      },
+      "volumeL": 84,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Carbon"
+      },
+      "volumeL": 94,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

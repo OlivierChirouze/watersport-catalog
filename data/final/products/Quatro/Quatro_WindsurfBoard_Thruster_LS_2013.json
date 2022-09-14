@@ -1,0 +1,123 @@
+{
+  "name": "Thruster LS",
+  "year": 2013,
+  "programs": ["wave"],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 237.1,
+      "widthCm": 61.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Premium Pvc"
+      },
+      "volumeL": 74,
+      "weightKg": 7.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Premium PVC"
+      },
+      "volumeL": 74,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 229.3,
+      "widthCm": 55.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Premium Pvc"
+      },
+      "volumeL": 82,
+      "weightKg": 7.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Premium PVC"
+      },
+      "volumeL": 82,
+      "weightKg": 7.1,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 230.9,
+      "widthCm": 56.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 235.7,
+      "widthCm": 58.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

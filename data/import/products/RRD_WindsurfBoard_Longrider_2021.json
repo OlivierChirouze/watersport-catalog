@@ -1,0 +1,36 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2021,
+  "name": "Longrider",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 180,
+        "construction": "Softskin"
+      },
+      "lengthCm": 340,
+      "widthCm": 70,
+      "volumeL": 180,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

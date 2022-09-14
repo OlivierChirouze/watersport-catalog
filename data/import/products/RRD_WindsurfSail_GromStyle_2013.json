@@ -1,0 +1,103 @@
+{
+  "name": "GromStyle",
+  "year": 2013,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "RRD",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 280,
+      "mastLengthsCm": [
+        310,
+        370,
+        60
+      ],
+      "mastIMCS": [
+        13
+      ],
+      "boomLengthsCm": [
+        128
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 329,
+      "mastLengthsCm": [
+        310,
+        370
+      ],
+      "mastIMCS": [
+        13
+      ],
+      "boomLengthsCm": [
+        144
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 302,
+      "mastLengthsCm": [
+        310,
+        370
+      ],
+      "mastIMCS": [
+        13
+      ],
+      "boomLengthsCm": [
+        136
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 350,
+      "mastLengthsCm": [
+        310,
+        370,
+        60
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        154
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

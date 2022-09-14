@@ -1,0 +1,59 @@
+{
+  "name": "Concrete",
+  "year": 2014,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Drops",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 232,
+      "widthCm": 56,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 83,
+      "lengthCm": 232,
+      "widthCm": 58,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 5.8
+      }
+    }
+  ],
+  "pictures": []
+}

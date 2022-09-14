@@ -1,0 +1,225 @@
+{
+  "name": "AtomIQ Windsurfer",
+  "year": 2016,
+  "programs": ["freeride"],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 100,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 110,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 130,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 100,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 110,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 130,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Carbon Ultracore",
+        "edition": "Carbon UltraCore"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 100,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 110,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 130,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 140,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160,
+        "construction": "Wood Reflex"
+      },
+      "lengthCm": 257,
+      "widthCm": 89,
+      "volumeL": 160,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 12.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10.5
+      }
+    }
+  ],
+  "pictures": []
+}

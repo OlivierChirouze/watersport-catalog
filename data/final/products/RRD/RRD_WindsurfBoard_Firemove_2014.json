@@ -1,0 +1,133 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2014,
+  "name": "Firemove",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Ltd"
+      },
+      "volumeL": 102,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 102,
+        "construction": "LTD"
+      },
+      "volumeL": 102,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Ltd"
+      },
+      "volumeL": 112,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "LTD"
+      },
+      "volumeL": 112,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Ltd"
+      },
+      "volumeL": 120,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "LTD"
+      },
+      "volumeL": 120,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Ltd"
+      },
+      "volumeL": 130,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "LTD"
+      },
+      "volumeL": 130,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Ltd"
+      },
+      "volumeL": 140,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "LTD"
+      },
+      "volumeL": 140,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

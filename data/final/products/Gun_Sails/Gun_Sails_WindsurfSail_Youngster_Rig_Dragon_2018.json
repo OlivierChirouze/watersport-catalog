@@ -1,0 +1,88 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2018,
+  "name": "Youngster Rig Dragon",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["kids"],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.8
+      },
+      "surfaceM2": 1.8,
+      "weightKg": 1.2,
+      "boomLengthsCm": [120],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 250
+    },
+    {
+      "variant": {
+        "size": 2.2
+      },
+      "surfaceM2": 2.2,
+      "weightKg": 1.4,
+      "boomLengthsCm": [127],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 270
+    },
+    {
+      "variant": {
+        "size": 2.6
+      },
+      "surfaceM2": 2.6,
+      "weightKg": 1.6,
+      "boomLengthsCm": [136],
+      "mastLengthsCm": [450],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 285
+    },
+    {
+      "variant": {
+        "size": 3.2
+      },
+      "surfaceM2": 3.2,
+      "weightKg": 1.8,
+      "boomLengthsCm": [145],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 305
+    },
+    {
+      "variant": {
+        "size": 3.6
+      },
+      "surfaceM2": 3.6,
+      "weightKg": 2,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM", "RDM"],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 315
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

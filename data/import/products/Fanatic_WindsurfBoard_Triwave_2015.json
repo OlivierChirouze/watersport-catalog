@@ -1,0 +1,276 @@
+{
+  "name": "Triwave",
+  "year": 2015,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 103,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 103,
+      "lengthCm": 232,
+      "widthCm": 63.5,
+      "weightKg": 6.65,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 69,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 69,
+      "lengthCm": 226,
+      "widthCm": 54.5,
+      "weightKg": 5.95,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 76,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 227,
+      "widthCm": 56,
+      "weightKg": 6.15,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 81,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 81,
+      "lengthCm": 228,
+      "widthCm": 58,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 231,
+      "widthCm": 61.5,
+      "weightKg": 6.55,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Te"
+      },
+      "lengthCm": 232,
+      "widthCm": 63.5,
+      "volumeL": 103,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 69,
+        "construction": "Te"
+      },
+      "lengthCm": 226,
+      "widthCm": 54.5,
+      "volumeL": 69,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 76,
+        "construction": "Te"
+      },
+      "lengthCm": 227,
+      "widthCm": 56,
+      "volumeL": 76,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "Te"
+      },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 81,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Te"
+      },
+      "lengthCm": 229,
+      "widthCm": 59.5,
+      "volumeL": 88,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Te"
+      },
+      "lengthCm": 231,
+      "widthCm": 61.5,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,28 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2019,
+  "name": "WindSUP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 220,
+        "construction": "Softskin"
+      },
+      "lengthCm": 11,
+      "widthCm": 30,
+      "volumeL": 220,
+      "weightKg": 15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

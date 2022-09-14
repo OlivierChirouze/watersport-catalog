@@ -1,0 +1,55 @@
+{
+  "name": "Raceboard",
+  "year": 2016,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Severne",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 512,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        235
+      ],
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 557,
+      "mastLengthsCm": [
+        530
+      ],
+      "boomLengthsCm": [
+        250
+      ],
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

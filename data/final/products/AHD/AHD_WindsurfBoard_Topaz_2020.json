@@ -1,0 +1,40 @@
+{
+  "dimensions": ["size"],
+  "brandName": "AHD",
+  "year": 2020,
+  "name": "Topaz",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 107
+      },
+      "lengthCm": 232,
+      "widthCm": 68,
+      "volumeL": 107,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 127
+      },
+      "lengthCm": 230,
+      "widthCm": 82,
+      "volumeL": 127,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 147
+      },
+      "lengthCm": 230,
+      "widthCm": 89,
+      "volumeL": 147,
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

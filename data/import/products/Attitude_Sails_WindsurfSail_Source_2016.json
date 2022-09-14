@@ -1,0 +1,113 @@
+{
+  "name": "Source",
+  "year": 2016,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Attitude Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.2
+      },
+      "surfaceM2": 5.2,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastIMCS": [
+        19
+      ],
+      "boomLengthsCm": [
+        174
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.6,
+      "mastExtensionLengthsCm": [
+        0,
+        5
+      ],
+      "topType": "fixed",
+      "luffLengthCm": 405
+    },
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastIMCS": [
+        19
+      ],
+      "boomLengthsCm": [
+        188
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 3.9,
+      "mastExtensionLengthsCm": [
+        0,
+        30
+      ],
+      "topType": "fixed",
+      "luffLengthCm": 430
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        200
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.3,
+      "mastExtensionLengthsCm": [
+        0,
+        24
+      ],
+      "topType": "fixed",
+      "luffLengthCm": 454
+    },
+    {
+      "variant": {
+        "size": 7.2
+      },
+      "surfaceM2": 7.2,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        212
+      ],
+      "battenCount": 6,
+      "camCount": 0,
+      "weightKg": 4.7,
+      "mastExtensionLengthsCm": [
+        0,
+        12
+      ],
+      "topType": "fixed",
+      "luffLengthCm": 472
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tweak",
+  "year": 2011,
+  "programs": [
+    "freestyle",
+    "freeride"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 103
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 103,
+      "lengthCm": 238,
+      "widthCm": 64,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    }
+  ],
+  "pictures": []
+}

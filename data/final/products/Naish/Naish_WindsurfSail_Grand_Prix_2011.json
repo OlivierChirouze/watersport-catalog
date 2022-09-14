@@ -1,0 +1,97 @@
+{
+  "name": "Grand Prix",
+  "year": 2011,
+  "programs": ["slalom", "freeride"],
+  "brandName": "Naish",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.2,
+        "edition": "LTD"
+      },
+      "surfaceM2": 5.2,
+      "luffLengthCm": 423,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [173],
+      "weightKg": 4.1,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 5.8,
+        "edition": "LTD"
+      },
+      "surfaceM2": 5.8,
+      "luffLengthCm": 435,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [180],
+      "weightKg": 4.18,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.4,
+        "edition": "LTD"
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 450,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [193],
+      "weightKg": 4.41,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7,
+        "edition": "LTD"
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 465,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [200],
+      "weightKg": 4.64,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.8,
+        "edition": "LTD"
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 483,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [210],
+      "weightKg": 4.86,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8.8,
+        "edition": "LTD"
+      },
+      "surfaceM2": 8.8,
+      "luffLengthCm": 512,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [228],
+      "weightKg": 5.28,
+      "battenCount": 7,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

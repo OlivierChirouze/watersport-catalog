@@ -1,0 +1,91 @@
+{
+  "name": "S-Type",
+  "year": 2014,
+  "programs": ["freeride", "race"],
+  "brandName": "North Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 456,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [186],
+      "weightKg": 4.5,
+      "battenCount": 6,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 464,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [189],
+      "weightKg": 4.7,
+      "battenCount": 6,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.3
+      },
+      "surfaceM2": 7.3,
+      "luffLengthCm": 476,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [205],
+      "weightKg": 4.9,
+      "battenCount": 6,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "luffLengthCm": 484,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [210],
+      "weightKg": 5.1,
+      "battenCount": 6,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 8.4
+      },
+      "surfaceM2": 8.4,
+      "luffLengthCm": 489,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [221],
+      "weightKg": 5.4,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 519,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [237],
+      "weightKg": 5.8,
+      "battenCount": 7,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

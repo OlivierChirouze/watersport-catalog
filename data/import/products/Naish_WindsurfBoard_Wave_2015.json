@@ -1,0 +1,122 @@
+{
+  "name": "Wave",
+  "year": 2015,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 72
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 72,
+      "lengthCm": 226.5,
+      "widthCm": 56,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 78
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 78,
+      "lengthCm": 229,
+      "widthCm": 57,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 229,
+      "widthCm": 58,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 87
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 232,
+      "widthCm": 59,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 235,
+      "widthCm": 61,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Falcon Speed",
+  "year": 2015,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 50,
+        "construction": "Bcs"
+      },
+      "lengthCm": 230,
+      "widthCm": 68,
+      "volumeL": 50,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 54
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 54,
+      "lengthCm": 230,
+      "widthCm": 44,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 56,
+        "construction": "Bcs"
+      },
+      "lengthCm": 235,
+      "widthCm": 79,
+      "volumeL": 56,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 68,
+      "lengthCm": 230,
+      "widthCm": 50,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 79
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 235,
+      "widthCm": 56,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

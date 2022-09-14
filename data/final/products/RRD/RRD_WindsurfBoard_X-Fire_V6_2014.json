@@ -1,0 +1,158 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2014,
+  "name": "X-Fire",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Ltd"
+      },
+      "volumeL": 105,
+      "weightKg": 5.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "LTD"
+      },
+      "volumeL": 105,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Ltd"
+      },
+      "volumeL": 114,
+      "weightKg": 5.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "LTD"
+      },
+      "volumeL": 114,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Ltd"
+      },
+      "volumeL": 122,
+      "weightKg": 5.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "LTD"
+      },
+      "volumeL": 122,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 129,
+        "construction": "Ltd"
+      },
+      "volumeL": 129,
+      "weightKg": 5.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 129,
+        "construction": "LTD"
+      },
+      "volumeL": 129,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Ltd"
+      },
+      "volumeL": 90,
+      "weightKg": 5.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "LTD"
+      },
+      "volumeL": 90,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Ltd"
+      },
+      "volumeL": 98,
+      "weightKg": 5.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "LTD"
+      },
+      "volumeL": 98,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V6"
+}

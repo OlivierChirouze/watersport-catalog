@@ -1,0 +1,217 @@
+{
+  "name": "Magnum",
+  "year": 2015,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Angulo",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Fws"
+      },
+      "lengthCm": 238,
+      "widthCm": 72,
+      "volumeL": 115,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 0,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "FWS"
+      },
+      "lengthCm": 238,
+      "widthCm": 72,
+      "volumeL": 115,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 238,
+      "widthCm": 72,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Fws"
+      },
+      "lengthCm": 235,
+      "widthCm": 84,
+      "volumeL": 135,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 0,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "FWS"
+      },
+      "lengthCm": 235,
+      "widthCm": 84,
+      "volumeL": 135,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 235,
+      "widthCm": 84,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.4,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 237,
+      "widthCm": 56.5,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Fws"
+      },
+      "lengthCm": 240,
+      "widthCm": 60,
+      "volumeL": 95,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 0,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 60,
+      "volumeL": 95,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 240,
+      "widthCm": 60,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
+      }
+    }
+  ],
+  "pictures": []
+}

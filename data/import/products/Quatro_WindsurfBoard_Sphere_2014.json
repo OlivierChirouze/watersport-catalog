@@ -1,0 +1,158 @@
+{
+  "name": "Sphere",
+  "year": 2014,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Quatro",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "volumeL": 102,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 237.1,
+      "widthCm": 61.1,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "volumeL": 74,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 74
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 74,
+      "lengthCm": 229.3,
+      "widthCm": 55.6,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "volumeL": 82,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 230.9,
+      "widthCm": 56.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "volumeL": 92,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 235.7,
+      "widthCm": 58.6,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.7
+      }
+    }
+  ],
+  "pictures": []
+}

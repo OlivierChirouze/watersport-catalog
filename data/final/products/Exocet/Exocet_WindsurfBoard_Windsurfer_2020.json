@@ -1,0 +1,31 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Exocet",
+  "year": 2020,
+  "name": "Windsurfer",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 227,
+        "construction": "Asa",
+        "edition": "LT"
+      },
+      "lengthCm": 366,
+      "widthCm": 74,
+      "volumeL": 227,
+      "weightKg": 15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

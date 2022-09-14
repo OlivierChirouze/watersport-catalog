@@ -1,0 +1,81 @@
+{
+  "name": "Bird",
+  "year": 2012,
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "brandName": "Lorch",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 149
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 149,
+      "lengthCm": 259,
+      "widthCm": 74,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 163
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 163,
+      "lengthCm": 267,
+      "widthCm": 79.5,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 11
+      }
+    },
+    {
+      "variant": {
+        "size": 179
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 179,
+      "lengthCm": 268,
+      "widthCm": 88,
+      "weightKg": 9.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 12.5
+      }
+    }
+  ],
+  "pictures": []
+}

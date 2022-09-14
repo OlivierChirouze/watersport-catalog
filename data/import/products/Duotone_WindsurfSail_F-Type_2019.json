@@ -1,0 +1,51 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Duotone",
+  "year": 2019,
+  "name": "F-Type",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": [
+    "freeride"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.8
+      },
+      "surfaceM2": 5.8,
+      "weightKg": 4.5,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 1,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "weightKg": 4.5,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

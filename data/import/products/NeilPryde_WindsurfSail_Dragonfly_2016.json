@@ -1,0 +1,110 @@
+{
+  "name": "Dragonfly",
+  "year": 2016,
+  "programs": [
+    "kids"
+  ],
+  "brandName": "NeilPryde",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "luffLengthCm": 207,
+      "mastLengthsCm": [
+        240
+      ],
+      "boomLengthsCm": [
+        102
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 2.5
+      },
+      "surfaceM2": 2.5,
+      "luffLengthCm": 267,
+      "mastLengthsCm": [
+        240
+      ],
+      "boomLengthsCm": [
+        128
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        27
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "luffLengthCm": 245,
+      "mastLengthsCm": [
+        240
+      ],
+      "boomLengthsCm": [
+        114
+      ],
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        5
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 312,
+      "mastLengthsCm": [
+        290
+      ],
+      "boomLengthsCm": [
+        154
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        22
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 296,
+      "mastLengthsCm": [
+        290
+      ],
+      "boomLengthsCm": [
+        140
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        6
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

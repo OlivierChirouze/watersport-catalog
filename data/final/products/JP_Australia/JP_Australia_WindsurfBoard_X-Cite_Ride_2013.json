@@ -1,0 +1,321 @@
+{
+  "name": "X-Cite Ride",
+  "year": 2013,
+  "programs": ["freeride"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 134,
+        "construction": "Es",
+        "edition": "ES EVA"
+      },
+      "volumeL": 134,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 134,
+        "construction": "ES",
+        "edition": "ES EVA"
+      },
+      "volumeL": 134,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "volumeL": 122,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "edition": "ES"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 122,
+      "lengthCm": 250,
+      "widthCm": 68,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 134,
+        "construction": "Es",
+        "edition": "ES"
+      },
+      "volumeL": 134,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "ES"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 146,
+      "lengthCm": 252,
+      "widthCm": 76,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 158,
+        "edition": "ES"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 158,
+      "lengthCm": 253,
+      "widthCm": 78,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 134,
+        "edition": "ESA"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 134,
+      "lengthCm": 251,
+      "widthCm": 72,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "ESA"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 146,
+      "lengthCm": 252,
+      "widthCm": 76,
+      "weightKg": 10,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "construction": "Fws Eva",
+        "edition": "FWS EVA"
+      },
+      "volumeL": 146,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "volumeL": 122,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 134,
+        "construction": "Fws",
+        "edition": "FWS"
+      },
+      "volumeL": 134,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Pro Edition",
+        "edition": "Pro"
+      },
+      "volumeL": 122,
+      "weightKg": 8.75,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 122,
+      "lengthCm": 250,
+      "widthCm": 68,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 134,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 134,
+      "lengthCm": 251,
+      "widthCm": 72,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 146,
+      "lengthCm": 252,
+      "widthCm": 76,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "ES"
+      },
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "FWS"
+      },
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Pro"
+      },
+      "volumeL": 122,
+      "weightKg": 8.75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 134,
+        "construction": "ES"
+      },
+      "volumeL": 134,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 134,
+        "construction": "FWS"
+      },
+      "volumeL": 134,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "construction": "FWS EVA"
+      },
+      "volumeL": 146,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Carrera",
+  "year": 2014,
+  "programs": ["freeride", "race"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Sandwich Full Carbon"
+      },
+      "volumeL": 116,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 116
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 116,
+      "lengthCm": 241.9,
+      "widthCm": 66.8,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.4,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Sandwich Full Carbon"
+      },
+      "volumeL": 130,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 245.4,
+      "widthCm": 70.2,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.4,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 144,
+        "construction": "Sandwich Full Carbon"
+      },
+      "volumeL": 144,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 144
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 144,
+      "lengthCm": 250,
+      "widthCm": 75.1,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.9,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

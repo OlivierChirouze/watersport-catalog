@@ -1,0 +1,57 @@
+{
+  "name": "Action",
+  "year": 2010,
+  "programs": ["beginner"],
+  "brandName": "Aerotech",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 376,
+      "mastLengthsCm": [400],
+      "boomLengthsCm": [158],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 412,
+      "mastLengthsCm": [430],
+      "boomLengthsCm": [168],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 450,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [176],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 482,
+      "mastLengthsCm": [460],
+      "boomLengthsCm": [181],
+      "battenCount": 4,
+      "camCount": 0
+    }
+  ],
+  "pictures": []
+}

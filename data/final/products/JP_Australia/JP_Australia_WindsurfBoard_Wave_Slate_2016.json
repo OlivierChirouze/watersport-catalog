@@ -1,0 +1,142 @@
+{
+  "name": "Wave Slate",
+  "year": 2016,
+  "programs": ["wave"],
+  "brandName": "JP Australia",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Pro"
+      },
+      "lengthCm": 215,
+      "widthCm": 55,
+      "volumeL": 78,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 215,
+      "widthCm": 55,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Pro"
+      },
+      "lengthCm": 218,
+      "widthCm": 57,
+      "volumeL": 86,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
+      "lengthCm": 218,
+      "widthCm": 57,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Pro"
+      },
+      "lengthCm": 218,
+      "widthCm": 59,
+      "volumeL": 95,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 3,
+          "type": "SlotBox"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 95,
+      "lengthCm": 218,
+      "widthCm": 59,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 6.4
+      }
+    }
+  ],
+  "pictures": []
+}

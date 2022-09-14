@@ -1,0 +1,57 @@
+{
+  "name": "Syncro",
+  "year": 2011,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 104
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 240,
+      "widthCm": 62.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 117
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 117,
+      "lengthCm": 241,
+      "widthCm": 67,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Sealion Wings",
+  "year": 2015,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 109
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 109,
+      "lengthCm": 232,
+      "widthCm": 74,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Double Sandwich Full Carbon"
+      },
+      "lengthCm": 232,
+      "widthCm": 74,
+      "volumeL": 110,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

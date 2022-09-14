@@ -1,0 +1,139 @@
+{
+  "name": "Shark",
+  "year": 2014,
+  "programs": ["wave"],
+  "brandName": "XO Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 371,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [144],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 391,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [158],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 416,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [159],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 416,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [165],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 384,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [17],
+      "boomLengthsCm": [147],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 424,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "luffLengthCm": 438,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [184],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 425,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [170],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    },
+    {
+      "variant": {
+        "size": 6.2
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 455,
+      "mastLengthsCm": [400, 430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [193],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "mastExtensionLengthsCm": []
+    }
+  ],
+  "pictures": []
+}

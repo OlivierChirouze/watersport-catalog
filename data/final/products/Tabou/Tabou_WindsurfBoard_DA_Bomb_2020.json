@@ -1,0 +1,72 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Tabou",
+  "year": 2020,
+  "name": "DA Bomb",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Wcif"
+      },
+      "lengthCm": 226,
+      "widthCm": 62.5,
+      "volumeL": 104,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 77,
+        "construction": "Wcif"
+      },
+      "lengthCm": 214,
+      "widthCm": 56,
+      "volumeL": 77,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Wcif"
+      },
+      "lengthCm": 220,
+      "widthCm": 58.5,
+      "volumeL": 84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Wcif"
+      },
+      "lengthCm": 222,
+      "widthCm": 60.5,
+      "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,43 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Severne",
+  "year": 2022,
+  "name": "Psycho Foil",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 102
+      },
+      "lengthCm": 219,
+      "widthCm": 62.5,
+      "volumeL": 102,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "lengthCm": 219,
+      "widthCm": 62,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

@@ -1,0 +1,30 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Exocet",
+  "year": 2013,
+  "name": "WindSUP",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "variants": [
+    {
+      "variant": {
+        "size": 175,
+        "construction": "Bamboo Wood",
+        "edition": "Wood"
+      },
+      "volumeL": 175,
+      "weightKg": 15.5
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Bamboo Wood",
+        "edition": "Wood"
+      },
+      "volumeL": 130,
+      "weightKg": 15.5
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

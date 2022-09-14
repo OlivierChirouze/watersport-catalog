@@ -1,0 +1,65 @@
+{
+  "name": "Wave One",
+  "year": 2010,
+  "programs": [
+    "wave"
+  ],
+  "brandName": "Patrik",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 68
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 68,
+      "lengthCm": 228,
+      "widthCm": 52.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 75,
+      "lengthCm": 230,
+      "widthCm": 55.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 83,
+      "lengthCm": 234,
+      "widthCm": 58.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Raceboard Blade",
+  "year": 2016,
+  "programs": [
+    "race",
+    "slalom"
+  ],
+  "brandName": "Loftsails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 9.5,
+        "edition": "LW"
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 530,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastIMCS": [
+        32
+      ],
+      "boomLengthsCm": [
+        266
+      ],
+      "weightKg": 5.8,
+      "battenCount": 5,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 492,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        242
+      ],
+      "weightKg": 5.27,
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        2
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 534,
+      "mastLengthsCm": [
+        520
+      ],
+      "mastIMCS": [
+        32
+      ],
+      "boomLengthsCm": [
+        266,
+        268
+      ],
+      "weightKg": 5.79,
+      "battenCount": 6,
+      "camCount": 3,
+      "mastExtensionLengthsCm": [
+        10,
+        14
+      ],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

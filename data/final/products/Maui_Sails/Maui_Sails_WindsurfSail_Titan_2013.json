@@ -1,0 +1,139 @@
+{
+  "name": "Titan",
+  "year": 2013,
+  "programs": ["freeride", "race"],
+  "brandName": "Maui Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size", "edition"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10,
+        "edition": "GS"
+      },
+      "surfaceM2": 10,
+      "luffLengthCm": 541,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [236],
+      "weightKg": 6.5,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 11,
+        "edition": "GS"
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 552,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [251],
+      "weightKg": 6.85,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6,
+        "edition": "GS"
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 433,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [176],
+      "weightKg": 4.8,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 6.5,
+        "edition": "GS"
+      },
+      "surfaceM2": 6.5,
+      "luffLengthCm": 435,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [188],
+      "weightKg": 5,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7,
+        "edition": "GS"
+      },
+      "surfaceM2": 7,
+      "luffLengthCm": 454,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [194],
+      "weightKg": 5.15,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8,
+        "edition": "GS"
+      },
+      "surfaceM2": 8,
+      "luffLengthCm": 469,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [206],
+      "weightKg": 5.4,
+      "battenCount": 7,
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 8.5,
+        "edition": "GS"
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 496,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [218],
+      "weightKg": 5.9,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9,
+        "edition": "GS"
+      },
+      "surfaceM2": 9,
+      "luffLengthCm": 509,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [227],
+      "weightKg": 6.1,
+      "battenCount": 7,
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 9.5,
+        "edition": "GS"
+      },
+      "surfaceM2": 9.5,
+      "luffLengthCm": 526,
+      "mastLengthsCm": [520],
+      "mastIMCS": [32],
+      "boomLengthsCm": [232],
+      "weightKg": 6.3,
+      "battenCount": 7,
+      "camCount": 3
+    }
+  ],
+  "pictures": []
+}

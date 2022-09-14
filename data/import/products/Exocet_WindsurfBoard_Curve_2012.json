@@ -1,0 +1,161 @@
+{
+  "name": "Curve",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "Exocet",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 240,
+      "widthCm": 59,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.9
+      }
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 96,
+      "lengthCm": 246,
+      "widthCm": 65,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.8
+      }
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 260,
+      "widthCm": 65,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 298,
+      "widthCm": 60,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 320,
+      "widthCm": 65,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 170
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 170,
+      "lengthCm": 350,
+      "widthCm": 70,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "FCS"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

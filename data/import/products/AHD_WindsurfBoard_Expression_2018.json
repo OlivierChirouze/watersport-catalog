@@ -1,0 +1,106 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "AHD",
+  "year": 2018,
+  "name": "Expression",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "wave"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Full Sandwich Double Carbon Kevlar"
+      },
+      "lengthCm": 232,
+      "widthCm": 56,
+      "volumeL": 75,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Full Sandwich Double Carbon Kevlar"
+      },
+      "lengthCm": 234,
+      "widthCm": 58.5,
+      "volumeL": 85,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Full Sandwich Double Carbon Kevlar"
+      },
+      "lengthCm": 235,
+      "widthCm": 61.1,
+      "volumeL": 95,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Full Sandwich Double Carbon Kevlar"
+      },
+      "lengthCm": 237,
+      "widthCm": 63.8,
+      "volumeL": 105,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

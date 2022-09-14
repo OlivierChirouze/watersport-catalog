@@ -1,0 +1,55 @@
+{
+  "dimensions": ["size"],
+  "brandName": "Gun Sails",
+  "year": 2020,
+  "name": "Bow",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "weightKg": 5.65,
+      "boomLengthsCm": [205],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [3],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 493
+    },
+    {
+      "variant": {
+        "size": 7.8
+      },
+      "surfaceM2": 7.8,
+      "weightKg": 5.95,
+      "boomLengthsCm": [198],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [14],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 504
+    },
+    {
+      "variant": {
+        "size": 8.7
+      },
+      "surfaceM2": 8.7,
+      "weightKg": 6.3,
+      "boomLengthsCm": [224],
+      "mastLengthsCm": [490],
+      "mastExtensionLengthsCm": [29],
+      "battenCount": 7,
+      "camCount": 4,
+      "topType": "fixed",
+      "luffLengthCm": 519
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

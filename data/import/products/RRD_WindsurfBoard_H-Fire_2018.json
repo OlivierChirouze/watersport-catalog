@@ -1,0 +1,41 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "RRD",
+  "year": 2018,
+  "name": "H-Fire",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 150,
+        "construction": "Wood"
+      },
+      "lengthCm": 236,
+      "widthCm": 91,
+      "volumeL": 150,
+      "weightKg": 9.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

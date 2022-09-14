@@ -1,0 +1,307 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Goya",
+  "year": 2017,
+  "name": "One",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 231.3,
+      "widthCm": 63.9,
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 231.3,
+      "widthCm": 63.9,
+      "volumeL": 105,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 233.3,
+      "widthCm": 67.9,
+      "volumeL": 115,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 233.3,
+      "widthCm": 67.9,
+      "volumeL": 115,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 223.5,
+      "widthCm": 53.3,
+      "volumeL": 64,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 64,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 223.5,
+      "widthCm": 53.3,
+      "volumeL": 64,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 225.5,
+      "widthCm": 56.2,
+      "volumeL": 74,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 225.5,
+      "widthCm": 56.2,
+      "volumeL": 74,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 223.3,
+      "widthCm": 56.3,
+      "volumeL": 78,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 223.3,
+      "widthCm": 56.3,
+      "volumeL": 78,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 226.6,
+      "widthCm": 59.1,
+      "volumeL": 85,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 226.6,
+      "widthCm": 59.1,
+      "volumeL": 85,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 229.5,
+      "widthCm": 61.8,
+      "volumeL": 95,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Carbone Sandwich"
+      },
+      "lengthCm": 229.5,
+      "widthCm": 61.8,
+      "volumeL": 95,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

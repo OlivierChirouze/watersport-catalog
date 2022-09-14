@@ -1,0 +1,141 @@
+{
+  "name": "Mutant",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Maui Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "luffLengthCm": 339,
+      "mastLengthsCm": [100, 340],
+      "mastIMCS": [15],
+      "boomLengthsCm": [140],
+      "weightKg": 2.6,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [239],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.8
+      },
+      "surfaceM2": 3.8,
+      "luffLengthCm": 343,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [15],
+      "boomLengthsCm": [146],
+      "weightKg": 2.7,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [3],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [100, 340, 370],
+      "mastIMCS": [15],
+      "boomLengthsCm": [154],
+      "weightKg": 2.9,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [20, 260],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "luffLengthCm": 375,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [164],
+      "weightKg": 3,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [35, 5],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "luffLengthCm": 384,
+      "mastLengthsCm": [100, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [168],
+      "weightKg": 3.1,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [14, 284],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "luffLengthCm": 393,
+      "mastLengthsCm": [100, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [171],
+      "weightKg": 3.15,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [23, 293],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 406,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [173],
+      "weightKg": 3.2,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [36, 6],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 411,
+      "mastLengthsCm": [100, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [178],
+      "weightKg": 3.3,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [11, 311],
+      "masTypes": ["RDM"],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

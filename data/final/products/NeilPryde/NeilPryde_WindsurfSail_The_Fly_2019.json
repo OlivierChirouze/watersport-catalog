@@ -1,0 +1,91 @@
+{
+  "dimensions": ["size"],
+  "brandName": "NeilPryde",
+  "year": 2019,
+  "name": "The Fly",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.9
+      },
+      "surfaceM2": 3.9,
+      "weightKg": 2.88,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [341, 370],
+      "mastExtensionLengthsCm": [33, 4],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "weightKg": 2.99,
+      "boomLengthsCm": [159],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [13],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "weightKg": 3.04,
+      "boomLengthsCm": [164],
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [25],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "weightKg": 3.22,
+      "boomLengthsCm": [169],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.1
+      },
+      "surfaceM2": 5.1,
+      "weightKg": 3.38,
+      "boomLengthsCm": [173],
+      "mastLengthsCm": [341, 370],
+      "mastExtensionLengthsCm": [80, 51],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "weightKg": 2.88,
+      "boomLengthsCm": [154],
+      "mastLengthsCm": [341, 370],
+      "mastExtensionLengthsCm": [33, 4],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

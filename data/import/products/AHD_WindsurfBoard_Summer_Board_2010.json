@@ -1,0 +1,39 @@
+{
+  "name": "Summer Board",
+  "year": 2010,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 152
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 152,
+      "lengthCm": 274,
+      "widthCm": 0,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}

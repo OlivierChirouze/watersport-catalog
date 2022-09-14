@@ -1,0 +1,49 @@
+{
+  "name": "Mega XR",
+  "year": 2010,
+  "programs": ["slalom"],
+  "brandName": "Gun Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 10.9
+      },
+      "surfaceM2": 10.9,
+      "luffLengthCm": 574,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [259],
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 11.8
+      },
+      "surfaceM2": 11.8,
+      "luffLengthCm": 583,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [279],
+      "battenCount": 8,
+      "camCount": 4
+    },
+    {
+      "variant": {
+        "size": 9.9
+      },
+      "surfaceM2": 9.9,
+      "luffLengthCm": 548,
+      "mastLengthsCm": [520],
+      "mastIMCS": [33],
+      "boomLengthsCm": [248],
+      "battenCount": 8,
+      "camCount": 4
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,95 @@
+{
+  "dimensions": [
+    "size",
+    "construction",
+    "edition"
+  ],
+  "brandName": "Naish",
+  "year": 2022,
+  "name": "Hover",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "foiling"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 125,
+        "construction": "S-glass",
+        "edition": "WS"
+      },
+      "lengthCm": 228,
+      "widthCm": 73.6,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "S-Glass",
+        "edition": "WS"
+      },
+      "lengthCm": 228,
+      "widthCm": 73.6,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "S-glass",
+        "edition": "WS"
+      },
+      "lengthCm": 235,
+      "widthCm": 77.5,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "S-Glass",
+        "edition": "WS"
+      },
+      "lengthCm": 235,
+      "widthCm": 77.5,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

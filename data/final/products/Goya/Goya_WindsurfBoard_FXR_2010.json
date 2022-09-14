@@ -1,0 +1,49 @@
+{
+  "name": "FXR",
+  "year": 2010,
+  "programs": ["freeride"],
+  "brandName": "Goya",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 125
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 68,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 145
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 258,
+      "widthCm": 75,
+      "weightKg": 8.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 8.5
+      }
+    }
+  ],
+  "pictures": []
+}

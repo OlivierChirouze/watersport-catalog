@@ -1,0 +1,53 @@
+{
+  "name": "Nova",
+  "year": 2012,
+  "programs": ["beginner"],
+  "brandName": "Bic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 82,
+      "weightKg": 12,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 205
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 12.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 6.5
+      }
+    }
+  ],
+  "pictures": []
+}

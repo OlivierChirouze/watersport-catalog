@@ -1,0 +1,94 @@
+{
+  "name": "Ray",
+  "year": 2014,
+  "programs": ["freeride", "race"],
+  "brandName": "Fanatic",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Bgs"
+      },
+      "volumeL": 100,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 235,
+      "widthCm": 63,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Bgs"
+      },
+      "volumeL": 110,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 110,
+      "lengthCm": 235,
+      "widthCm": 69,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.6
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Bgs"
+      },
+      "volumeL": 120,
+      "weightKg": 6.95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 235,
+      "widthCm": 74,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.2
+      }
+    }
+  ],
+  "pictures": []
+}

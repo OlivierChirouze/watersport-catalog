@@ -1,0 +1,45 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "NoveNove",
+  "year": 2020,
+  "name": "Aero Freeride",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["foiling"],
+  "variants": [
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 225,
+      "widthCm": 76,
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 142,
+        "construction": "Biax Carbon"
+      },
+      "lengthCm": 225,
+      "widthCm": 82,
+      "volumeL": 142,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

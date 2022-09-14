@@ -1,0 +1,112 @@
+{
+  "dimensions": ["edition", "size", "construction"],
+  "brandName": "JP Australia",
+  "year": 2022,
+  "name": "Super Sport",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 111,
+        "construction": "Lxt",
+        "edition": "LXT"
+      },
+      "lengthCm": 234,
+      "widthCm": 70,
+      "volumeL": 111,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Lxt",
+        "edition": "LXT"
+      },
+      "lengthCm": 234,
+      "widthCm": 76,
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "Lxt",
+        "edition": "LXT"
+      },
+      "lengthCm": 234,
+      "widthCm": 82,
+      "volumeL": 133,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "LXT"
+      },
+      "lengthCm": 234,
+      "widthCm": 70,
+      "volumeL": 111,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "LXT"
+      },
+      "lengthCm": 234,
+      "widthCm": 76,
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 133,
+        "construction": "LXT"
+      },
+      "lengthCm": 234,
+      "widthCm": 82,
+      "volumeL": 133,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

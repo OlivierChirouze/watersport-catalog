@@ -1,0 +1,110 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "RRD",
+  "year": 2014,
+  "name": "Freestyle Wave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Ltd"
+      },
+      "volumeL": 100,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "LTD"
+      },
+      "volumeL": 100,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Ltd"
+      },
+      "volumeL": 106,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "LTD"
+      },
+      "volumeL": 106,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Ltd"
+      },
+      "volumeL": 88,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "LTD"
+      },
+      "volumeL": 88,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Ltd"
+      },
+      "volumeL": 94,
+      "weightKg": 6.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "LTD"
+      },
+      "volumeL": 94,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "V3"
+}

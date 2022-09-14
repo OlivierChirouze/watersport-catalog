@@ -1,0 +1,69 @@
+{
+  "name": "HF FSW",
+  "year": 2013,
+  "programs": ["freeride"],
+  "brandName": "Point-7",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.4
+      },
+      "surfaceM2": 5.4,
+      "luffLengthCm": 429,
+      "mastLengthsCm": [400, 430, 460],
+      "mastIMCS": [19],
+      "boomLengthsCm": [177],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.9
+      },
+      "surfaceM2": 5.9,
+      "luffLengthCm": 434,
+      "mastLengthsCm": [400, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [188],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.4
+      },
+      "surfaceM2": 6.4,
+      "luffLengthCm": 458,
+      "mastLengthsCm": [400, 430, 460],
+      "mastIMCS": [21],
+      "boomLengthsCm": [199],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 6.9
+      },
+      "surfaceM2": 6.9,
+      "luffLengthCm": 462,
+      "mastLengthsCm": [400, 430, 460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [214],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "topType": "vario"
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Madd Wave",
+  "year": 2010,
+  "programs": ["wave"],
+  "brandName": "Hifly",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 76,
+      "lengthCm": 233,
+      "widthCm": 56,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5.5
+      }
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 236,
+      "widthCm": 58.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.4,
+        "toM2": 6.4
+      }
+    }
+  ],
+  "pictures": []
+}

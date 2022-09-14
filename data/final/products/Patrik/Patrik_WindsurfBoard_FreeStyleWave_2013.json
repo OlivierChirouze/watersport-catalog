@@ -1,0 +1,61 @@
+{
+  "dimensions": ["size", "construction"],
+  "brandName": "Patrik",
+  "year": 2013,
+  "name": "FreeStyleWave",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["freeride", "wave"],
+  "variants": [
+    {
+      "variant": {
+        "size": 86,
+        "construction": "Pvc"
+      },
+      "volumeL": 86,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "PVC"
+      },
+      "volumeL": 86,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "Pvc"
+      },
+      "volumeL": 93,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "construction": "PVC"
+      },
+      "volumeL": 93,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

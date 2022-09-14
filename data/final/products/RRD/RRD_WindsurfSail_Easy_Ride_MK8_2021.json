@@ -1,0 +1,92 @@
+{
+  "dimensions": ["size"],
+  "brandName": "RRD",
+  "year": 2021,
+  "name": "Easy Ride",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["beginner"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [165],
+      "mastLengthsCm": [310],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 2,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 308
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "boomLengthsCm": [175],
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 368
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [170],
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 338
+    },
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [190],
+      "mastLengthsCm": [415],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 413
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [180],
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 398
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [200],
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 428
+    }
+  ],
+  "description": {},
+  "pictures": [],
+  "version": "MK8"
+}

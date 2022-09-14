@@ -1,0 +1,125 @@
+{
+  "name": "Curve",
+  "year": 2015,
+  "programs": ["wave"],
+  "brandName": "Sailloft",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 3.7
+      },
+      "surfaceM2": 3.7,
+      "luffLengthCm": 369,
+      "mastLengthsCm": [340, 370],
+      "mastIMCS": [17],
+      "boomLengthsCm": [146],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [29],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2
+      },
+      "surfaceM2": 4.2,
+      "luffLengthCm": 389,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [150],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [19],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.5
+      },
+      "surfaceM2": 4.5,
+      "luffLengthCm": 401,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [158],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [31],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.7
+      },
+      "surfaceM2": 4.7,
+      "luffLengthCm": 405,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [161],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [35, 5],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 384,
+      "mastLengthsCm": [370, 400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [149],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [13],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 422,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [170],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [22],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.6
+      },
+      "surfaceM2": 5.6,
+      "luffLengthCm": 428,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [179, 181],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [28],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "luffLengthCm": 412,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [167, 168],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [13],
+      "topType": "fixed"
+    }
+  ],
+  "pictures": []
+}

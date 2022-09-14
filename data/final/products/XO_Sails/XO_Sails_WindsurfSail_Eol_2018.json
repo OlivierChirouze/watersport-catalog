@@ -1,0 +1,97 @@
+{
+  "dimensions": ["size"],
+  "brandName": "XO Sails",
+  "year": 2018,
+  "name": "Eol",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "programs": ["freeride"],
+  "variants": [
+    {
+      "variant": {
+        "size": 5.5
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [183],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 431,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [1]
+    },
+    {
+      "variant": {
+        "size": 6.5
+      },
+      "surfaceM2": 6.5,
+      "boomLengthsCm": [197],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 463,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [3]
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "boomLengthsCm": [186],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "vario",
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [16]
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "boomLengthsCm": [220],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 487,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [27]
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "boomLengthsCm": [207],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 479,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [19]
+    },
+    {
+      "variant": {
+        "size": 8
+      },
+      "surfaceM2": 8,
+      "boomLengthsCm": [228],
+      "masTypes": ["SDM"],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed",
+      "luffLengthCm": 498,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [38]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

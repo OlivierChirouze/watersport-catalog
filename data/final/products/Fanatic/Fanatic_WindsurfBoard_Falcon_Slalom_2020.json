@@ -1,0 +1,157 @@
+{
+  "dimensions": ["size", "construction", "edition"],
+  "brandName": "Fanatic",
+  "year": 2020,
+  "name": "Falcon Slalom",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": ["race"],
+  "variants": [
+    {
+      "variant": {
+        "size": 80,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 56,
+      "volumeL": 80,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 60,
+      "volumeL": 90,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 233,
+      "widthCm": 62,
+      "volumeL": 97,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 68,
+      "volumeL": 106,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 71.5,
+      "volumeL": 115,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 121,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 80,
+      "volumeL": 130,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Bxc",
+        "edition": "TE"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 140,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

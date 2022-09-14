@@ -1,0 +1,316 @@
+{
+  "name": "GO",
+  "year": 2017,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "Starboard",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Tuffskin"
+      },
+      "lengthCm": 251,
+      "widthCm": 75.5,
+      "volumeL": 121,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 251,
+      "widthCm": 75.5,
+      "volumeL": 121,
+      "weightKg": 9.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 121
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 121,
+      "lengthCm": 251,
+      "widthCm": 75.5,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Tuffskin"
+      },
+      "lengthCm": 252,
+      "widthCm": 81,
+      "volumeL": 131,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 131,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 252,
+      "widthCm": 81,
+      "volumeL": 131,
+      "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 131
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 131,
+      "lengthCm": 252,
+      "widthCm": 81,
+      "weightKg": 10,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Tuffskin"
+      },
+      "lengthCm": 251,
+      "widthCm": 83.5,
+      "volumeL": 141,
+      "weightKg": 10.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 251,
+      "widthCm": 83.5,
+      "volumeL": 141,
+      "weightKg": 10.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 141
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 141,
+      "lengthCm": 251,
+      "widthCm": 83.5,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "Tuffskin"
+      },
+      "lengthCm": 251,
+      "widthCm": 86,
+      "volumeL": 151,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 151,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 251,
+      "widthCm": 86,
+      "volumeL": 151,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 151
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 151,
+      "lengthCm": 251,
+      "widthCm": 86,
+      "weightKg": 10.7,
+      "fins": [
+        {
+          "type": "TuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "Tuffskin"
+      },
+      "lengthCm": 250,
+      "widthCm": 86.5,
+      "volumeL": 161,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 161,
+        "construction": "Tufskin"
+      },
+      "lengthCm": 250,
+      "widthCm": 86.5,
+      "volumeL": 161,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 161
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 161,
+      "lengthCm": 250,
+      "widthCm": 86.5,
+      "weightKg": 11,
+      "fins": [
+        {
+          "type": "TuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    }
+  ],
+  "pictures": []
+}

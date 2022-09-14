@@ -1,0 +1,95 @@
+{
+  "dimensions": [
+    "size",
+    "construction"
+  ],
+  "brandName": "Fanatic",
+  "year": 2019,
+  "name": "Blast",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "programs": [
+    "freeride",
+    "race"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Bxf"
+      },
+      "lengthCm": 232,
+      "widthCm": 66,
+      "volumeL": 100,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Bxf"
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 115,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Bxf"
+      },
+      "lengthCm": 235,
+      "widthCm": 77,
+      "volumeL": 130,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Bxf"
+      },
+      "lengthCm": 232,
+      "widthCm": 66,
+      "volumeL": 145,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    }
+  ],
+  "description": {},
+  "pictures": []
+}

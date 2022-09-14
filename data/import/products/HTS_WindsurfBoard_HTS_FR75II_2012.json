@@ -1,0 +1,38 @@
+{
+  "name": "HTS FR75II",
+  "year": 2012,
+  "programs": [
+    "freeride"
+  ],
+  "brandName": "HTS",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 134
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 134,
+      "lengthCm": 230,
+      "widthCm": 71,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 9
+      }
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Sealion",
+  "year": 2015,
+  "programs": [
+    "beginner",
+    "freeride"
+  ],
+  "brandName": "AHD",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "edition",
+    "size",
+    "construction"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 115,
+        "construction": "One Shot Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 74,
+      "volumeL": 115,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 232,
+      "widthCm": 74,
+      "weightKg": 8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "One Shot Sandwich",
+        "edition": "XL"
+      },
+      "lengthCm": 274,
+      "widthCm": 75,
+      "volumeL": 150,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "edition": "XL"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 274,
+      "widthCm": 75.6,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "One Shot Sandwich"
+      },
+      "lengthCm": 253,
+      "widthCm": 75.6,
+      "volumeL": 135,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 135
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 253,
+      "widthCm": 75,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    }
+  ],
+  "pictures": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Machine FW",
+  "year": 2015,
+  "programs": ["slalom"],
+  "brandName": "Avanti Sails",
+  "type": "propulsion",
+  "subType": "windsurfSail",
+  "description": {},
+  "dimensions": ["size"],
+  "variants": [
+    {
+      "variant": {
+        "size": 11
+      },
+      "surfaceM2": 11,
+      "luffLengthCm": 558,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [270],
+      "weightKg": 6.9,
+      "battenCount": 8,
+      "camCount": 5
+    },
+    {
+      "variant": {
+        "size": 12
+      },
+      "surfaceM2": 12,
+      "luffLengthCm": 585,
+      "mastLengthsCm": [550],
+      "mastIMCS": [36],
+      "boomLengthsCm": [280],
+      "weightKg": 7.2,
+      "battenCount": 8,
+      "camCount": 5
+    }
+  ],
+  "pictures": []
+}

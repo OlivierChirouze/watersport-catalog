@@ -1,0 +1,207 @@
+{
+  "name": "GT",
+  "year": 2013,
+  "programs": ["freeride"],
+  "brandName": "Naish",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size", "construction"],
+  "variants": [
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Glass Composite",
+        "edition": "Sport"
+      },
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "Sport"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 252,
+      "widthCm": 69.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Glass Composite",
+        "edition": "Sport"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Sport"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 258,
+      "widthCm": 73,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "Sport"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 140,
+      "lengthCm": 264,
+      "widthCm": 75.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 150,
+        "edition": "Sport"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 150,
+      "lengthCm": 269,
+      "widthCm": 79.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.8
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Wood"
+      },
+      "volumeL": 120,
+      "compatibleFinFamilies": ["fins"],
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 120
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 120,
+      "lengthCm": 252,
+      "widthCm": 69.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood"
+      },
+      "volumeL": 130,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 130,
+      "lengthCm": 258,
+      "widthCm": 73,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 140
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 140,
+      "lengthCm": 264,
+      "widthCm": 75.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 150,
+      "lengthCm": 269,
+      "widthCm": 79.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.8
+      }
+    }
+  ],
+  "pictures": []
+}

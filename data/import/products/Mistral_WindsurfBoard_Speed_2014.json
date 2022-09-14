@@ -1,0 +1,62 @@
+{
+  "name": "Speed",
+  "year": 2014,
+  "programs": [
+    "race"
+  ],
+  "brandName": "Mistral",
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": [
+    "size"
+  ],
+  "variants": [
+    {
+      "variant": {
+        "size": 63
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 63,
+      "lengthCm": 240,
+      "widthCm": 41,
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 73
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 73,
+      "lengthCm": 244,
+      "widthCm": 47,
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 95
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 95,
+      "lengthCm": 253,
+      "widthCm": 55,
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
+      }
+    }
+  ],
+  "pictures": []
+}
