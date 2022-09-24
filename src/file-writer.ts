@@ -142,7 +142,7 @@ export const defaultBrandsDir = path.join(path.dirname(__dirname), "data", "bran
 
 export class FileWriter<T> {
   static sanitize(value: string) {
-    return value.replace(/[ :\/]+/g, "_");
+    return value.replace(/[ :\/\.]+/g, "_");
   }
 
   constructor(
