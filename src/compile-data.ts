@@ -2,7 +2,13 @@ import fs from "fs";
 import fsExtra from "fs-extra";
 import path from "path";
 import { Brand, Product } from "./model";
-import { defaultOutputDir, FileWriter, ObjectToWrite, ProductToWrite, WritePolicy } from "./file-writer";
+import {
+  defaultOutputDir,
+  FileWriter,
+  ObjectToWrite,
+  ProductToWrite,
+  WritePolicy
+} from "./file-writer";
 
 export class DataImporter {
   private importBrandsDir: string;
@@ -17,7 +23,6 @@ export class DataImporter {
     generatedDir = defaultOutputDir,
     outputDir = path.join(__dirname, "..", "data", "final")
   ) {
-
     this.importBrandsDir = path.join(importDir, "brands");
     this.importProductsDir = path.join(importDir, "products");
 
@@ -29,7 +34,10 @@ export class DataImporter {
   }
 
   async compileProducts() {
-    await fs.promises.rm(this.outputProductsDir, { recursive: true, force: true });
+    await fs.promises.rm(this.outputProductsDir, {
+      recursive: true,
+      force: true
+    });
 
     // Copy all generated files first
     await fsExtra.copy(this.generatedProductsDir, this.outputProductsDir);
@@ -38,7 +46,9 @@ export class DataImporter {
 
     await Promise.all(
       files.map(async f => {
-        const data = await fs.promises.readFile(path.join(this.importProductsDir, f));
+        const data = await fs.promises.readFile(
+          path.join(this.importProductsDir, f)
+        );
         const product = JSON.parse(data.toString()) as Product<unknown>;
 
         // TODO do some validation on the file
@@ -57,8 +67,8 @@ export class DataImporter {
         const productToWrite = new ProductToWrite(
           path.join(this.outputProductsDir, FileWriter.sanitize(brandName)),
           product,
-          () => Promise.resolve(product))
-          .setWritePolicy(WritePolicy.merge);
+          () => Promise.resolve(product)
+        ).setWritePolicy(WritePolicy.merge);
 
         return productToWrite.writeFile();
       })
@@ -66,7 +76,10 @@ export class DataImporter {
   }
 
   async compileBrands() {
-    await fs.promises.rm(this.outputBrandsDir, { recursive: true, force: true });
+    await fs.promises.rm(this.outputBrandsDir, {
+      recursive: true,
+      force: true
+    });
 
     // Copy all generated files first
     await fsExtra.copy(this.generatedBrandsDir, this.outputBrandsDir);
@@ -75,7 +88,9 @@ export class DataImporter {
 
     await Promise.all(
       files.map(async f => {
-        const data = await fs.promises.readFile(path.join(this.importBrandsDir, f));
+        const data = await fs.promises.readFile(
+          path.join(this.importBrandsDir, f)
+        );
         const brand = JSON.parse(data.toString()) as Brand;
 
         // TODO do some validation on the file
@@ -91,9 +106,12 @@ export class DataImporter {
   createBrandFile(brand: Brand) {
     // MERGE with generated files
     const brandFile = new ObjectToWrite(
-      path.join(this.outputBrandsDir, `${FileWriter.sanitize(brand.name)}.json`),
-      () => Promise.resolve(brand))
-      .setWritePolicy(WritePolicy.merge);
+      path.join(
+        this.outputBrandsDir,
+        `${FileWriter.sanitize(brand.name)}.json`
+      ),
+      () => Promise.resolve(brand)
+    ).setWritePolicy(WritePolicy.merge);
 
     return brandFile.writeFile();
   }
