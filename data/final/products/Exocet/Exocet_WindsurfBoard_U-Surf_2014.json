@@ -6,17 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 68,
-        "construction": "Carbone"
-      },
-      "volumeL": 68,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 68
@@ -41,15 +32,6 @@
     },
     {
       "variant": {
-        "size": 76,
-        "construction": "Carbone"
-      },
-      "volumeL": 76,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 76
       },
       "compatibleFinFamilies": ["fins"],
@@ -69,15 +51,6 @@
         "fromM2": 3.7,
         "toM2": 5.7
       }
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Carbone"
-      },
-      "volumeL": 86,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

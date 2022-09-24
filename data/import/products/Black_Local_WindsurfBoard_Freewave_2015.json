@@ -16,88 +16,12 @@
     {
       "variant": {
         "size": 100,
-        "construction": "Ep.san"
-      },
-      "lengthCm": 232,
-      "widthCm": 61.8,
-      "volumeL": 100,
-      "weightKg": 7.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 100,
         "construction": "EP.Sand"
       },
       "lengthCm": 232,
       "widthCm": 61.8,
       "volumeL": 100,
       "weightKg": 7.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Ep.san"
-      },
-      "lengthCm": 234,
-      "widthCm": 64,
-      "volumeL": 105,
-      "weightKg": 8.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "EP.Sand"
-      },
-      "lengthCm": 234,
-      "widthCm": 64,
-      "volumeL": 105,
-      "weightKg": 8.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Ep.san"
-      },
-      "lengthCm": 230,
-      "widthCm": 59.5,
-      "volumeL": 95,
-      "weightKg": 7.7,
       "fins": [
         {
           "count": 1,
@@ -117,6 +41,25 @@
       "widthCm": 59.5,
       "volumeL": 95,
       "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "EP.Sand"
+      },
+      "lengthCm": 234,
+      "widthCm": 64,
+      "volumeL": 105,
+      "weightKg": 8.2,
       "fins": [
         {
           "count": 1,

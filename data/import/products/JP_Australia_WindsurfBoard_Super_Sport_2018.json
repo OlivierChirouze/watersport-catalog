@@ -15,13 +15,13 @@
   "variants": [
     {
       "variant": {
-        "size": 125,
+        "size": 101,
         "construction": "Gold"
       },
       "lengthCm": 237,
-      "widthCm": 76,
-      "volumeL": 125,
-      "weightKg": 6.6,
+      "widthCm": 64,
+      "volumeL": 101,
+      "weightKg": 6.5,
       "fins": [
         {
           "count": 1,
@@ -60,6 +60,63 @@
       "widthCm": 70,
       "volumeL": 113,
       "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Gold"
+      },
+      "lengthCm": 237,
+      "widthCm": 70,
+      "volumeL": 113,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Gold"
+      },
+      "lengthCm": 237,
+      "widthCm": 76,
+      "volumeL": 125,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Gold"
+      },
+      "lengthCm": 237,
+      "widthCm": 76,
+      "volumeL": 125,
+      "weightKg": 7.5,
       "fins": [
         {
           "count": 1,
@@ -98,63 +155,6 @@
       "widthCm": 82,
       "volumeL": 137,
       "weightKg": 8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Gold"
-      },
-      "lengthCm": 237,
-      "widthCm": 64,
-      "volumeL": 101,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 113,
-        "construction": "Gold"
-      },
-      "lengthCm": 237,
-      "widthCm": 70,
-      "volumeL": 113,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "Gold"
-      },
-      "lengthCm": 237,
-      "widthCm": 76,
-      "volumeL": 125,
-      "weightKg": 7.5,
       "fins": [
         {
           "count": 1,

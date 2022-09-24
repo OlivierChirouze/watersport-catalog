@@ -1,26 +1,13 @@
 {
   "name": "Venture",
   "year": 2016,
-  "programs": ["beginner", "freeride"],
+  "programs": ["freeride", "beginner"],
   "brandName": "Vandal Sails",
   "type": "propulsion",
   "subType": "windsurfSail",
   "description": {},
   "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 4.6
-      },
-      "surfaceM2": 4.6,
-      "luffLengthCm": 402,
-      "mastLengthsCm": [400],
-      "mastIMCS": [19],
-      "boomLengthsCm": [159],
-      "battenCount": 4,
-      "camCount": 0,
-      "masTypes": ["RDM", "SDM"]
-    },
     {
       "variant": {
         "size": 4
@@ -31,8 +18,19 @@
       "mastIMCS": [19],
       "boomLengthsCm": [151],
       "battenCount": 4,
-      "camCount": 0,
-      "masTypes": ["RDM", "SDM"]
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "luffLengthCm": 402,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [159],
+      "battenCount": 4,
+      "camCount": 0
     },
     {
       "variant": {
@@ -44,8 +42,7 @@
       "mastIMCS": [21],
       "boomLengthsCm": [170],
       "battenCount": 4,
-      "camCount": 0,
-      "masTypes": ["RDM", "SDM"]
+      "camCount": 0
     },
     {
       "variant": {
@@ -57,8 +54,7 @@
       "mastIMCS": [21],
       "boomLengthsCm": [171],
       "battenCount": 4,
-      "camCount": 0,
-      "masTypes": ["RDM", "SDM"]
+      "camCount": 0
     },
     {
       "variant": {
@@ -70,8 +66,7 @@
       "mastIMCS": [21],
       "boomLengthsCm": [184],
       "battenCount": 5,
-      "camCount": 0,
-      "masTypes": ["RDM", "SDM"]
+      "camCount": 0
     },
     {
       "variant": {
@@ -83,8 +78,7 @@
       "mastIMCS": [25],
       "boomLengthsCm": [199],
       "battenCount": 5,
-      "camCount": 0,
-      "masTypes": ["RDM", "SDM"]
+      "camCount": 0
     }
   ],
   "pictures": []

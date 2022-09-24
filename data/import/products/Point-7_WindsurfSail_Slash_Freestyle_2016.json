@@ -19,30 +19,12 @@
       "boomLengthsCm": [
         146
       ],
+      "luffLengthCm": 367,
       "mastLengthsCm": [
         370
       ],
       "mastExtensionLengthsCm": [],
       "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4
-      },
-      "surfaceM2": 4,
-      "boomLengthsCm": [
-        150
-      ],
-      "mastLengthsCm": [
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        14
-      ],
-      "battenCount": 4,
-      "camCount": 0,
       "topType": "vario"
     },
     {
@@ -51,16 +33,16 @@
       },
       "surfaceM2": 4.4,
       "boomLengthsCm": [
-        156
+        150
       ],
+      "luffLengthCm": 384,
       "mastLengthsCm": [
         370
       ],
       "mastExtensionLengthsCm": [
-        30
+        14
       ],
       "battenCount": 4,
-      "camCount": 0,
       "topType": "vario"
     },
     {
@@ -69,17 +51,17 @@
       },
       "surfaceM2": 4.8,
       "boomLengthsCm": [
-        163
+        156
       ],
+      "luffLengthCm": 400,
       "mastLengthsCm": [
-        400
+        370
       ],
       "mastExtensionLengthsCm": [
-        9
+        30
       ],
       "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
+      "topType": "vario"
     },
     {
       "variant": {
@@ -87,16 +69,16 @@
       },
       "surfaceM2": 5.2,
       "boomLengthsCm": [
-        169
+        163
       ],
+      "luffLengthCm": 409,
       "mastLengthsCm": [
         400
       ],
       "mastExtensionLengthsCm": [
-        21
+        9
       ],
       "battenCount": 4,
-      "camCount": 0,
       "topType": "fixed"
     },
     {
@@ -105,15 +87,17 @@
       },
       "surfaceM2": 5.6,
       "boomLengthsCm": [
-        146
+        169
       ],
+      "luffLengthCm": 421,
       "mastLengthsCm": [
-        370
+        400
       ],
-      "mastExtensionLengthsCm": [],
+      "mastExtensionLengthsCm": [
+        21
+      ],
       "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     }
   ],
   "description": {},

@@ -9,108 +9,18 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "construction": "Bcs"
-      },
-      "volumeL": 100,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Bcs"
-      },
-      "volumeL": 110,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Bcs"
-      },
-      "volumeL": 120,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Bcs"
-      },
-      "volumeL": 130,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 140,
-        "construction": "Bcs"
-      },
-      "volumeL": 140,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 152,
-        "construction": "Bcs"
-      },
-      "volumeL": 152,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
         "size": 79,
         "construction": "Bcs"
       },
       "volumeL": 79,
       "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -119,13 +29,103 @@
       },
       "volumeL": 90,
       "weightKg": 6.3,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Bcs"
+      },
+      "volumeL": 100,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Bcs"
+      },
+      "volumeL": 110,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Bcs"
+      },
+      "volumeL": 120,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Bcs"
+      },
+      "volumeL": 130,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Bcs"
+      },
+      "volumeL": 140,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 152,
+        "construction": "Bcs"
+      },
+      "volumeL": 152,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

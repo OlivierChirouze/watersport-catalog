@@ -9,66 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 125,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "volumeL": 125,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 105,
         "construction": "PVC Full Sandwich HD",
         "edition": "CED"
@@ -77,21 +17,6 @@
       "widthCm": 63,
       "volumeL": 105,
       "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "volumeL": 115,
       "fins": [
         {
           "count": 1,
@@ -121,21 +46,6 @@
     {
       "variant": {
         "size": 125,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "volumeL": 125,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
         "construction": "PVC Full Sandwich HD",
         "edition": "CED"
       },
@@ -143,21 +53,6 @@
       "widthCm": 75.5,
       "volumeL": 125,
       "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "volumeL": 135,
       "fins": [
         {
           "count": 1,
@@ -187,21 +82,6 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
         "construction": "PVC Full Sandwich HD",
         "edition": "CED"
       },
@@ -209,21 +89,6 @@
       "widthCm": 79,
       "volumeL": 145,
       "weightKg": 8.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "volumeL": 95,
       "fins": [
         {
           "count": 1,
@@ -253,21 +118,6 @@
     {
       "variant": {
         "size": 105,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
         "construction": "PVC Full Sandwich Carbon",
         "edition": "LTD"
       },
@@ -275,21 +125,6 @@
       "widthCm": 63,
       "volumeL": 105,
       "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 115,
       "fins": [
         {
           "count": 1,
@@ -319,21 +154,6 @@
     {
       "variant": {
         "size": 125,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 125,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
         "construction": "PVC Full Sandwich Carbon",
         "edition": "LTD"
       },
@@ -341,21 +161,6 @@
       "widthCm": 75.5,
       "volumeL": 125,
       "weightKg": 7.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 135,
       "fins": [
         {
           "count": 1,
@@ -385,21 +190,6 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
         "construction": "PVC Full Sandwich Carbon",
         "edition": "LTD"
       },
@@ -407,21 +197,6 @@
       "widthCm": 79,
       "volumeL": 145,
       "weightKg": 8.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 95,
       "fins": [
         {
           "count": 1,

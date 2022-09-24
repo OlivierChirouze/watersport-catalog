@@ -22,14 +22,14 @@
         "edition": "LTD"
       },
       "volumeL": 110,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {
@@ -95,18 +95,6 @@
         {
           "type": "PowerBox"
         }
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Std",
-        "edition": "STD"
-      },
-      "volumeL": 110,
-      "weightKg": 8.75,
-      "compatibleFinFamilies": [
-        "fins"
       ]
     },
     {

@@ -1,11 +1,12 @@
 {
-  "type": "board",
-  "subType": "windsurfBoard",
-  "programs": ["freestyle"],
   "name": "Skate",
   "year": 2011,
+  "programs": ["freestyle"],
   "brandName": "Fanatic",
-  "dimensions": ["edition", "size", "construction"],
+  "type": "board",
+  "subType": "windsurfBoard",
+  "description": {},
+  "dimensions": ["edition", "size"],
   "variants": [
     {
       "variant": {
@@ -69,48 +70,6 @@
     },
     {
       "variant": {
-        "construction": "",
-        "size": 100
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 100,
-      "lengthCm": 235,
-      "widthCm": 63.5,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "construction": "TE",
-        "size": 100
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 100,
-      "lengthCm": 235,
-      "widthCm": 63.5,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
         "size": 100
       },
       "compatibleFinFamilies": ["fins"],
@@ -130,48 +89,6 @@
     },
     {
       "variant": {
-        "construction": "",
-        "size": 110
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 110,
-      "lengthCm": 237,
-      "widthCm": 66.5,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "construction": "TE",
-        "size": 110
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 110,
-      "lengthCm": 237,
-      "widthCm": 66.5,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
         "size": 110
       },
       "compatibleFinFamilies": ["fins"],
@@ -187,32 +104,8 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "construction": "TE",
-        "size": 90
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 90,
-      "lengthCm": 232,
-      "widthCm": 60,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.6
       }
     }
   ],
-  "description": {
-    "en": "Freestyle gets more twisted by the day. Thanks to Gollito´s, Marcilio´s and Andre Paskowski’s input, the Skate line’s formed a new dimension born of generations of global test winners. A big part of the Skates cutting edge success is its total ease of use. For freestyle newbies and champions alike it’s fast-planing and simple to ride.\n\nAll three shapes - 90, 100, and 110 litre sizes - are available in high-end team Edition, boasting super-light performance thanks to Carbon/Kevlar deck and stiff Carbon bottom lay ups. Crazy airbrush effects, polished bases and rails give the world’s trickest board the pimpest look on the scene.\nThe 100 and 110 also come in the proven Biax Glass construction with light finish for the best value of weight and durability.\n\nKey Features:\n- Round nose and fuller outline\n- Thin rails between the feet for improved carving freestyle manoeuvres\n- Full and soft rails in the nose for catch-free sliding\n"
-  },
   "pictures": []
 }

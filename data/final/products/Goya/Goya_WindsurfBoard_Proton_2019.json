@@ -9,78 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 116,
-        "construction": "Carbon Sandwich",
-        "edition": "Pro"
-      },
-      "lengthCm": 230.7,
-      "widthCm": 70.8,
-      "volumeL": 116,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Carbone Sandwich",
-        "edition": "Pro"
-      },
-      "lengthCm": 227.4,
-      "widthCm": 84.9,
-      "volumeL": 116,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 136,
-        "construction": "Carbon Sandwich",
-        "edition": "Pro"
-      },
-      "lengthCm": 227.4,
-      "widthCm": 84.9,
-      "volumeL": 136,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 136,
-        "construction": "Carbone Sandwich",
-        "edition": "Pro"
-      },
-      "lengthCm": 230.7,
-      "widthCm": 70.8,
-      "volumeL": 136,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 96,
         "construction": "Carbon Sandwich",
         "edition": "Pro"
@@ -99,18 +27,36 @@
     },
     {
       "variant": {
-        "size": 96,
-        "construction": "Carbone Sandwich",
+        "size": 116,
+        "construction": "Carbon Sandwich",
         "edition": "Pro"
       },
       "lengthCm": 230.7,
       "widthCm": 70.8,
-      "volumeL": 96,
+      "volumeL": 116,
       "weightKg": 6.7,
       "fins": [
         {
           "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "construction": "Carbon Sandwich",
+        "edition": "Pro"
+      },
+      "lengthCm": 227.4,
+      "widthCm": 84.9,
+      "volumeL": 136,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "compatibleFinFamilies": ["fins"]

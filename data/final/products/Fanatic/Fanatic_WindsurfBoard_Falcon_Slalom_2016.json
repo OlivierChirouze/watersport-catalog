@@ -38,10 +38,6 @@
       "fins": [
         {
           "count": 1,
-          "type": "TuttleBox"
-        },
-        {
-          "count": 1,
           "type": "DeepTuttleBox"
         }
       ],
@@ -96,10 +92,6 @@
       "fins": [
         {
           "count": 1,
-          "type": "DeepTuttleBox"
-        },
-        {
-          "count": 1,
           "type": "TuttleBox"
         }
       ],
@@ -144,23 +136,6 @@
     {
       "variant": {
         "size": 112,
-        "construction": "Bgs"
-      },
-      "lengthCm": 230,
-      "widthCm": 70,
-      "volumeL": 112,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 112,
         "construction": "BGS"
       },
       "lengthCm": 230,
@@ -178,46 +153,12 @@
     {
       "variant": {
         "size": 121,
-        "construction": "Bgs"
-      },
-      "lengthCm": 230,
-      "widthCm": 75,
-      "volumeL": 121,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 121,
         "construction": "BGS"
       },
       "lengthCm": 230,
       "widthCm": 75,
       "volumeL": 121,
       "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Bgs"
-      },
-      "lengthCm": 235,
-      "widthCm": 63,
-      "volumeL": 99,
-      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,

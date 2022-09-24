@@ -6,48 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 106,
-        "construction": "Pro-model Wood",
-        "edition": "Pro"
-      },
-      "volumeL": 106,
-      "weightKg": 9.35,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Pro-model Wood",
-        "edition": "Pro"
-      },
-      "volumeL": 116,
-      "weightKg": 9.35,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 126,
-        "construction": "Pro-model Wood",
-        "edition": "Pro"
-      },
-      "volumeL": 126,
-      "weightKg": 9.35,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 138,
-        "construction": "Pro-model Wood",
-        "edition": "Pro"
-      },
-      "volumeL": 138,
-      "weightKg": 9.35,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 106

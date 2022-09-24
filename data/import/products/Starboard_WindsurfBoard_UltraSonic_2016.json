@@ -11,23 +11,9 @@
   "description": {},
   "dimensions": [
     "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 147,
-        "construction": "Carbone Reflex",
-        "edition": "Carbon Reflex"
-      },
-      "lengthCm": 241,
-      "widthCm": 95,
-      "volumeL": 147,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 147,
@@ -71,18 +57,6 @@
         "fromM2": 7.8,
         "toM2": 12
       }
-    },
-    {
-      "variant": {
-        "size": 147,
-        "construction": "Wood"
-      },
-      "lengthCm": 241,
-      "widthCm": 95,
-      "volumeL": 147,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

@@ -15,13 +15,13 @@
       "surfaceM2": 3.3,
       "weightKg": 2.95,
       "boomLengthsCm": [139],
-      "mastLengthsCm": [100, 370],
-      "mastExtensionLengthsCm": [241],
+      "luffLengthCm": 341,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 341
+      "topType": "vario"
     },
     {
       "variant": {
@@ -30,13 +30,13 @@
       "surfaceM2": 3.6,
       "weightKg": 3.06,
       "boomLengthsCm": [142],
-      "mastLengthsCm": [100, 370],
-      "mastExtensionLengthsCm": [253],
+      "luffLengthCm": 353,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 353
+      "topType": "vario"
     },
     {
       "variant": {
@@ -45,13 +45,13 @@
       "surfaceM2": 4.2,
       "weightKg": 3.25,
       "boomLengthsCm": [153],
-      "mastLengthsCm": [100, 370],
-      "mastExtensionLengthsCm": [278, 8],
+      "luffLengthCm": 378,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [8],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 378
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -60,13 +60,13 @@
       "surfaceM2": 4.5,
       "weightKg": 3.4,
       "boomLengthsCm": [159],
-      "mastLengthsCm": [100, 370],
-      "mastExtensionLengthsCm": [18, 288],
+      "luffLengthCm": 388,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [18],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 388
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -75,13 +75,13 @@
       "surfaceM2": 4.7,
       "weightKg": 3.45,
       "boomLengthsCm": [162],
+      "luffLengthCm": 395,
       "mastLengthsCm": [370],
       "mastExtensionLengthsCm": [25],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 395
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -90,13 +90,13 @@
       "surfaceM2": 4,
       "weightKg": 3.16,
       "boomLengthsCm": [150],
-      "mastLengthsCm": [100, 370],
-      "mastExtensionLengthsCm": [2, 272],
+      "luffLengthCm": 372,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [2],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 372
+      "topType": "vario"
     },
     {
       "variant": {
@@ -105,13 +105,13 @@
       "surfaceM2": 5.4,
       "weightKg": 3.7,
       "boomLengthsCm": [171],
-      "mastLengthsCm": [370, 400],
-      "mastExtensionLengthsCm": [16, 46],
+      "luffLengthCm": 416,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [16],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 416
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -120,13 +120,13 @@
       "surfaceM2": 5.9,
       "weightKg": 3.8,
       "boomLengthsCm": [179],
+      "luffLengthCm": 431,
       "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [1, 31],
+      "mastExtensionLengthsCm": [31, 1],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 431
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -135,13 +135,13 @@
       "surfaceM2": 5,
       "weightKg": 3.54,
       "boomLengthsCm": [166],
-      "mastLengthsCm": [100, 370, 400],
-      "mastExtensionLengthsCm": [306, 36, 6],
+      "luffLengthCm": 406,
+      "mastLengthsCm": [370, 400],
+      "mastExtensionLengthsCm": [36, 6],
       "masTypes": ["RDM"],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 406
+      "topType": "fixed"
     }
   ],
   "description": {

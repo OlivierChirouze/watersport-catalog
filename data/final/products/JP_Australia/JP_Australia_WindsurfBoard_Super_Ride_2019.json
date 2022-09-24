@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2019,
   "name": "Super Ride",
@@ -9,13 +9,114 @@
   "variants": [
     {
       "variant": {
+        "size": 102,
+        "construction": "FWS"
+      },
+      "lengthCm": 232,
+      "widthCm": 63,
+      "volumeL": 102,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Pro"
+      },
+      "lengthCm": 232,
+      "widthCm": 63,
+      "volumeL": 102,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 116,
-        "construction": "Es",
-        "edition": "ES"
+        "construction": "ES"
+      },
+      "lengthCm": 234,
+      "widthCm": 68,
+      "volumeL": 116,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "FWS"
+      },
+      "lengthCm": 234,
+      "widthCm": 68,
+      "volumeL": 116,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Gold"
+      },
+      "lengthCm": 234,
+      "widthCm": 68,
+      "volumeL": 116,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Pro"
+      },
+      "lengthCm": 234,
+      "widthCm": 68,
+      "volumeL": 116,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "ES"
       },
       "lengthCm": 235,
       "widthCm": 70.5,
-      "volumeL": 116,
+      "volumeL": 124,
       "weightKg": 8.6,
       "fins": [
         {
@@ -28,12 +129,62 @@
     {
       "variant": {
         "size": 124,
-        "construction": "Es",
-        "edition": "ES"
+        "construction": "FWS"
+      },
+      "lengthCm": 235,
+      "widthCm": 70.5,
+      "volumeL": 124,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Gold"
+      },
+      "lengthCm": 235,
+      "widthCm": 70.5,
+      "volumeL": 124,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 124,
+        "construction": "Pro"
+      },
+      "lengthCm": 235,
+      "widthCm": 70.5,
+      "volumeL": 124,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "ES"
       },
       "lengthCm": 235,
       "widthCm": 74,
-      "volumeL": 124,
+      "volumeL": 132,
       "weightKg": 9.1,
       "fins": [
         {
@@ -46,66 +197,11 @@
     {
       "variant": {
         "size": 132,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "lengthCm": 235,
-      "widthCm": 70.5,
-      "volumeL": 132,
-      "weightKg": 8.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 234,
-      "widthCm": 68,
-      "volumeL": 102,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 235,
-      "widthCm": 70.5,
-      "volumeL": 116,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 124,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 235,
       "widthCm": 73,
-      "volumeL": 124,
+      "volumeL": 132,
       "weightKg": 8,
       "fins": [
         {
@@ -118,12 +214,45 @@
     {
       "variant": {
         "size": 132,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "Gold"
+      },
+      "lengthCm": 235,
+      "widthCm": 73,
+      "volumeL": 132,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Pro"
+      },
+      "lengthCm": 235,
+      "widthCm": 73,
+      "volumeL": 132,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "construction": "FWS"
       },
       "lengthCm": 240,
       "widthCm": 78,
-      "volumeL": 132,
+      "volumeL": 146,
       "weightKg": 8.8,
       "fins": [
         {
@@ -136,149 +265,12 @@
     {
       "variant": {
         "size": 146,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 234,
-      "widthCm": 68,
-      "volumeL": 146,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Pro"
-      },
-      "lengthCm": 234,
-      "widthCm": 68,
-      "volumeL": 102,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Gold"
-      },
-      "lengthCm": 235,
-      "widthCm": 70.5,
-      "volumeL": 116,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Pro"
-      },
-      "lengthCm": 235,
-      "widthCm": 70.5,
-      "volumeL": 116,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 124,
-        "construction": "Gold"
-      },
-      "lengthCm": 235,
-      "widthCm": 73,
-      "volumeL": 124,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 124,
-        "construction": "Pro"
-      },
-      "lengthCm": 235,
-      "widthCm": 73,
-      "volumeL": 124,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 132,
-        "construction": "Gold"
-      },
-      "lengthCm": 235,
-      "widthCm": 70.5,
-      "volumeL": 132,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 132,
         "construction": "Pro"
       },
       "lengthCm": 240,
       "widthCm": 78,
-      "volumeL": 132,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 146,
-        "construction": "Pro"
-      },
-      "lengthCm": 234,
-      "widthCm": 68,
       "volumeL": 146,
-      "weightKg": 7.1,
+      "weightKg": 8.5,
       "fins": [
         {
           "count": 1,

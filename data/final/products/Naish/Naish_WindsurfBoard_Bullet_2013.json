@@ -60,13 +60,13 @@
       },
       "volumeL": 95,
       "weightKg": 8.25,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

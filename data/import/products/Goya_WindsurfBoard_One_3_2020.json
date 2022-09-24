@@ -16,14 +16,34 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Pro Carbon Monocoque",
+        "size": 86,
+        "construction": "Pro Carbon Monohull",
         "edition": "Pro"
       },
-      "lengthCm": 231.8,
-      "widthCm": 62.4,
-      "volumeL": 105,
-      "weightKg": 7,
+      "lengthCm": 228.6,
+      "widthCm": 57,
+      "volumeL": 86,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "Pro Carbon Monohull",
+        "edition": "Pro"
+      },
+      "lengthCm": 228.8,
+      "widthCm": 59.4,
+      "volumeL": 96,
+      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,
@@ -57,26 +77,6 @@
     {
       "variant": {
         "size": 115,
-        "construction": "Pro Carbon Monocoque",
-        "edition": "Pro"
-      },
-      "lengthCm": 233.5,
-      "widthCm": 64.9,
-      "volumeL": 115,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 115,
         "construction": "Pro Carbon Monohull",
         "edition": "Pro"
       },
@@ -84,86 +84,6 @@
       "widthCm": 64.9,
       "volumeL": 115,
       "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Pro Carbon Monocoque",
-        "edition": "Pro"
-      },
-      "lengthCm": 228.6,
-      "widthCm": 57,
-      "volumeL": 86,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Pro Carbon Monohull",
-        "edition": "Pro"
-      },
-      "lengthCm": 228.6,
-      "widthCm": 57,
-      "volumeL": 86,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "Pro Carbon Monocoque",
-        "edition": "Pro"
-      },
-      "lengthCm": 228.8,
-      "widthCm": 59.4,
-      "volumeL": 96,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "Pro Carbon Monohull",
-        "edition": "Pro"
-      },
-      "lengthCm": 228.8,
-      "widthCm": 59.4,
-      "volumeL": 96,
-      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,

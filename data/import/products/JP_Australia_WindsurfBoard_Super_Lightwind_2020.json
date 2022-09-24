@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,26 +12,6 @@
     "freeride"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 165,
-      "widthCm": 235,
-      "volumeL": 92,
-      "weightKg": 9.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 92,

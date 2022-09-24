@@ -17,6 +17,7 @@
         "size": 135,
         "construction": "Fiber Glass"
       },
+      "lengthCm": 255,
       "volumeL": 135,
       "weightKg": 9.7,
       "fins": [
@@ -27,14 +28,14 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "lengthCm": 255
+      ]
     },
     {
       "variant": {
         "size": 155,
         "construction": "Fiber Glass"
       },
+      "lengthCm": 255,
       "volumeL": 155,
       "weightKg": 10.2,
       "fins": [
@@ -45,8 +46,7 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "lengthCm": 255
+      ]
     }
   ],
   "description": {},

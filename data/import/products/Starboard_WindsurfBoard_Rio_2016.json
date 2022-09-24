@@ -10,9 +10,8 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
     {
@@ -83,26 +82,6 @@
         "fromM2": 2,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "construction": "Tufskin Armourtech",
-        "edition": "Tufskin"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 180,
-        "construction": "Tufskin Armourtech",
-        "edition": "Tufskin"
-      },
-      "volumeL": 180,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

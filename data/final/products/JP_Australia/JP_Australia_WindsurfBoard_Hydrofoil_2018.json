@@ -1,5 +1,5 @@
 {
-  "dimensions": ["size", "construction", "edition"],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2018,
   "name": "Hydrofoil",
@@ -10,8 +10,7 @@
     {
       "variant": {
         "size": 135,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 215,
       "widthCm": 86,
@@ -28,8 +27,7 @@
     {
       "variant": {
         "size": 135,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 215,
       "widthCm": 86,
@@ -46,8 +44,7 @@
     {
       "variant": {
         "size": 155,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 220,
       "widthCm": 90,

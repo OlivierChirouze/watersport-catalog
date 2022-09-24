@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -14,66 +13,6 @@
     "race"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 111,
-        "construction": "Lxt",
-        "edition": "LXT"
-      },
-      "lengthCm": 234,
-      "widthCm": 70,
-      "volumeL": 111,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Lxt",
-        "edition": "LXT"
-      },
-      "lengthCm": 234,
-      "widthCm": 76,
-      "volumeL": 122,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 133,
-        "construction": "Lxt",
-        "edition": "LXT"
-      },
-      "lengthCm": 234,
-      "widthCm": 82,
-      "volumeL": 133,
-      "weightKg": 8.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 111,

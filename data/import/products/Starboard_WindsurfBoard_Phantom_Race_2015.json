@@ -2,39 +2,17 @@
   "name": "Phantom Race",
   "year": 2015,
   "programs": [
-    "freeride",
-    "race"
+    "freeride"
   ],
   "brandName": "Starboard",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 263,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 377,
-      "widthCm": 67,
-      "volumeL": 263,
-      "weightKg": 12.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 263,
@@ -57,25 +35,6 @@
         "fromM2": 6.5,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "size": 298,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "widthCm": 67,
-      "volumeL": 298,
-      "weightKg": 14,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

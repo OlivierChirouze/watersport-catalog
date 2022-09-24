@@ -1,7 +1,6 @@
 {
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "brandName": "Exocet",
   "year": 2018,
@@ -10,64 +9,6 @@
   "subType": "windsurfBoard",
   "programs": [
     "foiling"
-  ],
-  "variants": [
-    {
-      "variant": {
-        "construction": "Carbone"
-      },
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "construction": "Carbone"
-      },
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "construction": "Carbone"
-      },
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "construction": "Carbone"
-      },
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    }
   ],
   "description": {},
   "pictures": []

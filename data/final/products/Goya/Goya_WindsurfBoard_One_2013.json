@@ -205,13 +205,13 @@
         "edition": "Pro"
       },
       "volumeL": 72,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -239,13 +239,13 @@
         "edition": "Pro"
       },
       "volumeL": 78,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "US"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -311,13 +311,13 @@
       },
       "volumeL": 86,
       "weightKg": 8,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -326,13 +326,13 @@
       },
       "volumeL": 94,
       "weightKg": 8,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

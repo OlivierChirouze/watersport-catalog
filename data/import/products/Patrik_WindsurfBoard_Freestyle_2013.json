@@ -20,12 +20,6 @@
       "volumeL": 99,
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
       ]
     },
     {
@@ -34,6 +28,12 @@
         "construction": "Carbon"
       },
       "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
       "compatibleFinFamilies": [
         "fins"
       ]

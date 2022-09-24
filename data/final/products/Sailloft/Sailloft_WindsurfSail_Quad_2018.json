@@ -9,16 +9,29 @@
   "variants": [
     {
       "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "boomLengthsCm": [136],
+      "luffLengthCm": 334,
+      "mastLengthsCm": [340],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
         "size": 3.3
       },
       "surfaceM2": 3.3,
       "boomLengthsCm": [138],
+      "luffLengthCm": 350,
       "mastLengthsCm": [340],
       "mastExtensionLengthsCm": [10],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 350
+      "topType": "vario"
     },
     {
       "variant": {
@@ -26,64 +39,12 @@
       },
       "surfaceM2": 3.6,
       "boomLengthsCm": [142],
+      "luffLengthCm": 364,
       "mastLengthsCm": [340],
       "mastExtensionLengthsCm": [24],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 364
-    },
-    {
-      "variant": {
-        "size": 3
-      },
-      "surfaceM2": 3,
-      "boomLengthsCm": [136],
-      "mastLengthsCm": [340],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 334
-    },
-    {
-      "variant": {
-        "size": 4.4
-      },
-      "surfaceM2": 4.4,
-      "boomLengthsCm": [157],
-      "mastLengthsCm": [370],
-      "mastExtensionLengthsCm": [28],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 398
-    },
-    {
-      "variant": {
-        "size": 4.6
-      },
-      "surfaceM2": 4.6,
-      "boomLengthsCm": [160],
-      "mastLengthsCm": [370, 400],
-      "mastExtensionLengthsCm": [36, 6],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 406
-    },
-    {
-      "variant": {
-        "size": 4.8
-      },
-      "surfaceM2": 4.8,
-      "boomLengthsCm": [162],
-      "mastLengthsCm": [400],
-      "mastExtensionLengthsCm": [12],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 412
+      "topType": "vario"
     },
     {
       "variant": {
@@ -91,12 +52,51 @@
       },
       "surfaceM2": 4,
       "boomLengthsCm": [147],
+      "luffLengthCm": 382,
       "mastLengthsCm": [370],
       "mastExtensionLengthsCm": [12],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 382
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "boomLengthsCm": [157],
+      "luffLengthCm": 398,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [28],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.6
+      },
+      "surfaceM2": 4.6,
+      "boomLengthsCm": [160],
+      "luffLengthCm": 406,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [36],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 4.8
+      },
+      "surfaceM2": 4.8,
+      "boomLengthsCm": [162],
+      "luffLengthCm": 412,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [12],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -104,12 +104,12 @@
       },
       "surfaceM2": 5.2,
       "boomLengthsCm": [169],
+      "luffLengthCm": 432,
       "mastLengthsCm": [400],
       "mastExtensionLengthsCm": [32],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 432
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -117,12 +117,12 @@
       },
       "surfaceM2": 5.6,
       "boomLengthsCm": [178],
-      "mastLengthsCm": [340, 400],
-      "mastExtensionLengthsCm": [34, 94],
+      "luffLengthCm": 434,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [34],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 434
+      "topType": "fixed"
     }
   ],
   "description": {},

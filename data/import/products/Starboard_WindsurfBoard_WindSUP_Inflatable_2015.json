@@ -10,8 +10,8 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
-    "size"
+    "size",
+    "edition"
   ],
   "variants": [
     {
@@ -236,42 +236,6 @@
         "fromM2": 4.5,
         "toM2": 7.5
       }
-    },
-    {
-      "variant": {
-        "size": 290
-      },
-      "volumeL": 290
-    },
-    {
-      "variant": {
-        "size": 300
-      },
-      "volumeL": 300
-    },
-    {
-      "variant": {
-        "size": 302
-      },
-      "volumeL": 302
-    },
-    {
-      "variant": {
-        "size": 330
-      },
-      "volumeL": 330
-    },
-    {
-      "variant": {
-        "size": 405
-      },
-      "volumeL": 405
-    },
-    {
-      "variant": {
-        "size": 76
-      },
-      "volumeL": 76
     }
   ],
   "pictures": []

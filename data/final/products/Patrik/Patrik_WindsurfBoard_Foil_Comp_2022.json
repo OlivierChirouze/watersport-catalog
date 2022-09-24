@@ -9,25 +9,11 @@
   "variants": [
     {
       "variant": {
+        "size": 100,
         "construction": "Aluminium"
       },
       "lengthCm": 220,
       "widthCm": 95,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Aluminium"
-      },
-      "lengthCm": 221,
-      "widthCm": 100,
       "volumeL": 100,
       "fins": [
         {
@@ -42,7 +28,7 @@
         "size": 78,
         "construction": "Aluminium"
       },
-      "widthCm": 78,
+      "widthCm": 85,
       "volumeL": 78,
       "fins": [
         {
@@ -57,7 +43,8 @@
         "size": 85,
         "construction": "Aluminium"
       },
-      "widthCm": 85,
+      "lengthCm": 221,
+      "widthCm": 91,
       "volumeL": 85,
       "fins": [
         {
@@ -65,8 +52,7 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["foil"],
-      "lengthCm": 221
+      "compatibleFinFamilies": ["foil"]
     },
     {
       "variant": {
@@ -74,7 +60,7 @@
         "construction": "Aluminium"
       },
       "lengthCm": 221,
-      "widthCm": 91,
+      "widthCm": 100,
       "volumeL": 91,
       "fins": [
         {

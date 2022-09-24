@@ -9,14 +9,14 @@
   "variants": [
     {
       "variant": {
-        "size": 73,
-        "construction": "Ep.sand",
+        "size": 83,
+        "construction": "EP.Sand",
         "edition": "Thruster"
       },
-      "lengthCm": 218,
-      "widthCm": 53,
-      "volumeL": 73,
-      "weightKg": 6.9,
+      "lengthCm": 221,
+      "widthCm": 56.8,
+      "volumeL": 83,
+      "weightKg": 7.3,
       "fins": [
         {
           "count": 1,
@@ -54,28 +54,6 @@
     {
       "variant": {
         "size": 78,
-        "construction": "Ep.sand",
-        "edition": "Thruster"
-      },
-      "lengthCm": 220,
-      "widthCm": 55.5,
-      "volumeL": 78,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 78,
         "construction": "EP.Sand",
         "edition": "Thruster"
       },
@@ -83,72 +61,6 @@
       "widthCm": 55.5,
       "volumeL": 78,
       "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "Ep.sand",
-        "edition": "Thruster"
-      },
-      "lengthCm": 221,
-      "widthCm": 56.8,
-      "volumeL": 83,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "EP.Sand",
-        "edition": "Thruster"
-      },
-      "lengthCm": 221,
-      "widthCm": 56.8,
-      "volumeL": 83,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Ep.sand",
-        "edition": "Thruster"
-      },
-      "lengthCm": 222,
-      "widthCm": 57.4,
-      "volumeL": 86,
-      "weightKg": 7.35,
       "fins": [
         {
           "count": 1,
@@ -186,28 +98,6 @@
     {
       "variant": {
         "size": 92,
-        "construction": "Ep.sand",
-        "edition": "Thruster"
-      },
-      "lengthCm": 223,
-      "widthCm": 59,
-      "volumeL": 92,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
         "construction": "EP.Sand",
         "edition": "Thruster"
       },
@@ -215,28 +105,6 @@
       "widthCm": 59,
       "volumeL": 92,
       "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 98,
-        "construction": "Ep.sand",
-        "edition": "Thruster"
-      },
-      "lengthCm": 224,
-      "widthCm": 61,
-      "volumeL": 98,
-      "weightKg": 7.7,
       "fins": [
         {
           "count": 1,

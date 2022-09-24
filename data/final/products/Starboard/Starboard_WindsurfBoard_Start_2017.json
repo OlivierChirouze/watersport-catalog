@@ -6,34 +6,17 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
     {
       "variant": {
-        "size": 238,
-        "construction": "Tufskin Ou Asap"
-      },
-      "lengthCm": 284,
-      "widthCm": 94.5,
-      "volumeL": 238,
-      "weightKg": 16.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 238
+        "size": 246
       },
       "compatibleFinFamilies": ["fins"],
-      "volumeL": 238,
-      "lengthCm": 284,
-      "widthCm": 94.5,
-      "weightKg": 16.95,
+      "volumeL": 246,
+      "lengthCm": 285,
+      "widthCm": 100.5,
+      "weightKg": 17.45,
       "fins": [
         {
           "type": "TuttleBox"
@@ -47,30 +30,13 @@
     },
     {
       "variant": {
-        "size": 246,
-        "construction": "Tufskin Ou Asap"
-      },
-      "lengthCm": 285,
-      "widthCm": 100.5,
-      "volumeL": 246,
-      "weightKg": 17.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 246
+        "size": 238
       },
       "compatibleFinFamilies": ["fins"],
-      "volumeL": 246,
-      "lengthCm": 285,
-      "widthCm": 100.5,
-      "weightKg": 17.45,
+      "volumeL": 238,
+      "lengthCm": 284,
+      "widthCm": 94.5,
+      "weightKg": 16.95,
       "fins": [
         {
           "type": "TuttleBox"

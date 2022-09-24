@@ -6,7 +6,7 @@
   "type": "propulsion",
   "subType": "windsurfSail",
   "infoUrl": "https://ga-windsurfing.com/sails/2020/slalom-race/phantom-20/",
-  "programs": ["slalom"],
+  "programs": ["freeride", "race", "slalom"],
   "variants": [
     {
       "variant": {
@@ -20,7 +20,8 @@
       "boomLengthsCm": [179],
       "battenCount": 7,
       "camCount": null,
-      "topType": "vario"
+      "topType": "vario",
+      "masTypes": ["SDM"]
     },
     {
       "variant": {
@@ -34,7 +35,8 @@
       "boomLengthsCm": [195],
       "battenCount": 7,
       "camCount": null,
-      "topType": "fixed"
+      "topType": "fixed",
+      "masTypes": ["SDM"]
     },
     {
       "variant": {
@@ -48,7 +50,8 @@
       "boomLengthsCm": [204],
       "battenCount": 7,
       "camCount": null,
-      "topType": "fixed"
+      "topType": "fixed",
+      "masTypes": ["SDM"]
     },
     {
       "variant": {
@@ -62,7 +65,17 @@
       "boomLengthsCm": [212],
       "battenCount": 7,
       "camCount": null,
-      "topType": "fixed"
+      "topType": "fixed",
+      "masTypes": ["SDM"]
+    },
+    {
+      "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "masTypes": ["SDM"],
+      "battenCount": 7,
+      "camCount": 2
     },
     {
       "variant": {
@@ -76,7 +89,8 @@
       "boomLengthsCm": [221],
       "battenCount": 7,
       "camCount": null,
-      "topType": "fixed"
+      "topType": "fixed",
+      "masTypes": ["SDM"]
     },
     {
       "variant": {
@@ -90,7 +104,8 @@
       "boomLengthsCm": [236],
       "battenCount": 7,
       "camCount": null,
-      "topType": "fixed"
+      "topType": "fixed",
+      "masTypes": ["SDM"]
     }
   ],
   "description": {

@@ -12,6 +12,8 @@
         "size": 114,
         "construction": "3dx"
       },
+      "lengthCm": 239,
+      "widthCm": 75.5,
       "volumeL": 114,
       "fins": [
         {
@@ -19,15 +21,15 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 239,
-      "widthCm": 75.5
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 124,
         "construction": "3dx"
       },
+      "lengthCm": 239,
+      "widthCm": 81,
       "volumeL": 124,
       "fins": [
         {
@@ -35,15 +37,15 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 239,
-      "widthCm": 81
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 130,
         "construction": "3dx"
       },
+      "lengthCm": 239,
+      "widthCm": 84,
       "volumeL": 130,
       "fins": [
         {
@@ -51,9 +53,7 @@
           "type": "TuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 239,
-      "widthCm": 84
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

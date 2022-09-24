@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,26 +12,6 @@
     "race"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 230,
-      "widthCm": 75,
-      "volumeL": 120,
-      "weightKg": 7.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 120,

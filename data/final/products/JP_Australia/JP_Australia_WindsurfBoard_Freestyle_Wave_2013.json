@@ -11,15 +11,6 @@
     {
       "variant": {
         "size": 101,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 101,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 101,
         "edition": "FWS"
       },
       "compatibleFinFamilies": ["fins"],
@@ -56,15 +47,6 @@
         "fromM2": 5.4,
         "toM2": 7.2
       }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 84,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -229,13 +211,13 @@
         "construction": "Pro"
       },
       "volumeL": 77,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "MiniTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -257,13 +239,13 @@
         "construction": "Pro"
       },
       "volumeL": 92,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

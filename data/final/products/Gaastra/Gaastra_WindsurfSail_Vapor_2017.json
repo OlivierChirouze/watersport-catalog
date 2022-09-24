@@ -13,7 +13,7 @@
         "size": 11
       },
       "surfaceM2": 11,
-      "mastLengthsCm": [100],
+      "mastLengthsCm": [490, 520],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -25,7 +25,7 @@
         "size": 12
       },
       "surfaceM2": 12,
-      "mastLengthsCm": [400],
+      "mastLengthsCm": [520],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -49,7 +49,7 @@
         "size": 5.4
       },
       "surfaceM2": 5.4,
-      "mastLengthsCm": [100],
+      "mastLengthsCm": [400],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -61,7 +61,7 @@
         "size": 5.6
       },
       "surfaceM2": 5.6,
-      "mastLengthsCm": [100],
+      "mastLengthsCm": [400],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -73,7 +73,7 @@
         "size": 6.4
       },
       "surfaceM2": 6.4,
-      "mastLengthsCm": [400],
+      "mastLengthsCm": [520],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -85,19 +85,7 @@
         "size": 7.1
       },
       "surfaceM2": 7.1,
-      "mastLengthsCm": [100],
-      "mastExtensionLengthsCm": [],
-      "masTypes": ["SDM"],
-      "battenCount": 8,
-      "camCount": 5,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 7.9
-      },
-      "surfaceM2": 7.9,
-      "mastLengthsCm": [520],
+      "mastLengthsCm": [550],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -106,10 +94,22 @@
     },
     {
       "variant": {
+        "size": 7.9
+      },
+      "surfaceM2": 7.9,
+      "mastLengthsCm": [580],
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["SDM"],
+      "battenCount": 8,
+      "camCount": 5,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
         "size": 8.6
       },
       "surfaceM2": 8.6,
-      "mastLengthsCm": [100],
+      "mastLengthsCm": [400],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -121,7 +121,7 @@
         "size": 9.2
       },
       "surfaceM2": 9.2,
-      "mastLengthsCm": [550],
+      "mastLengthsCm": [430],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -133,7 +133,7 @@
         "size": 9.6
       },
       "surfaceM2": 9.6,
-      "mastLengthsCm": [100],
+      "mastLengthsCm": [460],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,
@@ -145,7 +145,7 @@
         "size": 9.8
       },
       "surfaceM2": 9.8,
-      "mastLengthsCm": [580],
+      "mastLengthsCm": [490],
       "mastExtensionLengthsCm": [],
       "masTypes": ["SDM"],
       "battenCount": 8,

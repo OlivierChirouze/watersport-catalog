@@ -2,7 +2,6 @@
   "name": "Indy",
   "year": 2012,
   "programs": [
-    "freeride",
     "slalom"
   ],
   "brandName": "Naish",
@@ -20,7 +19,6 @@
       "surfaceM2": 5.8,
       "luffLengthCm": 420,
       "mastLengthsCm": [
-        100,
         400
       ],
       "mastIMCS": [
@@ -30,13 +28,7 @@
         172
       ],
       "battenCount": 6,
-      "camCount": 2,
-      "weightKg": 4.9,
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "SDM"
-      ],
-      "topType": "fixed"
+      "camCount": 2
     },
     {
       "variant": {
@@ -45,7 +37,6 @@
       "surfaceM2": 6.4,
       "luffLengthCm": 440,
       "mastLengthsCm": [
-        100,
         430
       ],
       "mastIMCS": [
@@ -55,38 +46,7 @@
         179
       ],
       "battenCount": 6,
-      "camCount": 2,
-      "weightKg": 4.9,
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "SDM"
-      ],
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 7.6
-      },
-      "surfaceM2": 7.6,
-      "luffLengthCm": 470,
-      "mastLengthsCm": [
-        100,
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        198
-      ],
-      "battenCount": 6,
-      "camCount": 2,
-      "weightKg": 4.9,
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "SDM"
-      ],
-      "topType": "fixed"
+      "camCount": 2
     },
     {
       "variant": {
@@ -95,7 +55,6 @@
       "surfaceM2": 7,
       "luffLengthCm": 456,
       "mastLengthsCm": [
-        100,
         430
       ],
       "mastIMCS": [
@@ -105,13 +64,25 @@
         186
       ],
       "battenCount": 6,
-      "camCount": 2,
-      "weightKg": 4.9,
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "SDM"
+      "camCount": 2
+    },
+    {
+      "variant": {
+        "size": 7.6
+      },
+      "surfaceM2": 7.6,
+      "luffLengthCm": 470,
+      "mastLengthsCm": [
+        460
       ],
-      "topType": "fixed"
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        198
+      ],
+      "battenCount": 6,
+      "camCount": 2
     },
     {
       "variant": {
@@ -120,7 +91,6 @@
       "surfaceM2": 8.2,
       "luffLengthCm": 482,
       "mastLengthsCm": [
-        100,
         460
       ],
       "mastIMCS": [
@@ -130,13 +100,7 @@
         215
       ],
       "battenCount": 6,
-      "camCount": 2,
-      "weightKg": 4.9,
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "SDM"
-      ],
-      "topType": "fixed"
+      "camCount": 2
     }
   ],
   "pictures": []

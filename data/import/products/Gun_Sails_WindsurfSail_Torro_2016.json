@@ -142,14 +142,13 @@
         19
       ],
       "boomLengthsCm": [
-        158,
-        168
+        158
       ],
       "battenCount": 5,
       "camCount": 0,
-      "weightKg": 3.8,
+      "weightKg": 3.6,
       "mastExtensionLengthsCm": [
-        15
+        7
       ],
       "masTypes": [
         "SDM",
@@ -170,14 +169,13 @@
         19
       ],
       "boomLengthsCm": [
-        168,
-        170
+        168
       ],
       "battenCount": 5,
       "camCount": 0,
-      "weightKg": 3.95,
+      "weightKg": 3.8,
       "mastExtensionLengthsCm": [
-        22
+        15
       ],
       "masTypes": [
         "SDM",
@@ -192,22 +190,19 @@
       "surfaceM2": 4,
       "luffLengthCm": 383,
       "mastLengthsCm": [
-        370,
-        400
+        370
       ],
       "mastIMCS": [
         17
       ],
       "boomLengthsCm": [
-        153,
-        158
+        153
       ],
       "battenCount": 5,
       "camCount": 0,
       "weightKg": 3.4,
       "mastExtensionLengthsCm": [
-        13,
-        7
+        13
       ],
       "masTypes": [
         "SDM",
@@ -228,14 +223,13 @@
         21
       ],
       "boomLengthsCm": [
-        177,
-        180
+        177
       ],
       "battenCount": 5,
       "camCount": 0,
-      "weightKg": 4.05,
+      "weightKg": 4,
       "mastExtensionLengthsCm": [
-        14
+        6
       ],
       "masTypes": [
         "SDM",
@@ -256,14 +250,13 @@
         21
       ],
       "boomLengthsCm": [
-        180,
-        185
+        180
       ],
       "battenCount": 5,
       "camCount": 0,
-      "weightKg": 4.25,
+      "weightKg": 4.05,
       "mastExtensionLengthsCm": [
-        19
+        14
       ],
       "masTypes": [
         "SDM",
@@ -278,27 +271,25 @@
       "surfaceM2": 5,
       "luffLengthCm": 422,
       "mastLengthsCm": [
-        400,
-        430
+        400
       ],
       "mastIMCS": [
         19
       ],
       "boomLengthsCm": [
-        170,
-        177
+        170
       ],
       "battenCount": 5,
       "camCount": 0,
-      "weightKg": 4,
+      "weightKg": 3.95,
       "mastExtensionLengthsCm": [
-        6
+        22
       ],
       "masTypes": [
         "SDM",
         "RDM"
       ],
-      "topType": "fixed"
+      "topType": "vario"
     },
     {
       "variant": {
@@ -313,7 +304,33 @@
         21
       ],
       "boomLengthsCm": [
-        189,
+        189
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "weightKg": 4.35,
+      "mastExtensionLengthsCm": [
+        23
+      ],
+      "masTypes": [
+        "SDM",
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.6
+      },
+      "surfaceM2": 6.6,
+      "luffLengthCm": 457,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
         194
       ],
       "battenCount": 5,
@@ -330,19 +347,17 @@
     },
     {
       "variant": {
-        "size": 6.6
+        "size": 6.9
       },
-      "surfaceM2": 6.6,
-      "luffLengthCm": 457,
+      "surfaceM2": 6.9,
+      "luffLengthCm": 464,
       "mastLengthsCm": [
-        430,
         460
       ],
       "mastIMCS": [
-        21
+        25
       ],
       "boomLengthsCm": [
-        194,
         198
       ],
       "battenCount": 5,
@@ -359,35 +374,6 @@
     },
     {
       "variant": {
-        "size": 6.9
-      },
-      "surfaceM2": 6.9,
-      "luffLengthCm": 464,
-      "mastLengthsCm": [
-        370,
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        153,
-        198
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "weightKg": 3.4,
-      "mastExtensionLengthsCm": [
-        13
-      ],
-      "masTypes": [
-        "SDM",
-        "RDM"
-      ],
-      "topType": "vario"
-    },
-    {
-      "variant": {
         "size": 6
       },
       "surfaceM2": 6,
@@ -399,14 +385,13 @@
         21
       ],
       "boomLengthsCm": [
-        185,
-        189
+        185
       ],
       "battenCount": 5,
       "camCount": 0,
-      "weightKg": 4.35,
+      "weightKg": 4.25,
       "mastExtensionLengthsCm": [
-        23
+        19
       ],
       "masTypes": [
         "SDM",

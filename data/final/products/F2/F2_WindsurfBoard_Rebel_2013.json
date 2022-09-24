@@ -15,13 +15,13 @@
       },
       "volumeL": 63,
       "weightKg": 7.35,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "SlotBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -34,9 +34,6 @@
       "fins": [
         {
           "type": "US"
-        },
-        {
-          "type": "SlotBox"
         }
       ],
       "sailRange": {
@@ -73,9 +70,6 @@
       "fins": [
         {
           "type": "SlotBox"
-        },
-        {
-          "type": "US"
         }
       ],
       "sailRange": {
@@ -121,9 +115,6 @@
       "fins": [
         {
           "type": "SlotBox"
-        },
-        {
-          "type": "US"
         }
       ],
       "sailRange": {
@@ -160,9 +151,6 @@
       "fins": [
         {
           "type": "US"
-        },
-        {
-          "type": "SlotBox"
         }
       ],
       "sailRange": {
@@ -199,9 +187,6 @@
       "fins": [
         {
           "type": "SlotBox"
-        },
-        {
-          "type": "US"
         }
       ],
       "sailRange": {

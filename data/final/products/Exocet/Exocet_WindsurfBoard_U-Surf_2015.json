@@ -6,7 +6,7 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
     {
       "variant": {
@@ -29,23 +29,6 @@
         "fromM2": 3.3,
         "toM2": 5.3
       }
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "Custom Made Biax Carbone + Pvc 100 Kg"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 76,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

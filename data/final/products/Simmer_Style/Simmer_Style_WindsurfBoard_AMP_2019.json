@@ -11,49 +11,49 @@
       "variant": {
         "size": 160
       },
+      "lengthCm": 256,
+      "widthCm": 85,
       "volumeL": 160,
+      "weightKg": 12.7,
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 256,
-      "widthCm": 85,
-      "weightKg": 12.7
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 180
       },
+      "lengthCm": 260,
+      "widthCm": 83,
       "volumeL": 180,
+      "weightKg": 13.7,
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 260,
-      "widthCm": 83,
-      "weightKg": 13.7
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 210
       },
+      "lengthCm": 268,
+      "widthCm": 90,
       "volumeL": 210,
+      "weightKg": 14.7,
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 268,
-      "widthCm": 90,
-      "weightKg": 14.7
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

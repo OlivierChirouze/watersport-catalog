@@ -9,20 +9,29 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
     {
       "variant": {
-        "size": 111,
-        "construction": "Bamboo"
+        "size": 97
       },
-      "volumeL": 111,
-      "weightKg": 7.65,
       "compatibleFinFamilies": [
         "fins"
-      ]
+      ],
+      "volumeL": 97,
+      "lengthCm": 240,
+      "widthCm": 61,
+      "weightKg": 7.05,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
     },
     {
       "variant": {
@@ -47,17 +56,6 @@
     },
     {
       "variant": {
-        "size": 125,
-        "construction": "Bamboo"
-      },
-      "volumeL": 125,
-      "weightKg": 7.65,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 125
       },
       "compatibleFinFamilies": [
@@ -79,17 +77,6 @@
     },
     {
       "variant": {
-        "size": 135,
-        "construction": "Bamboo"
-      },
-      "volumeL": 135,
-      "weightKg": 7.65,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 135
       },
       "compatibleFinFamilies": [
@@ -107,38 +94,6 @@
       "sailRange": {
         "fromM2": 6,
         "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Bamboo"
-      },
-      "volumeL": 97,
-      "weightKg": 7.65,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 97
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 97,
-      "lengthCm": 240,
-      "widthCm": 61,
-      "weightKg": 7.05,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7.5
       }
     }
   ],

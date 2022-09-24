@@ -2,9 +2,9 @@
   "name": "Phantom",
   "year": 2013,
   "programs": [
+    "slalom",
     "freeride",
-    "race",
-    "slalom"
+    "race"
   ],
   "brandName": "Gaastra",
   "type": "propulsion",
@@ -21,8 +21,7 @@
       "surfaceM2": 5.7,
       "luffLengthCm": 410,
       "mastLengthsCm": [
-        430,
-        460
+        430
       ],
       "mastIMCS": [
         21
@@ -31,10 +30,7 @@
         171
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -43,8 +39,7 @@
       "surfaceM2": 6.4,
       "luffLengthCm": 437,
       "mastLengthsCm": [
-        430,
-        460
+        430
       ],
       "mastIMCS": [
         21
@@ -53,10 +48,7 @@
         185
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -74,10 +66,7 @@
         198
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -95,10 +84,7 @@
         211
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -107,7 +93,6 @@
       "surfaceM2": 8.5,
       "luffLengthCm": 492,
       "mastLengthsCm": [
-        460,
         490
       ],
       "mastIMCS": [
@@ -117,10 +102,7 @@
         217
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -129,7 +111,6 @@
       "surfaceM2": 9.2,
       "luffLengthCm": 512,
       "mastLengthsCm": [
-        460,
         490
       ],
       "mastIMCS": [
@@ -139,10 +120,7 @@
         224
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     }
   ],
   "pictures": []

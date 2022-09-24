@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2018,
   "name": "All Ride",
@@ -10,8 +10,7 @@
     {
       "variant": {
         "size": 106,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 240,
       "widthCm": 63,
@@ -28,8 +27,7 @@
     {
       "variant": {
         "size": 106,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 240,
       "widthCm": 63,
@@ -46,8 +44,7 @@
     {
       "variant": {
         "size": 116,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 242,
       "widthCm": 67,
@@ -64,47 +61,12 @@
     {
       "variant": {
         "size": 116,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 242,
       "widthCm": 67,
       "volumeL": 116,
       "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "FWS"
-      },
-      "lengthCm": 240,
-      "widthCm": 63,
-      "volumeL": 106,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "FWS"
-      },
-      "lengthCm": 242,
-      "widthCm": 67,
-      "volumeL": 116,
-      "weightKg": 7.5,
       "fins": [
         {
           "count": 1,

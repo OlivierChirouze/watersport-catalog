@@ -10,7 +10,7 @@
     {
       "variant": {
         "size": 128,
-        "construction": "Pvc Full Sandwich Carbon",
+        "construction": "PVC Full Sandwich Carbon",
         "edition": "LTD"
       },
       "lengthCm": 233,
@@ -27,26 +27,8 @@
     },
     {
       "variant": {
-        "size": 138,
-        "construction": "Pvc Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "lengthCm": 233,
-      "widthCm": 85,
-      "volumeL": 138,
-      "weightKg": 8.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 128,
-        "construction": "Pvc Full Sandwich Carbon",
+        "construction": "PVC Full Sandwich Carbon",
         "edition": "LTD"
       },
       "lengthCm": 233,
@@ -64,7 +46,25 @@
     {
       "variant": {
         "size": 138,
-        "construction": "Pvc Full Sandwich Carbon",
+        "construction": "PVC Full Sandwich Carbon",
+        "edition": "LTD"
+      },
+      "lengthCm": 233,
+      "widthCm": 85,
+      "volumeL": 138,
+      "weightKg": 8.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "construction": "PVC Full Sandwich Carbon",
         "edition": "LTD"
       },
       "lengthCm": 233,

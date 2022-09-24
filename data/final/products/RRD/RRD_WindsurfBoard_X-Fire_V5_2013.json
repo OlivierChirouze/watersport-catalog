@@ -14,14 +14,13 @@
         "edition": "LTD"
       },
       "volumeL": 105,
-      "weightKg": 5.9,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -30,14 +29,13 @@
         "edition": "LTD"
       },
       "volumeL": 90,
-      "weightKg": 6,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "DeepTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

@@ -182,13 +182,13 @@
         "construction": "Biax Carbon"
       },
       "volumeL": 79,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

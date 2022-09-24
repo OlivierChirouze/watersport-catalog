@@ -61,14 +61,14 @@
         "construction": "Biax Carbon"
       },
       "volumeL": 80,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "fins": [
         {
           "count": 1,
           "type": "SlotBox"
         }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {

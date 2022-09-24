@@ -2,7 +2,6 @@
   "name": "Slalom One",
   "year": 2016,
   "programs": [
-    "race",
     "slalom"
   ],
   "brandName": "Starboard",
@@ -10,24 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 110,
-        "construction": "3dx",
-        "edition": "3DX"
-      },
-      "lengthCm": 230,
-      "widthCm": 75.5,
-      "volumeL": 110,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 110

@@ -9,59 +9,12 @@
   "variants": [
     {
       "variant": {
-        "size": 106,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro"
-      },
-      "lengthCm": 220,
-      "widthCm": 63.8,
-      "volumeL": 106,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "Carbone Sglass Sandwich",
-        "edition": "Pro"
-      },
-      "volumeL": 106,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 89,
         "construction": "Carbon Sglass Sandwich",
         "edition": "Pro"
       },
       "lengthCm": 220.5,
       "widthCm": 60.2,
-      "volumeL": 89,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 89,
-        "construction": "Carbone Sglass Sandwich",
-        "edition": "Pro"
-      },
       "volumeL": 89,
       "fins": [
         {
@@ -90,11 +43,13 @@
     },
     {
       "variant": {
-        "size": 99,
-        "construction": "Carbone Sglass Sandwich",
+        "size": 106,
+        "construction": "Carbon Sglass Sandwich",
         "edition": "Pro"
       },
-      "volumeL": 99,
+      "lengthCm": 220,
+      "widthCm": 63.8,
+      "volumeL": 106,
       "fins": [
         {
           "count": 1,

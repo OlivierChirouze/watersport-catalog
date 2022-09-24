@@ -9,31 +9,10 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Carbon Pro Model",
-        "edition": "Carbon"
-      },
-      "lengthCm": 242,
-      "widthCm": 68,
-      "volumeL": 116,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 116,
@@ -59,26 +38,6 @@
     {
       "variant": {
         "size": 126,
-        "construction": "Carbon Pro Model",
-        "edition": "Carbon"
-      },
-      "lengthCm": 245,
-      "widthCm": 73,
-      "volumeL": 126,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 126,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -97,26 +56,6 @@
         "fromM2": 5,
         "toM2": 8.5
       }
-    },
-    {
-      "variant": {
-        "size": 138,
-        "construction": "Carbon Pro Model",
-        "edition": "Carbon"
-      },
-      "lengthCm": 250,
-      "widthCm": 78,
-      "volumeL": 138,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -143,26 +82,6 @@
     {
       "variant": {
         "size": 116,
-        "construction": "Single Shot Glass",
-        "edition": "Silver"
-      },
-      "lengthCm": 242,
-      "widthCm": 68,
-      "volumeL": 116,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116,
         "edition": "Silver"
       },
       "compatibleFinFamilies": [
@@ -185,26 +104,6 @@
     {
       "variant": {
         "size": 126,
-        "construction": "Single Shot Glass",
-        "edition": "Silver"
-      },
-      "lengthCm": 245,
-      "widthCm": 73,
-      "volumeL": 126,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 126,
         "edition": "Silver"
       },
       "compatibleFinFamilies": [
@@ -223,26 +122,6 @@
         "fromM2": 5,
         "toM2": 8.5
       }
-    },
-    {
-      "variant": {
-        "size": 138,
-        "construction": "Single Shot Glass",
-        "edition": "Silver"
-      },
-      "lengthCm": 250,
-      "widthCm": 78,
-      "volumeL": 138,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

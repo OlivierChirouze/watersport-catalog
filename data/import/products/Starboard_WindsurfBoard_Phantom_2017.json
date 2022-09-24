@@ -2,7 +2,6 @@
   "name": "Phantom",
   "year": 2017,
   "programs": [
-    "race",
     "slalom"
   ],
   "brandName": "Starboard",
@@ -10,29 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 217,
-        "construction": "Tufskin"
-      },
-      "lengthCm": 295,
-      "widthCm": 72,
-      "volumeL": 217,
-      "weightKg": 13.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 217

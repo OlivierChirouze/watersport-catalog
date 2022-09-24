@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -17,112 +16,30 @@
     {
       "variant": {
         "size": 104,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 235,
-      "widthCm": 66,
-      "volumeL": 104,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 114,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 78,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 229,
-      "widthCm": 60,
-      "volumeL": 84,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 230,
-      "widthCm": 62,
-      "volumeL": 90,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "Ltd",
-        "edition": "LTD"
+        "construction": "Blkrbn"
       },
       "lengthCm": 234,
       "widthCm": 64,
-      "volumeL": 96,
+      "volumeL": 104,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "LTD"
+      },
+      "lengthCm": 234,
+      "widthCm": 64,
+      "volumeL": 104,
       "weightKg": 6.9,
       "fins": [
         {
@@ -137,112 +54,11 @@
     {
       "variant": {
         "size": 104,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 235,
-      "widthCm": 66,
-      "volumeL": 104,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 114,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 78,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 229,
-      "widthCm": 60,
-      "volumeL": 84,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 230,
-      "widthCm": 62,
-      "volumeL": 90,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "Lte",
-        "edition": "LTE"
+        "construction": "LTE"
       },
       "lengthCm": 234,
       "widthCm": 64,
-      "volumeL": 96,
+      "volumeL": 104,
       "weightKg": 7.5,
       "fins": [
         {
@@ -256,12 +72,12 @@
     },
     {
       "variant": {
-        "size": 104,
+        "size": 114,
         "construction": "Blkrbn"
       },
       "lengthCm": 235,
       "widthCm": 66,
-      "volumeL": 104,
+      "volumeL": 114,
       "weightKg": 6.9,
       "fins": [
         {
@@ -276,12 +92,31 @@
     {
       "variant": {
         "size": 114,
-        "construction": "Blkrbn"
+        "construction": "LTD"
       },
-      "lengthCm": 228,
-      "widthCm": 58,
+      "lengthCm": 235,
+      "widthCm": 66,
       "volumeL": 114,
-      "weightKg": 6,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "LTE"
+      },
+      "lengthCm": 235,
+      "widthCm": 66,
+      "volumeL": 114,
+      "weightKg": 7.1,
       "fins": [
         {
           "count": 1,
@@ -297,10 +132,48 @@
         "size": 78,
         "construction": "Blkrbn"
       },
-      "lengthCm": 228,
-      "widthCm": 58,
+      "lengthCm": 227,
+      "widthCm": 56,
       "volumeL": 78,
-      "weightKg": 6,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "LTD"
+      },
+      "lengthCm": 227,
+      "widthCm": 56,
+      "volumeL": 78,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "LTE"
+      },
+      "lengthCm": 227,
+      "widthCm": 56,
+      "volumeL": 78,
+      "weightKg": 6.2,
       "fins": [
         {
           "count": 1,
@@ -316,9 +189,66 @@
         "size": 84,
         "construction": "Blkrbn"
       },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 84,
+      "weightKg": 6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "LTD"
+      },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 84,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "LTE"
+      },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 84,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Blkrbn"
+      },
       "lengthCm": 229,
       "widthCm": 60,
-      "volumeL": 84,
+      "volumeL": 90,
       "weightKg": 6.1,
       "fins": [
         {
@@ -333,12 +263,31 @@
     {
       "variant": {
         "size": 90,
-        "construction": "Blkrbn"
+        "construction": "LTD"
       },
-      "lengthCm": 230,
-      "widthCm": 62,
+      "lengthCm": 229,
+      "widthCm": 60,
       "volumeL": 90,
-      "weightKg": 6.4,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "LTE"
+      },
+      "lengthCm": 229,
+      "widthCm": 60,
+      "volumeL": 90,
+      "weightKg": 7,
       "fins": [
         {
           "count": 1,
@@ -354,10 +303,48 @@
         "size": 96,
         "construction": "Blkrbn"
       },
-      "lengthCm": 234,
-      "widthCm": 64,
+      "lengthCm": 230,
+      "widthCm": 62,
       "volumeL": 96,
-      "weightKg": 6.6,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "LTD"
+      },
+      "lengthCm": 230,
+      "widthCm": 62,
+      "volumeL": 96,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "LTE"
+      },
+      "lengthCm": 230,
+      "widthCm": 62,
+      "volumeL": 96,
+      "weightKg": 7.2,
       "fins": [
         {
           "count": 1,

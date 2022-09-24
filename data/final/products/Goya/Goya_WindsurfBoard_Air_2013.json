@@ -15,13 +15,13 @@
         "edition": "Pro"
       },
       "volumeL": 99,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

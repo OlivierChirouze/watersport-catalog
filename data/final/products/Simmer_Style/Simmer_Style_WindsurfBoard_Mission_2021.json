@@ -12,6 +12,7 @@
         "size": 135,
         "construction": "Fiber Glass"
       },
+      "lengthCm": 255,
       "volumeL": 135,
       "weightKg": 9.7,
       "fins": [
@@ -20,14 +21,14 @@
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 255
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 155,
         "construction": "Fiber Glass"
       },
+      "lengthCm": 255,
       "volumeL": 155,
       "weightKg": 10.2,
       "fins": [
@@ -36,8 +37,7 @@
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 255
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

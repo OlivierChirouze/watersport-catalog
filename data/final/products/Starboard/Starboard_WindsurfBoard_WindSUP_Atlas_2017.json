@@ -6,24 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 205,
-        "construction": "Asap"
-      },
-      "lengthCm": 370,
-      "widthCm": 82,
-      "volumeL": 205,
-      "weightKg": 14.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ]
-    },
     {
       "variant": {
         "size": 205

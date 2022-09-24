@@ -6,16 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Hrs - Sd"
-      },
-      "volumeL": 102,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 102

@@ -13,13 +13,13 @@
         "construction": "Bcs"
       },
       "volumeL": 45,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -27,13 +27,13 @@
         "construction": "Bcs"
       },
       "volumeL": 51,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

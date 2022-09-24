@@ -17,16 +17,13 @@
       },
       "surfaceM2": 3.1,
       "boomLengthsCm": [
-        135
+        133
       ],
+      "luffLengthCm": 329,
       "mastLengthsCm": [
-        340,
-        10
+        340
       ],
-      "mastExtensionLengthsCm": [
-        0,
-        330
-      ],
+      "mastExtensionLengthsCm": [],
       "masTypes": [
         "RDM"
       ],
@@ -40,16 +37,13 @@
       },
       "surfaceM2": 3.4,
       "boomLengthsCm": [
-        144
+        135
       ],
+      "luffLengthCm": 340,
       "mastLengthsCm": [
-        340,
-        10
+        340
       ],
-      "mastExtensionLengthsCm": [
-        14,
-        344
-      ],
+      "mastExtensionLengthsCm": [],
       "masTypes": [
         "RDM"
       ],
@@ -63,8 +57,31 @@
       },
       "surfaceM2": 3.7,
       "boomLengthsCm": [
+        144
+      ],
+      "luffLengthCm": 354,
+      "mastLengthsCm": [
+        340
+      ],
+      "mastExtensionLengthsCm": [
+        14
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [
         148
       ],
+      "luffLengthCm": 367,
       "mastLengthsCm": [
         340,
         370
@@ -81,42 +98,18 @@
     },
     {
       "variant": {
-        "size": 4
-      },
-      "surfaceM2": 4,
-      "boomLengthsCm": [
-        154
-      ],
-      "mastLengthsCm": [
-        10,
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        361,
-        1
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 4.2
       },
       "surfaceM2": 4.2,
       "boomLengthsCm": [
-        159
+        154
       ],
+      "luffLengthCm": 371,
       "mastLengthsCm": [
-        10,
         370
       ],
       "mastExtensionLengthsCm": [
-        375,
-        15
+        1
       ],
       "masTypes": [
         "RDM"
@@ -131,13 +124,14 @@
       },
       "surfaceM2": 4.5,
       "boomLengthsCm": [
-        165
+        159
       ],
+      "luffLengthCm": 385,
       "mastLengthsCm": [
-        10
+        370
       ],
       "mastExtensionLengthsCm": [
-        382
+        15
       ],
       "masTypes": [
         "RDM"
@@ -152,13 +146,14 @@
       },
       "surfaceM2": 4.7,
       "boomLengthsCm": [
-        167
+        165
       ],
+      "luffLengthCm": 392,
       "mastLengthsCm": [
         370
       ],
       "mastExtensionLengthsCm": [
-        36
+        22
       ],
       "masTypes": [
         "RDM"
@@ -173,13 +168,14 @@
       },
       "surfaceM2": 5,
       "boomLengthsCm": [
-        171
+        167
       ],
+      "luffLengthCm": 406,
       "mastLengthsCm": [
-        10
+        400
       ],
       "mastExtensionLengthsCm": [
-        410
+        6
       ],
       "masTypes": [
         "RDM"
@@ -194,13 +190,14 @@
       },
       "surfaceM2": 5.3,
       "boomLengthsCm": [
-        173
+        171
       ],
+      "luffLengthCm": 420,
       "mastLengthsCm": [
         400
       ],
       "mastExtensionLengthsCm": [
-        34
+        20
       ],
       "masTypes": [
         "RDM"
@@ -215,13 +212,14 @@
       },
       "surfaceM2": 5.6,
       "boomLengthsCm": [
-        177
+        173
       ],
+      "luffLengthCm": 434,
       "mastLengthsCm": [
-        10
+        430
       ],
       "mastExtensionLengthsCm": [
-        436
+        4
       ],
       "masTypes": [
         "RDM"
@@ -236,18 +234,21 @@
       },
       "surfaceM2": 5.9,
       "boomLengthsCm": [
-        135
+        177
       ],
+      "luffLengthCm": 446,
       "mastLengthsCm": [
-        400
+        430
       ],
-      "mastExtensionLengthsCm": [],
+      "mastExtensionLengthsCm": [
+        16
+      ],
       "masTypes": [
         "RDM"
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     }
   ],
   "description": {},

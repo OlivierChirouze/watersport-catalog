@@ -13,13 +13,13 @@
       },
       "volumeL": 67,
       "weightKg": 6.5,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -27,13 +27,13 @@
       },
       "volumeL": 87,
       "weightKg": 6.5,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "US"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

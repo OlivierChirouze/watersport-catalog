@@ -14,7 +14,6 @@
         "edition": "W-Tech"
       },
       "volumeL": 112,
-      "weightKg": 6.12,
       "compatibleFinFamilies": ["fins"]
     },
     {
@@ -24,14 +23,13 @@
         "edition": "W-Tech"
       },
       "volumeL": 90,
-      "weightKg": 6.95,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

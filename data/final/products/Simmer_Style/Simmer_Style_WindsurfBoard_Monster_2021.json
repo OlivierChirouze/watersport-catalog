@@ -16,13 +16,13 @@
       "widthCm": 70,
       "volumeL": 106,
       "weightKg": 6,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -33,13 +33,13 @@
       "widthCm": 74,
       "volumeL": 116,
       "weightKg": 6.2,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "DeepTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -61,13 +61,13 @@
       "widthCm": 86,
       "volumeL": 136,
       "weightKg": 7.4,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "DeepTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

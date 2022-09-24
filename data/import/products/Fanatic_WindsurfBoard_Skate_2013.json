@@ -10,8 +10,7 @@
   "description": {},
   "dimensions": [
     "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
     {
@@ -39,17 +38,6 @@
     {
       "variant": {
         "size": 89,
-        "construction": "Ic",
-        "edition": "TE"
-      },
-      "volumeL": 89,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 89,
         "edition": "TE"
       },
       "compatibleFinFamilies": [
@@ -72,17 +60,6 @@
     {
       "variant": {
         "size": 99,
-        "construction": "Ic",
-        "edition": "TE"
-      },
-      "volumeL": 99,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 99,
         "edition": "TE"
       },
       "compatibleFinFamilies": [
@@ -101,16 +78,6 @@
         "fromM2": 4.5,
         "toM2": 7
       }
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Bgs"
-      },
-      "volumeL": 100,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

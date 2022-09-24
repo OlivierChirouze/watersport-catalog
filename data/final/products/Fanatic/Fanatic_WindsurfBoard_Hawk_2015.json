@@ -6,24 +6,27 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "edition"],
   "variants": [
     {
       "variant": {
-        "size": 113,
-        "construction": "Ltd",
+        "size": 99,
         "edition": "LTD"
       },
-      "lengthCm": 241,
-      "widthCm": 66,
-      "volumeL": 113,
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 99,
+      "lengthCm": 239,
+      "widthCm": 62,
+      "weightKg": 6.6,
       "fins": [
         {
-          "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
     },
     {
       "variant": {
@@ -48,23 +51,6 @@
     {
       "variant": {
         "size": 124,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 242,
-      "widthCm": 70,
-      "volumeL": 124,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 124,
         "edition": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
@@ -80,43 +66,6 @@
       "sailRange": {
         "fromM2": 5.5,
         "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 239,
-      "widthCm": 62,
-      "volumeL": 99,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 99,
-      "lengthCm": 239,
-      "widthCm": 62,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7.5
       }
     }
   ],

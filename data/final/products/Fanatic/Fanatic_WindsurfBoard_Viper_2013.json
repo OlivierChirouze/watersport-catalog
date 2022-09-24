@@ -6,44 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 70,
-        "construction": "Hrs - Sd",
-        "edition": "Soft Deck White"
-      },
-      "volumeL": 70,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Hrs - Sd",
-        "edition": "Soft Deck White"
-      },
-      "volumeL": 80,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 70,
-        "construction": "Hrs - Sd",
-        "edition": "Soft Deck"
-      },
-      "volumeL": 70,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Hrs - Sd",
-        "edition": "Soft Deck"
-      },
-      "volumeL": 80,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 150

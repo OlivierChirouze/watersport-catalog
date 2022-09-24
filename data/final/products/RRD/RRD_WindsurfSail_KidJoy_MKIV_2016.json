@@ -12,32 +12,7 @@
         "size": 0.8
       },
       "surfaceM2": 0.8,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
       "battenCount": 1,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 1.2
-      },
-      "surfaceM2": 1.2,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 1,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 1.5
-      },
-      "surfaceM2": 1.5,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 1,
-      "camCount": 0,
       "topType": "fixed"
     },
     {
@@ -45,10 +20,31 @@
         "size": 1
       },
       "surfaceM2": 1,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
       "battenCount": 1,
-      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 1.2
+      },
+      "surfaceM2": 1.2,
+      "battenCount": 1,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 1.5
+      },
+      "surfaceM2": 1.5,
+      "battenCount": 1,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "battenCount": 1,
       "topType": "fixed"
     },
     {
@@ -56,32 +52,7 @@
         "size": 2.5
       },
       "surfaceM2": 2.5,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
       "battenCount": 2,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 2
-      },
-      "surfaceM2": 2,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 1,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 3.5
-      },
-      "surfaceM2": 3.5,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 2,
-      "camCount": 0,
       "topType": "vario"
     },
     {
@@ -89,10 +60,15 @@
         "size": 3
       },
       "surfaceM2": 3,
-      "mastLengthsCm": [],
-      "mastExtensionLengthsCm": [],
       "battenCount": 2,
-      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "battenCount": 2,
       "topType": "vario"
     }
   ],

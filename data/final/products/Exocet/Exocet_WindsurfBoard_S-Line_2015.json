@@ -1,31 +1,13 @@
 {
   "name": "S-Line",
   "year": 2015,
-  "programs": ["freeride", "slalom"],
+  "programs": ["slalom"],
   "brandName": "Exocet",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["edition", "size"],
   "variants": [
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Silver Single Shot Glass",
-        "edition": "Silver"
-      },
-      "lengthCm": 235,
-      "widthCm": 67,
-      "volumeL": 110,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 110,
@@ -44,24 +26,6 @@
         "fromM2": 5.7,
         "toM2": 8.4
       }
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Silver Single Shot Glass",
-        "edition": "Silver"
-      },
-      "lengthCm": 235,
-      "widthCm": 73,
-      "volumeL": 122,
-      "weightKg": 9.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

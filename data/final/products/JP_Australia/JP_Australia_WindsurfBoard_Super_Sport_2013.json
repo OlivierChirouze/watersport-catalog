@@ -11,15 +11,6 @@
     {
       "variant": {
         "size": 100,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 100,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 100,
         "edition": "FWS"
       },
       "compatibleFinFamilies": ["fins"],
@@ -36,15 +27,6 @@
         "fromM2": 4.7,
         "toM2": 7.2
       }
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 112,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -227,13 +209,13 @@
       },
       "volumeL": 100,
       "weightKg": 8.35,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

@@ -111,13 +111,13 @@
       },
       "volumeL": 105,
       "weightKg": 7,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -146,13 +146,13 @@
       },
       "volumeL": 115,
       "weightKg": 7,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -162,13 +162,13 @@
       },
       "volumeL": 75,
       "weightKg": 7,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -177,14 +177,14 @@
         "edition": "TeXtreme"
       },
       "volumeL": 85,
-      "weightKg": 7,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "weightKg": 7
     },
     {
       "variant": {
@@ -203,8 +203,7 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 6.5
-      },
-      "weightKg": 6.5
+      }
     },
     {
       "variant": {
@@ -214,13 +213,13 @@
       },
       "volumeL": 95,
       "weightKg": 7,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

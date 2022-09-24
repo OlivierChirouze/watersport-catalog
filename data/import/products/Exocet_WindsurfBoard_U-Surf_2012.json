@@ -9,23 +9,10 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 70,
-        "construction": "Biax Carbone - Biax Glass",
-        "edition": "Core"
-      },
-      "volumeL": 70,
-      "weightKg": 6.95,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 70,
@@ -54,18 +41,6 @@
     {
       "variant": {
         "size": 80,
-        "construction": "Biax Carbone - Biax Glass",
-        "edition": "Core"
-      },
-      "volumeL": 80,
-      "weightKg": 6.95,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 80,
         "edition": "Core"
       },
       "compatibleFinFamilies": [
@@ -87,18 +62,6 @@
         "fromM2": 3.7,
         "toM2": 5.9
       }
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Biax Carbone - Biax Glass",
-        "edition": "Core"
-      },
-      "volumeL": 90,
-      "weightKg": 6.95,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

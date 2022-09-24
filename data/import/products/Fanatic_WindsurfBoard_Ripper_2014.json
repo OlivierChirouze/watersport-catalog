@@ -2,29 +2,17 @@
   "name": "Ripper",
   "year": 2014,
   "programs": [
-    "beginner",
-    "kids"
+    "kids",
+    "beginner"
   ],
   "brandName": "Fanatic",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Hrs"
-      },
-      "volumeL": 102,
-      "weightKg": 8.9,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 102
@@ -45,17 +33,6 @@
         "fromM2": 1.5,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Hrs"
-      },
-      "volumeL": 120,
-      "weightKg": 8.9,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

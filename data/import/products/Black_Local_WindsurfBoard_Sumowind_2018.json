@@ -14,63 +14,6 @@
   "variants": [
     {
       "variant": {
-        "size": 108,
-        "construction": "Sandwi"
-      },
-      "lengthCm": 234,
-      "widthCm": 72,
-      "volumeL": 108,
-      "weightKg": 8.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 108,
-        "construction": "Sandwich"
-      },
-      "lengthCm": 234,
-      "widthCm": 72,
-      "volumeL": 108,
-      "weightKg": 8.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "Sandwi"
-      },
-      "lengthCm": 234,
-      "widthCm": 72,
-      "volumeL": 125,
-      "weightKg": 8.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 125,
         "construction": "Sandwich"
       },
@@ -90,12 +33,12 @@
     },
     {
       "variant": {
-        "size": 128,
-        "construction": "Sandwi"
+        "size": 108,
+        "construction": "Sandwich"
       },
       "lengthCm": 234,
       "widthCm": 72,
-      "volumeL": 128,
+      "volumeL": 108,
       "weightKg": 8.4,
       "fins": [
         {

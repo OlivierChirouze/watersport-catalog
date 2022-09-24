@@ -9,87 +9,29 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
     {
       "variant": {
-        "size": 121,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
+        "size": 99
       },
-      "volumeL": 121,
       "compatibleFinFamilies": [
         "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 131,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 131,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 141,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 141,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 151,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 151,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 161,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 161,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 171,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 171,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
+      ],
       "volumeL": 99,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "lengthCm": 216,
+      "widthCm": 76.3,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 7.5
+      }
     },
     {
       "variant": {
@@ -194,27 +136,6 @@
       "sailRange": {
         "fromM2": 7,
         "toM2": 10
-      }
-    },
-    {
-      "variant": {
-        "size": 99
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 99,
-      "lengthCm": 216,
-      "widthCm": 76.3,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 2,
-        "toM2": 7.5
       }
     }
   ],

@@ -10,28 +10,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Hrs"
-      },
-      "lengthCm": 242,
-      "widthCm": 69,
-      "volumeL": 102,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 102
@@ -52,24 +33,6 @@
         "fromM2": 1.5,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Hrs"
-      },
-      "lengthCm": 245,
-      "widthCm": 69,
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

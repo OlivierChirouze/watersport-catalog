@@ -9,10 +9,93 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
+    {
+      "variant": {
+        "size": 76
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 210,
+      "widthCm": 56.5,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "StarBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 212,
+      "widthCm": 59,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "StarBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 87
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 215,
+      "widthCm": 61,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "StarBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 97
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 97,
+      "lengthCm": 218,
+      "widthCm": 63,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "StarBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.2
+      }
+    },
     {
       "variant": {
         "size": 107
@@ -53,166 +136,6 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "Ultracore Reflex Carbon"
-      },
-      "lengthCm": 210,
-      "widthCm": 56.5,
-      "volumeL": 76,
-      "weightKg": 5.6,
-      "fins": [
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 76
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 76,
-      "lengthCm": 210,
-      "widthCm": 56.5,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "type": "StarBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "Ultracore Reflex Carbon"
-      },
-      "lengthCm": 212,
-      "widthCm": 59,
-      "volumeL": 82,
-      "weightKg": 5.7,
-      "fins": [
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 82
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 82,
-      "lengthCm": 212,
-      "widthCm": 59,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "StarBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 87,
-        "construction": "Ultracore Reflex Carbon"
-      },
-      "lengthCm": 215,
-      "widthCm": 61,
-      "volumeL": 87,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 87
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 87,
-      "lengthCm": 215,
-      "widthCm": 61,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "type": "StarBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Ultracore Reflex Carbon"
-      },
-      "lengthCm": 218,
-      "widthCm": 63,
-      "volumeL": 97,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 97
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 97,
-      "lengthCm": 218,
-      "widthCm": 63,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "StarBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.2
       }
     }
   ],

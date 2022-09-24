@@ -1,23 +1,13 @@
 {
   "name": "Ray",
   "year": 2012,
-  "programs": ["freeride", "race", "slalom"],
+  "programs": ["freeride", "race", "freeride", "slalom"],
   "brandName": "Fanatic",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["edition", "size"],
   "variants": [
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Carbone Kevlar",
-        "edition": "LTD"
-      },
-      "volumeL": 100,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 100,
@@ -37,16 +27,6 @@
         "fromM2": 5.8,
         "toM2": 8.3
       }
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Carbone Kevlar",
-        "edition": "LTD"
-      },
-      "volumeL": 115,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -71,16 +51,6 @@
     {
       "variant": {
         "size": 130,
-        "construction": "Carbone Kevlar",
-        "edition": "LTD"
-      },
-      "volumeL": 130,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
         "edition": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
@@ -97,16 +67,6 @@
         "fromM2": 6.8,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Carbone Kevlar",
-        "edition": "LTD"
-      },
-      "volumeL": 145,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

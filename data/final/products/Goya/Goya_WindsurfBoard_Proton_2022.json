@@ -9,12 +9,18 @@
   "variants": [
     {
       "variant": {
-        "size": 112,
-        "construction": "Carbon Construction, Full Carbon Hul"
+        "size": 97,
+        "construction": "Carbon, Full Carbon Hul"
       },
-      "lengthCm": 230,
-      "widthCm": 70.7,
-      "volumeL": 112,
+      "lengthCm": 229,
+      "widthCm": 62.4,
+      "volumeL": 97,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
       "compatibleFinFamilies": ["fins"]
     },
     {
@@ -30,16 +36,6 @@
     {
       "variant": {
         "size": 118,
-        "construction": "Carbon Construction, Full Carbon Hul"
-      },
-      "lengthCm": 230,
-      "widthCm": 72.1,
-      "volumeL": 118,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 118,
         "construction": "Carbon, Full Carbon Hul"
       },
       "lengthCm": 230,
@@ -50,53 +46,11 @@
     {
       "variant": {
         "size": 137,
-        "construction": "Carbon Construction, Full Carbon Hul"
-      },
-      "lengthCm": 231,
-      "widthCm": 83.8,
-      "volumeL": 137,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 137,
         "construction": "Carbon, Full Carbon Hul"
       },
       "lengthCm": 231,
       "widthCm": 83.8,
       "volumeL": 137,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Carbon Construction, Full Carbon Hul"
-      },
-      "lengthCm": 229,
-      "widthCm": 62.4,
-      "volumeL": 97,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Carbon, Full Carbon Hul"
-      },
-      "lengthCm": 229,
-      "widthCm": 62.4,
-      "volumeL": 97,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
       "compatibleFinFamilies": ["fins"]
     }
   ],

@@ -20,6 +20,7 @@
       "boomLengthsCm": [
         120
       ],
+      "luffLengthCm": 304,
       "mastLengthsCm": [
         290
       ],
@@ -31,8 +32,28 @@
       ],
       "battenCount": 2,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 304
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "weightKg": 2.6,
+      "boomLengthsCm": [
+        174
+      ],
+      "luffLengthCm": 442,
+      "mastLengthsCm": [
+        290
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
     },
     {
       "variant": {
@@ -43,6 +64,7 @@
       "boomLengthsCm": [
         128
       ],
+      "luffLengthCm": 318,
       "mastLengthsCm": [
         290
       ],
@@ -54,31 +76,7 @@
       ],
       "battenCount": 2,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 318
-    },
-    {
-      "variant": {
-        "size": 3
-      },
-      "surfaceM2": 3,
-      "weightKg": 2.6,
-      "boomLengthsCm": [
-        174
-      ],
-      "mastLengthsCm": [
-        290
-      ],
-      "mastExtensionLengthsCm": [
-        152
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 3,
-      "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 442
+      "topType": "vario"
     },
     {
       "variant": {
@@ -89,6 +87,7 @@
       "boomLengthsCm": [
         138
       ],
+      "luffLengthCm": 360,
       "mastLengthsCm": [
         340
       ],
@@ -100,8 +99,7 @@
       ],
       "battenCount": 2,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 360
+      "topType": "vario"
     },
     {
       "variant": {
@@ -112,6 +110,7 @@
       "boomLengthsCm": [
         160
       ],
+      "luffLengthCm": 402,
       "mastLengthsCm": [
         400
       ],
@@ -123,8 +122,7 @@
       ],
       "battenCount": 2,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 402
+      "topType": "vario"
     }
   ],
   "description": {},

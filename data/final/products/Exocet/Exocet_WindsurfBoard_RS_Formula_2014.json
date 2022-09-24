@@ -6,7 +6,7 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
     {
       "variant": {
@@ -26,15 +26,6 @@
         "fromM2": 8.4,
         "toM2": 12.5
       }
-    },
-    {
-      "variant": {
-        "size": 165,
-        "construction": "Carbone"
-      },
-      "volumeL": 165,
-      "weightKg": 9,
-      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

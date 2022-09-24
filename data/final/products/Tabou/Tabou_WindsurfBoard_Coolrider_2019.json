@@ -10,20 +10,6 @@
     {
       "variant": {
         "size": 160,
-        "construction": "Ast"
-      },
-      "volumeL": 160,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 160,
         "construction": "AST"
       },
       "lengthCm": 266,
@@ -41,40 +27,12 @@
     {
       "variant": {
         "size": 190,
-        "construction": "Ast"
-      },
-      "volumeL": 190,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 190,
         "construction": "AST"
       },
       "lengthCm": 280,
       "widthCm": 80,
       "volumeL": 190,
       "weightKg": 14,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 230,
-        "construction": "Ast"
-      },
-      "volumeL": 230,
       "fins": [
         {
           "count": 1,

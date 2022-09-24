@@ -9,92 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Te",
-        "edition": "TE"
-      },
-      "volumeL": 101,
-      "weightKg": 6.2,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 69,
-        "construction": "Te",
-        "edition": "TE"
-      },
-      "volumeL": 69,
-      "weightKg": 6.2,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "Te",
-        "edition": "TE"
-      },
-      "volumeL": 76,
-      "weightKg": 6.2,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "Te",
-        "edition": "TE"
-      },
-      "volumeL": 82,
-      "weightKg": 6.2,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 89,
-        "construction": "Te",
-        "edition": "TE"
-      },
-      "volumeL": 89,
-      "weightKg": 6.2,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 101
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 101,
-      "lengthCm": 230,
-      "widthCm": 63.5,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.5
-      }
-    },
     {
       "variant": {
         "size": 69
@@ -177,6 +94,27 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 101
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 101,
+      "lengthCm": 230,
+      "widthCm": 63.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
       }
     }
   ],

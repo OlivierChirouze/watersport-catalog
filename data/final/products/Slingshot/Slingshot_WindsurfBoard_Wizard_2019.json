@@ -11,6 +11,8 @@
       "variant": {
         "size": 103
       },
+      "lengthCm": 152.4,
+      "widthCm": 76.2,
       "volumeL": 103,
       "fins": [
         {
@@ -18,14 +20,14 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 152.4,
-      "widthCm": 76.2
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 105
       },
+      "lengthCm": 177.8,
+      "widthCm": 76.2,
       "volumeL": 105,
       "fins": [
         {
@@ -33,14 +35,14 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 177.8,
-      "widthCm": 76.2
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 125
       },
+      "lengthCm": 198.1,
+      "widthCm": 78.5,
       "volumeL": 125,
       "fins": [
         {
@@ -48,9 +50,7 @@
           "type": "DeepTuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 198.1,
-      "widthCm": 78.5
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

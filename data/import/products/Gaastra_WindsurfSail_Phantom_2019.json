@@ -18,17 +18,22 @@
       },
       "surfaceM2": 5.6,
       "boomLengthsCm": [
-        202
+        187
       ],
+      "luffLengthCm": 420,
       "mastLengthsCm": [
+        400,
         430
       ],
       "mastExtensionLengthsCm": [
-        10
+        20
+      ],
+      "masTypes": [
+        "SDM"
       ],
       "battenCount": 7,
       "camCount": 2,
-      "topType": "fixed"
+      "topType": "vario"
     },
     {
       "variant": {
@@ -36,13 +41,17 @@
       },
       "surfaceM2": 6.4,
       "boomLengthsCm": [
-        208
+        202
       ],
+      "luffLengthCm": 440,
       "mastLengthsCm": [
         430
       ],
       "mastExtensionLengthsCm": [
-        33
+        10
+      ],
+      "masTypes": [
+        "SDM"
       ],
       "battenCount": 7,
       "camCount": 2,
@@ -54,13 +63,17 @@
       },
       "surfaceM2": 7.1,
       "boomLengthsCm": [
-        218
+        208
       ],
+      "luffLengthCm": 463,
       "mastLengthsCm": [
-        460
+        430
       ],
       "mastExtensionLengthsCm": [
-        28
+        33
+      ],
+      "masTypes": [
+        "SDM"
       ],
       "battenCount": 7,
       "camCount": 2,
@@ -72,13 +85,17 @@
       },
       "surfaceM2": 7.9,
       "boomLengthsCm": [
-        228
+        218
       ],
+      "luffLengthCm": 488,
       "mastLengthsCm": [
         460
       ],
       "mastExtensionLengthsCm": [
-        51
+        28
+      ],
+      "masTypes": [
+        "SDM"
       ],
       "battenCount": 7,
       "camCount": 2,
@@ -90,13 +107,17 @@
       },
       "surfaceM2": 8.6,
       "boomLengthsCm": [
-        239
+        228
       ],
+      "luffLengthCm": 511,
       "mastLengthsCm": [
-        490
+        460
       ],
       "mastExtensionLengthsCm": [
-        34
+        51
+      ],
+      "masTypes": [
+        "SDM"
       ],
       "battenCount": 7,
       "camCount": 2,
@@ -108,13 +129,17 @@
       },
       "surfaceM2": 9.4,
       "boomLengthsCm": [
-        202
+        239
       ],
+      "luffLengthCm": 524,
       "mastLengthsCm": [
-        430
+        490
       ],
       "mastExtensionLengthsCm": [
-        10
+        34
+      ],
+      "masTypes": [
+        "SDM"
       ],
       "battenCount": 7,
       "camCount": 2,
