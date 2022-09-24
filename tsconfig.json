@@ -3,6 +3,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "baseUrl": "./",
+    "rootDir": "src",
     "outDir": "./dist",
     "inlineSourceMap": true,
     "declaration": true,
@@ -33,6 +34,9 @@
     "strictInjectionParameters": true,
     "enableIvy": false
   },
+  "include": [
+    "src/"
+  ],
   "exclude": [
     "node_modules", "dist"
   ]

@@ -1,5 +1,5 @@
 import { isEqual } from "lodash";
-import { notNullOrUndefined } from "../../../utils";
+import { isNotNullNotUndefined } from "../utils";
 
 export const onlyUniqueObject = <T>(value: T, index: number, self: T[]) =>
   self.findIndex(v => compareObjects(v, value)) === index;
@@ -78,7 +78,7 @@ export class ObjectMerger<U> {
 
   protected sortArray(key: string, array: unknown[]) {
     return array
-      .filter(notNullOrUndefined)
+      .filter(isNotNullNotUndefined)
       .sort((a, b) => a.toString().localeCompare(b.toString()));
   }
 
