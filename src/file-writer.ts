@@ -138,7 +138,11 @@ export const defaultOutputDir = path.join(
   "generated"
 );
 
-export const defaultBrandsDir = path.join(path.dirname(__dirname), "data", "brands");
+export const defaultBrandsDir = path.join(
+  path.dirname(__dirname),
+  "data",
+  "brands"
+);
 
 export class FileWriter<T> {
   static sanitize(value: string) {
@@ -148,7 +152,11 @@ export class FileWriter<T> {
   constructor(
     public brandName: string,
     protected brandsDir = defaultBrandsDir,
-    protected productsDir = path.join(defaultOutputDir, "products", FileWriter.sanitize(brandName))
+    protected productsDir = path.join(
+      defaultOutputDir,
+      "products",
+      FileWriter.sanitize(brandName)
+    )
   ) {}
 
   async writeProductFile(

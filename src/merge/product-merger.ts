@@ -44,17 +44,25 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
     return super.sortArray(key, array);
   }
 
-
   protected getBestOfBoth(key: string, valA: unknown, valB: unknown): unknown {
     const variantKey = key as keyof ProductVariant<T>;
     const sailKey = key as keyof WindsurfSail<T>;
     const boardKey = key as keyof WindsurfBoard<T>;
 
     // Consider that measured values (in cm and in kg) can be considered identical if very close (10% diff)
-    if (variantKey === "weightKg"
-      || sailKey === "luffLengthCm" || sailKey === "boomLengthsCm" || sailKey === "mastLengthsCm" || sailKey === "mastExtensionLengthsCm"
-      || boardKey === "widthCm" || boardKey === "lengthCm") {
-      if (Math.abs((valA as number) - (valB as number)) / (valA as number) <= 0.10) {
+    if (
+      variantKey === "weightKg" ||
+      sailKey === "luffLengthCm" ||
+      sailKey === "boomLengthsCm" ||
+      sailKey === "mastLengthsCm" ||
+      sailKey === "mastExtensionLengthsCm" ||
+      boardKey === "widthCm" ||
+      boardKey === "lengthCm"
+    ) {
+      if (
+        Math.abs((valA as number) - (valB as number)) / (valA as number) <=
+        0.1
+      ) {
         this.warnings.push([
           `Close values for source and target for "${key}", will keep ${valA}:`,
           valA,
