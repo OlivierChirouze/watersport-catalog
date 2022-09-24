@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,26 +12,6 @@
     "freeride"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 150,
-        "construction": "E-tech",
-        "edition": "E-Tech"
-      },
-      "lengthCm": 240,
-      "widthCm": 78,
-      "volumeL": 150,
-      "weightKg": 10,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 150,

@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -16,72 +15,50 @@
   "variants": [
     {
       "variant": {
-        "size": 113,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 237,
-      "widthCm": 76,
-      "volumeL": 113,
-      "weightKg": 8.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 237,
-      "widthCm": 82,
-      "volumeL": 125,
-      "weightKg": 8.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 137,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 237,
-      "widthCm": 76,
-      "volumeL": 137,
-      "weightKg": 8.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 101,
         "construction": "Pro"
       },
       "lengthCm": 237,
-      "widthCm": 70,
+      "widthCm": 64,
       "volumeL": 101,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "FWS"
+      },
+      "lengthCm": 237,
+      "widthCm": 70,
+      "volumeL": 113,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "Pro"
+      },
+      "lengthCm": 237,
+      "widthCm": 70,
+      "volumeL": 113,
       "weightKg": 7.2,
       "fins": [
         {
@@ -95,13 +72,13 @@
     },
     {
       "variant": {
-        "size": 113,
-        "construction": "Pro"
+        "size": 125,
+        "construction": "FWS"
       },
       "lengthCm": 237,
       "widthCm": 76,
-      "volumeL": 113,
-      "weightKg": 7.7,
+      "volumeL": 125,
+      "weightKg": 8.1,
       "fins": [
         {
           "count": 1,
@@ -137,9 +114,28 @@
         "construction": "Pro"
       },
       "lengthCm": 237,
-      "widthCm": 82,
+      "widthCm": 76,
       "volumeL": 125,
-      "weightKg": 8.2,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "FWS"
+      },
+      "lengthCm": 237,
+      "widthCm": 82,
+      "volumeL": 137,
+      "weightKg": 8.6,
       "fins": [
         {
           "count": 1,
@@ -156,9 +152,9 @@
         "construction": "Pro"
       },
       "lengthCm": 237,
-      "widthCm": 70,
+      "widthCm": 82,
       "volumeL": 137,
-      "weightKg": 7.2,
+      "weightKg": 8.2,
       "fins": [
         {
           "count": 1,

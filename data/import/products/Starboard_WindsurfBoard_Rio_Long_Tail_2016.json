@@ -10,9 +10,8 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
     {
@@ -60,26 +59,6 @@
         "fromM2": 2,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 206,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 206,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

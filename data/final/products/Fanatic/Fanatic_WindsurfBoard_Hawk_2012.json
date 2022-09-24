@@ -6,18 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["edition", "size"],
   "variants": [
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Ltd Carbon Kevlar Basalt",
-        "edition": "LTD"
-      },
-      "volumeL": 100,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 100,
@@ -37,16 +27,6 @@
         "fromM2": 4.5,
         "toM2": 7.5
       }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Ltd Carbon Kevlar Basalt",
-        "edition": "LTD"
-      },
-      "volumeL": 110,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -71,16 +51,6 @@
     {
       "variant": {
         "size": 120,
-        "construction": "Ltd Carbon Kevlar Basalt",
-        "edition": "LTD"
-      },
-      "volumeL": 120,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120,
         "edition": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
@@ -97,16 +67,6 @@
         "fromM2": 5.5,
         "toM2": 8.5
       }
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Ltd Carbon Kevlar Basalt",
-        "edition": "LTD"
-      },
-      "volumeL": 135,
-      "weightKg": 7.85,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

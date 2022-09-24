@@ -2,8 +2,6 @@
   "name": "SL",
   "year": 2013,
   "programs": [
-    "freeride",
-    "race",
     "slalom"
   ],
   "brandName": "Exocet",
@@ -11,21 +9,31 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Single Shot Glass",
+        "size": 94,
         "edition": "Sport"
       },
-      "volumeL": 105,
       "compatibleFinFamilies": [
         "fins"
-      ]
+      ],
+      "volumeL": 94,
+      "lengthCm": 238,
+      "widthCm": 61,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.2
+      }
     },
     {
       "variant": {
@@ -91,39 +99,6 @@
       "sailRange": {
         "fromM2": 6.7,
         "toM2": 9.8
-      }
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "Single Shot Glass",
-        "edition": "Sport"
-      },
-      "volumeL": 94,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "edition": "Sport"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 94,
-      "lengthCm": 238,
-      "widthCm": 61,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7.2
       }
     }
   ],

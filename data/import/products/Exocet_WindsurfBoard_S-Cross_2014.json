@@ -2,34 +2,20 @@
   "name": "S-Cross",
   "year": 2014,
   "programs": [
-    "freeride",
-    "race"
+    "freeride"
   ],
   "brandName": "Exocet",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
     {
       "variant": {
         "size": 106,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "volumeL": 106,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 106,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -52,18 +38,6 @@
     {
       "variant": {
         "size": 116,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "volumeL": 116,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -82,18 +56,6 @@
         "fromM2": 4.5,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 126,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "volumeL": 126,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -120,18 +82,6 @@
     {
       "variant": {
         "size": 138,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "volumeL": 138,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 138,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -150,18 +100,6 @@
         "fromM2": 5.7,
         "toM2": 9
       }
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "Pvc Verre Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 106,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -188,18 +126,6 @@
     {
       "variant": {
         "size": 116,
-        "construction": "Pvc Verre Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 116,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116,
         "edition": "Silver"
       },
       "compatibleFinFamilies": [
@@ -218,18 +144,6 @@
         "fromM2": 4.5,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 126,
-        "construction": "Pvc Verre Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 126,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -274,18 +188,6 @@
         "fromM2": 5.7,
         "toM2": 9
       }
-    },
-    {
-      "variant": {
-        "size": 139,
-        "construction": "Pvc Verre Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 139,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

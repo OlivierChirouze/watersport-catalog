@@ -19,6 +19,7 @@
       "boomLengthsCm": [
         208
       ],
+      "luffLengthCm": 495,
       "mastLengthsCm": [
         460,
         490
@@ -29,27 +30,7 @@
       ],
       "battenCount": 6,
       "camCount": 2,
-      "topType": "fixed",
-      "luffLengthCm": 495
-    },
-    {
-      "variant": {
-        "size": 8.5
-      },
-      "surfaceM2": 8.5,
-      "boomLengthsCm": [
-        228
-      ],
-      "mastLengthsCm": [
-        490
-      ],
-      "mastExtensionLengthsCm": [
-        23
-      ],
-      "battenCount": 6,
-      "camCount": 2,
-      "topType": "fixed",
-      "luffLengthCm": 513
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -59,6 +40,7 @@
       "boomLengthsCm": [
         218
       ],
+      "luffLengthCm": 501,
       "mastLengthsCm": [
         490
       ],
@@ -67,27 +49,26 @@
       ],
       "battenCount": 6,
       "camCount": 2,
-      "topType": "fixed",
-      "luffLengthCm": 501
+      "topType": "fixed"
     },
     {
       "variant": {
-        "size": 9.5
+        "size": 8.5
       },
-      "surfaceM2": 9.5,
+      "surfaceM2": 8.5,
       "boomLengthsCm": [
-        244
+        228
       ],
+      "luffLengthCm": 513,
       "mastLengthsCm": [
         490
       ],
       "mastExtensionLengthsCm": [
-        34
+        23
       ],
       "battenCount": 6,
       "camCount": 2,
-      "topType": "fixed",
-      "luffLengthCm": 524
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -97,6 +78,7 @@
       "boomLengthsCm": [
         236
       ],
+      "luffLengthCm": 518,
       "mastLengthsCm": [
         490
       ],
@@ -105,8 +87,26 @@
       ],
       "battenCount": 6,
       "camCount": 2,
-      "topType": "fixed",
-      "luffLengthCm": 518
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 9.5
+      },
+      "surfaceM2": 9.5,
+      "boomLengthsCm": [
+        244
+      ],
+      "luffLengthCm": 524,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastExtensionLengthsCm": [
+        34
+      ],
+      "battenCount": 6,
+      "camCount": 2,
+      "topType": "fixed"
     }
   ],
   "description": {},

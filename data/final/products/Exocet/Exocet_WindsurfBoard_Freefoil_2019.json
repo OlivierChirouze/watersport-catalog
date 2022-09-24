@@ -48,43 +48,11 @@
     {
       "variant": {
         "size": 112,
-        "construction": "Ast"
-      },
-      "lengthCm": 210,
-      "widthCm": 86,
-      "volumeL": 112,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 112,
         "construction": "AST"
       },
       "lengthCm": 210,
       "widthCm": 76,
       "volumeL": 112,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 132,
-        "construction": "Ast"
-      },
-      "lengthCm": 210,
-      "widthCm": 86,
-      "volumeL": 132,
       "fins": [
         {
           "count": 1,

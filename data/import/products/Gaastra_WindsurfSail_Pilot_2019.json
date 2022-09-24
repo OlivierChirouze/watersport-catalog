@@ -17,8 +17,31 @@
       },
       "surfaceM2": 4.5,
       "boomLengthsCm": [
+        153
+      ],
+      "luffLengthCm": 407,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        7
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "boomLengthsCm": [
         166
       ],
+      "luffLengthCm": 422,
       "mastLengthsCm": [
         400
       ],
@@ -34,38 +57,18 @@
     },
     {
       "variant": {
-        "size": 5
-      },
-      "surfaceM2": 5,
-      "boomLengthsCm": [
-        180
-      ],
-      "mastLengthsCm": [
-        90
-      ],
-      "mastExtensionLengthsCm": [
-        345
-      ],
-      "masTypes": [
-        "SDM"
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 5.6
       },
       "surfaceM2": 5.6,
       "boomLengthsCm": [
-        189
+        180
       ],
+      "luffLengthCm": 435,
       "mastLengthsCm": [
-        70
+        430
       ],
       "mastExtensionLengthsCm": [
-        383
+        5
       ],
       "masTypes": [
         "SDM"
@@ -80,15 +83,14 @@
       },
       "surfaceM2": 6.2,
       "boomLengthsCm": [
-        199
+        189
       ],
+      "luffLengthCm": 453,
       "mastLengthsCm": [
-        50,
         430
       ],
       "mastExtensionLengthsCm": [
-        418,
-        38
+        23
       ],
       "masTypes": [
         "SDM"
@@ -103,20 +105,21 @@
       },
       "surfaceM2": 6.8,
       "boomLengthsCm": [
-        166
+        199
       ],
+      "luffLengthCm": 468,
       "mastLengthsCm": [
-        90
+        460
       ],
       "mastExtensionLengthsCm": [
-        332
+        8
       ],
       "masTypes": [
         "SDM"
       ],
-      "battenCount": 4,
+      "battenCount": 5,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     }
   ],
   "description": {},

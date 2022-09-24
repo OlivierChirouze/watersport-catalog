@@ -17,48 +17,19 @@
       },
       "surfaceM2": 2.5,
       "boomLengthsCm": [
-        128,
-        136
+        128
       ],
+      "luffLengthCm": 294,
       "mastLengthsCm": [
         310
       ],
-      "mastExtensionLengthsCm": [
-        3
-      ],
+      "mastExtensionLengthsCm": [],
       "masTypes": [
         "RDM"
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 294
-    },
-    {
-      "variant": {
-        "size": 3.5
-      },
-      "surfaceM2": 3.5,
-      "boomLengthsCm": [
-        145,
-        155
-      ],
-      "mastLengthsCm": [
-        310,
-        340
-      ],
-      "mastExtensionLengthsCm": [
-        20,
-        37,
-        7
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 3,
-      "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 330
+      "topType": "vario"
     },
     {
       "variant": {
@@ -66,14 +37,13 @@
       },
       "surfaceM2": 3,
       "boomLengthsCm": [
-        136,
-        145
+        136
       ],
+      "luffLengthCm": 313,
       "mastLengthsCm": [
         310
       ],
       "mastExtensionLengthsCm": [
-        20,
         3
       ],
       "masTypes": [
@@ -81,8 +51,29 @@
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 313
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.5
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [
+        145
+      ],
+      "luffLengthCm": 330,
+      "mastLengthsCm": [
+        310
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
     },
     {
       "variant": {
@@ -90,15 +81,14 @@
       },
       "surfaceM2": 4,
       "boomLengthsCm": [
-        136,
         155
       ],
+      "luffLengthCm": 347,
       "mastLengthsCm": [
         310,
         340
       ],
       "mastExtensionLengthsCm": [
-        3,
         37,
         7
       ],
@@ -107,8 +97,7 @@
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 347
+      "topType": "vario"
     }
   ],
   "description": {},

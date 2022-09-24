@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -14,86 +13,6 @@
     "wave"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 59,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 86,
-      "widthCm": 229,
-      "volumeL": 59,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 61,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 94,
-      "widthCm": 230,
-      "volumeL": 61,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 63,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 103,
-      "widthCm": 230,
-      "volumeL": 63,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 65,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 113,
-      "widthCm": 231,
-      "volumeL": 65,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 57,

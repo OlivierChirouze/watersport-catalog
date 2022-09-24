@@ -11,16 +11,6 @@
     {
       "variant": {
         "size": 125,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "volumeL": 125,
-      "weightKg": 8.6,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
         "edition": "ES"
       },
       "compatibleFinFamilies": ["fins"],
@@ -37,16 +27,6 @@
         "fromM2": 5.5,
         "toM2": 8.5
       }
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "volumeL": 135,
-      "weightKg": 8.6,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -71,16 +51,6 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "volumeL": 145,
-      "weightKg": 8.6,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
         "edition": "ES"
       },
       "compatibleFinFamilies": ["fins"],
@@ -101,16 +71,6 @@
     {
       "variant": {
         "size": 160,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "volumeL": 160,
-      "weightKg": 8.6,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 160,
         "edition": "ES"
       },
       "compatibleFinFamilies": ["fins"],
@@ -127,16 +87,6 @@
         "fromM2": 6.5,
         "toM2": 11
       }
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Es+eva",
-        "edition": "Family"
-      },
-      "volumeL": 145,
-      "weightKg": 10.6,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -171,16 +121,6 @@
     {
       "variant": {
         "size": 125,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 125,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
         "edition": "FWS"
       },
       "compatibleFinFamilies": ["fins"],
@@ -197,16 +137,6 @@
         "fromM2": 5.5,
         "toM2": 8.5
       }
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 135,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -231,16 +161,6 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 145,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
         "edition": "FWS"
       },
       "compatibleFinFamilies": ["fins"],
@@ -257,16 +177,6 @@
         "fromM2": 6,
         "toM2": 10
       }
-    },
-    {
-      "variant": {
-        "size": 160,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "volumeL": 160,
-      "weightKg": 7.8,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -385,13 +295,13 @@
       },
       "volumeL": 125,
       "weightKg": 7.1,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -430,13 +340,13 @@
       },
       "volumeL": 135,
       "weightKg": 7.1,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -475,13 +385,13 @@
       },
       "volumeL": 145,
       "weightKg": 7.1,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

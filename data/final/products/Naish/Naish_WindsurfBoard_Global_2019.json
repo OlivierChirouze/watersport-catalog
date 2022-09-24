@@ -12,6 +12,8 @@
         "size": 102,
         "construction": "Wood"
       },
+      "lengthCm": 224,
+      "widthCm": 62,
       "volumeL": 102,
       "fins": [
         {
@@ -19,15 +21,15 @@
           "type": "US"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 224,
-      "widthCm": 62
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 78,
         "construction": "Wood"
       },
+      "lengthCm": 216,
+      "widthCm": 55.5,
       "volumeL": 78,
       "fins": [
         {
@@ -35,15 +37,15 @@
           "type": "US"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 216,
-      "widthCm": 55.5
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 85,
         "construction": "Wood"
       },
+      "lengthCm": 219,
+      "widthCm": 58,
       "volumeL": 85,
       "fins": [
         {
@@ -51,15 +53,15 @@
           "type": "US"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 219,
-      "widthCm": 58
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 92,
         "construction": "Wood"
       },
+      "lengthCm": 222,
+      "widthCm": 60,
       "volumeL": 92,
       "fins": [
         {
@@ -67,9 +69,7 @@
           "type": "US"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 222,
-      "widthCm": 60
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

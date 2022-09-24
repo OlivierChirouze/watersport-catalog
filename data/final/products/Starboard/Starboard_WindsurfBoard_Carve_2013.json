@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "Starboard",
   "year": 2013,
   "name": "Carve",
@@ -10,44 +10,6 @@
     {
       "variant": {
         "size": 111,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "volumeL": 111,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 121,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "volumeL": 121,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 111,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "volumeL": 111,
-      "weightKg": 8.55,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 121,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "volumeL": 121,
-      "weightKg": 8.55,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 111,
         "construction": "AST"
       },
       "volumeL": 111,
@@ -80,13 +42,13 @@
         "construction": "Wood"
       },
       "volumeL": 111,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -123,13 +85,13 @@
         "construction": "Wood"
       },
       "volumeL": 121,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

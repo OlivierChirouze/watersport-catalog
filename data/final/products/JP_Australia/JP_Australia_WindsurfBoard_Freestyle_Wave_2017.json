@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2017,
   "name": "Freestyle Wave",
@@ -7,78 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["freeride", "wave"],
   "variants": [
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 235,
-      "widthCm": 62.5,
-      "volumeL": 102,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 237,
-      "widthCm": 65,
-      "volumeL": 112,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "volumeL": 85,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 93,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 234,
-      "widthCm": 60.5,
-      "volumeL": 93,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 102,

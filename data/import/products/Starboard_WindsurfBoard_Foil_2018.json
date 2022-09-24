@@ -14,6 +14,24 @@
   "variants": [
     {
       "variant": {
+        "size": 122,
+        "construction": "Carbon Reflex"
+      },
+      "lengthCm": 232,
+      "widthCm": 75.5,
+      "volumeL": 122,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
         "size": 147,
         "construction": "Carbon Reflex"
       },
@@ -40,24 +58,6 @@
       "widthCm": 95,
       "volumeL": 147,
       "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Carbon Reflex"
-      },
-      "lengthCm": 232,
-      "widthCm": 75.5,
-      "volumeL": 122,
       "fins": [
         {
           "count": 1,

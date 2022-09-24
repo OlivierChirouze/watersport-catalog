@@ -16,10 +16,35 @@
         "size": 3.6
       },
       "surfaceM2": 3.6,
+      "weightKg": 2.73,
+      "boomLengthsCm": [
+        140
+      ],
+      "luffLengthCm": 366,
+      "mastLengthsCm": [
+        340,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        26
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
       "weightKg": 2.86,
       "boomLengthsCm": [
         147
       ],
+      "luffLengthCm": 380,
       "mastLengthsCm": [
         370
       ],
@@ -35,13 +60,14 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 4.4
       },
-      "surfaceM2": 4,
+      "surfaceM2": 4.4,
       "weightKg": 2.86,
       "boomLengthsCm": [
         151
       ],
+      "luffLengthCm": 396,
       "mastLengthsCm": [
         370
       ],
@@ -57,13 +83,14 @@
     },
     {
       "variant": {
-        "size": 4.4
+        "size": 4.8
       },
-      "surfaceM2": 4.4,
+      "surfaceM2": 4.8,
       "weightKg": 2.98,
       "boomLengthsCm": [
         159
       ],
+      "luffLengthCm": 414,
       "mastLengthsCm": [
         400
       ],
@@ -79,13 +106,14 @@
     },
     {
       "variant": {
-        "size": 4.8
+        "size": 5.2
       },
-      "surfaceM2": 4.8,
+      "surfaceM2": 5.2,
       "weightKg": 3.16,
       "boomLengthsCm": [
         167
       ],
+      "luffLengthCm": 434,
       "mastLengthsCm": [
         430
       ],
@@ -101,40 +129,19 @@
     },
     {
       "variant": {
-        "size": 5.2
+        "size": 5.6
       },
-      "surfaceM2": 5.2,
+      "surfaceM2": 5.6,
       "weightKg": 3.27,
       "boomLengthsCm": [
         174
       ],
+      "luffLengthCm": 452,
       "mastLengthsCm": [
         430
       ],
       "mastExtensionLengthsCm": [
         22
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.6
-      },
-      "surfaceM2": 5.6,
-      "weightKg": 2.86,
-      "boomLengthsCm": [
-        147
-      ],
-      "mastLengthsCm": [
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        10
       ],
       "masTypes": [
         "RDM"

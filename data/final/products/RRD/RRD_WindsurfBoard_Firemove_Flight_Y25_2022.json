@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "RRD",
   "year": 2022,
   "name": "Firemove Flight",
@@ -7,57 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["freeride"],
   "variants": [
-    {
-      "variant": {
-        "size": 135,
-        "construction": "E-tech",
-        "edition": "E-Tech"
-      },
-      "lengthCm": 225,
-      "widthCm": 85,
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 225,
-      "widthCm": 85,
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 225,
-      "widthCm": 85,
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 135,

@@ -13,7 +13,17 @@
       },
       "surfaceM2": 1.5,
       "weightKg": 1.105,
-      "mastLengthsCm": [2],
+      "mastLengthsCm": [],
+      "mastExtensionLengthsCm": [],
+      "battenCount": 1
+    },
+    {
+      "variant": {
+        "size": 2
+      },
+      "surfaceM2": 2,
+      "weightKg": 1.255,
+      "mastLengthsCm": [],
       "mastExtensionLengthsCm": [],
       "battenCount": 1
     },
@@ -23,19 +33,9 @@
       },
       "surfaceM2": 2.5,
       "weightKg": 1.665,
-      "mastLengthsCm": [2],
+      "mastLengthsCm": [],
       "mastExtensionLengthsCm": [],
       "battenCount": 2
-    },
-    {
-      "variant": {
-        "size": 2
-      },
-      "surfaceM2": 2,
-      "weightKg": 1.255,
-      "mastLengthsCm": [20],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 1
     },
     {
       "variant": {
@@ -43,7 +43,7 @@
       },
       "surfaceM2": 3.5,
       "weightKg": 2.175,
-      "mastLengthsCm": [80],
+      "mastLengthsCm": [],
       "mastExtensionLengthsCm": [],
       "battenCount": 3
     }

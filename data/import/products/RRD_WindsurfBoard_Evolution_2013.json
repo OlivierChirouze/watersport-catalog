@@ -21,14 +21,14 @@
       },
       "volumeL": 128,
       "weightKg": 9.9,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {
@@ -39,6 +39,12 @@
       },
       "volumeL": 128,
       "weightKg": 9.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
       "compatibleFinFamilies": [
         "fins"
       ]

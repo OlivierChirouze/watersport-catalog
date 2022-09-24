@@ -10,19 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 3.4
-      },
-      "surfaceM2": 3.4,
-      "boomLengthsCm": [147],
-      "mastLengthsCm": [340],
-      "mastExtensionLengthsCm": [6],
-      "masTypes": ["RDM"],
-      "battenCount": 3,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
         "size": 3.7
       },
       "surfaceM2": 3.7,
@@ -32,10 +19,7 @@
       "boomLengthsCm": [150],
       "weightKg": 2.5,
       "battenCount": 3,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [24],
-      "masTypes": ["RDM"],
-      "topType": "vario"
+      "camCount": 0
     },
     {
       "variant": {
@@ -48,10 +32,7 @@
       "boomLengthsCm": [154],
       "weightKg": 2.6,
       "battenCount": 3,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [12],
-      "masTypes": ["RDM"],
-      "topType": "fixed"
+      "camCount": 0
     },
     {
       "variant": {
@@ -64,26 +45,7 @@
       "boomLengthsCm": [160],
       "weightKg": 2.7,
       "battenCount": 3,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [4],
-      "masTypes": ["RDM"],
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.3
-      },
-      "surfaceM2": 5.3,
-      "luffLengthCm": 423,
-      "mastLengthsCm": [400],
-      "mastIMCS": [19],
-      "boomLengthsCm": [170],
-      "weightKg": 2.9,
-      "battenCount": 3,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [23],
-      "masTypes": ["RDM"],
-      "topType": "fixed"
+      "camCount": 0
     },
     {
       "variant": {
@@ -96,10 +58,20 @@
       "boomLengthsCm": [164],
       "weightKg": 2.8,
       "battenCount": 3,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [12],
-      "masTypes": ["RDM"],
-      "topType": "fixed"
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "luffLengthCm": 423,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [170],
+      "weightKg": 2.9,
+      "battenCount": 3,
+      "camCount": 0
     }
   ],
   "pictures": []

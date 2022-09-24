@@ -9,63 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 44,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 232,
-      "widthCm": 58.5,
-      "volumeL": 44,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 49,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 225,
-      "widthCm": 44,
-      "volumeL": 49,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 54,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 230,
-      "widthCm": 49,
-      "volumeL": 54,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 230,
-      "widthCm": 54,
-      "volumeL": 80,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 53

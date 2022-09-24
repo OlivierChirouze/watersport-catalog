@@ -6,7 +6,7 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["edition", "size"],
   "variants": [
     {
       "variant": {
@@ -31,15 +31,6 @@
     {
       "variant": {
         "size": 89,
-        "construction": "Ic",
-        "edition": "TE"
-      },
-      "volumeL": 89,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 89,
         "edition": "TE"
       },
       "compatibleFinFamilies": ["fins"],
@@ -60,15 +51,6 @@
     {
       "variant": {
         "size": 99,
-        "construction": "Ic",
-        "edition": "TE"
-      },
-      "volumeL": 99,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
         "edition": "TE"
       },
       "compatibleFinFamilies": ["fins"],
@@ -85,14 +67,6 @@
         "fromM2": 4.5,
         "toM2": 7
       }
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Bgs"
-      },
-      "volumeL": 100,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

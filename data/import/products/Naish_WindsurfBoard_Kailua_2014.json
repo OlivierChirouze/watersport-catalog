@@ -19,14 +19,14 @@
         "edition": "SE"
       },
       "volumeL": 140,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {
@@ -103,14 +103,6 @@
         "toM2": 9,
         "fromM2": 3
       }
-    },
-    {
-      "variant": {
-        "edition": "SE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

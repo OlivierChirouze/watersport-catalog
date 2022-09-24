@@ -20,6 +20,7 @@
       "boomLengthsCm": [
         135
       ],
+      "luffLengthCm": 293,
       "mastLengthsCm": [
         290
       ],
@@ -31,8 +32,7 @@
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 293
+      "topType": "vario"
     },
     {
       "variant": {
@@ -43,6 +43,7 @@
       "boomLengthsCm": [
         141
       ],
+      "luffLengthCm": 324,
       "mastLengthsCm": [
         290,
         340
@@ -55,8 +56,7 @@
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 324
+      "topType": "vario"
     },
     {
       "variant": {
@@ -67,47 +67,20 @@
       "boomLengthsCm": [
         147
       ],
+      "luffLengthCm": 341,
       "mastLengthsCm": [
-        100,
         340,
         370
       ],
       "mastExtensionLengthsCm": [
-        1,
-        241
+        1
       ],
       "masTypes": [
         "RDM"
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 341
-    },
-    {
-      "variant": {
-        "size": 4.4
-      },
-      "surfaceM2": 4.4,
-      "weightKg": 2.4,
-      "boomLengthsCm": [
-        161
-      ],
-      "mastLengthsCm": [
-        100,
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        279,
-        9
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 3,
-      "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 379
+      "topType": "vario"
     },
     {
       "variant": {
@@ -118,6 +91,7 @@
       "boomLengthsCm": [
         154
       ],
+      "luffLengthCm": 365,
       "mastLengthsCm": [
         340,
         370
@@ -130,8 +104,30 @@
       ],
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 365
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.4
+      },
+      "surfaceM2": 4.4,
+      "weightKg": 2.4,
+      "boomLengthsCm": [
+        161
+      ],
+      "luffLengthCm": 379,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        9
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "fixed"
     }
   ],
   "description": {},

@@ -10,42 +10,6 @@
   "programs": [
     "foiling"
   ],
-  "variants": [
-    {
-      "variant": {
-        "size": 5
-      },
-      "lengthCm": 175,
-      "widthCm": 72,
-      "volumeL": 5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 6
-      },
-      "lengthCm": 198,
-      "widthCm": 77,
-      "volumeL": 6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    }
-  ],
   "description": {},
   "pictures": []
 }

@@ -16,101 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Pro Construction, Full Carbon & S-glass Hul",
-        "edition": "Carbon"
-      },
-      "lengthCm": 235.6,
-      "widthCm": 63.2,
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Pro, Full Carbon S-Glass Hul",
-        "edition": "Carbon"
-      },
-      "lengthCm": 235.6,
-      "widthCm": 63.2,
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Pro Construction, Full Carbon & S-glass Hul",
-        "edition": "Carbon"
-      },
-      "lengthCm": 233.5,
-      "widthCm": 64.9,
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Pro, Full Carbon S-Glass Hul",
-        "edition": "Carbon"
-      },
-      "lengthCm": 233.5,
-      "widthCm": 64.9,
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 77,
-        "construction": "Pro Construction, Full Carbon & S-glass Hul",
-        "edition": "Carbon"
-      },
-      "lengthCm": 224.2,
-      "widthCm": 55.9,
-      "volumeL": 77,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 77,
         "construction": "Pro, Full Carbon S-Glass Hul",
         "edition": "Carbon"
@@ -118,25 +23,6 @@
       "lengthCm": 224.2,
       "widthCm": 55.9,
       "volumeL": 77,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Pro Construction, Full Carbon & S-glass Hul",
-        "edition": "Carbon"
-      },
-      "lengthCm": 226.3,
-      "widthCm": 59,
-      "volumeL": 85,
       "fins": [
         {
           "count": 1,
@@ -169,7 +55,7 @@
     {
       "variant": {
         "size": 95,
-        "construction": "Pro Construction, Full Carbon & S-glass Hul",
+        "construction": "Pro, Full Carbon S-Glass Hul",
         "edition": "Carbon"
       },
       "lengthCm": 229.3,
@@ -187,13 +73,32 @@
     },
     {
       "variant": {
-        "size": 95,
+        "size": 105,
         "construction": "Pro, Full Carbon S-Glass Hul",
         "edition": "Carbon"
       },
-      "lengthCm": 229.3,
-      "widthCm": 60.6,
-      "volumeL": 95,
+      "lengthCm": 235.6,
+      "widthCm": 63.2,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Pro, Full Carbon S-Glass Hul",
+        "edition": "Carbon"
+      },
+      "lengthCm": 233.5,
+      "widthCm": 64.9,
+      "volumeL": 115,
       "fins": [
         {
           "count": 1,

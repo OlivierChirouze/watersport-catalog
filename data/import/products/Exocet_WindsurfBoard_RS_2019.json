@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,26 +12,6 @@
     "race"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 311,
-        "construction": "Pro Model",
-        "edition": "Pro"
-      },
-      "lengthCm": 380,
-      "widthCm": 65,
-      "volumeL": 311,
-      "weightKg": 14.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 311,

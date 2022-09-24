@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,90 +12,6 @@
     "wave"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 104,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "volumeL": 104,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "volumeL": 74,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "volumeL": 82,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "volumeL": 90,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 104,
-        "construction": "Ltd"
-      },
-      "volumeL": 104,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 104,
@@ -138,22 +53,6 @@
     {
       "variant": {
         "size": 114,
-        "construction": "Ltd"
-      },
-      "volumeL": 114,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 114,
         "construction": "LTD"
       },
       "lengthCm": 226,
@@ -173,44 +72,12 @@
     {
       "variant": {
         "size": 68,
-        "construction": "Ltd"
-      },
-      "volumeL": 68,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 68,
         "construction": "LTD"
       },
       "lengthCm": 218,
       "widthCm": 54,
       "volumeL": 68,
       "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Ltd"
-      },
-      "volumeL": 74,
       "fins": [
         {
           "count": 1,
@@ -262,22 +129,6 @@
     {
       "variant": {
         "size": 82,
-        "construction": "Ltd"
-      },
-      "volumeL": 82,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 82,
         "construction": "LTD"
       },
       "lengthCm": 222,
@@ -303,22 +154,6 @@
       "widthCm": 57.5,
       "volumeL": 82,
       "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Ltd"
-      },
-      "volumeL": 90,
       "fins": [
         {
           "count": 1,

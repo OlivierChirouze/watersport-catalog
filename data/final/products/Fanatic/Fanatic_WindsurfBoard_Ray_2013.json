@@ -1,21 +1,13 @@
 {
   "name": "Ray",
   "year": 2013,
-  "programs": ["freeride", "race", "slalom"],
+  "programs": ["freeride", "race", "freeride", "slalom"],
   "brandName": "Fanatic",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Biax Glass Sandwich Light Finish"
-      },
-      "volumeL": 102,
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 102
@@ -34,14 +26,6 @@
         "fromM2": 5.5,
         "toM2": 8.2
       }
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "Biax Glass Sandwich Light Finish"
-      },
-      "volumeL": 112,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

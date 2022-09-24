@@ -1,7 +1,7 @@
 {
   "name": "Fire",
   "year": 2015,
-  "programs": ["freeride", "race"],
+  "programs": ["freeride", "freeride", "race"],
   "brandName": "RRD",
   "type": "propulsion",
   "subType": "windsurfSail",
@@ -16,10 +16,9 @@
       "luffLengthCm": 452,
       "mastLengthsCm": [430],
       "mastIMCS": [21],
-      "boomLengthsCm": [190, 452],
+      "boomLengthsCm": [190],
       "battenCount": 7,
-      "camCount": 0,
-      "mastExtensionLengthsCm": []
+      "camCount": 0
     },
     {
       "variant": {
@@ -29,10 +28,9 @@
       "luffLengthCm": 462,
       "mastLengthsCm": [460],
       "mastIMCS": [25],
-      "boomLengthsCm": [200, 462],
+      "boomLengthsCm": [200],
       "battenCount": 7,
-      "camCount": 0,
-      "mastExtensionLengthsCm": []
+      "camCount": 0
     },
     {
       "variant": {
@@ -42,10 +40,9 @@
       "luffLengthCm": 482,
       "mastLengthsCm": [460],
       "mastIMCS": [25],
-      "boomLengthsCm": [211, 482],
+      "boomLengthsCm": [211],
       "battenCount": 7,
-      "camCount": 0,
-      "mastExtensionLengthsCm": []
+      "camCount": 0
     },
     {
       "variant": {
@@ -55,10 +52,9 @@
       "luffLengthCm": 500,
       "mastLengthsCm": [490],
       "mastIMCS": [29],
-      "boomLengthsCm": [223, 500],
+      "boomLengthsCm": [223],
       "battenCount": 7,
-      "camCount": 0,
-      "mastExtensionLengthsCm": []
+      "camCount": 0
     },
     {
       "variant": {
@@ -68,10 +64,9 @@
       "luffLengthCm": 513,
       "mastLengthsCm": [490],
       "mastIMCS": [29],
-      "boomLengthsCm": [237, 513],
+      "boomLengthsCm": [237],
       "battenCount": 7,
-      "camCount": 0,
-      "mastExtensionLengthsCm": []
+      "camCount": 0
     }
   ],
   "pictures": [],

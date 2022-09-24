@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,26 +12,6 @@
     "freestyle"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 230,
-      "widthCm": 59.5,
-      "volumeL": 101,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 101,

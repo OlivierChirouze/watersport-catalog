@@ -12,7 +12,10 @@
         "size": 103,
         "construction": "Flax Balsa"
       },
+      "lengthCm": 222,
+      "widthCm": 65,
       "volumeL": 103,
+      "weightKg": 7.4,
       "fins": [
         {
           "count": 1,
@@ -23,17 +26,17 @@
           "type": "StarBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 222,
-      "widthCm": 65,
-      "weightKg": 7.4
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 79,
         "construction": "Flax Balsa"
       },
+      "lengthCm": 214,
+      "widthCm": 58,
       "volumeL": 79,
+      "weightKg": 6.45,
       "fins": [
         {
           "count": 1,
@@ -44,17 +47,17 @@
           "type": "StarBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 214,
-      "widthCm": 58,
-      "weightKg": 6.45
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 83,
         "construction": "Flax Balsa"
       },
+      "lengthCm": 220,
+      "widthCm": 59.3,
       "volumeL": 83,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 1,
@@ -65,17 +68,17 @@
           "type": "StarBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 220,
-      "widthCm": 59.3,
-      "weightKg": 6.7
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
         "size": 93,
         "construction": "Flax Balsa"
       },
+      "lengthCm": 222,
+      "widthCm": 61.3,
       "volumeL": 93,
+      "weightKg": 6.8,
       "fins": [
         {
           "count": 1,
@@ -86,10 +89,7 @@
           "type": "StarBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 222,
-      "widthCm": 61.3,
-      "weightKg": 6.8
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

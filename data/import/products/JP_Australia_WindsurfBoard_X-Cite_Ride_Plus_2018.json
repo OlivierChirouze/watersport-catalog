@@ -1,8 +1,7 @@
 {
   "dimensions": [
     "size",
-    "construction",
-    "edition"
+    "construction"
   ],
   "brandName": "JP Australia",
   "year": 2018,
@@ -16,8 +15,7 @@
     {
       "variant": {
         "size": 125,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 250,
       "widthCm": 69,
@@ -35,49 +33,8 @@
     },
     {
       "variant": {
-        "size": 135,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 250,
-      "widthCm": 73,
-      "volumeL": 135,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 252,
-      "widthCm": 77,
-      "volumeL": 145,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 125,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 250,
       "widthCm": 69,
@@ -96,8 +53,26 @@
     {
       "variant": {
         "size": 135,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
+      },
+      "lengthCm": 250,
+      "widthCm": 73,
+      "volumeL": 135,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "FWS"
       },
       "lengthCm": 250,
       "widthCm": 73,
@@ -116,8 +91,26 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
+      },
+      "lengthCm": 252,
+      "widthCm": 77,
+      "volumeL": 145,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "FWS"
       },
       "lengthCm": 252,
       "widthCm": 77,

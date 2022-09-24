@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,101 +12,6 @@
     "foiling"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "lengthCm": 204,
-      "widthCm": 70,
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Es",
-        "edition": "ES"
-      },
-      "lengthCm": 207,
-      "widthCm": 77,
-      "volumeL": 130,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Lxt",
-        "edition": "LXT"
-      },
-      "lengthCm": 190,
-      "widthCm": 65,
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Lxt",
-        "edition": "LXT"
-      },
-      "lengthCm": 204,
-      "widthCm": 70,
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Lxt",
-        "edition": "LXT"
-      },
-      "lengthCm": 207,
-      "widthCm": 77,
-      "volumeL": 130,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
     {
       "variant": {
         "size": 105,

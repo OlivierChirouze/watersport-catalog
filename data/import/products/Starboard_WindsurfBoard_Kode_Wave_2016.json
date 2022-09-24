@@ -9,24 +9,10 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 73,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 222,
-      "widthCm": 56.5,
-      "volumeL": 73,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 73,
@@ -48,19 +34,6 @@
         "fromM2": 3,
         "toM2": 5
       }
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 224,
-      "widthCm": 58,
-      "volumeL": 78,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -87,19 +60,6 @@
     {
       "variant": {
         "size": 83,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 229,
-      "widthCm": 58.5,
-      "volumeL": 83,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 83,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -122,19 +82,6 @@
     {
       "variant": {
         "size": 88,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 230,
-      "widthCm": 60.5,
-      "volumeL": 88,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 88,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -153,19 +100,6 @@
         "fromM2": 4,
         "toM2": 6
       }
-    },
-    {
-      "variant": {
-        "size": 93,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 234,
-      "widthCm": 62,
-      "volumeL": 93,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -298,66 +232,6 @@
         "fromM2": 4.5,
         "toM2": 6.5
       }
-    },
-    {
-      "variant": {
-        "size": 73,
-        "construction": "Wood Reflex"
-      },
-      "lengthCm": 222,
-      "widthCm": 56.5,
-      "volumeL": 73,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "Wood Reflex"
-      },
-      "lengthCm": 224,
-      "widthCm": 58,
-      "volumeL": 78,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "Wood Reflex"
-      },
-      "lengthCm": 229,
-      "widthCm": 58.5,
-      "volumeL": 83,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "Wood Reflex"
-      },
-      "lengthCm": 230,
-      "widthCm": 60.5,
-      "volumeL": 88,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 93,
-        "construction": "Wood Reflex"
-      },
-      "lengthCm": 234,
-      "widthCm": 65,
-      "volumeL": 93,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

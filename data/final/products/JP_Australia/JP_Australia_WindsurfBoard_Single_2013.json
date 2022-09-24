@@ -11,15 +11,6 @@
     {
       "variant": {
         "size": 74,
-        "construction": "Fws",
-        "edition": "Thruster FWS"
-      },
-      "volumeL": 74,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 74,
         "construction": "FWS",
         "edition": "Thruster FWS"
       },
@@ -51,15 +42,6 @@
         "fromM2": 4,
         "toM2": 5.2
       }
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "Fws",
-        "edition": "Thruster FWS"
-      },
-      "volumeL": 82,
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -126,13 +108,13 @@
         "edition": "Thruster Pro"
       },
       "volumeL": 74,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "MiniTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -187,13 +169,13 @@
         "edition": "Thruster Pro"
       },
       "volumeL": 92,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "US"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

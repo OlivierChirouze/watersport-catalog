@@ -6,25 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 150,
-        "construction": "Hrs Softdeck White"
-      },
-      "lengthCm": 270,
-      "widthCm": 70,
-      "volumeL": 150,
-      "weightKg": 11.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 150
@@ -44,23 +27,6 @@
         "fromM2": 2,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 160,
-        "construction": "Hrs Softdeck White"
-      },
-      "lengthCm": 275,
-      "widthCm": 75,
-      "volumeL": 160,
-      "weightKg": 12.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -84,23 +50,6 @@
     },
     {
       "variant": {
-        "size": 190,
-        "construction": "Hrs Softdeck White"
-      },
-      "lengthCm": 280,
-      "widthCm": 80,
-      "volumeL": 190,
-      "weightKg": 13.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 190
       },
       "compatibleFinFamilies": ["fins"],
@@ -121,23 +70,6 @@
     },
     {
       "variant": {
-        "size": 220,
-        "construction": "Hrs Softdeck White"
-      },
-      "lengthCm": 285,
-      "widthCm": 85,
-      "volumeL": 220,
-      "weightKg": 14.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 220
       },
       "compatibleFinFamilies": ["fins"],
@@ -155,22 +87,6 @@
         "fromM2": 2,
         "toM2": 10
       }
-    },
-    {
-      "variant": {
-        "size": 240,
-        "construction": "Hrs Softdeck White"
-      },
-      "lengthCm": 290,
-      "widthCm": 91,
-      "volumeL": 240,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

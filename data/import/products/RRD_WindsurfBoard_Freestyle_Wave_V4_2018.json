@@ -1,8 +1,7 @@
 {
   "dimensions": [
     "size",
-    "construction",
-    "edition"
+    "construction"
   ],
   "brandName": "RRD",
   "year": 2018,
@@ -16,69 +15,8 @@
   "variants": [
     {
       "variant": {
-        "size": 84,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 227,
-      "widthCm": 53.5,
-      "volumeL": 84,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 227,
-      "widthCm": 55.5,
-      "volumeL": 90,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 58.5,
-      "volumeL": 96,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 104,
-        "construction": "Ltd",
-        "edition": "LTD"
+        "construction": "LTD"
       },
       "lengthCm": 228,
       "widthCm": 61,
@@ -96,9 +34,46 @@
     },
     {
       "variant": {
+        "size": 104,
+        "construction": "LTD"
+      },
+      "lengthCm": 237,
+      "widthCm": 61,
+      "volumeL": 104,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 84,
-        "construction": "Ltd",
-        "edition": "LTD"
+        "construction": "LTD"
+      },
+      "lengthCm": 227,
+      "widthCm": 53.5,
+      "volumeL": 84,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "LTD"
       },
       "lengthCm": 236,
       "widthCm": 53.5,
@@ -117,8 +92,26 @@
     {
       "variant": {
         "size": 90,
-        "construction": "Ltd",
-        "edition": "LTD"
+        "construction": "LTD"
+      },
+      "lengthCm": 227,
+      "widthCm": 55.5,
+      "volumeL": 90,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "LTD"
       },
       "lengthCm": 234,
       "widthCm": 55.5,
@@ -137,13 +130,12 @@
     {
       "variant": {
         "size": 96,
-        "construction": "Ltd",
-        "edition": "LTD"
+        "construction": "LTD"
       },
-      "lengthCm": 237,
+      "lengthCm": 228,
       "widthCm": 58.5,
       "volumeL": 96,
-      "weightKg": 7.1,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 1,
@@ -156,14 +148,13 @@
     },
     {
       "variant": {
-        "size": 104,
-        "construction": "Ltd",
-        "edition": "LTD"
+        "size": 96,
+        "construction": "LTD"
       },
       "lengthCm": 237,
-      "widthCm": 61,
-      "volumeL": 104,
-      "weightKg": 7.2,
+      "widthCm": 58.5,
+      "volumeL": 96,
+      "weightKg": 7.1,
       "fins": [
         {
           "count": 1,

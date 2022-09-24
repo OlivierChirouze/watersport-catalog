@@ -9,29 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 165,
-        "construction": "Custom Made Wood & Carbone"
-      },
-      "lengthCm": 235,
-      "widthCm": 100,
-      "volumeL": 165,
-      "weightKg": 9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 165

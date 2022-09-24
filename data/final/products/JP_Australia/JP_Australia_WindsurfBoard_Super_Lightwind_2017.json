@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2017,
   "name": "Super Lightwind",
@@ -7,24 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["freeride"],
   "variants": [
-    {
-      "variant": {
-        "size": 165,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 235,
-      "widthCm": 92,
-      "volumeL": 165,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 165,

@@ -35,17 +35,6 @@
     {
       "variant": {
         "size": 116,
-        "construction": "N",
-        "edition": "JR"
-      },
-      "volumeL": 116,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116,
         "edition": "JR"
       },
       "compatibleFinFamilies": [
@@ -110,14 +99,14 @@
         "construction": "N"
       },
       "volumeL": 80,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {
@@ -146,14 +135,14 @@
         "construction": "N"
       },
       "volumeL": 90,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {

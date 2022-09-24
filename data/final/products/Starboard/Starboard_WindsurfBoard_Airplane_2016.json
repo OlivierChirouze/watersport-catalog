@@ -10,10 +10,22 @@
   "variants": [
     {
       "variant": {
+        "size": "285D",
         "construction": "Deluxe"
       },
       "lengthCm": 285,
       "widthCm": 90,
+      "volumeL": 285,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": "300D",
+        "construction": "Deluxe"
+      },
+      "lengthCm": 300,
+      "widthCm": 90,
+      "volumeL": 300,
       "compatibleFinFamilies": ["fins"]
     },
     {

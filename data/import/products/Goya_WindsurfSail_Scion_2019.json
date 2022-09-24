@@ -19,40 +19,12 @@
       },
       "surfaceM2": 1.5,
       "boomLengthsCm": [
-        108,
         92
       ],
-      "mastLengthsCm": [
-        235
-      ],
-      "mastExtensionLengthsCm": [
-        30
-      ],
+      "luffLengthCm": 235,
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 235
-    },
-    {
-      "variant": {
-        "size": 2.5,
-        "edition": "X-Pro"
-      },
-      "surfaceM2": 2.5,
-      "boomLengthsCm": [
-        125,
-        135
-      ],
-      "mastLengthsCm": [
-        235
-      ],
-      "mastExtensionLengthsCm": [
-        92
-      ],
-      "battenCount": 3,
-      "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 306
+      "topType": "vario"
     },
     {
       "variant": {
@@ -61,40 +33,26 @@
       },
       "surfaceM2": 2,
       "boomLengthsCm": [
-        108,
-        125
+        108
       ],
-      "mastLengthsCm": [
-        235
-      ],
-      "mastExtensionLengthsCm": [
-        71
-      ],
+      "luffLengthCm": 265,
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 265
+      "topType": "vario"
     },
     {
       "variant": {
-        "size": 3.5,
+        "size": 2.5,
         "edition": "X-Pro"
       },
-      "surfaceM2": 3.5,
+      "surfaceM2": 2.5,
       "boomLengthsCm": [
-        140,
-        146
+        125
       ],
-      "mastLengthsCm": [
-        235
-      ],
-      "mastExtensionLengthsCm": [
-        139
-      ],
+      "luffLengthCm": 306,
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 351
+      "topType": "vario"
     },
     {
       "variant": {
@@ -103,19 +61,26 @@
       },
       "surfaceM2": 3,
       "boomLengthsCm": [
-        135,
-        140
+        135
       ],
-      "mastLengthsCm": [
-        235
-      ],
-      "mastExtensionLengthsCm": [
-        116
-      ],
+      "luffLengthCm": 327,
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 327
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.5,
+        "edition": "X-Pro"
+      },
+      "surfaceM2": 3.5,
+      "boomLengthsCm": [
+        140
+      ],
+      "luffLengthCm": 351,
+      "battenCount": 3,
+      "camCount": 0,
+      "topType": "vario"
     },
     {
       "variant": {
@@ -124,19 +89,12 @@
       },
       "surfaceM2": 4,
       "boomLengthsCm": [
-        108,
         146
       ],
-      "mastLengthsCm": [
-        235
-      ],
-      "mastExtensionLengthsCm": [
-        30
-      ],
+      "luffLengthCm": 374,
       "battenCount": 3,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 374
+      "topType": "vario"
     }
   ],
   "description": {},

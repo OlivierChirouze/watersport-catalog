@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "Exocet",
   "year": 2021,
   "name": "Freefoil",
@@ -7,42 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["foiling"],
   "variants": [
-    {
-      "variant": {
-        "size": 112,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "lengthCm": 210,
-      "widthCm": 76,
-      "volumeL": 112,
-      "weightKg": 7.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 132,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "lengthCm": 210,
-      "widthCm": 86,
-      "volumeL": 132,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
     {
       "variant": {
         "size": 112,

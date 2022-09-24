@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "RRD",
   "year": 2020,
   "name": "Pocket Rocket",
@@ -7,42 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["freeride"],
   "variants": [
-    {
-      "variant": {
-        "size": 122,
-        "construction": "E-tech",
-        "edition": "E-Tech"
-      },
-      "lengthCm": 180,
-      "widthCm": 76,
-      "volumeL": 122,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 180,
-      "widthCm": 76,
-      "volumeL": 122,
-      "weightKg": 9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 122,

@@ -9,31 +9,10 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 227,
-      "widthCm": 59,
-      "volumeL": 101,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 101,
@@ -55,26 +34,6 @@
         "fromM2": 5.3,
         "toM2": 6.3
       }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 228,
-      "widthCm": 62,
-      "volumeL": 110,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -101,26 +60,6 @@
     {
       "variant": {
         "size": 120,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 240,
-      "widthCm": 64,
-      "volumeL": 120,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -139,26 +78,6 @@
         "fromM2": 5.8,
         "toM2": 7
       }
-    },
-    {
-      "variant": {
-        "size": 73,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 221,
-      "widthCm": 55,
-      "volumeL": 73,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -185,26 +104,6 @@
     {
       "variant": {
         "size": 80,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 224,
-      "widthCm": 57,
-      "volumeL": 80,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 80,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -227,26 +126,6 @@
     {
       "variant": {
         "size": 86,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 225,
-      "widthCm": 58,
-      "volumeL": 86,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
@@ -265,26 +144,6 @@
         "fromM2": 4.7,
         "toM2": 5.5
       }
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Carbone",
-        "edition": "Carbon"
-      },
-      "lengthCm": 226,
-      "widthCm": 59,
-      "volumeL": 92,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -461,139 +320,6 @@
         "fromM2": 4.7,
         "toM2": 6
       }
-    },
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Wood"
-      },
-      "lengthCm": 227,
-      "widthCm": 59,
-      "volumeL": 101,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Wood"
-      },
-      "lengthCm": 228,
-      "widthCm": 62,
-      "volumeL": 110,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Wood"
-      },
-      "lengthCm": 240,
-      "widthCm": 64,
-      "volumeL": 120,
-      "weightKg": 7.6,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 73,
-        "construction": "Wood"
-      },
-      "lengthCm": 221,
-      "widthCm": 55,
-      "volumeL": 73,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Wood"
-      },
-      "lengthCm": 224,
-      "widthCm": 57,
-      "volumeL": 80,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Wood"
-      },
-      "lengthCm": 225,
-      "widthCm": 58,
-      "volumeL": 86,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Wood"
-      },
-      "lengthCm": 226,
-      "widthCm": 59,
-      "volumeL": 92,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

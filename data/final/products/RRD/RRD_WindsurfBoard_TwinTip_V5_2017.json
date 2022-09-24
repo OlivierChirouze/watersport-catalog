@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "RRD",
   "year": 2017,
   "name": "TwinTip",
@@ -7,24 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["freestyle"],
   "variants": [
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 230,
-      "widthCm": 59.5,
-      "volumeL": 101,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 101,

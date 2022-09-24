@@ -6,25 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 102,
-        "construction": "Hrs Softdeck"
-      },
-      "lengthCm": 242,
-      "widthCm": 69,
-      "volumeL": 102,
-      "weightKg": 9.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 102
@@ -43,23 +26,6 @@
         "fromM2": 1.5,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Hrs Softdeck"
-      },
-      "lengthCm": 245,
-      "widthCm": 69,
-      "volumeL": 120,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

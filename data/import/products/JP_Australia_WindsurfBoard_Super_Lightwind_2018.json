@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -16,53 +15,12 @@
     {
       "variant": {
         "size": 165,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 235,
       "widthCm": 92,
       "volumeL": 165,
       "weightKg": 9.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 165,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 235,
-      "widthCm": 92,
-      "volumeL": 165,
-      "weightKg": 8.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 165,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 235,
-      "widthCm": 92,
-      "volumeL": 165,
-      "weightKg": 8.3,
       "fins": [
         {
           "count": 1,
@@ -81,7 +39,26 @@
       "lengthCm": 235,
       "widthCm": 92,
       "volumeL": 165,
-      "weightKg": 9.1,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 165,
+        "construction": "FWS"
+      },
+      "lengthCm": 235,
+      "widthCm": 92,
+      "volumeL": 165,
+      "weightKg": 8.3,
       "fins": [
         {
           "count": 1,

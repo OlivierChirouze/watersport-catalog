@@ -3,8 +3,7 @@
   "year": 2015,
   "programs": [
     "beginner",
-    "freeride",
-    "race"
+    "freeride"
   ],
   "brandName": "Starboard",
   "type": "board",
@@ -12,8 +11,7 @@
   "description": {},
   "dimensions": [
     "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
     {
@@ -38,25 +36,6 @@
         "fromM2": 6.5,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "size": 217,
-        "construction": "Ast"
-      },
-      "lengthCm": 295,
-      "widthCm": 72,
-      "volumeL": 217,
-      "weightKg": 13.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

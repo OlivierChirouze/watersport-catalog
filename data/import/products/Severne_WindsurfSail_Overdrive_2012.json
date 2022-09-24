@@ -2,9 +2,9 @@
   "name": "Overdrive",
   "year": 2012,
   "programs": [
+    "slalom",
     "freeride",
-    "race",
-    "slalom"
+    "race"
   ],
   "brandName": "Severne",
   "type": "propulsion",
@@ -21,9 +21,7 @@
       "surfaceM2": 5.4,
       "luffLengthCm": 412,
       "mastLengthsCm": [
-        25,
-        400,
-        460
+        400
       ],
       "mastIMCS": [
         19
@@ -32,33 +30,7 @@
         182
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.65,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 6.7
-      },
-      "surfaceM2": 6.7,
-      "luffLengthCm": 447,
-      "mastLengthsCm": [
-        25,
-        430,
-        460
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        200
-      ],
-      "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.65,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -67,9 +39,7 @@
       "surfaceM2": 6,
       "luffLengthCm": 433,
       "mastLengthsCm": [
-        25,
-        430,
-        460
+        430
       ],
       "mastIMCS": [
         19
@@ -78,10 +48,25 @@
         185
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.65,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 447,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        200
+      ],
+      "battenCount": 7,
+      "camCount": 3
     },
     {
       "variant": {
@@ -90,7 +75,6 @@
       "surfaceM2": 7.5,
       "luffLengthCm": 464,
       "mastLengthsCm": [
-        25,
         460
       ],
       "mastIMCS": [
@@ -100,10 +84,7 @@
         211
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.65,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -112,8 +93,6 @@
       "surfaceM2": 8.5,
       "luffLengthCm": 493,
       "mastLengthsCm": [
-        25,
-        460,
         490
       ],
       "mastIMCS": [
@@ -123,10 +102,7 @@
         224
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.65,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     },
     {
       "variant": {
@@ -135,8 +111,6 @@
       "surfaceM2": 9.5,
       "luffLengthCm": 524,
       "mastLengthsCm": [
-        25,
-        460,
         490
       ],
       "mastIMCS": [
@@ -146,10 +120,7 @@
         236
       ],
       "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.65,
-      "mastExtensionLengthsCm": [],
-      "topType": "fixed"
+      "camCount": 3
     }
   ],
   "pictures": []

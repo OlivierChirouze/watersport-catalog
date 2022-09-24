@@ -17,7 +17,10 @@
         "size": 100,
         "edition": "Carbon"
       },
+      "lengthCm": 235,
+      "widthCm": 70,
       "volumeL": 100,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 1,
@@ -26,17 +29,17 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "lengthCm": 235,
-      "widthCm": 70,
-      "weightKg": 6.7
+      ]
     },
     {
       "variant": {
         "size": 110,
         "edition": "Carbon"
       },
+      "lengthCm": 235,
+      "widthCm": 75,
       "volumeL": 110,
+      "weightKg": 7.7,
       "fins": [
         {
           "count": 1,
@@ -45,17 +48,17 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "lengthCm": 235,
-      "widthCm": 75,
-      "weightKg": 7.7
+      ]
     },
     {
       "variant": {
         "size": 120,
         "edition": "Carbon"
       },
+      "lengthCm": 236,
+      "widthCm": 80,
       "volumeL": 120,
+      "weightKg": 7.1,
       "fins": [
         {
           "count": 1,
@@ -64,17 +67,17 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "lengthCm": 236,
-      "widthCm": 80,
-      "weightKg": 7.1
+      ]
     },
     {
       "variant": {
         "size": 130,
         "edition": "Carbon"
       },
+      "lengthCm": 236,
+      "widthCm": 84,
       "volumeL": 130,
+      "weightKg": 8,
       "fins": [
         {
           "count": 1,
@@ -83,58 +86,55 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "lengthCm": 236,
-      "widthCm": 84,
-      "weightKg": 8
+      ]
     },
     {
       "variant": {
         "size": 100
       },
-      "volumeL": 100,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "lengthCm": 235,
       "widthCm": 70,
-      "weightKg": 7
+      "volumeL": 100,
+      "weightKg": 7,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     },
     {
       "variant": {
         "size": 110
       },
-      "volumeL": 110,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "lengthCm": 235,
       "widthCm": 75,
-      "weightKg": 7.3
+      "volumeL": 110,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     },
     {
       "variant": {
         "size": 120
       },
-      "volumeL": 120,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "lengthCm": 236,
       "widthCm": 80,
-      "weightKg": 8.1
+      "volumeL": 120,
+      "weightKg": 8.1,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     },
     {
       "variant": {
         "size": 130
       },
-      "volumeL": 130,
-      "compatibleFinFamilies": [
-        "fins"
-      ],
       "lengthCm": 236,
       "widthCm": 84,
-      "weightKg": 8.4
+      "volumeL": 130,
+      "weightKg": 8.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     }
   ],
   "description": {},

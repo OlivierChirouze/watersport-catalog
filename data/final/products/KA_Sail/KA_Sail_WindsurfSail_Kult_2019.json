@@ -12,9 +12,10 @@
         "size": 4.7
       },
       "surfaceM2": 4.7,
-      "boomLengthsCm": [177],
+      "boomLengthsCm": [167],
+      "luffLengthCm": 414,
       "mastLengthsCm": [400],
-      "mastExtensionLengthsCm": [39],
+      "mastExtensionLengthsCm": [14],
       "masTypes": ["RDM"],
       "battenCount": 5,
       "camCount": 0,
@@ -25,24 +26,26 @@
         "size": 5.3
       },
       "surfaceM2": 5.3,
-      "boomLengthsCm": [185],
-      "mastLengthsCm": [75, 430],
-      "mastExtensionLengthsCm": [374, 19],
+      "boomLengthsCm": [177],
+      "luffLengthCm": 439,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [39],
       "masTypes": ["RDM"],
       "battenCount": 5,
       "camCount": 0,
-      "topType": "fixed"
+      "topType": "vario"
     },
     {
       "variant": {
         "size": 5.8
       },
       "surfaceM2": 5.8,
-      "boomLengthsCm": [192],
-      "mastLengthsCm": [75, 430],
-      "mastExtensionLengthsCm": [394, 39],
+      "boomLengthsCm": [185],
+      "luffLengthCm": 449,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [19],
       "masTypes": ["RDM"],
-      "battenCount": 6,
+      "battenCount": 5,
       "camCount": 0,
       "topType": "fixed"
     },
@@ -51,9 +54,10 @@
         "size": 6.4
       },
       "surfaceM2": 6.4,
-      "boomLengthsCm": [200],
-      "mastLengthsCm": [75],
-      "mastExtensionLengthsCm": [411],
+      "boomLengthsCm": [192],
+      "luffLengthCm": 469,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [39],
       "masTypes": ["RDM"],
       "battenCount": 6,
       "camCount": 0,
@@ -64,13 +68,14 @@
         "size": 7
       },
       "surfaceM2": 7,
-      "boomLengthsCm": [177],
+      "boomLengthsCm": [200],
+      "luffLengthCm": 486,
       "mastLengthsCm": [460],
-      "mastExtensionLengthsCm": [],
+      "mastExtensionLengthsCm": [26],
       "masTypes": ["RDM"],
-      "battenCount": 5,
+      "battenCount": 6,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     }
   ],
   "description": {},

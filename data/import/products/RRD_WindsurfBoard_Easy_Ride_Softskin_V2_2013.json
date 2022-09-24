@@ -14,21 +14,27 @@
   "variants": [
     {
       "variant": {
-        "size": 180,
+        "size": 166,
         "construction": "N"
       },
-      "volumeL": 180,
-      "weightKg": 12.5,
+      "volumeL": 166,
+      "weightKg": 15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
       "compatibleFinFamilies": [
         "fins"
       ]
     },
     {
       "variant": {
-        "size": 166,
+        "size": 180,
         "construction": "N"
       },
-      "volumeL": 166,
+      "volumeL": 180,
       "weightKg": 12.7,
       "compatibleFinFamilies": [
         "fins"

@@ -9,42 +9,20 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
     {
       "variant": {
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 238,
-        "construction": "Tufskin Eva",
-        "edition": "Tufskin"
-      },
-      "volumeL": 238,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 238
+        "size": 246
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 238,
-      "lengthCm": 284,
-      "widthCm": 94.5,
-      "weightKg": 16.9,
+      "volumeL": 246,
+      "lengthCm": 285,
+      "widthCm": 100.5,
+      "weightKg": 17.5,
       "fins": [
         {
           "type": "TuttleBox"
@@ -58,15 +36,15 @@
     },
     {
       "variant": {
-        "size": 246
+        "size": 238
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 246,
-      "lengthCm": 285,
-      "widthCm": 100.5,
-      "weightKg": 17.5,
+      "volumeL": 238,
+      "lengthCm": 284,
+      "widthCm": 94.5,
+      "weightKg": 16.9,
       "fins": [
         {
           "type": "TuttleBox"

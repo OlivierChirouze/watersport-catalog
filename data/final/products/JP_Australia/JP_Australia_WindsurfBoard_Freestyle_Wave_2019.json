@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "JP Australia",
   "year": 2019,
   "name": "Freestyle Wave",
@@ -10,66 +10,11 @@
     {
       "variant": {
         "size": 103,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 231,
-      "widthCm": 65,
-      "volumeL": 103,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 113,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 230,
-      "widthCm": 61,
-      "volumeL": 113,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Fws",
-        "edition": "FWS"
-      },
-      "lengthCm": 230,
-      "widthCm": 61,
-      "volumeL": 86,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "Fws",
-        "edition": "FWS"
+        "construction": "FWS"
       },
       "lengthCm": 230,
       "widthCm": 63,
-      "volumeL": 94,
+      "volumeL": 103,
       "weightKg": 6.8,
       "fins": [
         {
@@ -84,10 +29,27 @@
         "size": 103,
         "construction": "Pro"
       },
+      "lengthCm": 230,
+      "widthCm": 63,
+      "volumeL": 103,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "FWS"
+      },
       "lengthCm": 231,
       "widthCm": 65,
-      "volumeL": 103,
-      "weightKg": 7.2,
+      "volumeL": 113,
+      "weightKg": 7.3,
       "fins": [
         {
           "count": 1,
@@ -101,10 +63,10 @@
         "size": 113,
         "construction": "Pro"
       },
-      "lengthCm": 229,
-      "widthCm": 59,
+      "lengthCm": 231,
+      "widthCm": 65,
       "volumeL": 113,
-      "weightKg": 6.1,
+      "weightKg": 7.2,
       "fins": [
         {
           "count": 1,
@@ -118,10 +80,27 @@
         "size": 79,
         "construction": "Pro"
       },
+      "lengthCm": 225,
+      "widthCm": 57,
+      "volumeL": 79,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "FWS"
+      },
       "lengthCm": 229,
       "widthCm": 59,
-      "volumeL": 79,
-      "weightKg": 6.1,
+      "volumeL": 86,
+      "weightKg": 6.2,
       "fins": [
         {
           "count": 1,
@@ -135,10 +114,27 @@
         "size": 86,
         "construction": "Pro"
       },
+      "lengthCm": 229,
+      "widthCm": 59,
+      "volumeL": 86,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "FWS"
+      },
       "lengthCm": 230,
       "widthCm": 61,
-      "volumeL": 86,
-      "weightKg": 6.5,
+      "volumeL": 94,
+      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,
@@ -153,9 +149,9 @@
         "construction": "Pro"
       },
       "lengthCm": 230,
-      "widthCm": 63,
+      "widthCm": 61,
       "volumeL": 94,
-      "weightKg": 6.7,
+      "weightKg": 6.5,
       "fins": [
         {
           "count": 1,

@@ -13,9 +13,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 2.7,
-      "boomLengthsCm": [134, 131],
-      "mastLengthsCm": [310],
-      "mastExtensionLengthsCm": [16],
+      "boomLengthsCm": [130, 127],
+      "luffLengthCm": 304,
+      "mastLengthsCm": [310, 340],
+      "mastExtensionLengthsCm": [],
       "battenCount": 4,
       "camCount": 0,
       "topType": "vario"
@@ -26,9 +27,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 3,
-      "boomLengthsCm": [137, 134],
-      "mastLengthsCm": [340],
-      "mastExtensionLengthsCm": [1],
+      "boomLengthsCm": [134, 131],
+      "luffLengthCm": 326,
+      "mastLengthsCm": [310, 340],
+      "mastExtensionLengthsCm": [16],
       "battenCount": 4,
       "camCount": 0,
       "topType": "vario"
@@ -39,9 +41,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 3.3,
-      "boomLengthsCm": [141, 138],
+      "boomLengthsCm": [137, 134],
+      "luffLengthCm": 341,
       "mastLengthsCm": [340],
-      "mastExtensionLengthsCm": [16],
+      "mastExtensionLengthsCm": [1],
       "battenCount": 4,
       "camCount": 0,
       "topType": "vario"
@@ -52,9 +55,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 3.5,
-      "boomLengthsCm": [145, 142],
+      "boomLengthsCm": [141, 138],
+      "luffLengthCm": 356,
       "mastLengthsCm": [340],
-      "mastExtensionLengthsCm": [27],
+      "mastExtensionLengthsCm": [16],
       "battenCount": 4,
       "camCount": 0,
       "topType": "vario"
@@ -65,12 +69,13 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 3.7,
-      "boomLengthsCm": [150, 147],
+      "boomLengthsCm": [145, 142],
+      "luffLengthCm": 367,
       "mastLengthsCm": [370],
-      "mastExtensionLengthsCm": [7],
+      "mastExtensionLengthsCm": [],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed"
+      "topType": "vario"
     },
     {
       "variant": {
@@ -78,9 +83,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 4,
-      "boomLengthsCm": [153, 150],
+      "boomLengthsCm": [150, 147],
+      "luffLengthCm": 377,
       "mastLengthsCm": [370],
-      "mastExtensionLengthsCm": [16],
+      "mastExtensionLengthsCm": [7],
       "battenCount": 4,
       "camCount": 0,
       "topType": "fixed"
@@ -91,9 +97,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 4.2,
-      "boomLengthsCm": [157, 154],
+      "boomLengthsCm": [153, 150],
+      "luffLengthCm": 386,
       "mastLengthsCm": [370],
-      "mastExtensionLengthsCm": [26],
+      "mastExtensionLengthsCm": [16],
       "battenCount": 4,
       "camCount": 0,
       "topType": "fixed"
@@ -104,9 +111,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 4.5,
-      "boomLengthsCm": [161, 158],
-      "mastLengthsCm": [370, 400],
-      "mastExtensionLengthsCm": [37, 7],
+      "boomLengthsCm": [157, 154],
+      "luffLengthCm": 396,
+      "mastLengthsCm": [370],
+      "mastExtensionLengthsCm": [26],
       "battenCount": 4,
       "camCount": 0,
       "topType": "fixed"
@@ -117,9 +125,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 4.7,
-      "boomLengthsCm": [166, 163],
+      "boomLengthsCm": [161, 158],
+      "luffLengthCm": 407,
       "mastLengthsCm": [400],
-      "mastExtensionLengthsCm": [17],
+      "mastExtensionLengthsCm": [7],
       "battenCount": 4,
       "camCount": 0,
       "topType": "fixed"
@@ -130,9 +139,10 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 5,
-      "boomLengthsCm": [172, 169],
+      "boomLengthsCm": [166, 163],
+      "luffLengthCm": 417,
       "mastLengthsCm": [400],
-      "mastExtensionLengthsCm": [27],
+      "mastExtensionLengthsCm": [17],
       "battenCount": 4,
       "camCount": 0,
       "topType": "fixed"
@@ -143,12 +153,13 @@
         "edition": "X-Pro"
       },
       "surfaceM2": 5.3,
-      "boomLengthsCm": [134, 131],
-      "mastLengthsCm": [310],
-      "mastExtensionLengthsCm": [16],
+      "boomLengthsCm": [172, 169],
+      "luffLengthCm": 427,
+      "mastLengthsCm": [400],
+      "mastExtensionLengthsCm": [27],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     }
   ],
   "description": {},

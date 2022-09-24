@@ -19,21 +19,17 @@
       "boomLengthsCm": [
         137
       ],
+      "luffLengthCm": 340,
       "mastLengthsCm": [
-        100,
         340
       ],
-      "mastExtensionLengthsCm": [
-        0,
-        240
-      ],
+      "mastExtensionLengthsCm": [],
       "masTypes": [
         "RDM"
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 340
+      "topType": "vario"
     },
     {
       "variant": {
@@ -43,21 +39,41 @@
       "boomLengthsCm": [
         141
       ],
+      "luffLengthCm": 355,
       "mastLengthsCm": [
-        100,
         340
       ],
       "mastExtensionLengthsCm": [
-        15,
-        255
+        15
       ],
       "masTypes": [
         "RDM"
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 355
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [
+        148
+      ],
+      "luffLengthCm": 371,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        1
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
     },
     {
       "variant": {
@@ -67,12 +83,11 @@
       "boomLengthsCm": [
         157
       ],
+      "luffLengthCm": 378,
       "mastLengthsCm": [
-        100,
         370
       ],
       "mastExtensionLengthsCm": [
-        278,
         8
       ],
       "masTypes": [
@@ -80,8 +95,7 @@
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 378
+      "topType": "vario"
     },
     {
       "variant": {
@@ -91,6 +105,7 @@
       "boomLengthsCm": [
         159
       ],
+      "luffLengthCm": 384,
       "mastLengthsCm": [
         370
       ],
@@ -102,8 +117,7 @@
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 384
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -113,68 +127,17 @@
       "boomLengthsCm": [
         164
       ],
+      "luffLengthCm": 398,
       "mastLengthsCm": [
-        100,
         400
       ],
-      "mastExtensionLengthsCm": [
-        298
-      ],
+      "mastExtensionLengthsCm": [],
       "masTypes": [
         "RDM"
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 398
-    },
-    {
-      "variant": {
-        "size": 4
-      },
-      "surfaceM2": 4,
-      "boomLengthsCm": [
-        148
-      ],
-      "mastLengthsCm": [
-        100,
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        1,
-        271
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario",
-      "luffLengthCm": 371
-    },
-    {
-      "variant": {
-        "size": 5.3
-      },
-      "surfaceM2": 5.3,
-      "boomLengthsCm": [
-        170
-      ],
-      "mastLengthsCm": [
-        100,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        21,
-        321
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 421
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -184,6 +147,7 @@
       "boomLengthsCm": [
         167
       ],
+      "luffLengthCm": 406,
       "mastLengthsCm": [
         400
       ],
@@ -195,8 +159,29 @@
       ],
       "battenCount": 4,
       "camCount": 0,
-      "topType": "fixed",
-      "luffLengthCm": 406
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "boomLengthsCm": [
+        170
+      ],
+      "luffLengthCm": 421,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        21
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
     }
   ],
   "description": {},

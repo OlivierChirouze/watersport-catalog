@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "Exocet",
   "year": 2022,
   "name": "RF",
@@ -7,41 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["foiling"],
   "variants": [
-    {
-      "variant": {
-        "size": 71,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "lengthCm": 198,
-      "widthCm": 71,
-      "volumeL": 71,
-      "weightKg": 9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 81,
-        "construction": "Ast",
-        "edition": "AST"
-      },
-      "lengthCm": 210,
-      "widthCm": 81,
-      "volumeL": 81,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
     {
       "variant": {
         "size": 100,

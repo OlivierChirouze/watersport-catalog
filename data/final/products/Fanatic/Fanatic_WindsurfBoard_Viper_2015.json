@@ -6,23 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 150,
-        "construction": "Hrs"
-      },
-      "lengthCm": 270,
-      "volumeL": 150,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 150
@@ -42,21 +27,6 @@
         "fromM2": 2,
         "toM2": 10
       }
-    },
-    {
-      "variant": {
-        "size": 160,
-        "construction": "Hrs"
-      },
-      "lengthCm": 275,
-      "volumeL": 160,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -80,21 +50,6 @@
     },
     {
       "variant": {
-        "size": 190,
-        "construction": "Hrs"
-      },
-      "lengthCm": 280,
-      "volumeL": 190,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 190
       },
       "compatibleFinFamilies": ["fins"],
@@ -112,21 +67,6 @@
         "fromM2": 2,
         "toM2": 10
       }
-    },
-    {
-      "variant": {
-        "size": 220,
-        "construction": "Hrs"
-      },
-      "lengthCm": 285,
-      "volumeL": 220,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

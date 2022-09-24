@@ -14,63 +14,6 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "construction": "Ep.sand"
-      },
-      "lengthCm": 224,
-      "widthCm": 61.5,
-      "volumeL": 100,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 4,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "EP.Sand"
-      },
-      "lengthCm": 224,
-      "widthCm": 61.5,
-      "volumeL": 100,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 4,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Ep.sand"
-      },
-      "lengthCm": 228,
-      "widthCm": 64.5,
-      "volumeL": 105,
-      "weightKg": 8.1,
-      "fins": [
-        {
-          "count": 4,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 105,
         "construction": "EP.Sand"
       },
@@ -90,13 +33,13 @@
     },
     {
       "variant": {
-        "size": 112,
-        "construction": "Ep.sand"
+        "size": 100,
+        "construction": "EP.Sand"
       },
-      "lengthCm": 232,
-      "widthCm": 68.5,
-      "volumeL": 112,
-      "weightKg": 8.4,
+      "lengthCm": 224,
+      "widthCm": 61.5,
+      "volumeL": 100,
+      "weightKg": 7.7,
       "fins": [
         {
           "count": 4,

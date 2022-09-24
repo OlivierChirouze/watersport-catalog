@@ -30,15 +30,6 @@
     {
       "variant": {
         "size": 160,
-        "construction": "Glass Composite",
-        "edition": "SE"
-      },
-      "volumeL": 160,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 160,
         "edition": "SE"
       },
       "compatibleFinFamilies": ["fins"],
@@ -102,7 +93,6 @@
         "construction": "Glass Composite"
       },
       "volumeL": 140,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
@@ -112,7 +102,8 @@
           "count": 1,
           "type": "DeepTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

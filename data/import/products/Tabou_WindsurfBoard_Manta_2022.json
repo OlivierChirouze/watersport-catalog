@@ -15,29 +15,12 @@
   "variants": [
     {
       "variant": {
-        "construction": "100% Carbon",
-        "edition": "Team"
-      },
-      "lengthCm": 232,
-      "widthCm": 81,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 106,
         "construction": "100% Carbon",
         "edition": "Team"
       },
       "lengthCm": 233,
-      "widthCm": 66,
+      "widthCm": 71,
       "volumeL": 106,
       "fins": [
         {
@@ -56,13 +39,10 @@
         "edition": "Team"
       },
       "lengthCm": 233,
-      "widthCm": 71,
+      "widthCm": 77,
       "volumeL": 116,
+      "weightKg": 7,
       "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        },
         {
           "count": 1,
           "type": "DeepTuttleBox"
@@ -70,8 +50,7 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ],
-      "weightKg": 7
+      ]
     },
     {
       "variant": {
@@ -79,10 +58,9 @@
         "construction": "100% Carbon",
         "edition": "Team"
       },
-      "lengthCm": 233,
-      "widthCm": 77,
+      "lengthCm": 232,
+      "widthCm": 81,
       "volumeL": 122,
-      "weightKg": 7,
       "fins": [
         {
           "count": 1,
@@ -119,7 +97,7 @@
         "edition": "Team"
       },
       "lengthCm": 233,
-      "widthCm": 61,
+      "widthCm": 66,
       "volumeL": 98,
       "fins": [
         {

@@ -9,13 +9,13 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Carbon Construction, Full Carbon Deck",
+        "size": 90,
+        "construction": "Carbon, Full Carbon Deck",
         "edition": "Carbon"
       },
-      "lengthCm": 199.5,
-      "widthCm": 66,
-      "volumeL": 105,
+      "lengthCm": 193.3,
+      "widthCm": 63.5,
+      "volumeL": 90,
       "fins": [
         {
           "count": 2,
@@ -44,54 +44,12 @@
     {
       "variant": {
         "size": 120,
-        "construction": "Carbon Construction, Full Carbon Deck",
-        "edition": "Carbon"
-      },
-      "lengthCm": 205,
-      "widthCm": 71,
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        },
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 120,
         "construction": "Carbon, Full Carbon Deck",
         "edition": "Carbon"
       },
       "lengthCm": 205,
       "widthCm": 71,
       "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        },
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Carbon Construction, Full Carbon Deck",
-        "edition": "Carbon"
-      },
-      "lengthCm": 214,
-      "widthCm": 73.7,
-      "volumeL": 135,
       "fins": [
         {
           "count": 1,
@@ -128,27 +86,6 @@
     {
       "variant": {
         "size": 155,
-        "construction": "Carbon Construction, Full Carbon Deck",
-        "edition": "Carbon"
-      },
-      "lengthCm": 220.8,
-      "widthCm": 83.6,
-      "volumeL": 155,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        },
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 155,
         "construction": "Carbon, Full Carbon Deck",
         "edition": "Carbon"
       },
@@ -160,40 +97,6 @@
           "count": 1,
           "type": "DeepTuttleBox"
         },
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Carbon Construction, Full Carbon Deck",
-        "edition": "Carbon"
-      },
-      "lengthCm": 193.3,
-      "widthCm": 63.5,
-      "volumeL": 90,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Carbon, Full Carbon Deck",
-        "edition": "Carbon"
-      },
-      "lengthCm": 193.3,
-      "widthCm": 63.5,
-      "volumeL": 90,
-      "fins": [
         {
           "count": 2,
           "type": "US"

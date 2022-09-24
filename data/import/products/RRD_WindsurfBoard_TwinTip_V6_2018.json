@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,46 +12,6 @@
     "freestyle"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 222,
-      "widthCm": 63,
-      "volumeL": 101,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 91,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 223,
-      "widthCm": 60,
-      "volumeL": 91,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 101,

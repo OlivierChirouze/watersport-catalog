@@ -1,5 +1,5 @@
 {
-  "dimensions": ["edition", "size", "construction"],
+  "dimensions": ["size", "construction"],
   "brandName": "RRD",
   "year": 2016,
   "name": "Freestyle Wave",
@@ -7,78 +7,6 @@
   "subType": "windsurfBoard",
   "programs": ["freeride", "wave"],
   "variants": [
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 237,
-      "widthCm": 63,
-      "volumeL": 100,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 237,
-      "widthCm": 64.5,
-      "volumeL": 106,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 234,
-      "widthCm": 59,
-      "volumeL": 88,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 236,
-      "widthCm": 61,
-      "volumeL": 94,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 100,

@@ -17,13 +17,13 @@
       "widthCm": 65,
       "volumeL": 105,
       "weightKg": 6.2,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -35,13 +35,13 @@
       "widthCm": 70,
       "volumeL": 120,
       "weightKg": 6.5,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "DeepTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -53,84 +53,12 @@
       "widthCm": 75,
       "volumeL": 135,
       "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "TuttleBox"
         }
-      ]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 232,
-      "widthCm": 65,
-      "volumeL": 105,
-      "weightKg": 6.5,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 234,
-      "widthCm": 70,
-      "volumeL": 120,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 236,
-      "widthCm": 75,
-      "volumeL": 135,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 232,
-      "widthCm": 65,
-      "volumeL": 105,
-      "weightKg": 7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 234,
-      "widthCm": 70,
-      "volumeL": 120,
-      "weightKg": 7.4,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Lte",
-        "edition": "LTE"
-      },
-      "lengthCm": 236,
-      "widthCm": 75,
-      "volumeL": 135,
-      "weightKg": 7.9,
+      ],
       "compatibleFinFamilies": ["fins"]
     },
     {

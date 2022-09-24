@@ -13,13 +13,13 @@
         "construction": "Pro"
       },
       "volumeL": 100,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "DeepTuttleBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "description": {},

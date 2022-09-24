@@ -6,42 +6,8 @@
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 44,
-        "construction": "Carbone"
-      },
-      "lengthCm": 225,
-      "widthCm": 44,
-      "volumeL": 44,
-      "weightKg": 4.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 49,
-        "construction": "Carbone"
-      },
-      "lengthCm": 230,
-      "widthCm": 49,
-      "volumeL": 49,
-      "weightKg": 4.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
     {
       "variant": {
         "size": 53
@@ -60,40 +26,6 @@
         "fromM2": 5.1,
         "toM2": 6.2
       }
-    },
-    {
-      "variant": {
-        "size": 54,
-        "construction": "Carbone"
-      },
-      "lengthCm": 230,
-      "widthCm": 54.5,
-      "volumeL": 54,
-      "weightKg": 4.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 58,
-        "construction": "Carbone"
-      },
-      "lengthCm": 231,
-      "widthCm": 58,
-      "volumeL": 58,
-      "weightKg": 5.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

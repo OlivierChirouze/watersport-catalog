@@ -10,7 +10,7 @@
     {
       "variant": {
         "size": 120,
-        "construction": "Pvc Full Sandwich Hd",
+        "construction": "PVC Full Sandwich HD",
         "edition": "CED"
       },
       "lengthCm": 240,
@@ -27,26 +27,8 @@
     },
     {
       "variant": {
-        "size": 135,
-        "construction": "Pvc Full Sandwich Hd",
-        "edition": "CED"
-      },
-      "lengthCm": 240,
-      "widthCm": 81,
-      "volumeL": 135,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 120,
-        "construction": "Pvc Full Sandwich Hd",
+        "construction": "PVC Full Sandwich HD",
         "edition": "CED"
       },
       "lengthCm": 240,
@@ -64,7 +46,25 @@
     {
       "variant": {
         "size": 135,
-        "construction": "Pvc Full Sandwich Hd",
+        "construction": "PVC Full Sandwich HD",
+        "edition": "CED"
+      },
+      "lengthCm": 240,
+      "widthCm": 81,
+      "volumeL": 135,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "PVC Full Sandwich HD",
         "edition": "CED"
       },
       "lengthCm": 240,

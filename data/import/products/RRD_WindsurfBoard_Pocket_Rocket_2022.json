@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,32 +12,6 @@
     "freeride"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 120,
-        "construction": "E-tech",
-        "edition": "E-Tech"
-      },
-      "lengthCm": 180,
-      "widthCm": 76,
-      "volumeL": 120,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 140,
-        "construction": "E-tech",
-        "edition": "E-Tech"
-      },
-      "lengthCm": 200,
-      "widthCm": 80,
-      "volumeL": 140,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 120,

@@ -1,6 +1,5 @@
 {
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -13,86 +12,6 @@
     "wave"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 68,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 227,
-      "widthCm": 53.5,
-      "volumeL": 68,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "count": 5,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 227,
-      "widthCm": 55.5,
-      "volumeL": 78,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 5,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 58.5,
-      "volumeL": 88,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 5,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 98,
-        "construction": "Ltd",
-        "edition": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 61,
-      "volumeL": 98,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 5,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 68,

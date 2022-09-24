@@ -135,7 +135,6 @@
         "edition": "LTD"
       },
       "volumeL": 106,
-      "weightKg": 6.2,
       "compatibleFinFamilies": ["fins"]
     },
     {
@@ -245,14 +244,13 @@
         "edition": "LTD"
       },
       "volumeL": 96,
-      "weightKg": 6.6,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -280,7 +278,6 @@
         "construction": "N"
       },
       "volumeL": 106,
-      "weightKg": 7,
       "compatibleFinFamilies": ["fins"]
     },
     {
@@ -289,14 +286,13 @@
         "construction": "N"
       },
       "volumeL": 96,
-      "weightKg": 7.6,
-      "compatibleFinFamilies": ["fins"],
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ]
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []
