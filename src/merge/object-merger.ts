@@ -33,10 +33,10 @@ export class ObjectMerger<U> {
     return this.recursiveMerge("", objectA, objectB) as U;
   }
 
-  protected recursiveMerge(
+  protected recursiveMerge<T>(
     key: string,
-    valueA: unknown,
-    valueB: unknown
+    valueA: T,
+    valueB: T
   ): unknown {
     if (isEqual(valueA, valueB)) {
       return valueA;
@@ -53,8 +53,8 @@ export class ObjectMerger<U> {
     if (Array.isArray(valueA) || Array.isArray(valueB)) {
       // Arrays: just push the new values, keep only unique
       return this.sortArray(
-        key,
-        [...(valueA as Array<unknown>), ...(valueB as Array<unknown>)].filter(
+        key.toString(),
+        [...(valueA as unknown as Array<unknown>), ...(valueB as unknown as  Array<unknown>)].filter(
           onlyUniqueObject
         )
       );
@@ -62,7 +62,7 @@ export class ObjectMerger<U> {
 
     if (typeof valueA === "object" || typeof valueB === "object") {
       Object.keys(valueB).forEach(keyB => {
-        if (this.specificMerge(keyB, valueA as U, valueB as U)) {
+        if (this.specificMerge(keyB as keyof object, valueA, valueB)) {
         } else {
           const subValueA = valueA[keyB];
           const subValueB = valueB[keyB];
@@ -76,13 +76,13 @@ export class ObjectMerger<U> {
     return this.getBestOfBoth(key, valueA, valueB);
   }
 
-  protected sortArray(key: string, array: unknown[]) {
+  protected sortArray<T>(key: string, array: T[]): T[] {
     return array
       .filter(isNotNullNotUndefined)
       .sort((a, b) => a.toString().localeCompare(b.toString()));
   }
 
-  protected getBestOfBoth(key: string, valA: unknown, valB: unknown) {
+  protected getBestOfBoth<T>(key: string, valA: T, valB: T): T {
     if (valA.toString() === "") {
       return valB;
     }
@@ -98,7 +98,7 @@ export class ObjectMerger<U> {
         valB
       ]);
        */
-      throw `Different values for source and target for "${key}": ${valA} ${valB}`;
+      throw `Different values for source and target for '${key}': '${valA}' '${valB}'`;
     }
 
     return valB;
@@ -111,7 +111,7 @@ export class ObjectMerger<U> {
    * @param objectB
    * @protected
    */
-  protected specificMerge(keyB: string, objectA: U, objectB: U): boolean {
+  protected specificMerge<T>(keyB: keyof T, objectA: T, objectB: T): boolean {
     return false;
   }
 }

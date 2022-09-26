@@ -112,3 +112,15 @@ export const getClosestVariant = <
 
   return undefined;
 };
+
+export interface WithSize {
+  size: string;
+}
+
+export interface WithEdition {
+  edition: string;
+}
+
+export interface WithConstruction {
+  construction: string;
+}

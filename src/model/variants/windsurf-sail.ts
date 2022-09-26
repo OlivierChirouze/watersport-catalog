@@ -1,5 +1,5 @@
 // A windsurfing sail
-import { ProductVariant } from "./product-variant";
+import { ProductVariant } from "./index";
 
 export enum WindsurfSailTopType {
   fixed = "fixed",

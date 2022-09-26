@@ -1,5 +1,5 @@
 // A surf board
-import { ProductVariant } from "./product-variant";
+import { ProductVariant } from "./index";
 
 export interface SurfBoard<VariantType> extends ProductVariant<VariantType> {
   // Length of the board in feet
