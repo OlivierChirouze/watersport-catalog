@@ -18,8 +18,7 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "edition": "LTD"
+        "size": 100
       },
       "compatibleFinFamilies": [
         "fins"
@@ -27,7 +26,7 @@
       "volumeL": 100,
       "lengthCm": 240,
       "widthCm": 61,
-      "weightKg": 6.2,
+      "weightKg": 7,
       "fins": [
         {
           "type": "TuttleBox"
@@ -40,73 +39,8 @@
     },
     {
       "variant": {
-        "size": 115,
+        "size": 100,
         "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 115,
-      "lengthCm": 240,
-      "widthCm": 67,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.2,
-        "toM2": 8.8
-      }
-    },
-    {
-      "variant": {
-        "size": 130,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 235,
-      "widthCm": 73,
-      "weightKg": 7,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.8,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 145,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 145,
-      "lengthCm": 235,
-      "widthCm": 81,
-      "weightKg": 7.6,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 10
-      }
-    },
-    {
-      "variant": {
-        "size": 100
       },
       "compatibleFinFamilies": [
         "fins"
@@ -114,7 +48,7 @@
       "volumeL": 100,
       "lengthCm": 240,
       "widthCm": 61,
-      "weightKg": 7,
+      "weightKg": 6.2,
       "fins": [
         {
           "type": "TuttleBox"
@@ -148,6 +82,28 @@
     },
     {
       "variant": {
+        "size": 115,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 240,
+      "widthCm": 67,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 8.8
+      }
+    },
+    {
+      "variant": {
         "size": 130
       },
       "compatibleFinFamilies": [
@@ -169,6 +125,28 @@
     },
     {
       "variant": {
+        "size": 130,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 235,
+      "widthCm": 73,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.8,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
         "size": 145
       },
       "compatibleFinFamilies": [
@@ -178,6 +156,28 @@
       "lengthCm": 235,
       "widthCm": 81,
       "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 235,
+      "widthCm": 81,
+      "weightKg": 7.6,
       "fins": [
         {
           "type": "TuttleBox"

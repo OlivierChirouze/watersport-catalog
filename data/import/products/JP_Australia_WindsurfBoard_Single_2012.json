@@ -16,31 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 106,
-        "edition": "Thruster FWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 106,
-      "lengthCm": 229,
-      "widthCm": 64,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
         "size": 74,
         "edition": "Thruster FWS"
       },
@@ -63,142 +38,6 @@
         "fromM2": 4,
         "toM2": 5.8
       }
-    },
-    {
-      "variant": {
-        "size": 82,
-        "edition": "Thruster FWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 82,
-      "lengthCm": 228,
-      "widthCm": 57.5,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Thruster FWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 92,
-      "lengthCm": 228,
-      "widthCm": 60,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.4,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 99,
-        "edition": "Thruster FWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 99,
-      "lengthCm": 234,
-      "widthCm": 62,
-      "weightKg": 7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "Carbon Kevlar",
-        "edition": "Thruster Pro"
-      },
-      "volumeL": 106,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "edition": "Thruster Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 106,
-      "lengthCm": 229,
-      "widthCm": 64,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Carbon Kevlar",
-        "edition": "Thruster Pro"
-      },
-      "volumeL": 74,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -227,11 +66,11 @@
     },
     {
       "variant": {
-        "size": 82,
+        "size": 74,
         "construction": "Carbon Kevlar",
         "edition": "Thruster Pro"
       },
-      "volumeL": 82,
+      "volumeL": 74,
       "weightKg": 7.2,
       "fins": [
         {
@@ -242,6 +81,31 @@
       "compatibleFinFamilies": [
         "fins"
       ]
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 228,
+      "widthCm": 57.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
     },
     {
       "variant": {
@@ -270,11 +134,11 @@
     },
     {
       "variant": {
-        "size": 92,
+        "size": 82,
         "construction": "Carbon Kevlar",
         "edition": "Thruster Pro"
       },
-      "volumeL": 92,
+      "volumeL": 82,
       "weightKg": 7.2,
       "fins": [
         {
@@ -285,6 +149,31 @@
       "compatibleFinFamilies": [
         "fins"
       ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 228,
+      "widthCm": 60,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 6.2
+      }
     },
     {
       "variant": {
@@ -313,11 +202,11 @@
     },
     {
       "variant": {
-        "size": 99,
+        "size": 92,
         "construction": "Carbon Kevlar",
         "edition": "Thruster Pro"
       },
-      "volumeL": 99,
+      "volumeL": 92,
       "weightKg": 7.2,
       "fins": [
         {
@@ -332,7 +221,33 @@
     {
       "variant": {
         "size": 99,
-        "edition": "Thruster Pro"
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 99,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 99,
+        "edition": "Thruster Pro",
+        "construction": "Carbon Kevlar"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -347,11 +262,70 @@
         },
         {
           "type": "MiniTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {
         "fromM2": 4.7,
         "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "Thruster FWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 229,
+      "widthCm": 64,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "Thruster Pro",
+        "construction": "Carbon Kevlar"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 229,
+      "widthCm": 64,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.7
       }
     }
   ],

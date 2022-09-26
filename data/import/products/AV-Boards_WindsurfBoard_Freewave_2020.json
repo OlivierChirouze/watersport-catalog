@@ -11,13 +11,13 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
+        "size": 87,
         "edition": "BT"
       },
       "lengthCm": 228,
-      "widthCm": 62.5,
-      "volumeL": 103,
-      "weightKg": 6.8,
+      "widthCm": 59,
+      "volumeL": 87,
+      "weightKg": 6.3,
       "fins": [
         {
           "count": 1,
@@ -30,21 +30,17 @@
     },
     {
       "variant": {
-        "size": 87,
-        "edition": "BT"
+        "size": 97
       },
-      "lengthCm": 226,
-      "widthCm": 58,
-      "volumeL": 87,
-      "weightKg": 6.3,
+      "lengthCm": 230,
+      "widthCm": 51.5,
+      "volumeL": 97,
+      "weightKg": 6.5,
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
         }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
       ]
     },
     {
@@ -68,7 +64,8 @@
     },
     {
       "variant": {
-        "size": 103
+        "size": 103,
+        "edition": "BT"
       },
       "lengthCm": 230,
       "widthCm": 63,
@@ -79,36 +76,9 @@
           "count": 1,
           "type": "PowerBox"
         }
-      ]
-    },
-    {
-      "variant": {
-        "size": 87
-      },
-      "lengthCm": 228,
-      "widthCm": 59,
-      "volumeL": 87,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 97
-      },
-      "lengthCm": 230,
-      "widthCm": 51.5,
-      "volumeL": 97,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
       ]
     }
   ],

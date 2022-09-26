@@ -16,153 +16,9 @@
   "variants": [
     {
       "variant": {
-        "size": 75,
-        "construction": "Carbon Kevlar",
-        "edition": "Wide"
-      },
-      "lengthCm": 230,
-      "widthCm": 55.5,
-      "volumeL": 75,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 75,
-      "lengthCm": 230,
-      "widthCm": 56.5,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "Carbon Kevlar",
-        "edition": "Wide"
-      },
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "volumeL": 83,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 83,
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Carbon Kevlar",
-        "edition": "Wide"
-      },
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "volumeL": 92,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 92,
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 5.6
-      }
-    },
-    {
-      "variant": {
         "size": 68,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 228,
-      "widthCm": 52.5,
-      "volumeL": 68,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 68
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -172,7 +28,8 @@
       "weightKg": 6,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -185,24 +42,6 @@
         "size": 72,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 228,
-      "widthCm": 52.5,
-      "volumeL": 72,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 72
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -212,7 +51,8 @@
       "weightKg": 6,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -223,25 +63,8 @@
     {
       "variant": {
         "size": 75,
-        "construction": "Carbon Kevlar"
-      },
-      "lengthCm": 225,
-      "widthCm": 53,
-      "volumeL": 75,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 75
+        "construction": "Carbon Kevlar",
+        "edition": "Wide"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -252,7 +75,8 @@
       "weightKg": 6.2,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -265,24 +89,6 @@
         "size": 78,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 225,
-      "widthCm": 54.5,
-      "volumeL": 78,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -292,7 +98,8 @@
       "weightKg": 6.3,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -305,24 +112,6 @@
         "size": 81,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 226,
-      "widthCm": 55.5,
-      "volumeL": 81,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 81
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -332,7 +121,8 @@
       "weightKg": 6.4,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -342,13 +132,14 @@
     },
     {
       "variant": {
-        "size": 85,
-        "construction": "Carbon Kevlar"
+        "size": 83,
+        "construction": "Carbon Kevlar",
+        "edition": "Wide"
       },
-      "lengthCm": 227,
-      "widthCm": 58,
-      "volumeL": 85,
-      "weightKg": 6.5,
+      "lengthCm": 234,
+      "widthCm": 58.5,
+      "volumeL": 83,
+      "weightKg": 6.6,
       "fins": [
         {
           "count": 3,
@@ -361,7 +152,8 @@
     },
     {
       "variant": {
-        "size": 85
+        "size": 85,
+        "construction": "Carbon Kevlar"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -372,7 +164,8 @@
       "weightKg": 6.5,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -385,10 +178,34 @@
         "size": 89,
         "construction": "Carbon Kevlar"
       },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 89,
       "lengthCm": 228,
       "widthCm": 59,
-      "volumeL": 89,
       "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US",
+          "count": 3
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbon Kevlar",
+        "edition": "Wide"
+      },
+      "lengthCm": 236,
+      "widthCm": 60.5,
+      "volumeL": 92,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 3,
@@ -398,27 +215,6 @@
       "compatibleFinFamilies": [
         "fins"
       ]
-    },
-    {
-      "variant": {
-        "size": 89
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 89,
-      "lengthCm": 228,
-      "widthCm": 59,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 6.2
-      }
     }
   ],
   "pictures": []

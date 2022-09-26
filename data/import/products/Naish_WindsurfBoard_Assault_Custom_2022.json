@@ -34,63 +34,6 @@
     },
     {
       "variant": {
-        "size": 84,
-        "construction": "S-Glass",
-        "edition": "Quad"
-      },
-      "lengthCm": 223,
-      "widthCm": 57,
-      "volumeL": 84,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "S-Glass",
-        "edition": "Quad"
-      },
-      "lengthCm": 225,
-      "widthCm": 59,
-      "volumeL": 88,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "S-Glass",
-        "edition": "Quad"
-      },
-      "lengthCm": 225,
-      "widthCm": 60,
-      "volumeL": 96,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 78,
         "construction": "S-Glass",
         "edition": "Thruster"
@@ -129,6 +72,44 @@
     },
     {
       "variant": {
+        "size": 84,
+        "construction": "S-Glass",
+        "edition": "Quad"
+      },
+      "lengthCm": 223,
+      "widthCm": 57,
+      "volumeL": 84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "S-Glass",
+        "edition": "Quad"
+      },
+      "lengthCm": 225,
+      "widthCm": 59,
+      "volumeL": 88,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 89,
         "construction": "S-Glass",
         "edition": "Thruster"
@@ -155,6 +136,25 @@
       "lengthCm": 225,
       "widthCm": 60,
       "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "S-Glass",
+        "edition": "Quad"
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 96,
       "fins": [
         {
           "count": 1,

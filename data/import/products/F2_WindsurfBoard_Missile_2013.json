@@ -18,21 +18,6 @@
         "size": 54,
         "construction": "N"
       },
-      "volumeL": 54,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 54
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -41,7 +26,8 @@
       "widthCm": 43,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -53,15 +39,6 @@
       "variant": {
         "size": 66,
         "construction": "N"
-      },
-      "volumeL": 66,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 66
       },
       "compatibleFinFamilies": [
         "fins"

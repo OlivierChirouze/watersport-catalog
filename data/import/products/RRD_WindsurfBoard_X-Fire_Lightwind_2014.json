@@ -19,22 +19,6 @@
         "size": 150,
         "construction": "LTD"
       },
-      "volumeL": 150,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 150
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -43,13 +27,15 @@
       "widthCm": 91,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 7.5,
         "toM2": 11
-      }
+      },
+      "weightKg": 7.8
     }
   ],
   "pictures": []

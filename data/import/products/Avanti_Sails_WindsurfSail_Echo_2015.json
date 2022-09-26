@@ -9,10 +9,30 @@
   "subType": "windsurfSail",
   "description": {},
   "dimensions": [
-    "edition",
-    "size"
+    "size",
+    "edition"
   ],
   "variants": [
+    {
+      "variant": {
+        "size": 4,
+        "edition": "ME"
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 374,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        149
+      ],
+      "weightKg": 2.4,
+      "battenCount": 4,
+      "camCount": 0
+    },
     {
       "variant": {
         "size": 4.4,
@@ -50,26 +70,6 @@
         161
       ],
       "weightKg": 2.6,
-      "battenCount": 4,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 4,
-        "edition": "ME"
-      },
-      "surfaceM2": 4,
-      "luffLengthCm": 374,
-      "mastLengthsCm": [
-        370
-      ],
-      "mastIMCS": [
-        17
-      ],
-      "boomLengthsCm": [
-        149
-      ],
-      "weightKg": 2.4,
       "battenCount": 4,
       "camCount": 0
     },
@@ -132,106 +132,6 @@
       "weightKg": 3.2,
       "battenCount": 5,
       "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 4.4
-      },
-      "surfaceM2": 4.4,
-      "weightKg": 2.5,
-      "boomLengthsCm": [
-        155
-      ],
-      "luffLengthCm": 389,
-      "mastLengthsCm": [
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        19
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4.8
-      },
-      "surfaceM2": 4.8,
-      "weightKg": 2.6,
-      "boomLengthsCm": [
-        161
-      ],
-      "luffLengthCm": 412,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        12
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4
-      },
-      "surfaceM2": 4,
-      "weightKg": 2.4,
-      "boomLengthsCm": [
-        149
-      ],
-      "luffLengthCm": 374,
-      "mastLengthsCm": [
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        4
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.2
-      },
-      "surfaceM2": 5.2,
-      "weightKg": 2.8,
-      "boomLengthsCm": [
-        169
-      ],
-      "luffLengthCm": 424,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        24
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.6
-      },
-      "surfaceM2": 5.6,
-      "weightKg": 3,
-      "boomLengthsCm": [
-        176
-      ],
-      "luffLengthCm": 442,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastExtensionLengthsCm": [
-        12
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
     }
   ],
   "pictures": []

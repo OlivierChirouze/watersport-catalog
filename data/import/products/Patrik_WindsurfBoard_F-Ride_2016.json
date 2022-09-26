@@ -18,24 +18,6 @@
         "size": 125,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 251,
-      "widthCm": 67.5,
-      "volumeL": 125,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 125
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -45,7 +27,8 @@
       "weightKg": 6.9,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -58,24 +41,6 @@
         "size": 135,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 252,
-      "widthCm": 71.5,
-      "volumeL": 135,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 135
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -85,7 +50,8 @@
       "weightKg": 7.2,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -98,24 +64,6 @@
         "size": 145,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 253,
-      "widthCm": 75.5,
-      "volumeL": 145,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -125,7 +73,8 @@
       "weightKg": 7.6,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -138,24 +87,6 @@
         "size": 155,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 254,
-      "widthCm": 79.5,
-      "volumeL": 155,
-      "weightKg": 8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 155
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -165,7 +96,8 @@
       "weightKg": 7.9,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {

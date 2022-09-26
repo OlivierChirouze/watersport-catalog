@@ -15,6 +15,30 @@
   "variants": [
     {
       "variant": {
+        "size": 141,
+        "construction": "LTD"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 141,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 141,
+        "construction": "LTE"
+      },
+      "lengthCm": 210,
+      "widthCm": 81,
+      "volumeL": 141,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 155,
         "construction": "LTD",
         "edition": "Pro LTD"
@@ -35,30 +59,6 @@
       "lengthCm": 225,
       "widthCm": 91,
       "volumeL": 155,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 141,
-        "construction": "LTD"
-      },
-      "lengthCm": 210,
-      "widthCm": 81,
-      "volumeL": 141,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 141,
-        "construction": "LTE"
-      },
-      "lengthCm": 210,
-      "widthCm": 81,
-      "volumeL": 141,
       "compatibleFinFamilies": [
         "fins"
       ]

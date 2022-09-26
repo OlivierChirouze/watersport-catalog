@@ -9,122 +9,9 @@
   "subType": "windsurfSail",
   "description": {},
   "dimensions": [
-    "edition",
     "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 3.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 3.7,
-      "boomLengthsCm": [
-        144
-      ],
-      "luffLengthCm": 364,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.2,
-        "edition": "HD"
-      },
-      "surfaceM2": 4.2,
-      "boomLengthsCm": [
-        152
-      ],
-      "luffLengthCm": 381,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4.5,
-        "edition": "HD"
-      },
-      "surfaceM2": 4.5,
-      "boomLengthsCm": [
-        156
-      ],
-      "luffLengthCm": 391,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 4.7,
-      "boomLengthsCm": [
-        160
-      ],
-      "luffLengthCm": 401,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4,
-        "edition": "HD"
-      },
-      "surfaceM2": 4,
-      "boomLengthsCm": [
-        148
-      ],
-      "luffLengthCm": 374,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.3,
-        "edition": "HD"
-      },
-      "surfaceM2": 5.3,
-      "boomLengthsCm": [
-        170
-      ],
-      "luffLengthCm": 425,
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.6,
-        "edition": "HD"
-      },
-      "surfaceM2": 5.6,
-      "boomLengthsCm": [
-        176
-      ],
-      "luffLengthCm": 433,
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5,
-        "edition": "HD"
-      },
-      "surfaceM2": 5,
-      "boomLengthsCm": [
-        164
-      ],
-      "luffLengthCm": 413,
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
     {
       "variant": {
         "size": 3.7
@@ -139,6 +26,24 @@
       ],
       "boomLengthsCm": [
         144
+      ],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 371,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        148
       ],
       "battenCount": 4,
       "camCount": 0
@@ -199,18 +104,18 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 5
       },
-      "surfaceM2": 4,
-      "luffLengthCm": 371,
+      "surfaceM2": 5,
+      "luffLengthCm": 413,
       "mastLengthsCm": [
-        370
+        400
       ],
       "mastIMCS": [
-        17
+        19
       ],
       "boomLengthsCm": [
-        148
+        164
       ],
       "battenCount": 4,
       "camCount": 0
@@ -249,24 +154,6 @@
         176
       ],
       "battenCount": 5,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 5
-      },
-      "surfaceM2": 5,
-      "luffLengthCm": 413,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastIMCS": [
-        19
-      ],
-      "boomLengthsCm": [
-        164
-      ],
-      "battenCount": 4,
       "camCount": 0
     }
   ],

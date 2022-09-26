@@ -17,67 +17,9 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Monohull Sandwich Carbon",
-        "edition": "Pro"
-      },
-      "volumeL": 105,
-      "weightKg": 7,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 85,
         "construction": "Monohull Sandwich Carbon",
         "edition": "Pro"
-      },
-      "volumeL": 85,
-      "weightKg": 7,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Monohull Sandwich Carbon",
-        "edition": "Pro"
-      },
-      "volumeL": 95,
-      "weightKg": 7,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 105,
-      "lengthCm": 230.4,
-      "widthCm": 65.2,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.8
-      }
-    },
-    {
-      "variant": {
-        "size": 85
       },
       "compatibleFinFamilies": [
         "fins"
@@ -101,7 +43,9 @@
     },
     {
       "variant": {
-        "size": 95
+        "size": 95,
+        "construction": "Monohull Sandwich Carbon",
+        "edition": "Pro"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -121,6 +65,32 @@
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Monohull Sandwich Carbon",
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 230.4,
+      "widthCm": 65.2,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.8
       }
     }
   ],

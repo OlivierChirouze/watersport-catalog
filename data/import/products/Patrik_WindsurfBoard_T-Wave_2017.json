@@ -15,66 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 75,
-        "construction": "Carbon Kevlar",
-        "edition": "Wide"
-      },
-      "lengthCm": 230,
-      "widthCm": 55.5,
-      "volumeL": 75,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "Carbon Kevlar",
-        "edition": "Wide"
-      },
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "volumeL": 83,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Carbon Kevlar",
-        "edition": "Wide"
-      },
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "volumeL": 92,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 68,
         "construction": "Carbon Kevlar"
       },
@@ -114,7 +54,8 @@
     {
       "variant": {
         "size": 75,
-        "construction": "Carbon Kevlar"
+        "construction": "Carbon Kevlar",
+        "edition": "Wide"
       },
       "lengthCm": 225,
       "widthCm": 54.5,
@@ -139,6 +80,26 @@
       "widthCm": 55.5,
       "volumeL": 78,
       "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Carbon Kevlar",
+        "edition": "Wide"
+      },
+      "lengthCm": 234,
+      "widthCm": 58.5,
+      "volumeL": 83,
+      "weightKg": 6.6,
       "fins": [
         {
           "count": 3,
@@ -177,6 +138,26 @@
       "widthCm": 59,
       "volumeL": 89,
       "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbon Kevlar",
+        "edition": "Wide"
+      },
+      "lengthCm": 236,
+      "widthCm": 60.5,
+      "volumeL": 92,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 3,

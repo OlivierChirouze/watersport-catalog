@@ -16,78 +16,9 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Premium PVC"
-      },
-      "lengthCm": 230.4,
-      "widthCm": 65.2,
-      "volumeL": 105,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 105,
-      "lengthCm": 230.4,
-      "widthCm": 65.2,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.8
-      }
-    },
-    {
-      "variant": {
         "size": 85,
         "construction": "Premium PVC"
       },
-      "lengthCm": 225.7,
-      "widthCm": 59.2,
-      "volumeL": 85,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 85
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -97,10 +28,12 @@
       "weightKg": 6.6,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -113,28 +46,6 @@
         "size": 95,
         "construction": "Premium PVC"
       },
-      "lengthCm": 228.6,
-      "widthCm": 62.4,
-      "volumeL": 95,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 95
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -144,15 +55,44 @@
       "weightKg": 7,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Premium PVC"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 230.4,
+      "widthCm": 65.2,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US",
+          "count": 1
+        },
+        {
+          "type": "MiniTuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.8
       }
     }
   ],

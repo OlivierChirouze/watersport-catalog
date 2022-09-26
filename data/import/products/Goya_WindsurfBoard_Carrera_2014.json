@@ -19,22 +19,6 @@
         "size": 116,
         "construction": "Sandwich Full Carbon"
       },
-      "volumeL": 116,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -44,7 +28,8 @@
       "weightKg": 7.2,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -57,22 +42,6 @@
         "size": 130,
         "construction": "Sandwich Full Carbon"
       },
-      "volumeL": 130,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 130
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -82,7 +51,8 @@
       "weightKg": 7.4,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -95,22 +65,6 @@
         "size": 144,
         "construction": "Sandwich Full Carbon"
       },
-      "volumeL": 144,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 144
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -120,7 +74,8 @@
       "weightKg": 8,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {

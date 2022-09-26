@@ -66,32 +66,6 @@
     },
     {
       "variant": {
-        "size": 6.7
-      },
-      "surfaceM2": 6.7,
-      "luffLengthCm": 464,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        190
-      ],
-      "weightKg": 3.8,
-      "battenCount": 6,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [
-        34
-      ],
-      "masTypes": [
-        "SDM"
-      ],
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 6
       },
       "surfaceM2": 6,
@@ -110,6 +84,32 @@
       "camCount": 0,
       "mastExtensionLengthsCm": [
         16
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.7
+      },
+      "surfaceM2": 6.7,
+      "luffLengthCm": 464,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        190
+      ],
+      "weightKg": 3.8,
+      "battenCount": 6,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        34
       ],
       "masTypes": [
         "SDM"
@@ -144,25 +144,6 @@
     },
     {
       "variant": {
-        "size": 8.5
-      },
-      "surfaceM2": 8.5,
-      "luffLengthCm": 494,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        220
-      ],
-      "weightKg": 4.4,
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
         "size": 8
       },
       "surfaceM2": 8,
@@ -183,6 +164,25 @@
       "battenCount": 6,
       "camCount": 0,
       "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 494,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        220
+      ],
+      "weightKg": 4.4,
+      "battenCount": 6,
+      "camCount": 0
     }
   ],
   "pictures": []

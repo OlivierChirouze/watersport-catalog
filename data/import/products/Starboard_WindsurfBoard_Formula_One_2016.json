@@ -17,19 +17,6 @@
   "variants": [
     {
       "variant": {
-        "size": 177,
-        "construction": "3dx",
-        "edition": "3DX"
-      },
-      "lengthCm": 229,
-      "widthCm": 100.5,
-      "volumeL": 177,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 167
       },
       "compatibleFinFamilies": [
@@ -48,6 +35,19 @@
         "fromM2": 6.5,
         "toM2": 11
       }
+    },
+    {
+      "variant": {
+        "size": 177,
+        "construction": "3dx",
+        "edition": "3DX"
+      },
+      "lengthCm": 229,
+      "widthCm": 100.5,
+      "volumeL": 177,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     }
   ],
   "pictures": []

@@ -9,146 +9,9 @@
   "subType": "windsurfSail",
   "description": {},
   "dimensions": [
-    "edition",
     "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 3.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 3.7,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.2,
-        "edition": "HD"
-      },
-      "surfaceM2": 4.2,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.5,
-        "edition": "HD"
-      },
-      "surfaceM2": 4.5,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 4.7,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4,
-        "edition": "HD"
-      },
-      "surfaceM2": 4,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.3,
-        "edition": "HD"
-      },
-      "surfaceM2": 5.3,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.6,
-        "edition": "HD"
-      },
-      "surfaceM2": 5.6,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5,
-        "edition": "HD"
-      },
-      "surfaceM2": 5,
-      "mastLengthsCm": [
-        340
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
     {
       "variant": {
         "size": 3.7
@@ -163,6 +26,24 @@
       ],
       "boomLengthsCm": [
         144
+      ],
+      "battenCount": 4,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 374,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        148
       ],
       "battenCount": 4,
       "camCount": 0
@@ -223,20 +104,20 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 5
       },
-      "surfaceM2": 4,
-      "luffLengthCm": 374,
+      "surfaceM2": 5,
+      "luffLengthCm": 413,
       "mastLengthsCm": [
-        370
+        400
       ],
       "mastIMCS": [
-        17
+        19
       ],
       "boomLengthsCm": [
-        148
+        164
       ],
-      "battenCount": 4,
+      "battenCount": 5,
       "camCount": 0
     },
     {
@@ -271,24 +152,6 @@
       ],
       "boomLengthsCm": [
         176
-      ],
-      "battenCount": 5,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 5
-      },
-      "surfaceM2": 5,
-      "luffLengthCm": 413,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastIMCS": [
-        19
-      ],
-      "boomLengthsCm": [
-        164
       ],
       "battenCount": 5,
       "camCount": 0

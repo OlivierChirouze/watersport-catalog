@@ -2,7 +2,6 @@
   "name": "GO",
   "year": 2017,
   "programs": [
-    "beginner",
     "freeride"
   ],
   "brandName": "Starboard",
@@ -10,29 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 121,
-        "construction": "Tuffskin"
-      },
-      "lengthCm": 251,
-      "widthCm": 75.5,
-      "volumeL": 121,
-      "weightKg": 9.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 121
@@ -53,25 +32,6 @@
         "fromM2": 5,
         "toM2": 8
       }
-    },
-    {
-      "variant": {
-        "size": 131,
-        "construction": "Tuffskin"
-      },
-      "lengthCm": 252,
-      "widthCm": 81,
-      "volumeL": 131,
-      "weightKg": 9.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -96,25 +56,6 @@
     },
     {
       "variant": {
-        "size": 141,
-        "construction": "Tuffskin"
-      },
-      "lengthCm": 251,
-      "widthCm": 83.5,
-      "volumeL": 141,
-      "weightKg": 10.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 141
       },
       "compatibleFinFamilies": [
@@ -133,25 +74,6 @@
         "fromM2": 6,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "size": 151,
-        "construction": "Tuffskin"
-      },
-      "lengthCm": 251,
-      "widthCm": 86,
-      "volumeL": 151,
-      "weightKg": 10.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -174,25 +96,6 @@
         "fromM2": 6.5,
         "toM2": 10
       }
-    },
-    {
-      "variant": {
-        "size": 161,
-        "construction": "Tuffskin"
-      },
-      "lengthCm": 250,
-      "widthCm": 86.5,
-      "volumeL": 161,
-      "weightKg": 11.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {

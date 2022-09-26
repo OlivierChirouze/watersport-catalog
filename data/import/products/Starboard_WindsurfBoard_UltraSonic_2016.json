@@ -16,6 +16,27 @@
   "variants": [
     {
       "variant": {
+        "size": 80
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 232,
+      "widthCm": 58.5,
+      "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.1,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
         "size": 147,
         "edition": "Carbon"
       },
@@ -56,27 +77,6 @@
       "sailRange": {
         "fromM2": 7.8,
         "toM2": 12
-      }
-    },
-    {
-      "variant": {
-        "size": 80
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 80,
-      "lengthCm": 232,
-      "widthCm": 58.5,
-      "weightKg": 5.3,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.1,
-        "toM2": 7
       }
     }
   ],

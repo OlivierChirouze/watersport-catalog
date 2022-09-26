@@ -18,7 +18,8 @@
     {
       "variant": {
         "size": 100,
-        "edition": "Carbon"
+        "edition": "Carbon",
+        "construction": "Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -35,116 +36,6 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 8
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 235,
-      "widthCm": 74.5,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 120,
-      "lengthCm": 235,
-      "widthCm": 80.5,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 130,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 239,
-      "widthCm": 84,
-      "weightKg": 8.05,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 140,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 140,
-      "lengthCm": 235,
-      "widthCm": 89,
-      "weightKg": 8.2,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 10
-      }
-    },
-    {
-      "variant": {
-        "size": 160,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 160,
-      "lengthCm": 257,
-      "widthCm": 89,
-      "weightKg": 9,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.5,
-        "toM2": 10.5
       }
     },
     {
@@ -172,6 +63,29 @@
     {
       "variant": {
         "size": 110,
+        "edition": "Carbon",
+        "construction": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 235,
+      "widthCm": 74.5,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
         "edition": "Tufskin"
       },
       "compatibleFinFamilies": [
@@ -189,6 +103,29 @@
       "sailRange": {
         "fromM2": 5.5,
         "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "Carbon",
+        "construction": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 235,
+      "widthCm": 80.5,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
       }
     },
     {
@@ -216,6 +153,29 @@
     {
       "variant": {
         "size": 130,
+        "edition": "Carbon",
+        "construction": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 239,
+      "widthCm": 84,
+      "weightKg": 8.05,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
         "edition": "Tufskin"
       },
       "compatibleFinFamilies": [
@@ -233,6 +193,29 @@
       "sailRange": {
         "fromM2": 6.5,
         "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "Carbon",
+        "construction": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 235,
+      "widthCm": 89,
+      "weightKg": 8.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 10
       }
     },
     {
@@ -260,6 +243,29 @@
     {
       "variant": {
         "size": 160,
+        "edition": "Carbon",
+        "construction": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 257,
+      "widthCm": 89,
+      "weightKg": 9,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
         "edition": "Tufskin"
       },
       "compatibleFinFamilies": [
@@ -278,78 +284,6 @@
         "fromM2": 7.5,
         "toM2": 10.5
       }
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Carbon"
-      },
-      "lengthCm": 235,
-      "widthCm": 68.5,
-      "volumeL": 100,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Carbon"
-      },
-      "lengthCm": 235,
-      "widthCm": 74.5,
-      "volumeL": 110,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Carbon"
-      },
-      "lengthCm": 235,
-      "widthCm": 80.5,
-      "volumeL": 120,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Carbon"
-      },
-      "lengthCm": 239,
-      "widthCm": 84,
-      "volumeL": 130,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 140,
-        "construction": "Carbon"
-      },
-      "lengthCm": 235,
-      "widthCm": 89,
-      "volumeL": 140,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160,
-        "construction": "Carbon"
-      },
-      "lengthCm": 257,
-      "widthCm": 89,
-      "volumeL": 160,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

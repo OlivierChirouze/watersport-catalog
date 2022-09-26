@@ -119,7 +119,7 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
         0.1
       ) {
         this.warnings.push([
-          `Close values for source and target for "${key}", will keep ${valA}:`,
+          `Close values for source and target for "${key}", will keep first value:`,
           valA,
           valB
         ]);
@@ -165,8 +165,16 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
 
   compareVariants<T>(a: ProductVariant<T>, b: ProductVariant<T>): number {
 
-    const typeComparison = this.compareVariantTypes(a, b);
-    if (typeComparison === 0) {
+    const toString = (a: ProductVariant<T>) =>
+        JSON.stringify(a.variant, Object.keys(a.variant).sort(compareDimensions));
+    const strictTypeComparison = toString(a).localeCompare(toString(b));
+
+    if (strictTypeComparison === 0) {
+      return 0;
+    }
+
+    const weakTypeComparison = this.compareVariantTypes(a, b);
+    if (weakTypeComparison === 0) {
 
       if (this.subType === BoardType.windsurfBoard) {
         const boardA = a as ProductVariant<WithSize> as WindsurfBoard<WithSize>;

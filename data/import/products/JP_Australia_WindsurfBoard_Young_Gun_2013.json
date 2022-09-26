@@ -17,7 +17,8 @@
     {
       "variant": {
         "size": 55,
-        "edition": "Quad"
+        "edition": "Quad",
+        "construction": "ES"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -31,6 +32,32 @@
           "type": "US"
         },
         {
+          "type": "MiniTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "ES"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 85,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "count": 1,
           "type": "MiniTuttleBox"
         }
       ]
@@ -49,55 +76,6 @@
       "fins": [
         {
           "type": "PowerBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 55,
-        "construction": "ES"
-      },
-      "volumeL": 55,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "ES"
-      },
-      "volumeL": 85,
-      "fins": [
-        {
-          "count": 1,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 85
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 85,
-      "lengthCm": 235,
-      "widthCm": 57,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "US"
         }
       ]
     }

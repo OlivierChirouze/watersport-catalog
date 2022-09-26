@@ -15,72 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 102,
-        "edition": "CBC"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 102,
-      "lengthCm": 223,
-      "widthCm": 65,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.8
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "CBC"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 232,
-      "widthCm": 67,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 118,
-        "edition": "CBC"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 118,
-      "lengthCm": 236,
-      "widthCm": 69,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
         "size": 80,
         "edition": "CBC"
       },
@@ -91,6 +25,50 @@
       "lengthCm": 216,
       "widthCm": 59,
       "weightKg": 5.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "edition": "Fcbc"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 216,
+      "widthCm": 59,
+      "weightKg": 4.9,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 80,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 216,
+      "widthCm": 59,
+      "weightKg": 5.6,
       "fins": [
         {
           "type": "SlotBox"
@@ -125,116 +103,6 @@
     },
     {
       "variant": {
-        "size": 94,
-        "edition": "CBC"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 94,
-      "lengthCm": 224,
-      "widthCm": 63,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 5.2
-      }
-    },
-    {
-      "variant": {
-        "size": 102,
-        "edition": "Fcbc"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 102,
-      "lengthCm": 223,
-      "widthCm": 65,
-      "weightKg": 5.7,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.8
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "Fcbc"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 232,
-      "widthCm": 67,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 118,
-        "edition": "Fcbc"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 118,
-      "lengthCm": 236,
-      "widthCm": 69,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
-        "size": 80,
-        "edition": "Fcbc"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 80,
-      "lengthCm": 216,
-      "widthCm": 59,
-      "weightKg": 4.9,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.2,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
         "size": 86,
         "edition": "Fcbc"
       },
@@ -257,6 +125,50 @@
     },
     {
       "variant": {
+        "size": 86,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 220,
+      "widthCm": 61,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 94,
+      "lengthCm": 224,
+      "widthCm": 63,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
         "size": 94,
         "edition": "Fcbc"
       },
@@ -275,6 +187,72 @@
       "sailRange": {
         "fromM2": 3.5,
         "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 94,
+      "lengthCm": 224,
+      "widthCm": 63,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
+        "size": 102,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 223,
+      "widthCm": 65,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 102,
+        "edition": "Fcbc"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 102,
+      "lengthCm": 223,
+      "widthCm": 65,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
       }
     },
     {
@@ -302,6 +280,50 @@
     {
       "variant": {
         "size": 110,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 232,
+      "widthCm": 67,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "Fcbc"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 232,
+      "widthCm": 67,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
         "edition": "STD"
       },
       "compatibleFinFamilies": [
@@ -324,6 +346,50 @@
     {
       "variant": {
         "size": 118,
+        "edition": "CBC"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 118,
+      "lengthCm": 236,
+      "widthCm": 69,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 118,
+        "edition": "Fcbc"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 118,
+      "lengthCm": 236,
+      "widthCm": 69,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 118,
         "edition": "STD"
       },
       "compatibleFinFamilies": [
@@ -341,72 +407,6 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
-        "size": 80,
-        "edition": "STD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 80,
-      "lengthCm": 216,
-      "widthCm": 59,
-      "weightKg": 5.6,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.2,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 86,
-        "edition": "STD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 86,
-      "lengthCm": 220,
-      "widthCm": 61,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.2,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 94,
-        "edition": "STD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 94,
-      "lengthCm": 224,
-      "widthCm": 63,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 5.2
       }
     }
   ],

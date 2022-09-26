@@ -18,21 +18,6 @@
         "size": 160,
         "construction": "C"
       },
-      "volumeL": 160,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -41,7 +26,8 @@
       "widthCm": 100.5,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

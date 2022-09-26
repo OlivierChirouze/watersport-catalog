@@ -9,79 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 75,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 75,
-      "lengthCm": 230,
-      "widthCm": 55.5,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "US",
-          "count": 3
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 5.6
-      }
-    },
-    {
-      "variant": {
-        "size": 83,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 83,
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "US",
-          "count": 3
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 92,
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US",
-          "count": 3
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.3,
-        "toM2": 6.7
-      }
-    },
     {
       "variant": {
         "size": 68

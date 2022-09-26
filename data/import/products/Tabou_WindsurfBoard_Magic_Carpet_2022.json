@@ -32,8 +32,44 @@
     },
     {
       "variant": {
+        "size": 110,
+        "edition": "Team"
+      },
+      "lengthCm": 189,
+      "widthCm": 73.2,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
         "size": 120,
         "edition": "MTE"
+      },
+      "lengthCm": 195,
+      "widthCm": 76.8,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "Team"
       },
       "lengthCm": 195,
       "widthCm": 76.8,
@@ -56,42 +92,6 @@
       "lengthCm": 195,
       "widthCm": 81,
       "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "Team"
-      },
-      "lengthCm": 189,
-      "widthCm": 73.2,
-      "volumeL": 110,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "edition": "Team"
-      },
-      "lengthCm": 195,
-      "widthCm": 76.8,
-      "volumeL": 120,
       "fins": [
         {
           "count": 1,

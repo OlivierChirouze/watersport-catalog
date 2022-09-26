@@ -15,28 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 148,
-        "edition": "M"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 148,
-      "lengthCm": 257,
-      "widthCm": 76,
-      "weightKg": 10.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
         "size": 138,
         "edition": "S"
       },
@@ -55,6 +33,28 @@
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 148,
+        "edition": "M"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 148,
+      "lengthCm": 257,
+      "widthCm": 76,
+      "weightKg": 10.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 8
       }
     }
   ],

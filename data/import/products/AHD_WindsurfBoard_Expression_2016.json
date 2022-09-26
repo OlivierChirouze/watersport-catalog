@@ -9,68 +9,9 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "size",
-    "construction"
+    "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Double Sandwich Full Carbon Kevlar"
-      },
-      "lengthCm": 237,
-      "widthCm": 63.8,
-      "volumeL": 105,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 105,
-      "lengthCm": 237,
-      "widthCm": 63.8,
-      "weightKg": 7.1
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "Double Sandwich Full Carbon Kevlar"
-      },
-      "lengthCm": 232,
-      "widthCm": 56,
-      "volumeL": 75,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
     {
       "variant": {
         "size": 75
@@ -82,29 +23,6 @@
       "lengthCm": 232,
       "widthCm": 56,
       "weightKg": 6.5
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Double Sandwich Full Carbon Kevlar"
-      },
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "volumeL": 85,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -120,29 +38,6 @@
     },
     {
       "variant": {
-        "size": 95,
-        "construction": "Double Sandwich Full Carbon Kevlar"
-      },
-      "lengthCm": 235,
-      "widthCm": 61.1,
-      "volumeL": 95,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 95
       },
       "compatibleFinFamilies": [
@@ -152,6 +47,18 @@
       "lengthCm": 235,
       "widthCm": 61.1,
       "weightKg": 7
+    },
+    {
+      "variant": {
+        "size": 105
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 237,
+      "widthCm": 63.8,
+      "weightKg": 7.1
     }
   ],
   "pictures": []

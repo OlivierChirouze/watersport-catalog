@@ -16,33 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 6.5
-      },
-      "surfaceM2": 6.5,
-      "luffLengthCm": 443,
-      "mastLengthsCm": [
-        430,
-        460
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        190
-      ],
-      "battenCount": 7,
-      "camCount": 2,
-      "weightKg": 5.95,
-      "mastExtensionLengthsCm": [
-        12
-      ],
-      "masTypes": [
-        "SDM"
-      ],
-      "topType": "vario"
-    },
-    {
-      "variant": {
         "size": 6
       },
       "surfaceM2": 6,
@@ -70,18 +43,19 @@
     },
     {
       "variant": {
-        "size": 7.5
+        "size": 6.5
       },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 469,
+      "surfaceM2": 6.5,
+      "luffLengthCm": 443,
       "mastLengthsCm": [
+        430,
         460
       ],
       "mastIMCS": [
-        25
+        21
       ],
       "boomLengthsCm": [
-        209
+        190
       ],
       "battenCount": 7,
       "camCount": 2,
@@ -123,19 +97,18 @@
     },
     {
       "variant": {
-        "size": 8.6
+        "size": 7.5
       },
-      "surfaceM2": 8.6,
-      "luffLengthCm": 499,
+      "surfaceM2": 7.5,
+      "luffLengthCm": 469,
       "mastLengthsCm": [
-        460,
-        490
+        460
       ],
       "mastIMCS": [
-        29
+        25
       ],
       "boomLengthsCm": [
-        232
+        209
       ],
       "battenCount": 7,
       "camCount": 2,
@@ -162,6 +135,33 @@
       ],
       "boomLengthsCm": [
         220
+      ],
+      "battenCount": 7,
+      "camCount": 2,
+      "weightKg": 5.95,
+      "mastExtensionLengthsCm": [
+        12
+      ],
+      "masTypes": [
+        "SDM"
+      ],
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 499,
+      "mastLengthsCm": [
+        460,
+        490
+      ],
+      "mastIMCS": [
+        29
+      ],
+      "boomLengthsCm": [
+        232
       ],
       "battenCount": 7,
       "camCount": 2,

@@ -16,26 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 205,
-        "construction": "Ace-Tec",
-        "edition": "OD"
-      },
-      "lengthCm": 293,
-      "widthCm": 79,
-      "volumeL": 205,
-      "weightKg": 13,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 133,
         "construction": "Ace-Tec"
       },
@@ -94,7 +74,8 @@
     {
       "variant": {
         "size": 205,
-        "construction": "Ace-Tec"
+        "construction": "Ace-Tec",
+        "edition": "OD"
       },
       "lengthCm": 293,
       "widthCm": 79,

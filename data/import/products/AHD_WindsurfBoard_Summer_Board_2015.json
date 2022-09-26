@@ -15,6 +15,23 @@
   "variants": [
     {
       "variant": {
+        "size": 150
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 150,
+      "lengthCm": 274,
+      "widthCm": 75.6,
+      "weightKg": 9.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
         "size": 150,
         "construction": "One Shot Sandwich"
       },
@@ -30,23 +47,6 @@
       ],
       "compatibleFinFamilies": [
         "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 150
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 150,
-      "lengthCm": 274,
-      "widthCm": 75.6,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "type": "US"
-        }
       ]
     }
   ],

@@ -103,28 +103,6 @@
     },
     {
       "variant": {
-        "size": 154,
-        "edition": "ES"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 154,
-      "lengthCm": 258,
-      "widthCm": 76,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
         "size": 130,
         "edition": "ES+EVA"
       },
@@ -143,6 +121,28 @@
       "sailRange": {
         "fromM2": 6,
         "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 154,
+        "edition": "ES"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 154,
+      "lengthCm": 258,
+      "widthCm": 76,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
       }
     },
     {

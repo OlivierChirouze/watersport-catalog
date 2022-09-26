@@ -34,44 +34,6 @@
     },
     {
       "variant": {
-        "size": 145,
-        "construction": "PVC Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "lengthCm": 226,
-      "widthCm": 81,
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 230,
-        "construction": "PVC Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "lengthCm": 226,
-      "widthCm": 87,
-      "volumeL": 230,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
         "size": 125,
         "construction": "PVC Full Sandwich Carbon",
         "edition": "MTE"
@@ -93,12 +55,50 @@
       "variant": {
         "size": 145,
         "construction": "PVC Full Sandwich Carbon",
+        "edition": "LTD"
+      },
+      "lengthCm": 226,
+      "widthCm": 81,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "PVC Full Sandwich Carbon",
         "edition": "MTE"
       },
       "lengthCm": 226,
       "widthCm": 81,
       "volumeL": 145,
       "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "PVC Full Sandwich Carbon",
+        "edition": "LTD"
+      },
+      "lengthCm": 226,
+      "widthCm": 87,
+      "volumeL": 230,
       "fins": [
         {
           "count": 1,

@@ -34,11 +34,35 @@
     },
     {
       "variant": {
-        "size": 120,
-        "construction": "Biax Carbon",
-        "edition": "LTD"
+        "size": 110,
+        "edition": "STD"
       },
-      "volumeL": 120,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 232,
+      "widthCm": 70,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "STD"
+      },
+      "volumeL": 110,
+      "weightKg": 8.75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
       "compatibleFinFamilies": [
         "fins"
       ]
@@ -46,7 +70,8 @@
     {
       "variant": {
         "size": 120,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "Biax Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -55,6 +80,24 @@
       "lengthCm": 232,
       "widthCm": 75,
       "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "STD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 232,
+      "widthCm": 75,
+      "weightKg": 8.1,
       "fins": [
         {
           "type": "PowerBox"
@@ -99,42 +142,6 @@
     },
     {
       "variant": {
-        "size": 110,
-        "edition": "STD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 232,
-      "widthCm": 70,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "edition": "STD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 120,
-      "lengthCm": 232,
-      "widthCm": 75,
-      "weightKg": 8.1,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ]
-    },
-    {
-      "variant": {
         "size": 130,
         "edition": "STD"
       },
@@ -149,23 +156,6 @@
         {
           "type": "PowerBox"
         }
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "STD"
-      },
-      "volumeL": 110,
-      "weightKg": 8.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
       ]
     }
   ],

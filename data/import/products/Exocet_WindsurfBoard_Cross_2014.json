@@ -18,52 +18,32 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
-        "edition": "Carbon"
+        "size": 84,
+        "edition": "Carbon",
+        "construction": "Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 104,
-      "lengthCm": 245,
-      "widthCm": 63,
-      "weightKg": 6.7,
+      "volumeL": 84,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "weightKg": 6.1,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7.2
-      }
-    },
-    {
-      "variant": {
-        "size": 114,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 114,
-      "lengthCm": 243,
-      "widthCm": 67,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7.9
+        "fromM2": 3.3,
+        "toM2": 6
       }
     },
     {
       "variant": {
         "size": 84,
-        "edition": "Carbon"
+        "edition": "Silver"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -84,8 +64,27 @@
     },
     {
       "variant": {
+        "size": 84,
+        "construction": "PVC Glass Biax",
+        "edition": "Silver"
+      },
+      "volumeL": 84,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 94,
-        "edition": "Carbon"
+        "edition": "Carbon",
+        "construction": "Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -96,151 +95,14 @@
       "weightKg": 6.4,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 4,
         "toM2": 6.6
       }
-    },
-    {
-      "variant": {
-        "size": 104,
-        "construction": "PVC Glass Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 104,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 104,
-        "edition": "Silver"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 104,
-      "lengthCm": 245,
-      "widthCm": 63,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7.2
-      }
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "PVC Glass Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 114,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "edition": "Silver"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 114,
-      "lengthCm": 243,
-      "widthCm": 67,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7.9
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "PVC Glass Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 84,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Silver"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 84,
-      "lengthCm": 235,
-      "widthCm": 57,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "PVC Glass Biax",
-        "edition": "Silver"
-      },
-      "volumeL": 94,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -266,11 +128,12 @@
     },
     {
       "variant": {
-        "size": 104,
-        "construction": "Carbon"
+        "size": 94,
+        "construction": "PVC Glass Biax",
+        "edition": "Silver"
       },
-      "volumeL": 104,
-      "weightKg": 6.4,
+      "volumeL": 94,
+      "weightKg": 6.9,
       "fins": [
         {
           "count": 1,
@@ -280,6 +143,76 @@
       "compatibleFinFamilies": [
         "fins"
       ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Carbon",
+        "construction": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 245,
+      "widthCm": 63,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Silver",
+        "construction": "PVC Glass Biax"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 245,
+      "widthCm": 63,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 114,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 114,
+      "lengthCm": 243,
+      "widthCm": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.9
+      }
     },
     {
       "variant": {
@@ -300,37 +233,27 @@
     },
     {
       "variant": {
-        "size": 84,
-        "construction": "Carbon"
+        "size": 114,
+        "edition": "Silver",
+        "construction": "PVC Glass Biax"
       },
-      "volumeL": 84,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
       "compatibleFinFamilies": [
         "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "Carbon"
-      },
-      "volumeL": 94,
-      "weightKg": 6.4,
+      ],
+      "volumeL": 114,
+      "lengthCm": 243,
+      "widthCm": 67,
+      "weightKg": 7.2,
       "fins": [
         {
-          "count": 1,
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.9
+      }
     }
   ],
   "pictures": []

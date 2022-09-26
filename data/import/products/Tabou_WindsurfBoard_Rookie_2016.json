@@ -15,60 +15,8 @@
   "variants": [
     {
       "variant": {
-        "size": 116,
-        "construction": "PVC Full Sandwich CK"
-      },
-      "volumeL": 116,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 116,
-      "lengthCm": 239,
-      "widthCm": 66,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 1,
-        "toM2": 6.4
-      }
-    },
-    {
-      "variant": {
         "size": 61,
         "construction": "PVC Full Sandwich CK"
-      },
-      "volumeL": 61,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 61
       },
       "compatibleFinFamilies": [
         "fins"
@@ -80,6 +28,10 @@
       "fins": [
         {
           "type": "SlotBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ],
       "sailRange": {
@@ -92,21 +44,6 @@
         "size": 96,
         "construction": "PVC Full Sandwich CK"
       },
-      "volumeL": 96,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -116,12 +53,36 @@
       "weightKg": 7.1,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 1,
         "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "PVC Full Sandwich CK"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 239,
+      "widthCm": 66,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1,
+        "toM2": 6.4
       }
     }
   ],

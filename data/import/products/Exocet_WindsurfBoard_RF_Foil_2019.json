@@ -16,44 +16,6 @@
     {
       "variant": {
         "size": 135,
-        "construction": "Carbon",
-        "edition": "Carbon/Texalium"
-      },
-      "lengthCm": 230,
-      "widthCm": 81,
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 155,
-        "construction": "Carbon",
-        "edition": "Carbon/Texalium"
-      },
-      "lengthCm": 230,
-      "widthCm": 91,
-      "volumeL": 155,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
-        "size": 135,
         "construction": "AST"
       },
       "lengthCm": 230,
@@ -73,7 +35,8 @@
     {
       "variant": {
         "size": 135,
-        "construction": "Carbon"
+        "construction": "Carbon",
+        "edition": "Carbon/Texalium"
       },
       "lengthCm": 230,
       "widthCm": 81,
@@ -111,7 +74,8 @@
     {
       "variant": {
         "size": 155,
-        "construction": "Carbon"
+        "construction": "Carbon",
+        "edition": "Carbon/Texalium"
       },
       "lengthCm": 230,
       "widthCm": 91,

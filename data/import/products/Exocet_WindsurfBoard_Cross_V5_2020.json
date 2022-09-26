@@ -15,78 +15,18 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
+        "size": 84,
         "construction": "Pro",
         "edition": "Carbon"
       },
-      "lengthCm": 230,
-      "widthCm": 64,
-      "volumeL": 104,
-      "weightKg": 6.7,
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 84,
+      "weightKg": 6.1,
       "fins": [
         {
           "count": 1,
           "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "Pro",
-        "edition": "Carbon"
-      },
-      "lengthCm": 232,
-      "widthCm": 68,
-      "volumeL": 114,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 124,
-        "construction": "Pro",
-        "edition": "Carbon"
-      },
-      "lengthCm": 250,
-      "widthCm": 72,
-      "volumeL": 124,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 134,
-        "construction": "Pro",
-        "edition": "Carbon"
-      },
-      "lengthCm": 250,
-      "widthCm": 76,
-      "volumeL": 134,
-      "weightKg": 8.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
         }
       ],
       "compatibleFinFamilies": [
@@ -96,11 +36,9 @@
     {
       "variant": {
         "size": 84,
-        "construction": "Pro",
-        "edition": "Carbon"
+        "construction": "PVC Sandwich",
+        "edition": "Silver"
       },
-      "lengthCm": 228,
-      "widthCm": 58,
       "volumeL": 84,
       "weightKg": 6.1,
       "fins": [
@@ -135,12 +73,70 @@
     },
     {
       "variant": {
+        "size": 94,
+        "construction": "PVC Sandwich",
+        "edition": "Silver"
+      },
+      "volumeL": 94,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 64,
+      "volumeL": 104,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 104,
         "construction": "PVC Sandwich",
         "edition": "Silver"
       },
       "volumeL": 104,
       "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 232,
+      "widthCm": 68,
+      "volumeL": 114,
+      "weightKg": 7.2,
       "fins": [
         {
           "count": 1,
@@ -172,11 +168,51 @@
     {
       "variant": {
         "size": 124,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 250,
+      "widthCm": 72,
+      "volumeL": 124,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 124,
         "construction": "PVC Sandwich",
         "edition": "Silver"
       },
       "volumeL": 124,
       "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 134,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 250,
+      "widthCm": 76,
+      "volumeL": 134,
+      "weightKg": 8.2,
       "fins": [
         {
           "count": 1,
@@ -199,42 +235,6 @@
         {
           "count": 1,
           "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "PVC Sandwich",
-        "edition": "Silver"
-      },
-      "volumeL": 84,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "PVC Sandwich",
-        "edition": "Silver"
-      },
-      "volumeL": 94,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
         }
       ],
       "compatibleFinFamilies": [

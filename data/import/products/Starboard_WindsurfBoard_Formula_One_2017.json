@@ -18,24 +18,6 @@
         "size": 167,
         "construction": "3dx"
       },
-      "lengthCm": 228,
-      "widthCm": 100,
-      "volumeL": 167,
-      "weightKg": 11.69,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 167
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -45,7 +27,8 @@
       "weightKg": 11.7,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

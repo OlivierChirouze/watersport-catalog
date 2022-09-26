@@ -17,125 +17,74 @@
     {
       "variant": {
         "size": 168,
-        "edition": "FWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 168,
-      "lengthCm": 245,
-      "widthCm": 91,
-      "weightKg": 9.9,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 15
-      }
-    },
-    {
-      "variant": {
-        "size": 168,
-        "edition": "Gold"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 168,
-      "lengthCm": 245,
-      "widthCm": 91,
-      "weightKg": 8.4,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 15
-      }
-    },
-    {
-      "variant": {
-        "size": 168,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 168,
-      "lengthCm": 245,
-      "widthCm": 91,
-      "weightKg": 8.9,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 15
-      }
-    },
-    {
-      "variant": {
-        "size": 168,
+        "edition": "FWS",
         "construction": "FWS"
       },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 168,
       "lengthCm": 245,
       "widthCm": 91,
-      "volumeL": 168,
       "weightKg": 9.9,
       "fins": [
         {
-          "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 15
+      }
     },
     {
       "variant": {
         "size": 168,
+        "edition": "Gold",
         "construction": "Gold"
       },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 168,
       "lengthCm": 245,
       "widthCm": 91,
-      "volumeL": 168,
       "weightKg": 8.4,
       "fins": [
         {
-          "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 15
+      }
     },
     {
       "variant": {
         "size": 168,
+        "edition": "Pro",
         "construction": "Pro"
       },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 168,
       "lengthCm": 245,
       "widthCm": 91,
-      "volumeL": 168,
       "weightKg": 8.9,
       "fins": [
         {
-          "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 15
+      }
     }
   ],
   "pictures": []

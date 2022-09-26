@@ -16,29 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 205,
-        "edition": "D"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 205,
-      "lengthCm": 293,
-      "widthCm": 79,
-      "weightKg": 11.5,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
         "size": 118
       },
       "compatibleFinFamilies": [
@@ -119,6 +96,29 @@
       "sailRange": {
         "fromM2": 7.5,
         "toM2": 10.5
+      }
+    },
+    {
+      "variant": {
+        "size": 205,
+        "edition": "D"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 9
       }
     }
   ],

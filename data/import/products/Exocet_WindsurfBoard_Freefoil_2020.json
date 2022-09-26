@@ -16,6 +16,24 @@
     {
       "variant": {
         "size": 112,
+        "construction": "AST"
+      },
+      "lengthCm": 210,
+      "widthCm": 76,
+      "volumeL": 112,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 112,
         "construction": "Pro",
         "edition": "Carbon"
       },
@@ -35,8 +53,7 @@
     {
       "variant": {
         "size": 132,
-        "construction": "Pro",
-        "edition": "Carbon"
+        "construction": "AST"
       },
       "lengthCm": 210,
       "widthCm": 86,
@@ -53,26 +70,9 @@
     },
     {
       "variant": {
-        "size": 112,
-        "construction": "AST"
-      },
-      "lengthCm": 210,
-      "widthCm": 76,
-      "volumeL": 112,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
         "size": 132,
-        "construction": "AST"
+        "construction": "Pro",
+        "edition": "Carbon"
       },
       "lengthCm": 210,
       "widthCm": 86,

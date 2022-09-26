@@ -62,30 +62,6 @@
     },
     {
       "variant": {
-        "size": 5.5,
-        "edition": "X"
-      },
-      "surfaceM2": 5.5,
-      "boomLengthsCm": [
-        178
-      ],
-      "luffLengthCm": 438,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastExtensionLengthsCm": [
-        8
-      ],
-      "masTypes": [
-        "RDM",
-        "SDM"
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
         "size": 5,
         "edition": "X"
       },
@@ -105,6 +81,30 @@
         "SDM"
       ],
       "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.5,
+        "edition": "X"
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [
+        178
+      ],
+      "luffLengthCm": 438,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "masTypes": [
+        "RDM",
+        "SDM"
+      ],
+      "battenCount": 5,
       "camCount": 0,
       "topType": "vario"
     },
@@ -157,18 +157,18 @@
     },
     {
       "variant": {
-        "size": 6
+        "size": 7
       },
-      "surfaceM2": 6,
+      "surfaceM2": 7,
       "boomLengthsCm": [
-        186
+        204
       ],
-      "luffLengthCm": 448,
+      "luffLengthCm": 467,
       "mastLengthsCm": [
-        430
+        460
       ],
       "mastExtensionLengthsCm": [
-        18
+        7
       ],
       "masTypes": [
         "RDM",
@@ -176,7 +176,7 @@
       ],
       "battenCount": 5,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -192,29 +192,6 @@
       ],
       "mastExtensionLengthsCm": [
         18
-      ],
-      "masTypes": [
-        "RDM",
-        "SDM"
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 7
-      },
-      "surfaceM2": 7,
-      "boomLengthsCm": [
-        204
-      ],
-      "luffLengthCm": 467,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastExtensionLengthsCm": [
-        7
       ],
       "masTypes": [
         "RDM",

@@ -15,65 +15,9 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "construction": "FWS"
-      },
-      "lengthCm": 238,
-      "widthCm": 62,
-      "volumeL": 100,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 108,
-        "construction": "FWS"
-      },
-      "lengthCm": 239,
-      "widthCm": 64,
-      "volumeL": 108,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 74,
         "construction": "FWS"
       },
-      "lengthCm": 234,
-      "widthCm": 54,
-      "volumeL": 74,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 74
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -83,7 +27,8 @@
       "weightKg": 5.8,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -96,24 +41,6 @@
         "size": 81,
         "construction": "FWS"
       },
-      "lengthCm": 235,
-      "widthCm": 57,
-      "volumeL": 81,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 81
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -123,7 +50,8 @@
       "weightKg": 6.2,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -161,6 +89,44 @@
       "widthCm": 60,
       "volumeL": 89,
       "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "FWS"
+      },
+      "lengthCm": 238,
+      "widthCm": 62,
+      "volumeL": 100,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 108,
+        "construction": "FWS"
+      },
+      "lengthCm": 239,
+      "widthCm": 64,
+      "volumeL": 108,
+      "weightKg": 7.3,
       "fins": [
         {
           "count": 1,

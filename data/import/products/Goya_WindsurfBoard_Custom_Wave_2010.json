@@ -15,48 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 78,
-        "edition": "Eco Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 78,
-      "lengthCm": 237,
-      "widthCm": 55.5,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Eco Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 84,
-      "lengthCm": 239,
-      "widthCm": 56.8,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.7
-      }
-    },
-    {
-      "variant": {
         "size": 66,
         "edition": "Limited"
       },
@@ -100,6 +58,27 @@
     {
       "variant": {
         "size": 78,
+        "edition": "Eco Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 78,
+      "lengthCm": 237,
+      "widthCm": 55.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 78,
         "edition": "Limited"
       },
       "compatibleFinFamilies": [
@@ -109,6 +88,27 @@
       "lengthCm": 237,
       "widthCm": 55.4,
       "weightKg": 5.62,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Eco Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 239,
+      "widthCm": 56.8,
+      "weightKg": 6.7,
       "fins": [
         {
           "type": "US"

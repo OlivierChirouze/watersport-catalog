@@ -18,22 +18,6 @@
         "size": 145,
         "construction": "Asa+EVA"
       },
-      "volumeL": 145,
-      "weightKg": 11.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -43,9 +27,9 @@
       "weightKg": 11.4,
       "fins": [
         {
-          "type": "PowerBox"
-        },
-        null
+          "type": "PowerBox",
+          "count": 1
+        }
       ],
       "sailRange": {
         "fromM2": 4.5,
@@ -57,22 +41,6 @@
         "size": 165,
         "construction": "Asa+EVA"
       },
-      "volumeL": 165,
-      "weightKg": 11.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 165
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -80,6 +48,28 @@
       "lengthCm": 275,
       "widthCm": 75,
       "weightKg": 12,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 195
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 195,
+      "lengthCm": 280,
+      "widthCm": 82.5,
+      "weightKg": 13.4,
       "fins": [
         {
           "type": "PowerBox"
@@ -107,28 +97,6 @@
       "compatibleFinFamilies": [
         "fins"
       ]
-    },
-    {
-      "variant": {
-        "size": 195
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 195,
-      "lengthCm": 280,
-      "widthCm": 82.5,
-      "weightKg": 13.4,
-      "fins": [
-        {
-          "type": "PowerBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 10
-      }
     }
   ],
   "pictures": []

@@ -683,6 +683,7 @@ describe("product-file-merger", () => {
 
       expect(merger.merge(productOne as Product<Type>, productTwo as Product<Type>)).toEqual(expected);
     })
+
     it("should handle similar variants with new edition", () => {
       const productOne = {
         "name": "Charge",
@@ -990,6 +991,83 @@ describe("product-file-merger", () => {
       }
 
       expect(merger.merge(productOne as Product<Type>, productTwo as Product<Type>)).toEqual(expected);
+    })
+
+    it("should not merge similar variants if different", () => {
+      const productOne = {
+        "name": "Charge",
+        "year": 2010,
+        "programs": [
+          "wave"
+        ],
+        "brandName": "Aerotech",
+        "type": "propulsion",
+        "subType": "windsurfSail",
+        "description": {},
+        "dimensions": [
+          "size",
+          "edition"
+        ],
+        "variants": [
+          {
+            "variant": {
+              "size": 5,
+            },
+            "surfaceM2": 5,
+            "luffLengthCm": 479,
+            "mastLengthsCm": [
+              430
+            ],
+            "mastIMCS": [
+              21
+            ],
+            "boomLengthsCm": [
+              165
+            ],
+            "battenCount": 5,
+            "camCount": 0
+          }
+        ],
+        pictures: []
+      }
+
+      const productTwo = {
+        "name": "Charge",
+        "year": 2010,
+        "programs": [
+          "wave"
+        ],
+        "brandName": "Aerotech",
+        "type": "propulsion",
+        "subType": "windsurfSail",
+        "description": {},
+        "dimensions": [
+          "size"
+        ],
+        "variants": [
+          {
+            "variant": {
+              "size": 5,
+            },
+            "surfaceM2": 5,
+            "luffLengthCm": 550, // Very different luff
+            "mastLengthsCm": [
+              430
+            ],
+            "mastIMCS": [
+              21
+            ],
+            "boomLengthsCm": [
+              165
+            ],
+            "battenCount": 5,
+            "camCount": 0
+          }
+        ],
+        pictures: []
+      }
+
+      expect(() => merger.merge(productOne as Product<Type>, productTwo as Product<Type>)).toThrow();
     })
   });
 });

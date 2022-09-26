@@ -17,114 +17,8 @@
   "variants": [
     {
       "variant": {
-        "size": 160,
-        "construction": "Asa",
-        "edition": "SE"
-      },
-      "volumeL": 160,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        },
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160,
-        "edition": "SE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 160,
-      "lengthCm": 267,
-      "widthCm": 79,
-      "fins": [
-        {
-          "type": "PowerBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 8,
-        "toM2": 15
-      }
-    },
-    {
-      "variant": {
-        "size": 180,
-        "edition": "SE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 180,
-      "lengthCm": 278,
-      "widthCm": 85,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 9,
-        "toM2": 15
-      }
-    },
-    {
-      "variant": {
-        "size": 250,
-        "edition": "SE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 250,
-      "lengthCm": 319,
-      "widthCm": 89,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 9,
-        "toM2": 15
-      }
-    },
-    {
-      "variant": {
         "size": 140,
         "construction": "Glass Composite"
-      },
-      "volumeL": 140,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        },
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 140
       },
       "compatibleFinFamilies": [
         "fins"
@@ -134,9 +28,13 @@
       "widthCm": 77,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         },
-        null
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
       ],
       "sailRange": {
         "fromM2": 7,
@@ -145,7 +43,9 @@
     },
     {
       "variant": {
-        "size": 160
+        "size": 160,
+        "construction": "Asa",
+        "edition": "SE"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -155,9 +55,13 @@
       "widthCm": 79,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         },
-        null
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
       ],
       "sailRange": {
         "fromM2": 8,

@@ -15,6 +15,27 @@
   "variants": [
     {
       "variant": {
+        "size": 62
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 62,
+      "lengthCm": 220,
+      "widthCm": 54,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.9,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
         "size": 62,
         "edition": "Pro"
       },
@@ -46,7 +67,7 @@
       "volumeL": 68,
       "lengthCm": 225,
       "widthCm": 56,
-      "weightKg": 5.4,
+      "weightKg": 6,
       "fins": [
         {
           "type": "US"
@@ -61,91 +82,6 @@
       "variant": {
         "size": 76,
         "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 76,
-      "lengthCm": 230,
-      "widthCm": 57,
-      "weightKg": 5.7,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.9
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 84,
-      "lengthCm": 235,
-      "widthCm": 60,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.4
-      }
-    },
-    {
-      "variant": {
-        "size": 62
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 62,
-      "lengthCm": 220,
-      "widthCm": 54,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 2.9,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 68
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 68,
-      "lengthCm": 225,
-      "widthCm": 56,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 76
       },
       "compatibleFinFamilies": [
         "fins"
@@ -175,6 +111,28 @@
       "lengthCm": 235,
       "widthCm": 60,
       "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.4
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 235,
+      "widthCm": 60,
+      "weightKg": 6,
       "fins": [
         {
           "type": "US"

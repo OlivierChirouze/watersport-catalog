@@ -81,28 +81,6 @@
     },
     {
       "variant": {
-        "size": 86,
-        "edition": "PVC"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 86,
-      "lengthCm": 242,
-      "widthCm": 57.9,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
         "size": 78,
         "edition": "Wood"
       },
@@ -120,6 +98,28 @@
       ],
       "sailRange": {
         "fromM2": 3.7,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "PVC"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 242,
+      "widthCm": 57.9,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
         "toM2": 5.7
       }
     },

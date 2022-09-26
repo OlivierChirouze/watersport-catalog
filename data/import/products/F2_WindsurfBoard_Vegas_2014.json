@@ -15,6 +15,28 @@
   "variants": [
     {
       "variant": {
+        "size": 96,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 96,
+      "lengthCm": 242,
+      "widthCm": 58,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
         "size": 106,
         "edition": "LTD"
       },
@@ -81,72 +103,6 @@
     },
     {
       "variant": {
-        "size": 136,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 136,
-      "lengthCm": 250,
-      "widthCm": 72,
-      "weightKg": 7.9,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 146,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 146,
-      "lengthCm": 250,
-      "widthCm": 76,
-      "weightKg": 8.4,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 96,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 96,
-      "lengthCm": 242,
-      "widthCm": 58,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
         "size": 126,
         "edition": "Twin Fin"
       },
@@ -170,6 +126,28 @@
     {
       "variant": {
         "size": 136,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 136,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 136,
         "edition": "Twin Fin"
       },
       "compatibleFinFamilies": [
@@ -187,6 +165,28 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 146,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 8.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
       }
     },
     {

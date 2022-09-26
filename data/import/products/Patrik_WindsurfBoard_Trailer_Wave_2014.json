@@ -15,63 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 75,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 75,
-      "lengthCm": 230,
-      "widthCm": 55.5,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "US",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 83,
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "US",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Wide"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 92,
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "variant": {
         "size": 68
       },
       "compatibleFinFamilies": [
@@ -108,7 +51,8 @@
     },
     {
       "variant": {
-        "size": 75
+        "size": 75,
+        "edition": "Wide"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -122,6 +66,16 @@
           "type": "US",
           "count": 3
         }
+      ]
+    },
+    {
+      "variant": {
+        "size": 75
+      },
+      "volumeL": 75,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": [
+        "fins"
       ]
     },
     {
@@ -162,6 +116,35 @@
     },
     {
       "variant": {
+        "size": 83,
+        "edition": "Wide"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 83,
+      "lengthCm": 234,
+      "widthCm": 58.5,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 83
+      },
+      "volumeL": 83,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 85
       },
       "compatibleFinFamilies": [
@@ -194,6 +177,35 @@
           "type": "US",
           "count": 3
         }
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Wide"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 92,
+      "lengthCm": 236,
+      "widthCm": 60.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 92
+      },
+      "volumeL": 92,
+      "weightKg": 7.4,
+      "compatibleFinFamilies": [
+        "fins"
       ]
     }
   ],

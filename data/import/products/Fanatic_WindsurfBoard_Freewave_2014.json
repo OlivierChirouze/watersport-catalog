@@ -17,52 +17,9 @@
   "variants": [
     {
       "variant": {
-        "size": 106,
-        "edition": "CWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 106,
-      "lengthCm": 235,
-      "widthCm": 63.5,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 116,
-        "edition": "CWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 116,
-      "lengthCm": 236,
-      "widthCm": 66,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7.3
-      }
-    },
-    {
-      "variant": {
         "size": 76,
-        "edition": "CWS"
+        "edition": "CWS",
+        "construction": "CWS"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -74,102 +31,15 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ],
       "sailRange": {
         "fromM2": 3.7,
         "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 86,
-        "edition": "CWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 86,
-      "lengthCm": 233,
-      "widthCm": 58.5,
-      "weightKg": 6.65,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 96,
-        "edition": "CWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 96,
-      "lengthCm": 234,
-      "widthCm": 61,
-      "weightKg": 6.75,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
-        "size": 106,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 106,
-      "lengthCm": 235,
-      "widthCm": 63.5,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "SlotBox"
-        },
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 116,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 116,
-      "lengthCm": 236,
-      "widthCm": 66,
-      "weightKg": 6.95,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7.3
       }
     },
     {
@@ -199,8 +69,44 @@
     },
     {
       "variant": {
+        "size": 76,
+        "construction": "TE"
+      },
+      "volumeL": 76,
+      "weightKg": 6.55,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 86,
-        "edition": "TE"
+        "edition": "CWS",
+        "construction": "CWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 233,
+      "widthCm": 58.5,
+      "weightKg": 6.65,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "TE",
+        "construction": "TE"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -224,58 +130,9 @@
     },
     {
       "variant": {
-        "size": 96,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 96,
-      "lengthCm": 234,
-      "widthCm": 61,
-      "weightKg": 6.55,
-      "fins": [
-        {
-          "type": "SlotBox"
-        },
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
-        "size": 106,
-        "edition": "TeXtreme"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 106,
-      "lengthCm": 235,
-      "widthCm": 63.5,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "SlotBox"
-        },
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
         "size": 86,
-        "edition": "TeXtreme"
+        "edition": "TeXtreme",
+        "construction": "TeXtreme"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -300,7 +157,8 @@
     {
       "variant": {
         "size": 96,
-        "edition": "TeXtreme"
+        "edition": "CWS",
+        "construction": "CWS"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -308,7 +166,31 @@
       "volumeL": 96,
       "lengthCm": 234,
       "widthCm": 61,
-      "weightKg": 6.3,
+      "weightKg": 6.75,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 96,
+        "edition": "TE",
+        "construction": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 96,
+      "lengthCm": 234,
+      "widthCm": 61,
+      "weightKg": 6.55,
       "fins": [
         {
           "type": "SlotBox"
@@ -324,188 +206,154 @@
     },
     {
       "variant": {
-        "size": 106,
-        "construction": "CWS"
-      },
-      "volumeL": 106,
-      "weightKg": 6.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "TE"
-      },
-      "volumeL": 106,
-      "weightKg": 6.55,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 106,
+        "size": 96,
+        "edition": "TeXtreme",
         "construction": "TeXtreme"
       },
-      "volumeL": 106,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 96,
+      "lengthCm": 234,
+      "widthCm": 61,
       "weightKg": 6.3,
       "fins": [
         {
-          "count": 3,
+          "type": "SlotBox",
+          "count": 3
+        },
+        {
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.7
+      }
     },
     {
       "variant": {
-        "size": 116,
+        "size": 106,
+        "edition": "CWS",
         "construction": "CWS"
       },
-      "volumeL": 116,
-      "weightKg": 6.75,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 235,
+      "widthCm": 63.5,
+      "weightKg": 6.8,
       "fins": [
         {
-          "count": 1,
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7
+      }
     },
     {
       "variant": {
-        "size": 116,
+        "size": 106,
+        "edition": "TE",
         "construction": "TE"
       },
-      "volumeL": 116,
-      "weightKg": 6.55,
       "compatibleFinFamilies": [
         "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "CWS"
-      },
-      "volumeL": 76,
-      "weightKg": 6.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "TE"
-      },
-      "volumeL": 76,
-      "weightKg": 6.55,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "CWS"
-      },
-      "volumeL": 86,
-      "weightKg": 6.75,
+      "volumeL": 106,
+      "lengthCm": 235,
+      "widthCm": 63.5,
+      "weightKg": 6.8,
       "fins": [
         {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "TE"
-      },
-      "volumeL": 86,
-      "weightKg": 6.55,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "TeXtreme"
-      },
-      "volumeL": 86,
-      "weightKg": 6.3,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "CWS"
-      },
-      "volumeL": 96,
-      "weightKg": 6.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "TE"
-      },
-      "volumeL": 96,
-      "weightKg": 6.55,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "TeXtreme"
-      },
-      "volumeL": 96,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 3,
           "type": "SlotBox"
+        },
+        {
+          "type": "PowerBox"
         }
       ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "TeXtreme",
+        "construction": "TeXtreme"
+      },
       "compatibleFinFamilies": [
         "fins"
-      ]
+      ],
+      "volumeL": 106,
+      "lengthCm": 235,
+      "widthCm": 63.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "PowerBox",
+          "count": 3
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 116,
+        "edition": "CWS",
+        "construction": "CWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 236,
+      "widthCm": 66,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.3
+      }
+    },
+    {
+      "variant": {
+        "size": 116,
+        "edition": "TE",
+        "construction": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 236,
+      "widthCm": 66,
+      "weightKg": 6.95,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7.3
+      }
     }
   ],
   "pictures": []

@@ -18,22 +18,6 @@
         "size": 170,
         "construction": "Bcs"
       },
-      "volumeL": 170,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 170
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -42,13 +26,15 @@
       "widthCm": 100,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 8,
         "toM2": 12.5
-      }
+      },
+      "weightKg": 8.8
     }
   ],
   "pictures": []

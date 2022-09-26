@@ -36,28 +36,6 @@
     },
     {
       "variant": {
-        "size": 6.5
-      },
-      "surfaceM2": 6.5,
-      "luffLengthCm": 454,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        25,
-        21
-      ],
-      "boomLengthsCm": [
-        188,
-        196
-      ],
-      "weightKg": 4.14,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 6
       },
       "surfaceM2": 6,
@@ -80,22 +58,23 @@
     },
     {
       "variant": {
-        "size": 7.5
+        "size": 6.5
       },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 476,
+      "surfaceM2": 6.5,
+      "luffLengthCm": 454,
       "mastLengthsCm": [
-        460
+        430
       ],
       "mastIMCS": [
-        25
+        25,
+        21
       ],
       "boomLengthsCm": [
-        203,
-        211
+        188,
+        196
       ],
-      "weightKg": 4.836,
-      "battenCount": 7,
+      "weightKg": 4.14,
+      "battenCount": 6,
       "camCount": 0,
       "topType": "fixed"
     },
@@ -122,22 +101,21 @@
     },
     {
       "variant": {
-        "size": 8.5
+        "size": 7.5
       },
-      "surfaceM2": 8.5,
-      "luffLengthCm": 501,
+      "surfaceM2": 7.5,
+      "luffLengthCm": 476,
       "mastLengthsCm": [
-        490
+        460
       ],
       "mastIMCS": [
-        26,
-        29
+        25
       ],
       "boomLengthsCm": [
-        219,
-        227
+        203,
+        211
       ],
-      "weightKg": 5.262,
+      "weightKg": 4.836,
       "battenCount": 7,
       "camCount": 0,
       "topType": "fixed"
@@ -159,6 +137,28 @@
         220
       ],
       "weightKg": 4.944,
+      "battenCount": 7,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.5
+      },
+      "surfaceM2": 8.5,
+      "luffLengthCm": 501,
+      "mastLengthsCm": [
+        490
+      ],
+      "mastIMCS": [
+        26,
+        29
+      ],
+      "boomLengthsCm": [
+        219,
+        227
+      ],
+      "weightKg": 5.262,
       "battenCount": 7,
       "camCount": 0,
       "topType": "fixed"

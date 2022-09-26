@@ -17,66 +17,6 @@
   "variants": [
     {
       "variant": {
-        "size": 6.5,
-        "edition": "SL"
-      },
-      "surfaceM2": 6.5,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "battenCount": 7,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 7.5,
-        "edition": "SL"
-      },
-      "surfaceM2": 7.5,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "battenCount": 7,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 7,
-        "edition": "SL"
-      },
-      "surfaceM2": 7,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "battenCount": 7,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 8.5,
-        "edition": "SL"
-      },
-      "surfaceM2": 8.5,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "battenCount": 7,
-      "camCount": 0
-    },
-    {
-      "variant": {
         "size": 3.8
       },
       "surfaceM2": 3.8,
@@ -185,6 +125,21 @@
     },
     {
       "variant": {
+        "size": 6.5,
+        "edition": "SL"
+      },
+      "surfaceM2": 6.5,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
         "size": 6.7
       },
       "surfaceM2": 6.7,
@@ -199,6 +154,51 @@
         195
       ],
       "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7,
+        "edition": "SL"
+      },
+      "surfaceM2": 7,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 7.5,
+        "edition": "SL"
+      },
+      "surfaceM2": 7.5,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "battenCount": 7,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 8.5,
+        "edition": "SL"
+      },
+      "surfaceM2": 8.5,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "battenCount": 7,
       "camCount": 0
     }
   ],

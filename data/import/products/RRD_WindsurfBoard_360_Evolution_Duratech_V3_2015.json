@@ -18,24 +18,6 @@
         "size": 135,
         "construction": "Duratech"
       },
-      "lengthCm": 248,
-      "widthCm": 72,
-      "volumeL": 135,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 135
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -45,7 +27,8 @@
       "weightKg": 9.5,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -58,24 +41,6 @@
         "size": 145,
         "construction": "Duratech"
       },
-      "lengthCm": 249,
-      "widthCm": 75,
-      "volumeL": 145,
-      "weightKg": 9.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -85,7 +50,8 @@
       "weightKg": 9.7,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -98,24 +64,6 @@
         "size": 155,
         "construction": "Duratech"
       },
-      "lengthCm": 251,
-      "widthCm": 78,
-      "volumeL": 155,
-      "weightKg": 10.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 155
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -125,7 +73,8 @@
       "weightKg": 10.2,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {

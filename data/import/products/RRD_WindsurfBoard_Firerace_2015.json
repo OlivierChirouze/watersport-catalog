@@ -2,8 +2,6 @@
   "name": "Firerace",
   "year": 2015,
   "programs": [
-    "freeride",
-    "race",
     "slalom"
   ],
   "brandName": "RRD",
@@ -11,9 +9,8 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
-    "construction"
+    "edition"
   ],
   "variants": [
     {
@@ -32,25 +29,6 @@
         "fromM2": 6,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "W-Tech"
-      },
-      "lengthCm": 230,
-      "widthCm": 75,
-      "volumeL": 120,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

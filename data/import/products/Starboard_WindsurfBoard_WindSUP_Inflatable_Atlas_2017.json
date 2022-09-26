@@ -17,6 +17,28 @@
   "variants": [
     {
       "variant": {
+        "size": 288,
+        "edition": "Zen"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 288,
+      "lengthCm": 366,
+      "widthCm": 84,
+      "weightKg": 16.05,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
         "size": 364,
         "edition": "Deluxe"
       },
@@ -32,28 +54,6 @@
           "type": "US"
         },
         null
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 288,
-        "edition": "Zen"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 288,
-      "lengthCm": 366,
-      "widthCm": 84,
-      "weightKg": 16.05,
-      "fins": [
-        {
-          "type": "US"
-        }
       ],
       "sailRange": {
         "fromM2": 3.5,

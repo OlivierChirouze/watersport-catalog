@@ -2,133 +2,17 @@
   "name": "Cross",
   "year": 2012,
   "programs": [
-    "freeride",
     "freestyle",
-    "slalom"
+    "freeride"
   ],
   "brandName": "Sailloft",
   "type": "propulsion",
   "subType": "windsurfSail",
   "description": {},
   "dimensions": [
-    "edition",
     "size"
   ],
   "variants": [
-    {
-      "variant": {
-        "size": 6.5,
-        "edition": "Pro"
-      },
-      "surfaceM2": 6.5,
-      "luffLengthCm": 450,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        195
-      ],
-      "battenCount": 6,
-      "camCount": 2
-    },
-    {
-      "variant": {
-        "size": 7.5,
-        "edition": "Pro"
-      },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 478,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        210
-      ],
-      "battenCount": 6,
-      "camCount": 2
-    },
-    {
-      "variant": {
-        "size": 7,
-        "edition": "Pro"
-      },
-      "surfaceM2": 7,
-      "luffLengthCm": 464,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        203
-      ],
-      "battenCount": 6,
-      "camCount": 2
-    },
-    {
-      "variant": {
-        "size": 8.5,
-        "edition": "Pro"
-      },
-      "surfaceM2": 8.5,
-      "luffLengthCm": 501,
-      "mastLengthsCm": [
-        490
-      ],
-      "mastIMCS": [
-        29
-      ],
-      "boomLengthsCm": [
-        224
-      ],
-      "battenCount": 6,
-      "camCount": 2
-    },
-    {
-      "variant": {
-        "size": 8,
-        "edition": "Pro"
-      },
-      "surfaceM2": 8,
-      "luffLengthCm": 495,
-      "mastLengthsCm": [
-        490
-      ],
-      "mastIMCS": [
-        29
-      ],
-      "boomLengthsCm": [
-        216
-      ],
-      "battenCount": 6,
-      "camCount": 2
-    },
-    {
-      "variant": {
-        "size": 9,
-        "edition": "Pro"
-      },
-      "surfaceM2": 9,
-      "luffLengthCm": 513,
-      "mastLengthsCm": [
-        490
-      ],
-      "mastIMCS": [
-        29
-      ],
-      "boomLengthsCm": [
-        232
-      ],
-      "battenCount": 6,
-      "camCount": 2
-    },
     {
       "variant": {
         "size": 5.5
@@ -143,6 +27,24 @@
       ],
       "boomLengthsCm": [
         181
+      ],
+      "battenCount": 5,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        188
       ],
       "battenCount": 5,
       "camCount": 0
@@ -167,20 +69,20 @@
     },
     {
       "variant": {
-        "size": 6
+        "size": 7
       },
-      "surfaceM2": 6,
-      "luffLengthCm": 442,
+      "surfaceM2": 7,
+      "luffLengthCm": 464,
       "mastLengthsCm": [
-        430
+        460
       ],
       "mastIMCS": [
-        21
+        25
       ],
       "boomLengthsCm": [
-        188
+        198
       ],
-      "battenCount": 5,
+      "battenCount": 6,
       "camCount": 0
     },
     {
@@ -197,24 +99,6 @@
       ],
       "boomLengthsCm": [
         205
-      ],
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 7
-      },
-      "surfaceM2": 7,
-      "luffLengthCm": 464,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        198
       ],
       "battenCount": 6,
       "camCount": 0

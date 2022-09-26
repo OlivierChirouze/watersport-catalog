@@ -38,50 +38,6 @@
     },
     {
       "variant": {
-        "size": 136,
-        "edition": "GTS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 136,
-      "lengthCm": 250,
-      "widthCm": 72,
-      "weightKg": 8.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 146,
-        "edition": "GTS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 146,
-      "lengthCm": 250,
-      "widthCm": 76,
-      "weightKg": 9.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
         "size": 126,
         "edition": "LTD"
       },
@@ -100,6 +56,45 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 126,
+        "construction": "GTS"
+      },
+      "volumeL": 126,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 136,
+        "edition": "GTS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 136,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 8.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
       }
     },
     {
@@ -126,6 +121,47 @@
     },
     {
       "variant": {
+        "size": 136,
+        "construction": "GTS"
+      },
+      "volumeL": 136,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "GTS",
+        "construction": "GTS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 146,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
         "size": 146,
         "edition": "LTD"
       },
@@ -145,57 +181,6 @@
         "fromM2": 5,
         "toM2": 9.5
       }
-    },
-    {
-      "variant": {
-        "size": 126,
-        "construction": "GTS"
-      },
-      "volumeL": 126,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 136,
-        "construction": "GTS"
-      },
-      "volumeL": 136,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 146,
-        "construction": "GTS"
-      },
-      "volumeL": 146,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

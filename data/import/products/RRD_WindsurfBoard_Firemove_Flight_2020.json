@@ -16,6 +16,25 @@
     {
       "variant": {
         "size": 135,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 225,
+      "widthCm": 85,
+      "volumeL": 135,
+      "weightKg": 10,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 135,
         "construction": "E-Tech",
         "edition": "LTD"
       },
@@ -43,25 +62,6 @@
       "widthCm": 85,
       "volumeL": 135,
       "weightKg": 8.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "E-Tech"
-      },
-      "lengthCm": 225,
-      "widthCm": 85,
-      "volumeL": 135,
-      "weightKg": 10,
       "fins": [
         {
           "count": 1,

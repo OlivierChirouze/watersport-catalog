@@ -37,6 +37,28 @@
     },
     {
       "variant": {
+        "size": 79,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 79,
+      "lengthCm": 211,
+      "widthCm": 58.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
         "size": 82,
         "edition": "Carbon"
       },
@@ -59,6 +81,28 @@
     },
     {
       "variant": {
+        "size": 82,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 212,
+      "widthCm": 59.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
         "size": 87,
         "edition": "Carbon"
       },
@@ -69,6 +113,28 @@
       "lengthCm": 214,
       "widthCm": 61.5,
       "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 87,
+      "lengthCm": 214,
+      "widthCm": 61.5,
+      "weightKg": 7,
       "fins": [
         {
           "type": "SlotBox"
@@ -103,16 +169,16 @@
     },
     {
       "variant": {
-        "size": 99,
-        "edition": "Carbon"
+        "size": 92,
+        "edition": "Wood Reflex"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 99,
-      "lengthCm": 220,
-      "widthCm": 65.5,
-      "weightKg": 7,
+      "volumeL": 92,
+      "lengthCm": 219,
+      "widthCm": 63.5,
+      "weightKg": 7.1,
       "fins": [
         {
           "type": "SlotBox"
@@ -125,82 +191,16 @@
     },
     {
       "variant": {
-        "size": 79,
-        "edition": "Wood Reflex"
+        "size": 99,
+        "edition": "Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 79,
-      "lengthCm": 211,
-      "widthCm": 58.5,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 82,
-        "edition": "Wood Reflex"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 82,
-      "lengthCm": 212,
-      "widthCm": 59.5,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 87,
-        "edition": "Wood Reflex"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 87,
-      "lengthCm": 214,
-      "widthCm": 61.5,
+      "volumeL": 99,
+      "lengthCm": 220,
+      "widthCm": 65.5,
       "weightKg": 7,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Wood Reflex"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 92,
-      "lengthCm": 219,
-      "widthCm": 63.5,
-      "weightKg": 7.1,
       "fins": [
         {
           "type": "SlotBox"

@@ -35,6 +35,25 @@
     },
     {
       "variant": {
+        "size": 68,
+        "construction": "Deck:Carbon",
+        "edition": "Epic"
+      },
+      "lengthCm": 228,
+      "widthCm": 52.5,
+      "volumeL": 68,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 72,
         "construction": "Deck Bottom:Carbon",
         "edition": "Bionic"
@@ -43,6 +62,25 @@
       "widthCm": 53,
       "volumeL": 72,
       "weightKg": 6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 72,
+        "construction": "Deck:Carbon",
+        "edition": "Epic"
+      },
+      "lengthCm": 225,
+      "widthCm": 53,
+      "volumeL": 72,
       "fins": [
         {
           "count": 3,
@@ -95,6 +133,44 @@
     },
     {
       "variant": {
+        "size": 75,
+        "construction": "Deck:Carbon",
+        "edition": "Epic"
+      },
+      "lengthCm": 225,
+      "widthCm": 54.5,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Deck:Carbon",
+        "edition": "Wide Epic"
+      },
+      "lengthCm": 230,
+      "widthCm": 55.5,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 78,
         "construction": "Deck Bottom:Carbon",
         "edition": "Bionic"
@@ -115,6 +191,25 @@
     },
     {
       "variant": {
+        "size": 78,
+        "construction": "Deck:Carbon",
+        "edition": "Epic"
+      },
+      "lengthCm": 226,
+      "widthCm": 55.5,
+      "volumeL": 78,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 83,
         "construction": "Deck Bottom:Carbon",
         "edition": "Bionic"
@@ -123,6 +218,25 @@
       "widthCm": 58.5,
       "volumeL": 83,
       "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 83,
+        "construction": "Deck:Carbon",
+        "edition": "Wide Epic"
+      },
+      "lengthCm": 234,
+      "widthCm": 58.5,
+      "volumeL": 83,
       "fins": [
         {
           "count": 3,
@@ -155,122 +269,6 @@
     },
     {
       "variant": {
-        "size": 89,
-        "construction": "Deck Bottom:Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 228,
-      "widthCm": 59,
-      "volumeL": 89,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Deck Bottom:Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "volumeL": 92,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 68,
-        "construction": "Deck:Carbon",
-        "edition": "Epic"
-      },
-      "lengthCm": 228,
-      "widthCm": 52.5,
-      "volumeL": 68,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 72,
-        "construction": "Deck:Carbon",
-        "edition": "Epic"
-      },
-      "lengthCm": 225,
-      "widthCm": 53,
-      "volumeL": 72,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "Deck:Carbon",
-        "edition": "Epic"
-      },
-      "lengthCm": 225,
-      "widthCm": 54.5,
-      "volumeL": 75,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "Deck:Carbon",
-        "edition": "Epic"
-      },
-      "lengthCm": 226,
-      "widthCm": 55.5,
-      "volumeL": 78,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 85,
         "construction": "Deck:Carbon",
         "edition": "Epic"
@@ -291,6 +289,26 @@
     {
       "variant": {
         "size": 89,
+        "construction": "Deck Bottom:Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 228,
+      "widthCm": 59,
+      "volumeL": 89,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 3,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 89,
         "construction": "Deck:Carbon",
         "edition": "Epic"
       },
@@ -309,32 +327,14 @@
     },
     {
       "variant": {
-        "size": 75,
-        "construction": "Deck:Carbon",
-        "edition": "Wide Epic"
+        "size": 92,
+        "construction": "Deck Bottom:Carbon",
+        "edition": "Bionic"
       },
-      "lengthCm": 230,
-      "widthCm": 55.5,
-      "volumeL": 75,
-      "fins": [
-        {
-          "count": 3,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "Deck:Carbon",
-        "edition": "Wide Epic"
-      },
-      "lengthCm": 234,
-      "widthCm": 58.5,
-      "volumeL": 83,
+      "lengthCm": 236,
+      "widthCm": 60.5,
+      "volumeL": 92,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 3,

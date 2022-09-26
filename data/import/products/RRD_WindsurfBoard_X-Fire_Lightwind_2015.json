@@ -17,6 +17,25 @@
   "variants": [
     {
       "variant": {
+        "size": 147,
+        "construction": "LTD"
+      },
+      "lengthCm": 236,
+      "widthCm": 91,
+      "volumeL": 147,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 150,
         "edition": "LTD"
       },
@@ -35,25 +54,6 @@
         "fromM2": 7.5,
         "toM2": 11
       }
-    },
-    {
-      "variant": {
-        "size": 147,
-        "construction": "LTD"
-      },
-      "lengthCm": 236,
-      "widthCm": 91,
-      "volumeL": 147,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

@@ -16,24 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 205,
-        "construction": "Cts",
-        "edition": "OD DTT"
-      },
-      "volumeL": 205,
-      "weightKg": 12.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 133,
         "construction": "Cts"
       },
@@ -73,6 +55,24 @@
       },
       "volumeL": 160,
       "weightKg": 10.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Cts",
+        "edition": "OD DTT"
+      },
+      "volumeL": 205,
+      "weightKg": 12.5,
       "fins": [
         {
           "count": 1,

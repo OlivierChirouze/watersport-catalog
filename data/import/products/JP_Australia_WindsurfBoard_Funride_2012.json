@@ -17,24 +17,6 @@
     {
       "variant": {
         "size": 120,
-        "construction": "Epoxy Sandwich",
-        "edition": "ES"
-      },
-      "volumeL": 120,
-      "weightKg": 11.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 120,
         "edition": "ES"
       },
       "compatibleFinFamilies": [
@@ -56,11 +38,11 @@
     },
     {
       "variant": {
-        "size": 130,
+        "size": 120,
         "construction": "Epoxy Sandwich",
         "edition": "ES"
       },
-      "volumeL": 130,
+      "volumeL": 120,
       "weightKg": 11.6,
       "fins": [
         {
@@ -96,11 +78,11 @@
     },
     {
       "variant": {
-        "size": 145,
+        "size": 130,
         "construction": "Epoxy Sandwich",
         "edition": "ES"
       },
-      "volumeL": 145,
+      "volumeL": 130,
       "weightKg": 11.6,
       "fins": [
         {
@@ -111,68 +93,6 @@
       "compatibleFinFamilies": [
         "fins"
       ]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "edition": "ES"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 145,
-      "lengthCm": 258,
-      "widthCm": 76,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 10
-      }
-    },
-    {
-      "variant": {
-        "size": 160,
-        "construction": "Epoxy Sandwich",
-        "edition": "ES"
-      },
-      "volumeL": 160,
-      "weightKg": 11.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160,
-        "edition": "ES"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 160,
-      "lengthCm": 259,
-      "widthCm": 79.5,
-      "weightKg": 10.6,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.2,
-        "toM2": 12
-      }
     },
     {
       "variant": {
@@ -199,6 +119,46 @@
     {
       "variant": {
         "size": 145,
+        "edition": "ES"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 145,
+      "lengthCm": 258,
+      "widthCm": 76,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Epoxy Sandwich",
+        "edition": "ES"
+      },
+      "volumeL": 145,
+      "weightKg": 11.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 145,
         "edition": "ES+EVA"
       },
       "compatibleFinFamilies": [
@@ -216,6 +176,30 @@
       "sailRange": {
         "fromM2": 6,
         "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "ES",
+        "construction": "Epoxy Sandwich"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 259,
+      "widthCm": 79.5,
+      "weightKg": 10.6,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 12
       }
     }
   ],

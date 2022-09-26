@@ -18,21 +18,6 @@
         "size": 54,
         "construction": "Biax Carbon"
       },
-      "volumeL": 54,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 54
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -42,7 +27,8 @@
       "weightKg": 4.5,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -54,15 +40,6 @@
       "variant": {
         "size": 65,
         "construction": "Biax Carbon"
-      },
-      "volumeL": 65,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 65
       },
       "compatibleFinFamilies": [
         "fins"

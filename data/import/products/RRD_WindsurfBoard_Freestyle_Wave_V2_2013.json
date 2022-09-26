@@ -33,17 +33,6 @@
     },
     {
       "variant": {
-        "size": 90,
-        "construction": "N",
-        "edition": "LTD"
-      },
-      "volumeL": 90,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 78,
         "construction": "N",
         "edition": "X-Tech"
@@ -55,6 +44,17 @@
           "type": "PowerBox"
         }
       ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "N",
+        "edition": "LTD"
+      },
+      "volumeL": 90,
       "compatibleFinFamilies": [
         "fins"
       ]

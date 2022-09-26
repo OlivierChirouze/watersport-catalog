@@ -15,6 +15,32 @@
   "variants": [
     {
       "variant": {
+        "size": 88,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "volumeL": 88,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Carbon Biax Sandwich"
+      },
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 106,
         "construction": "100% Carbon",
         "edition": "PTE"
@@ -53,32 +79,6 @@
         "edition": "PTE"
       },
       "volumeL": 135,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "Carbon Biax Sandwich"
-      },
-      "volumeL": 88,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 98,
-        "construction": "Carbon Biax Sandwich"
-      },
-      "volumeL": 98,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
       "compatibleFinFamilies": [
         "fins"
       ]

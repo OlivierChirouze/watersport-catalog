@@ -15,94 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 107,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 107,
-      "lengthCm": 231,
-      "widthCm": 70.5,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.2,
-        "toM2": 8.6
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 230,
-      "widthCm": 75.5,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 9.2
-      }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 120,
-      "lengthCm": 228,
-      "widthCm": 80.5,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.8,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 130,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 228,
-      "widthCm": 85,
-      "weightKg": 7.15,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.8,
-        "toM2": 10
-      }
-    },
-    {
-      "variant": {
         "size": 80,
         "edition": "Carbon"
       },
@@ -125,16 +37,16 @@
     },
     {
       "variant": {
-        "size": 87,
-        "edition": "Carbon"
+        "size": 80,
+        "edition": "Wood"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 87,
-      "lengthCm": 234,
-      "widthCm": 60,
-      "weightKg": 5.45,
+      "volumeL": 80,
+      "lengthCm": 232,
+      "widthCm": 58.5,
+      "weightKg": 5.9,
       "fins": [
         {
           "type": "TuttleBox"
@@ -147,148 +59,16 @@
     },
     {
       "variant": {
-        "size": 90,
+        "size": 87,
         "edition": "Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 90,
-      "lengthCm": 231,
-      "widthCm": 63,
-      "weightKg": 5.55,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.6,
-        "toM2": 7.8
-      }
-    },
-    {
-      "variant": {
-        "size": 97,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 97,
-      "lengthCm": 231,
-      "widthCm": 63.5,
-      "weightKg": 5.75,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.6,
-        "toM2": 8.2
-      }
-    },
-    {
-      "variant": {
-        "size": 107,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 107,
-      "lengthCm": 231,
-      "widthCm": 70.5,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.2,
-        "toM2": 8.6
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 230,
-      "widthCm": 75.5,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 9.2
-      }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 120,
-      "lengthCm": 228,
-      "widthCm": 80.5,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.8,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 130,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 228,
-      "widthCm": 85,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.8,
-        "toM2": 10
-      }
-    },
-    {
-      "variant": {
-        "size": 80,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 80,
-      "lengthCm": 232,
-      "widthCm": 58.5,
-      "weightKg": 5.9,
+      "volumeL": 87,
+      "lengthCm": 234,
+      "widthCm": 60,
+      "weightKg": 5.45,
       "fins": [
         {
           "type": "TuttleBox"
@@ -324,6 +104,28 @@
     {
       "variant": {
         "size": 90,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 231,
+      "widthCm": 63,
+      "weightKg": 5.55,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.6,
+        "toM2": 7.8
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
         "edition": "Wood"
       },
       "compatibleFinFamilies": [
@@ -346,6 +148,28 @@
     {
       "variant": {
         "size": 97,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 97,
+      "lengthCm": 231,
+      "widthCm": 63.5,
+      "weightKg": 5.75,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.6,
+        "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 97,
         "edition": "Wood"
       },
       "compatibleFinFamilies": [
@@ -363,6 +187,182 @@
       "sailRange": {
         "fromM2": 5.6,
         "toM2": 8.2
+      }
+    },
+    {
+      "variant": {
+        "size": 107,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 231,
+      "widthCm": 70.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 8.6
+      }
+    },
+    {
+      "variant": {
+        "size": 107,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 107,
+      "lengthCm": 231,
+      "widthCm": 70.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.2,
+        "toM2": 8.6
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 230,
+      "widthCm": 75.5,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.2
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 230,
+      "widthCm": 75.5,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 9.2
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 228,
+      "widthCm": 80.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 228,
+      "widthCm": 80.5,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 228,
+      "widthCm": 85,
+      "weightKg": 7.15,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 228,
+      "widthCm": 85,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.8,
+        "toM2": 10
       }
     }
   ],

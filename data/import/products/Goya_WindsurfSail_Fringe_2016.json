@@ -14,6 +14,26 @@
   "variants": [
     {
       "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 337,
+      "mastLengthsCm": [
+        310,
+        340
+      ],
+      "boomLengthsCm": [
+        134
+      ],
+      "battenCount": 3,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        27
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
         "size": 3.3
       },
       "surfaceM2": 3.3,
@@ -80,21 +100,23 @@
     },
     {
       "variant": {
-        "size": 3
+        "size": 4
       },
-      "surfaceM2": 3,
-      "luffLengthCm": 337,
+      "surfaceM2": 4,
+      "luffLengthCm": 377,
       "mastLengthsCm": [
-        310,
-        340
+        370
+      ],
+      "mastIMCS": [
+        17
       ],
       "boomLengthsCm": [
-        134
+        148
       ],
       "battenCount": 3,
       "camCount": 0,
       "mastExtensionLengthsCm": [
-        27
+        7
       ],
       "topType": "fixed"
     },
@@ -166,23 +188,23 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 5
       },
-      "surfaceM2": 4,
-      "luffLengthCm": 377,
+      "surfaceM2": 5,
+      "luffLengthCm": 417,
       "mastLengthsCm": [
-        370
+        400
       ],
       "mastIMCS": [
-        17
+        19
       ],
       "boomLengthsCm": [
-        148
+        161
       ],
       "battenCount": 3,
       "camCount": 0,
       "mastExtensionLengthsCm": [
-        7
+        17
       ],
       "topType": "fixed"
     },
@@ -244,28 +266,6 @@
       ],
       "boomLengthsCm": [
         173
-      ],
-      "battenCount": 3,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [
-        17
-      ],
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5
-      },
-      "surfaceM2": 5,
-      "luffLengthCm": 417,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastIMCS": [
-        19
-      ],
-      "boomLengthsCm": [
-        161
       ],
       "battenCount": 3,
       "camCount": 0,

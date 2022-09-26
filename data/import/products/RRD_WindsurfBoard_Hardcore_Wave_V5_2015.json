@@ -17,7 +17,8 @@
     {
       "variant": {
         "size": 68,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -27,7 +28,8 @@
       "widthCm": 53.5,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -38,7 +40,8 @@
     {
       "variant": {
         "size": 78,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -48,7 +51,8 @@
       "widthCm": 55.5,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -59,7 +63,8 @@
     {
       "variant": {
         "size": 88,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -69,7 +74,8 @@
       "widthCm": 58.5,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -80,7 +86,8 @@
     {
       "variant": {
         "size": 98,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -90,85 +97,14 @@
       "widthCm": 61,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 5.8
       }
-    },
-    {
-      "variant": {
-        "size": 68,
-        "construction": "LTD"
-      },
-      "lengthCm": 227,
-      "widthCm": 53.5,
-      "volumeL": 68,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "LTD"
-      },
-      "lengthCm": 227,
-      "widthCm": 55.5,
-      "volumeL": 78,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 58.5,
-      "volumeL": 88,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 98,
-        "construction": "LTD"
-      },
-      "lengthCm": 228,
-      "widthCm": 61,
-      "volumeL": 98,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": [],

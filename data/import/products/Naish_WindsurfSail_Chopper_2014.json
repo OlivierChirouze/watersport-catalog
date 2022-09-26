@@ -14,22 +14,6 @@
   ],
   "variants": [
     {
-      "variant": {
-        "edition": "S"
-      },
-      "weightKg": 3.15,
-      "mastLengthsCm": [
-        370
-      ],
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
       "variant": {},
       "luffLengthCm": 374,
       "mastLengthsCm": [
@@ -88,6 +72,22 @@
       ],
       "battenCount": 4,
       "camCount": 0
+    },
+    {
+      "variant": {
+        "edition": "S"
+      },
+      "weightKg": 3.15,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastExtensionLengthsCm": [],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
     }
   ],
   "pictures": []

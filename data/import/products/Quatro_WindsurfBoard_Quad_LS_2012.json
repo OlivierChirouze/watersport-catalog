@@ -17,7 +17,8 @@
     {
       "variant": {
         "size": 75,
-        "edition": "Gold"
+        "edition": "Gold",
+        "construction": "Premium PVC"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -28,17 +29,23 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {
         "fromM2": 3.3,
         "toM2": 5.3
-      }
+      },
+      "weightKg": 7.45
     },
     {
       "variant": {
         "size": 85,
-        "edition": "Gold"
+        "edition": "Gold",
+        "construction": "Premium PVC"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -49,17 +56,23 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {
         "fromM2": 3.7,
         "toM2": 5.7
-      }
+      },
+      "weightKg": 7.45
     },
     {
       "variant": {
         "size": 95,
-        "edition": "Gold"
+        "edition": "Gold",
+        "construction": "Premium PVC"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -70,63 +83,17 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {
         "fromM2": 4,
         "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "Premium PVC"
       },
-      "volumeL": 75,
-      "weightKg": 7.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Premium PVC"
-      },
-      "volumeL": 85,
-      "weightKg": 7.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Premium PVC"
-      },
-      "volumeL": 95,
-      "weightKg": 7.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "weightKg": 7.45
     }
   ],
   "pictures": []

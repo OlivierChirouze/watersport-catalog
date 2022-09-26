@@ -18,70 +18,9 @@
   "variants": [
     {
       "variant": {
-        "size": 205,
-        "construction": "Ace-Tec",
-        "edition": "OD"
-      },
-      "lengthCm": 293,
-      "widthCm": 79,
-      "volumeL": 205,
-      "weightKg": 13,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 205,
-        "edition": "OD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 205,
-      "lengthCm": 293,
-      "widthCm": 79,
-      "weightKg": 13,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 2.5,
-        "toM2": 7.8
-      }
-    },
-    {
-      "variant": {
         "size": 133,
         "construction": "Ace-Tec"
       },
-      "lengthCm": 250,
-      "widthCm": 70,
-      "volumeL": 133,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 133
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -91,7 +30,8 @@
       "weightKg": 9.5,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -104,24 +44,6 @@
         "size": 148,
         "construction": "Ace-Tec"
       },
-      "lengthCm": 264,
-      "widthCm": 75,
-      "volumeL": 148,
-      "weightKg": 10.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 148
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -131,7 +53,8 @@
       "weightKg": 10.2,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -144,40 +67,46 @@
         "size": 160,
         "construction": "Ace-Tec"
       },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
       "lengthCm": 255,
       "widthCm": 82,
-      "volumeL": 160,
       "weightKg": 11,
       "fins": [
         {
-          "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 160,
-      "lengthCm": 255,
-      "widthCm": 82,
-      "weightKg": 11,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        },
-        null
       ],
       "sailRange": {
         "fromM2": 2.5,
         "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 205,
+        "edition": "OD",
+        "construction": "Ace-Tec"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 293,
+      "widthCm": 79,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 2.5,
+        "toM2": 7.8
       }
     },
     {

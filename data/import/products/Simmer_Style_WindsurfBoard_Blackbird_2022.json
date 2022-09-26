@@ -34,11 +34,13 @@
     },
     {
       "variant": {
-        "size": 130,
-        "construction": "Full Epoxy Woodglass Sandwich",
-        "edition": "WF"
+        "size": 128,
+        "construction": "Sandwich Duratech",
+        "edition": "WS"
       },
-      "volumeL": 130,
+      "lengthCm": 213,
+      "widthCm": 80,
+      "volumeL": 128,
       "fins": [
         {
           "count": 1,
@@ -51,13 +53,11 @@
     },
     {
       "variant": {
-        "size": 128,
-        "construction": "Sandwich Duratech",
-        "edition": "WS"
+        "size": 130,
+        "construction": "Full Epoxy Woodglass Sandwich",
+        "edition": "WF"
       },
-      "lengthCm": 213,
-      "widthCm": 80,
-      "volumeL": 128,
+      "volumeL": 130,
       "fins": [
         {
           "count": 1,

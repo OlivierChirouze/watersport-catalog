@@ -15,6 +15,27 @@
   "variants": [
     {
       "variant": {
+        "size": 160
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 160,
+      "lengthCm": 255,
+      "widthCm": 80,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
         "size": 160,
         "edition": "Soft Deck"
       },
@@ -55,27 +76,6 @@
       "sailRange": {
         "fromM2": 2,
         "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 160
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 160,
-      "lengthCm": 255,
-      "widthCm": 80,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9.5
       }
     },
     {

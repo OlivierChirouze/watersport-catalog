@@ -15,8 +15,7 @@
   "variants": [
     {
       "variant": {
-        "size": 110,
-        "edition": "Silver"
+        "size": 110
       },
       "compatibleFinFamilies": [
         "fins"
@@ -24,7 +23,7 @@
       "volumeL": 110,
       "lengthCm": 235,
       "widthCm": 67,
-      "weightKg": 8.5,
+      "weightKg": 7.2,
       "fins": [
         {
           "type": "TuttleBox"
@@ -37,7 +36,8 @@
     },
     {
       "variant": {
-        "size": 110
+        "size": 110,
+        "edition": "Silver"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -45,7 +45,7 @@
       "volumeL": 110,
       "lengthCm": 235,
       "widthCm": 67,
-      "weightKg": 7.2,
+      "weightKg": 8.5,
       "fins": [
         {
           "type": "TuttleBox"

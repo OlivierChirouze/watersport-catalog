@@ -15,6 +15,28 @@
   "variants": [
     {
       "variant": {
+        "size": 66,
+        "edition": "Twin"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 66,
+      "lengthCm": 232,
+      "widthCm": 52.5,
+      "weightKg": 5.7,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 4.7
+      }
+    },
+    {
+      "variant": {
         "size": 68,
         "edition": "Thruster"
       },
@@ -31,78 +53,6 @@
         },
         {
           "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.2,
-        "toM2": 4.7
-      }
-    },
-    {
-      "variant": {
-        "size": 76,
-        "edition": "Thruster"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 76,
-      "lengthCm": 231,
-      "widthCm": 56,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Thruster"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 84,
-      "lengthCm": 232,
-      "widthCm": 58.5,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 66,
-        "edition": "Twin"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 66,
-      "lengthCm": 232,
-      "widthCm": 52.5,
-      "weightKg": 5.7,
-      "fins": [
-        {
-          "type": "US"
         }
       ],
       "sailRange": {
@@ -134,6 +84,31 @@
     },
     {
       "variant": {
+        "size": 76,
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 231,
+      "widthCm": 56,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
         "size": 82,
         "edition": "Twin"
       },
@@ -152,6 +127,31 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 84,
+      "lengthCm": 232,
+      "widthCm": 58.5,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6
       }
     },
     {

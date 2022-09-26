@@ -17,33 +17,9 @@
   "variants": [
     {
       "variant": {
-        "size": 102,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 102,
-      "lengthCm": 235,
-      "widthCm": 64,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.6
-      }
-    },
-    {
-      "variant": {
         "size": 82,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "Carbon Innegra"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -62,12 +38,39 @@
       "sailRange": {
         "fromM2": 3.2,
         "toM2": 4.7
+      },
+      "weightKg": 6.5
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Wood"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 82,
+      "lengthCm": 233,
+      "widthCm": 60,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.2,
+        "toM2": 4.7
       }
     },
     {
       "variant": {
         "size": 92,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "Carbon Innegra"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -87,56 +90,6 @@
       "sailRange": {
         "fromM2": 3.7,
         "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 102,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 102,
-      "lengthCm": 235,
-      "widthCm": 64,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.6
-      }
-    },
-    {
-      "variant": {
-        "size": 82,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 82,
-      "lengthCm": 233,
-      "widthCm": 60,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.2,
-        "toM2": 4.7
       }
     },
     {
@@ -167,35 +120,53 @@
     {
       "variant": {
         "size": 102,
+        "edition": "LTD",
         "construction": "Carbon Innegra"
       },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
       "volumeL": 102,
-      "weightKg": 6.5,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "lengthCm": 235,
+      "widthCm": 64,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.6
+      }
     },
     {
       "variant": {
-        "size": 82,
-        "construction": "Carbon Innegra"
+        "size": 102,
+        "edition": "Wood"
       },
-      "volumeL": 82,
-      "weightKg": 6.5,
       "compatibleFinFamilies": [
         "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Carbon Innegra"
-      },
-      "volumeL": 92,
-      "weightKg": 6.5,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      ],
+      "volumeL": 102,
+      "lengthCm": 235,
+      "widthCm": 64,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.6
+      }
     }
   ],
   "pictures": []

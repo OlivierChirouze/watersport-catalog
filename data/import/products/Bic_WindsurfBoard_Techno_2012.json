@@ -15,23 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 133,
-        "construction": "Thermoformed"
-      },
-      "volumeL": 133,
-      "weightKg": 10.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 133
       },
       "compatibleFinFamilies": [
@@ -53,10 +36,10 @@
     },
     {
       "variant": {
-        "size": 148,
+        "size": 133,
         "construction": "Thermoformed"
       },
-      "volumeL": 148,
+      "volumeL": 133,
       "weightKg": 10.4,
       "fins": [
         {
@@ -91,10 +74,10 @@
     },
     {
       "variant": {
-        "size": 160,
+        "size": 148,
         "construction": "Thermoformed"
       },
-      "volumeL": 160,
+      "volumeL": 148,
       "weightKg": 10.4,
       "fins": [
         {
@@ -108,7 +91,8 @@
     },
     {
       "variant": {
-        "size": 160
+        "size": 160,
+        "construction": "Thermoformed"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -120,6 +104,10 @@
       "fins": [
         {
           "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {

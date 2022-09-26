@@ -18,24 +18,6 @@
         "size": 165,
         "construction": "Biax Carbon"
       },
-      "lengthCm": 230,
-      "widthCm": 100,
-      "volumeL": 165,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 165
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -45,7 +27,8 @@
       "weightKg": 8.8,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

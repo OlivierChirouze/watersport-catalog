@@ -38,29 +38,6 @@
     },
     {
       "variant": {
-        "size": 5.5
-      },
-      "surfaceM2": 5.5,
-      "luffLengthCm": 430,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        173
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [],
-      "masTypes": [
-        "RDM"
-      ],
-      "topType": "vario"
-    },
-    {
-      "variant": {
         "size": 5
       },
       "surfaceM2": 5,
@@ -84,10 +61,10 @@
     },
     {
       "variant": {
-        "size": 6.5
+        "size": 5.5
       },
-      "surfaceM2": 6.5,
-      "luffLengthCm": 445,
+      "surfaceM2": 5.5,
+      "luffLengthCm": 430,
       "mastLengthsCm": [
         430
       ],
@@ -95,17 +72,15 @@
         21
       ],
       "boomLengthsCm": [
-        193
+        173
       ],
       "battenCount": 5,
       "camCount": 0,
-      "mastExtensionLengthsCm": [
-        15
-      ],
+      "mastExtensionLengthsCm": [],
       "masTypes": [
         "RDM"
       ],
-      "topType": "fixed"
+      "topType": "vario"
     },
     {
       "variant": {
@@ -134,23 +109,23 @@
     },
     {
       "variant": {
-        "size": 7.5
+        "size": 6.5
       },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 467,
+      "surfaceM2": 6.5,
+      "luffLengthCm": 445,
       "mastLengthsCm": [
-        460
+        430
       ],
       "mastIMCS": [
-        25
+        21
       ],
       "boomLengthsCm": [
-        216
+        193
       ],
       "battenCount": 5,
       "camCount": 0,
       "mastExtensionLengthsCm": [
-        7
+        15
       ],
       "masTypes": [
         "RDM"
@@ -176,6 +151,31 @@
       "camCount": 0,
       "mastExtensionLengthsCm": [
         25
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 7.5
+      },
+      "surfaceM2": 7.5,
+      "luffLengthCm": 467,
+      "mastLengthsCm": [
+        460
+      ],
+      "mastIMCS": [
+        25
+      ],
+      "boomLengthsCm": [
+        216
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [
+        7
       ],
       "masTypes": [
         "RDM"

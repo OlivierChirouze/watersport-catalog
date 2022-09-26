@@ -14,25 +14,6 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "construction": "Carbon"
-      },
-      "lengthCm": 210,
-      "widthCm": 100,
-      "volumeL": 100,
-      "weightKg": 11.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "foil"
-      ]
-    },
-    {
-      "variant": {
         "size": 71,
         "construction": "AST"
       },
@@ -116,6 +97,25 @@
       "widthCm": 91,
       "volumeL": 91,
       "weightKg": 10.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "foil"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Carbon"
+      },
+      "lengthCm": 210,
+      "widthCm": 100,
+      "volumeL": 100,
+      "weightKg": 11.6,
       "fins": [
         {
           "count": 1,

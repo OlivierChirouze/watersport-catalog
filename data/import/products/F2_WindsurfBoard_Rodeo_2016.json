@@ -15,12 +15,45 @@
   "variants": [
     {
       "variant": {
-        "size": 116,
-        "edition": "JR"
+        "size": 80
       },
-      "lengthCm": 240,
-      "widthCm": 67,
-      "volumeL": 116,
+      "lengthCm": 218,
+      "widthCm": 58,
+      "volumeL": 80,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "lengthCm": 225,
+      "widthCm": 60,
+      "volumeL": 90,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 96
+      },
+      "lengthCm": 227,
+      "widthCm": 62,
+      "volumeL": 96,
       "fins": [
         {
           "count": 1,
@@ -67,45 +100,12 @@
     },
     {
       "variant": {
-        "size": 80
+        "size": 116,
+        "edition": "JR"
       },
-      "lengthCm": 218,
-      "widthCm": 58,
-      "volumeL": 80,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90
-      },
-      "lengthCm": 225,
-      "widthCm": 60,
-      "volumeL": 90,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96
-      },
-      "lengthCm": 227,
-      "widthCm": 62,
-      "volumeL": 96,
+      "lengthCm": 240,
+      "widthCm": 67,
+      "volumeL": 116,
       "fins": [
         {
           "count": 1,

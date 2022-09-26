@@ -38,24 +38,6 @@
         "size": 117,
         "construction": "One Shot Sandwich"
       },
-      "lengthCm": 252,
-      "widthCm": 67.5,
-      "volumeL": 117,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 117
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -65,7 +47,8 @@
       "weightKg": 7.3,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ]
     },
@@ -74,24 +57,6 @@
         "size": 130,
         "construction": "One Shot Sandwich"
       },
-      "lengthCm": 253,
-      "widthCm": 72,
-      "volumeL": 130,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 130
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -101,7 +66,8 @@
       "weightKg": 7.8,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ]
     },
@@ -110,24 +76,6 @@
         "size": 145,
         "construction": "One Shot Sandwich"
       },
-      "lengthCm": 256,
-      "widthCm": 77,
-      "volumeL": 145,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -137,7 +85,8 @@
       "weightKg": 8.3,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ]
     },
@@ -146,24 +95,6 @@
         "size": 160,
         "construction": "One Shot Sandwich"
       },
-      "lengthCm": 268,
-      "widthCm": 79,
-      "volumeL": 160,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -173,7 +104,8 @@
       "weightKg": 8.8,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ]
     }

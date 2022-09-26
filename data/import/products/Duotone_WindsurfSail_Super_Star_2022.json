@@ -14,446 +14,6 @@
   "variants": [
     {
       "variant": {
-        "size": 3.7,
-        "edition": "SLS"
-      },
-      "surfaceM2": 3.7,
-      "weightKg": 2.35,
-      "boomLengthsCm": [
-        146
-      ],
-      "luffLengthCm": 360,
-      "mastLengthsCm": [
-        340,
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        20
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.2,
-        "edition": "SLS"
-      },
-      "surfaceM2": 4.2,
-      "weightKg": 2.55,
-      "boomLengthsCm": [
-        150
-      ],
-      "luffLengthCm": 380,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        10
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.5,
-        "edition": "SLS"
-      },
-      "surfaceM2": 4.5,
-      "weightKg": 2.65,
-      "boomLengthsCm": [
-        156
-      ],
-      "luffLengthCm": 390,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        20
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.7,
-        "edition": "SLS"
-      },
-      "surfaceM2": 4.7,
-      "weightKg": 2.75,
-      "boomLengthsCm": [
-        162
-      ],
-      "luffLengthCm": 406,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        6
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4,
-        "edition": "SLS"
-      },
-      "surfaceM2": 4,
-      "weightKg": 2.45,
-      "boomLengthsCm": [
-        148
-      ],
-      "luffLengthCm": 374,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        4
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.3,
-        "edition": "SLS"
-      },
-      "surfaceM2": 5.3,
-      "weightKg": 2.95,
-      "boomLengthsCm": [
-        168
-      ],
-      "luffLengthCm": 430,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        30
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.7,
-        "edition": "SLS"
-      },
-      "surfaceM2": 5.7,
-      "weightKg": 3.05,
-      "boomLengthsCm": [
-        174
-      ],
-      "luffLengthCm": 438,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastExtensionLengthsCm": [
-        8
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5,
-        "edition": "SLS"
-      },
-      "surfaceM2": 5,
-      "weightKg": 2.85,
-      "boomLengthsCm": [
-        164
-      ],
-      "luffLengthCm": 414,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        14
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 6.2,
-        "edition": "SLS"
-      },
-      "surfaceM2": 6.2,
-      "weightKg": 3.25,
-      "boomLengthsCm": [
-        182
-      ],
-      "luffLengthCm": 448,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastExtensionLengthsCm": [
-        18
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 3.7,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 3.7,
-      "weightKg": 2.35,
-      "boomLengthsCm": [
-        146
-      ],
-      "luffLengthCm": 360,
-      "mastLengthsCm": [
-        340,
-        370
-      ],
-      "mastExtensionLengthsCm": [
-        20
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.2,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 4.2,
-      "weightKg": 2.55,
-      "boomLengthsCm": [
-        150
-      ],
-      "luffLengthCm": 380,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        10
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.5,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 4.5,
-      "weightKg": 2.65,
-      "boomLengthsCm": [
-        156
-      ],
-      "luffLengthCm": 390,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        20
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.7,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 4.7,
-      "weightKg": 2.75,
-      "boomLengthsCm": [
-        162
-      ],
-      "luffLengthCm": 406,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        6
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 4,
-      "weightKg": 2.45,
-      "boomLengthsCm": [
-        148
-      ],
-      "luffLengthCm": 374,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        4
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.3,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 5.3,
-      "weightKg": 2.95,
-      "boomLengthsCm": [
-        168
-      ],
-      "luffLengthCm": 430,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        30
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5.7,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 5.7,
-      "weightKg": 3.05,
-      "boomLengthsCm": [
-        174
-      ],
-      "luffLengthCm": 438,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastExtensionLengthsCm": [
-        8
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 5,
-      "weightKg": 2.85,
-      "boomLengthsCm": [
-        164
-      ],
-      "luffLengthCm": 414,
-      "mastLengthsCm": [
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        14
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 6.2,
-        "edition": "Stargazer"
-      },
-      "surfaceM2": 6.2,
-      "weightKg": 3.25,
-      "boomLengthsCm": [
-        182
-      ],
-      "luffLengthCm": 448,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastExtensionLengthsCm": [
-        18
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 3.7
       },
       "surfaceM2": 3.7,
@@ -476,12 +36,186 @@
     },
     {
       "variant": {
+        "size": 3.7,
+        "edition": "SLS"
+      },
+      "surfaceM2": 3.7,
+      "weightKg": 2.35,
+      "boomLengthsCm": [
+        146
+      ],
+      "luffLengthCm": 360,
+      "mastLengthsCm": [
+        340,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 3.7,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 3.7,
+      "weightKg": 2.35,
+      "boomLengthsCm": [
+        146
+      ],
+      "luffLengthCm": 360,
+      "mastLengthsCm": [
+        340,
+        370
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.8,
+      "boomLengthsCm": [
+        150
+      ],
+      "luffLengthCm": 374,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        4
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "SLS"
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.45,
+      "boomLengthsCm": [
+        148
+      ],
+      "luffLengthCm": 374,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        4
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4,
+      "weightKg": 2.45,
+      "boomLengthsCm": [
+        148
+      ],
+      "luffLengthCm": 374,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        4
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
         "size": 4.2
       },
       "surfaceM2": 4.2,
       "weightKg": 2.9,
       "boomLengthsCm": [
         154
+      ],
+      "luffLengthCm": 380,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        10
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2,
+        "edition": "SLS"
+      },
+      "surfaceM2": 4.2,
+      "weightKg": 2.55,
+      "boomLengthsCm": [
+        150
+      ],
+      "luffLengthCm": 380,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        10
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.2,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4.2,
+      "weightKg": 2.55,
+      "boomLengthsCm": [
+        150
       ],
       "luffLengthCm": 380,
       "mastLengthsCm": [
@@ -524,6 +258,56 @@
     },
     {
       "variant": {
+        "size": 4.5,
+        "edition": "SLS"
+      },
+      "surfaceM2": 4.5,
+      "weightKg": 2.65,
+      "boomLengthsCm": [
+        156
+      ],
+      "luffLengthCm": 390,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 4.5,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 4.5,
+      "weightKg": 2.65,
+      "boomLengthsCm": [
+        156
+      ],
+      "luffLengthCm": 390,
+      "mastLengthsCm": [
+        370,
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        20
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
         "size": 4.7
       },
       "surfaceM2": 4.7,
@@ -547,43 +331,20 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 4.7,
+        "edition": "SLS"
       },
-      "surfaceM2": 4,
-      "weightKg": 2.8,
+      "surfaceM2": 4.7,
+      "weightKg": 2.75,
       "boomLengthsCm": [
-        150
+        162
       ],
-      "luffLengthCm": 374,
-      "mastLengthsCm": [
-        370,
-        400
-      ],
-      "mastExtensionLengthsCm": [
-        4
-      ],
-      "masTypes": [
-        "RDM"
-      ],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.3
-      },
-      "surfaceM2": 5.3,
-      "weightKg": 3.3,
-      "boomLengthsCm": [
-        166
-      ],
-      "luffLengthCm": 428,
+      "luffLengthCm": 406,
       "mastLengthsCm": [
         400
       ],
       "mastExtensionLengthsCm": [
-        28
+        6
       ],
       "masTypes": [
         "RDM"
@@ -594,19 +355,20 @@
     },
     {
       "variant": {
-        "size": 5.7
+        "size": 4.7,
+        "edition": "Stargazer"
       },
-      "surfaceM2": 5.7,
-      "weightKg": 3.4,
+      "surfaceM2": 4.7,
+      "weightKg": 2.75,
       "boomLengthsCm": [
-        176
+        162
       ],
-      "luffLengthCm": 438,
+      "luffLengthCm": 406,
       "mastLengthsCm": [
-        430
+        400
       ],
       "mastExtensionLengthsCm": [
-        8
+        6
       ],
       "masTypes": [
         "RDM"
@@ -640,10 +402,248 @@
     },
     {
       "variant": {
+        "size": 5,
+        "edition": "SLS"
+      },
+      "surfaceM2": 5,
+      "weightKg": 2.85,
+      "boomLengthsCm": [
+        164
+      ],
+      "luffLengthCm": 414,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        14
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 5,
+      "weightKg": 2.85,
+      "boomLengthsCm": [
+        164
+      ],
+      "luffLengthCm": 414,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        14
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3
+      },
+      "surfaceM2": 5.3,
+      "weightKg": 3.3,
+      "boomLengthsCm": [
+        166
+      ],
+      "luffLengthCm": 428,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        28
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3,
+        "edition": "SLS"
+      },
+      "surfaceM2": 5.3,
+      "weightKg": 2.95,
+      "boomLengthsCm": [
+        168
+      ],
+      "luffLengthCm": 430,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        30
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.3,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 5.3,
+      "weightKg": 2.95,
+      "boomLengthsCm": [
+        168
+      ],
+      "luffLengthCm": 430,
+      "mastLengthsCm": [
+        400
+      ],
+      "mastExtensionLengthsCm": [
+        30
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7
+      },
+      "surfaceM2": 5.7,
+      "weightKg": 3.4,
+      "boomLengthsCm": [
+        176
+      ],
+      "luffLengthCm": 438,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7,
+        "edition": "SLS"
+      },
+      "surfaceM2": 5.7,
+      "weightKg": 3.05,
+      "boomLengthsCm": [
+        174
+      ],
+      "luffLengthCm": 438,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 5.7,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 5.7,
+      "weightKg": 3.05,
+      "boomLengthsCm": [
+        174
+      ],
+      "luffLengthCm": 438,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        8
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
         "size": 6.2
       },
       "surfaceM2": 6.2,
       "weightKg": 3.7,
+      "boomLengthsCm": [
+        182
+      ],
+      "luffLengthCm": 448,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        18
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2,
+        "edition": "SLS"
+      },
+      "surfaceM2": 6.2,
+      "weightKg": 3.25,
+      "boomLengthsCm": [
+        182
+      ],
+      "luffLengthCm": 448,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastExtensionLengthsCm": [
+        18
+      ],
+      "masTypes": [
+        "RDM"
+      ],
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 6.2,
+        "edition": "Stargazer"
+      },
+      "surfaceM2": 6.2,
+      "weightKg": 3.25,
       "boomLengthsCm": [
         182
       ],

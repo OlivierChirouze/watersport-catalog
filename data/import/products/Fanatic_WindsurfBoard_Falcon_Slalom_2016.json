@@ -15,6 +15,65 @@
   "variants": [
     {
       "variant": {
+        "size": 90,
+        "construction": "Bcs",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 59,
+      "volumeL": 90,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Bcs",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 63,
+      "volumeL": 99,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "BGS"
+      },
+      "lengthCm": 235,
+      "widthCm": 63,
+      "volumeL": 99,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 112,
         "construction": "Bcs",
         "edition": "TE"
@@ -23,6 +82,25 @@
       "widthCm": 70,
       "volumeL": 112,
       "weightKg": 6.35,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "BGS"
+      },
+      "lengthCm": 230,
+      "widthCm": 70,
+      "volumeL": 112,
+      "weightKg": 7,
       "fins": [
         {
           "count": 1,
@@ -47,6 +125,25 @@
         {
           "count": 1,
           "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 121,
+        "construction": "BGS"
+      },
+      "lengthCm": 230,
+      "widthCm": 75,
+      "volumeL": 121,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "compatibleFinFamilies": [
@@ -103,103 +200,6 @@
       "widthCm": 90,
       "volumeL": 152,
       "weightKg": 8.05,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Bcs",
-        "edition": "TE"
-      },
-      "lengthCm": 235,
-      "widthCm": 59,
-      "volumeL": 90,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Bcs",
-        "edition": "TE"
-      },
-      "lengthCm": 235,
-      "widthCm": 63,
-      "volumeL": 99,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "BGS"
-      },
-      "lengthCm": 230,
-      "widthCm": 70,
-      "volumeL": 112,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 121,
-        "construction": "BGS"
-      },
-      "lengthCm": 230,
-      "widthCm": 75,
-      "volumeL": 121,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "BGS"
-      },
-      "lengthCm": 235,
-      "widthCm": 63,
-      "volumeL": 99,
-      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,

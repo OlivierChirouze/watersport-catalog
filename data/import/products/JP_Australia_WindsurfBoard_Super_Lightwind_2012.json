@@ -15,27 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 165,
-        "edition": "FWS"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 165,
-      "lengthCm": 250,
-      "widthCm": 92,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7,
-        "toM2": 12
-      }
-    },
-    {
-      "variant": {
         "size": 154,
         "edition": "Gold"
       },
@@ -68,6 +47,27 @@
       "lengthCm": 237,
       "widthCm": 90,
       "weightKg": 8.9,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7,
+        "toM2": 12
+      }
+    },
+    {
+      "variant": {
+        "size": 165,
+        "edition": "FWS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 165,
+      "lengthCm": 250,
+      "widthCm": 92,
       "fins": [
         {
           "type": "DeepTuttleBox"

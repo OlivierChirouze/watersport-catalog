@@ -15,24 +15,24 @@
   "variants": [
     {
       "variant": {
-        "size": 140,
-        "edition": "M"
+        "size": 120,
+        "edition": "XS"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 140,
-      "lengthCm": 249,
-      "widthCm": 75,
-      "weightKg": 7.9,
+      "volumeL": 120,
+      "lengthCm": 241,
+      "widthCm": 69,
+      "weightKg": 7.1,
       "fins": [
         {
           "type": "PowerBox"
         }
       ],
       "sailRange": {
-        "fromM2": 6,
-        "toM2": 10
+        "fromM2": 5,
+        "toM2": 8.5
       }
     },
     {
@@ -59,24 +59,24 @@
     },
     {
       "variant": {
-        "size": 120,
-        "edition": "XS"
+        "size": 140,
+        "edition": "M"
       },
       "compatibleFinFamilies": [
         "fins"
       ],
-      "volumeL": 120,
-      "lengthCm": 241,
-      "widthCm": 69,
-      "weightKg": 7.1,
+      "volumeL": 140,
+      "lengthCm": 249,
+      "widthCm": 75,
+      "weightKg": 7.9,
       "fins": [
         {
           "type": "PowerBox"
         }
       ],
       "sailRange": {
-        "fromM2": 5,
-        "toM2": 8.5
+        "fromM2": 6,
+        "toM2": 10
       }
     }
   ],

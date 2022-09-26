@@ -18,16 +18,6 @@
         "size": 160,
         "construction": "AST"
       },
-      "volumeL": 160,
-      "weightKg": 14,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 160
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -51,16 +41,6 @@
         "size": 190,
         "construction": "AST"
       },
-      "volumeL": 190,
-      "weightKg": 14,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 190
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -78,17 +58,6 @@
         "fromM2": 1,
         "toM2": 9
       }
-    },
-    {
-      "variant": {
-        "size": 230,
-        "construction": "AST"
-      },
-      "volumeL": 230,
-      "weightKg": 14,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     },
     {
       "variant": {
@@ -111,6 +80,17 @@
         "fromM2": 1,
         "toM2": 9
       }
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "AST"
+      },
+      "volumeL": 230,
+      "weightKg": 14,
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     }
   ],
   "pictures": []

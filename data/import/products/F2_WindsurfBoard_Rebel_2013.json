@@ -18,22 +18,6 @@
         "size": 63,
         "construction": "Sandwich"
       },
-      "volumeL": 63,
-      "weightKg": 7.35,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 63
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -43,12 +27,17 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "SlotBox"
         }
       ],
       "sailRange": {
         "fromM2": 2.5,
         "toM2": 4.7
-      }
+      },
+      "weightKg": 7.35
     },
     {
       "variant": {
@@ -115,16 +104,6 @@
         "size": 75,
         "construction": "Sandwich"
       },
-      "volumeL": 75,
-      "weightKg": 7.35,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 75
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -139,7 +118,8 @@
       "sailRange": {
         "fromM2": 3.5,
         "toM2": 5.5
-      }
+      },
+      "weightKg": 7.35
     },
     {
       "variant": {

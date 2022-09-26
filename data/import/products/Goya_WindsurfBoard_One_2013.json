@@ -18,235 +18,9 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
-        "edition": "Eco"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 104,
-      "lengthCm": 238.5,
-      "widthCm": 62.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 116,
-        "edition": "Eco"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 116,
-      "lengthCm": 243,
-      "widthCm": 66.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 130,
-        "edition": "Eco"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 246,
-      "widthCm": 70.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 144,
-        "edition": "Eco"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 144,
-      "lengthCm": 250,
-      "widthCm": 75.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 86,
-        "edition": "Eco"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 86,
-      "lengthCm": 234.5,
-      "widthCm": 58.7,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 94,
-        "edition": "Eco"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 94,
-      "lengthCm": 236,
-      "widthCm": 60.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 104,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 104,
-      "lengthCm": 238.5,
-      "widthCm": 62.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 116,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 116,
-      "lengthCm": 243,
-      "widthCm": 66.8,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 130,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 246,
-      "widthCm": 70.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 144,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 144,
-      "lengthCm": 250,
-      "widthCm": 75.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
         "size": 72,
-        "construction": "Biax Carbon",
-        "edition": "Pro"
-      },
-      "volumeL": 72,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 72,
-        "edition": "Pro"
+        "edition": "Pro",
+        "construction": "Biax Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -257,6 +31,10 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ],
       "sailRange": {
@@ -267,24 +45,8 @@
     {
       "variant": {
         "size": 78,
-        "construction": "Biax Carbon",
-        "edition": "Pro"
-      },
-      "volumeL": 78,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "edition": "Pro"
+        "edition": "Pro",
+        "construction": "Biax Carbon"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -294,13 +56,41 @@
       "widthCm": 55.4,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 3.7,
         "toM2": 5.7
       }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "Eco",
+        "construction": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 86,
+      "lengthCm": 234.5,
+      "widthCm": 58.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      },
+      "weightKg": 8
     },
     {
       "variant": {
@@ -326,6 +116,30 @@
     {
       "variant": {
         "size": 94,
+        "edition": "Eco",
+        "construction": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 94,
+      "lengthCm": 236,
+      "widthCm": 60.5,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      },
+      "weightKg": 8
+    },
+    {
+      "variant": {
+        "size": 94,
         "edition": "Pro"
       },
       "compatibleFinFamilies": [
@@ -346,37 +160,171 @@
     },
     {
       "variant": {
-        "size": 86,
-        "construction": "Pro"
+        "size": 104,
+        "edition": "Eco"
       },
-      "volumeL": 86,
-      "weightKg": 8,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 238.5,
+      "widthCm": 62.8,
       "fins": [
         {
-          "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7
+      }
     },
     {
       "variant": {
-        "size": 94,
-        "construction": "Pro"
+        "size": 104,
+        "edition": "Pro"
       },
-      "volumeL": 94,
-      "weightKg": 8,
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 104,
+      "lengthCm": 238.5,
+      "widthCm": 62.8,
       "fins": [
         {
-          "count": 1,
           "type": "PowerBox"
         }
       ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 116,
+        "edition": "Eco"
+      },
       "compatibleFinFamilies": [
         "fins"
-      ]
+      ],
+      "volumeL": 116,
+      "lengthCm": 243,
+      "widthCm": 66.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 116,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 243,
+      "widthCm": 66.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Eco"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 246,
+      "widthCm": 70.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 246,
+      "widthCm": 70.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 144,
+        "edition": "Eco"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 144,
+      "lengthCm": 250,
+      "widthCm": 75.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 144,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 144,
+      "lengthCm": 250,
+      "widthCm": 75.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.5,
+        "toM2": 9.5
+      }
     }
   ],
   "pictures": []

@@ -19,21 +19,6 @@
         "size": 65,
         "construction": "Carbon"
       },
-      "volumeL": 65,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 65
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -42,7 +27,8 @@
       "widthCm": 55,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -54,15 +40,6 @@
       "variant": {
         "size": 74,
         "construction": "Carbon"
-      },
-      "volumeL": 74,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 74
       },
       "compatibleFinFamilies": [
         "fins"

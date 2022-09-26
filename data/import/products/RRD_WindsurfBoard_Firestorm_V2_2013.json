@@ -33,17 +33,6 @@
     },
     {
       "variant": {
-        "size": 111,
-        "construction": "N",
-        "edition": "LTD"
-      },
-      "volumeL": 111,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 101,
         "construction": "N",
         "edition": "Wood"
@@ -55,6 +44,17 @@
           "type": "PowerBox"
         }
       ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 111,
+        "construction": "N",
+        "edition": "LTD"
+      },
+      "volumeL": 111,
       "compatibleFinFamilies": [
         "fins"
       ]

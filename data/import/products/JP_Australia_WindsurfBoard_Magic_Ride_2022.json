@@ -15,267 +15,231 @@
   "variants": [
     {
       "variant": {
-        "size": 139,
-        "construction": "ES",
-        "edition": "EVA Family"
-      },
-      "lengthCm": 249,
-      "widthCm": 80,
-      "volumeL": 139,
-      "weightKg": 10,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 149,
-        "construction": "ES",
-        "edition": "EVA Family"
-      },
-      "lengthCm": 251,
-      "widthCm": 83,
-      "volumeL": 149,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 109,
-        "construction": "ES"
-      },
-      "lengthCm": 241,
-      "widthCm": 70,
-      "volumeL": 109,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 109,
-        "construction": "LXT"
-      },
-      "lengthCm": 241,
-      "widthCm": 70,
-      "volumeL": 109,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 119,
-        "construction": "ES"
-      },
-      "lengthCm": 241,
-      "widthCm": 74,
-      "volumeL": 119,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 119,
-        "construction": "LXT"
-      },
-      "lengthCm": 241,
-      "widthCm": 74,
-      "volumeL": 119,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 129,
-        "construction": "ES"
-      },
-      "lengthCm": 244,
-      "widthCm": 77,
-      "volumeL": 129,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 129,
-        "construction": "LXT"
-      },
-      "lengthCm": 244,
-      "widthCm": 77,
-      "volumeL": 129,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 139,
-        "construction": "ES"
-      },
-      "lengthCm": 249,
-      "widthCm": 80,
-      "volumeL": 139,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 139,
-        "construction": "LXT"
-      },
-      "lengthCm": 249,
-      "widthCm": 80,
-      "volumeL": 139,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 149,
-        "construction": "ES"
-      },
-      "lengthCm": 251,
-      "widthCm": 83,
-      "volumeL": 149,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 149,
-        "construction": "LXT"
-      },
-      "lengthCm": 251,
-      "widthCm": 83,
-      "volumeL": 149,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 159,
-        "construction": "ES"
-      },
-      "lengthCm": 255,
-      "widthCm": 83.5,
-      "volumeL": 159,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 159,
-        "construction": "LXT"
-      },
-      "lengthCm": 255,
-      "widthCm": 83.5,
-      "volumeL": 159,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 99,
         "construction": "LXT"
       },
       "lengthCm": 239,
       "widthCm": 66,
       "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 109,
+        "construction": "ES"
+      },
+      "lengthCm": 241,
+      "widthCm": 70,
+      "volumeL": 109,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 109,
+        "construction": "LXT"
+      },
+      "lengthCm": 241,
+      "widthCm": 70,
+      "volumeL": 109,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 119,
+        "construction": "ES"
+      },
+      "lengthCm": 241,
+      "widthCm": 74,
+      "volumeL": 119,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 119,
+        "construction": "LXT"
+      },
+      "lengthCm": 241,
+      "widthCm": 74,
+      "volumeL": 119,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 129,
+        "construction": "ES"
+      },
+      "lengthCm": 244,
+      "widthCm": 77,
+      "volumeL": 129,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 129,
+        "construction": "LXT"
+      },
+      "lengthCm": 244,
+      "widthCm": 77,
+      "volumeL": 129,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 139,
+        "construction": "ES",
+        "edition": "EVA Family"
+      },
+      "lengthCm": 249,
+      "widthCm": 80,
+      "volumeL": 139,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "weightKg": 10
+    },
+    {
+      "variant": {
+        "size": 139,
+        "construction": "LXT"
+      },
+      "lengthCm": 249,
+      "widthCm": 80,
+      "volumeL": 139,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 149,
+        "construction": "ES",
+        "edition": "EVA Family"
+      },
+      "lengthCm": 251,
+      "widthCm": 83,
+      "volumeL": 149,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 149,
+        "construction": "LXT"
+      },
+      "lengthCm": 251,
+      "widthCm": 83,
+      "volumeL": 149,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 159,
+        "construction": "ES"
+      },
+      "lengthCm": 255,
+      "widthCm": 83.5,
+      "volumeL": 159,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 159,
+        "construction": "LXT"
+      },
+      "lengthCm": 255,
+      "widthCm": 83.5,
+      "volumeL": 159,
       "fins": [
         {
           "count": 1,

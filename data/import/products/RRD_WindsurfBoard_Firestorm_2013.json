@@ -15,6 +15,28 @@
   "variants": [
     {
       "variant": {
+        "size": 111,
+        "edition": "W-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 111,
+      "lengthCm": 236,
+      "widthCm": 68,
+      "weightKg": 7.26,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
         "size": 120,
         "edition": "LTD"
       },
@@ -59,50 +81,6 @@
     },
     {
       "variant": {
-        "size": 138,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 138,
-      "lengthCm": 240,
-      "widthCm": 77,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.5,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 111,
-        "edition": "W-Tech"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 111,
-      "lengthCm": 236,
-      "widthCm": 68,
-      "weightKg": 7.26,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
         "size": 120,
         "edition": "W-Tech"
       },
@@ -121,6 +99,28 @@
       "sailRange": {
         "fromM2": 7,
         "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 138,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 138,
+      "lengthCm": 240,
+      "widthCm": 77,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 9.5
       }
     },
     {

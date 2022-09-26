@@ -15,6 +15,51 @@
   "variants": [
     {
       "variant": {
+        "size": 80,
+        "construction": "Biax Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 80,
+      "lengthCm": 230,
+      "widthCm": 59,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "SlotBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "Biax Carbon"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 90,
+      "lengthCm": 228,
+      "widthCm": 63,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
         "size": 100
       },
       "compatibleFinFamilies": [
@@ -53,74 +98,6 @@
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 7.8
-      }
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Biax Carbon"
-      },
-      "volumeL": 80,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 80
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 80,
-      "lengthCm": 230,
-      "widthCm": 59,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Biax Carbon"
-      },
-      "volumeL": 90,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 90,
-      "lengthCm": 228,
-      "widthCm": 63,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.5
       }
     }
   ],

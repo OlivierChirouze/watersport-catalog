@@ -18,24 +18,8 @@
     {
       "variant": {
         "size": 202,
-        "construction": "Wood",
-        "edition": "Eco"
-      },
-      "volumeL": 202,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 202,
-        "edition": "Eco"
+        "edition": "Eco",
+        "construction": "Wood"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -45,9 +29,9 @@
       "widthCm": 84.5,
       "fins": [
         {
-          "type": "PowerBox"
-        },
-        null
+          "type": "PowerBox",
+          "count": 1
+        }
       ],
       "sailRange": {
         "fromM2": 2,

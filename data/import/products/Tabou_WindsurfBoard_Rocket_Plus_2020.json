@@ -35,6 +35,26 @@
     },
     {
       "variant": {
+        "size": 103,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
+      },
+      "lengthCm": 237,
+      "widthCm": 69,
+      "volumeL": 103,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 113,
         "construction": "PVC Full Sandwich Carbon",
         "edition": "Carbon Flex"
@@ -43,6 +63,26 @@
       "widthCm": 73,
       "volumeL": 113,
       "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 113,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
+      },
+      "lengthCm": 237,
+      "widthCm": 73,
+      "volumeL": 113,
+      "weightKg": 7.5,
       "fins": [
         {
           "count": 1,
@@ -75,13 +115,13 @@
     },
     {
       "variant": {
-        "size": 133,
-        "construction": "PVC Full Sandwich Carbon",
-        "edition": "Carbon Flex"
+        "size": 123,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
       },
       "lengthCm": 237,
-      "widthCm": 81,
-      "volumeL": 133,
+      "widthCm": 77,
+      "volumeL": 123,
       "weightKg": 7.8,
       "fins": [
         {
@@ -95,53 +135,13 @@
     },
     {
       "variant": {
-        "size": 103,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
+        "size": 133,
+        "construction": "PVC Full Sandwich Carbon",
+        "edition": "Carbon Flex"
       },
       "lengthCm": 237,
-      "widthCm": 69,
-      "volumeL": 103,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 113,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
-      },
-      "lengthCm": 237,
-      "widthCm": 73,
-      "volumeL": 113,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 123,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
-      },
-      "lengthCm": 237,
-      "widthCm": 77,
-      "volumeL": 123,
+      "widthCm": 81,
+      "volumeL": 133,
       "weightKg": 7.8,
       "fins": [
         {

@@ -15,50 +15,17 @@
   "variants": [
     {
       "variant": {
-        "size": 6.2,
-        "edition": "Technora Limited"
+        "size": 4
       },
-      "surfaceM2": 6.2,
-      "luffLengthCm": 446,
+      "surfaceM2": 4,
+      "luffLengthCm": 368,
       "mastLengthsCm": [
-        430
+        370
       ],
       "boomLengthsCm": [
-        196
+        153
       ],
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 6.8,
-        "edition": "Technora Limited"
-      },
-      "surfaceM2": 6.8,
-      "luffLengthCm": 466,
-      "mastLengthsCm": [
-        460
-      ],
-      "boomLengthsCm": [
-        205
-      ],
-      "weightKg": 4.46,
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 7.5,
-        "edition": "Technora Limited"
-      },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 490,
-      "mastLengthsCm": [
-        460
-      ],
-      "boomLengthsCm": [
-        212
-      ],
+      "weightKg": 3.68,
       "battenCount": 6,
       "camCount": 0
     },
@@ -75,22 +42,6 @@
         163
       ],
       "weightKg": 3.88,
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 4
-      },
-      "surfaceM2": 4,
-      "luffLengthCm": 368,
-      "mastLengthsCm": [
-        370
-      ],
-      "boomLengthsCm": [
-        153
-      ],
-      "weightKg": 3.68,
       "battenCount": 6,
       "camCount": 0
     },
@@ -128,7 +79,24 @@
     },
     {
       "variant": {
-        "size": 6.8
+        "size": 6.2,
+        "edition": "Technora Limited"
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [
+        430
+      ],
+      "boomLengthsCm": [
+        196
+      ],
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.8,
+        "edition": "Technora Limited"
       },
       "surfaceM2": 6.8,
       "luffLengthCm": 466,
@@ -144,7 +112,8 @@
     },
     {
       "variant": {
-        "size": 7.5
+        "size": 7.5,
+        "edition": "Technora Limited"
       },
       "surfaceM2": 7.5,
       "luffLengthCm": 490,

@@ -16,224 +16,10 @@
   "variants": [
     {
       "variant": {
-        "size": 106,
-        "construction": "Carbon Sandwich",
-        "edition": "Quad MB"
-      },
-      "lengthCm": 229,
-      "widthCm": 63.2,
-      "volumeL": 106,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "Carbon Sandwich",
-        "edition": "Quad MB"
-      },
-      "lengthCm": 231.3,
-      "widthCm": 66.5,
-      "volumeL": 116,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 68,
         "construction": "Carbon Sandwich",
         "edition": "Quad MB"
       },
-      "lengthCm": 214.9,
-      "widthCm": 53,
-      "volumeL": 68,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Carbon Sandwich",
-        "edition": "Quad MB"
-      },
-      "lengthCm": 220,
-      "widthCm": 54.2,
-      "volumeL": 74,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Carbon Sandwich",
-        "edition": "Quad MB"
-      },
-      "lengthCm": 222,
-      "widthCm": 56.3,
-      "volumeL": 80,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Carbon Sandwich",
-        "edition": "Quad MB"
-      },
-      "lengthCm": 224,
-      "widthCm": 58.2,
-      "volumeL": 86,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "Carbon Sandwich",
-        "edition": "Quad MB"
-      },
-      "lengthCm": 226.4,
-      "widthCm": 60.8,
-      "volumeL": 96,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 106
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 106,
-      "lengthCm": 229,
-      "widthCm": 63.2,
-      "weightKg": 7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 116
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 116,
-      "lengthCm": 231.3,
-      "widthCm": 66.5,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.3
-      }
-    },
-    {
-      "variant": {
-        "size": 68
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -243,10 +29,12 @@
       "weightKg": 6,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -256,7 +44,9 @@
     },
     {
       "variant": {
-        "size": 74
+        "size": 74,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad MB"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -267,10 +57,12 @@
       "weightKg": 6.1,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -280,7 +72,9 @@
     },
     {
       "variant": {
-        "size": 80
+        "size": 80,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad MB"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -291,10 +85,12 @@
       "weightKg": 6.3,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -304,7 +100,9 @@
     },
     {
       "variant": {
-        "size": 86
+        "size": 86,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad MB"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -315,10 +113,12 @@
       "weightKg": 6.6,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -328,7 +128,9 @@
     },
     {
       "variant": {
-        "size": 96
+        "size": 96,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad MB"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -339,15 +141,73 @@
       "weightKg": 6.8,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
         "fromM2": 4,
         "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad MB"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 106,
+      "lengthCm": 229,
+      "widthCm": 63.2,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US",
+          "count": 2
+        },
+        {
+          "type": "MiniTuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "Carbon Sandwich",
+        "edition": "Quad MB"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 116,
+      "lengthCm": 231.3,
+      "widthCm": 66.5,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "US",
+          "count": 2
+        },
+        {
+          "type": "MiniTuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.3
       }
     }
   ],

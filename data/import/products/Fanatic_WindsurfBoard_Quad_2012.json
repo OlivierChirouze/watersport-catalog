@@ -15,6 +15,27 @@
   "variants": [
     {
       "variant": {
+        "size": 69,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 69,
+      "lengthCm": 225,
+      "widthCm": 52.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
         "size": 75,
         "edition": "GDS"
       },
@@ -36,8 +57,50 @@
     },
     {
       "variant": {
+        "size": 75,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 75,
+      "lengthCm": 226,
+      "widthCm": 54.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
         "size": 81,
         "edition": "GDS"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 81,
+      "lengthCm": 227,
+      "widthCm": 56.5,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 81,
+        "edition": "TE"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -74,69 +137,6 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 69,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 69,
-      "lengthCm": 225,
-      "widthCm": 52.5,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 75,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 75,
-      "lengthCm": 226,
-      "widthCm": 54.5,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 81,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 81,
-      "lengthCm": 227,
-      "widthCm": 56.5,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.8
       }
     },
     {

@@ -20,130 +20,25 @@
         "construction": "N",
         "edition": "Contest"
       },
-      "volumeL": 68,
-      "weightKg": 6.55,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 68,
-        "edition": "Contest"
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
       "volumeL": 68,
-      "lengthCm": 229,
-      "widthCm": 53,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 76,
-        "edition": "Contest"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 76,
       "lengthCm": 229,
       "widthCm": 54,
-      "weightKg": 6.2,
+      "weightKg": 5.96,
       "fins": [
         {
           "type": "US"
         },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "N",
-        "edition": "Contest"
-      },
-      "volumeL": 84,
-      "weightKg": 6.3,
-      "fins": [
         {
           "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Contest"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 84,
-      "lengthCm": 229,
-      "widthCm": 55.5,
-      "weightKg": 6.55,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
           "type": "SlotBox"
         }
       ],
       "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 91,
-        "edition": "Contest"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 91,
-      "lengthCm": 230,
-      "widthCm": 58,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 5.8
+        "fromM2": 3.2,
+        "toM2": 4.7
       }
     },
     {
@@ -158,71 +53,6 @@
       "lengthCm": 229,
       "widthCm": 54,
       "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.2,
-        "toM2": 4.7
-      }
-    },
-    {
-      "variant": {
-        "size": 76,
-        "edition": "Quad"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 76,
-      "lengthCm": 229,
-      "widthCm": 54,
-      "weightKg": 6.85,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Quad"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 84,
-      "lengthCm": 229,
-      "widthCm": 55.5,
-      "weightKg": 6.35,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.6
-      }
-    },
-    {
-      "variant": {
-        "size": 68
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 68,
-      "lengthCm": 229,
-      "widthCm": 54,
-      "weightKg": 5.96,
       "fins": [
         {
           "type": "US"
@@ -256,7 +86,48 @@
     },
     {
       "variant": {
-        "size": 84
+        "size": 76,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 229,
+      "widthCm": 54,
+      "weightKg": 6.85,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "N",
+        "edition": "Contest"
+      },
+      "volumeL": 84,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "Quad"
       },
       "compatibleFinFamilies": [
         "fins"

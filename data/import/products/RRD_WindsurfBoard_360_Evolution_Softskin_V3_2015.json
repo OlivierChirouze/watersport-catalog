@@ -19,24 +19,6 @@
         "size": 135,
         "construction": "Softskin"
       },
-      "lengthCm": 248,
-      "widthCm": 72,
-      "volumeL": 135,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 135
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -46,7 +28,8 @@
       "weightKg": 9.5,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -59,24 +42,6 @@
         "size": 145,
         "construction": "Softskin"
       },
-      "lengthCm": 249,
-      "widthCm": 75,
-      "volumeL": 145,
-      "weightKg": 10.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -86,7 +51,8 @@
       "weightKg": 10.3,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -99,24 +65,6 @@
         "size": 155,
         "construction": "Softskin"
       },
-      "lengthCm": 251,
-      "widthCm": 78,
-      "volumeL": 155,
-      "weightKg": 10.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 155
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -126,7 +74,8 @@
       "weightKg": 10.9,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -139,24 +88,6 @@
         "size": 158,
         "construction": "Softskin"
       },
-      "lengthCm": 257,
-      "widthCm": 81,
-      "volumeL": 158,
-      "weightKg": 11.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 158
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -166,9 +97,9 @@
       "weightKg": 11.6,
       "fins": [
         {
-          "type": "PowerBox"
-        },
-        null
+          "type": "PowerBox",
+          "count": 1
+        }
       ],
       "sailRange": {
         "fromM2": 1.5,

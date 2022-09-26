@@ -14,6 +14,24 @@
   "variants": [
     {
       "variant": {
+        "size": 96,
+        "edition": "LTD"
+      },
+      "lengthCm": 242,
+      "widthCm": 58,
+      "volumeL": 96,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 106,
         "edition": "LTD"
       },
@@ -68,60 +86,6 @@
     },
     {
       "variant": {
-        "size": 136,
-        "edition": "LTD"
-      },
-      "lengthCm": 250,
-      "widthCm": 72,
-      "volumeL": 136,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 146,
-        "edition": "LTD"
-      },
-      "lengthCm": 250,
-      "widthCm": 76,
-      "volumeL": 146,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "edition": "LTD"
-      },
-      "lengthCm": 242,
-      "widthCm": 58,
-      "volumeL": 96,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 126,
         "edition": "Twin Fin"
       },
@@ -142,12 +106,48 @@
     {
       "variant": {
         "size": 136,
+        "edition": "LTD"
+      },
+      "lengthCm": 250,
+      "widthCm": 72,
+      "volumeL": 136,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 136,
         "edition": "Twin Fin"
       },
       "lengthCm": 250,
       "widthCm": 72,
       "volumeL": 136,
       "weightKg": 8.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 146,
+        "edition": "LTD"
+      },
+      "lengthCm": 250,
+      "widthCm": 76,
+      "volumeL": 146,
       "fins": [
         {
           "count": 1,

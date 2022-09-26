@@ -100,6 +100,27 @@
     },
     {
       "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 369,
+      "mastLengthsCm": [
+        370
+      ],
+      "mastIMCS": [
+        17
+      ],
+      "boomLengthsCm": [
+        150,
+        156
+      ],
+      "weightKg": 3.01,
+      "battenCount": 5,
+      "camCount": 0,
+      "topType": "fixed"
+    },
+    {
+      "variant": {
         "size": 4.2
       },
       "surfaceM2": 4.2,
@@ -167,21 +188,21 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 5
       },
-      "surfaceM2": 4,
-      "luffLengthCm": 369,
+      "surfaceM2": 5,
+      "luffLengthCm": 416,
       "mastLengthsCm": [
-        370
+        400
       ],
       "mastIMCS": [
-        17
+        19
       ],
       "boomLengthsCm": [
-        150,
-        156
+        163,
+        170
       ],
-      "weightKg": 3.01,
+      "weightKg": 3.39,
       "battenCount": 5,
       "camCount": 0,
       "topType": "fixed"
@@ -253,21 +274,21 @@
     },
     {
       "variant": {
-        "size": 5
+        "size": 6
       },
-      "surfaceM2": 5,
-      "luffLengthCm": 416,
+      "surfaceM2": 6,
+      "luffLengthCm": 450,
       "mastLengthsCm": [
-        400
+        430
       ],
       "mastIMCS": [
-        19
+        21
       ],
       "boomLengthsCm": [
-        163,
-        170
+        177,
+        184
       ],
-      "weightKg": 3.39,
+      "weightKg": 3.78,
       "battenCount": 5,
       "camCount": 0,
       "topType": "fixed"
@@ -310,27 +331,6 @@
         192
       ],
       "weightKg": 4.12,
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 6
-      },
-      "surfaceM2": 6,
-      "luffLengthCm": 450,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        177,
-        184
-      ],
-      "weightKg": 3.78,
       "battenCount": 5,
       "camCount": 0,
       "topType": "fixed"

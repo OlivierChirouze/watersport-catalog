@@ -33,9 +33,133 @@
     },
     {
       "variant": {
+        "size": 100,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 236,
+      "widthCm": 69,
+      "weightKg": 7.25,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.2,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "N",
+        "edition": "X-Tech/W-Tech"
+      },
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "PVC",
+        "edition": "LTD"
+      },
+      "volumeL": 100,
+      "weightKg": 8.75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "edition": "X-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 100,
+      "lengthCm": 236,
+      "widthCm": 69,
+      "weightKg": 7.84,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.2,
+        "toM2": 7.2
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "E-Tech",
+        "construction": "N"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 236,
+      "widthCm": 75,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 110,
+      "lengthCm": 236,
+      "widthCm": 75,
+      "weightKg": 7.58,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
         "size": 110,
         "construction": "N",
-        "edition": "E-Tech"
+        "edition": "X-Tech/W-Tech"
       },
       "volumeL": 110,
       "compatibleFinFamilies": [
@@ -45,7 +169,25 @@
     {
       "variant": {
         "size": 110,
-        "edition": "E-Tech"
+        "construction": "PVC",
+        "edition": "LTD"
+      },
+      "volumeL": 110,
+      "weightKg": 8.75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "edition": "X-Tech"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -53,7 +195,7 @@
       "volumeL": 110,
       "lengthCm": 236,
       "widthCm": 75,
-      "weightKg": 8.8,
+      "weightKg": 8.3,
       "fins": [
         {
           "type": "PowerBox"
@@ -88,130 +230,6 @@
     },
     {
       "variant": {
-        "size": 130,
-        "edition": "E-Tech"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 130,
-      "lengthCm": 236,
-      "widthCm": 85,
-      "weightKg": 10.6,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.2,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 140,
-        "edition": "E-Tech"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 140,
-      "lengthCm": 238,
-      "widthCm": 90,
-      "weightKg": 10.6,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.5,
-        "toM2": 10
-      }
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "PVC",
-        "edition": "LTD"
-      },
-      "volumeL": 100,
-      "weightKg": 8.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 100,
-      "lengthCm": 236,
-      "widthCm": 69,
-      "weightKg": 7.25,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.2,
-        "toM2": 7.2
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "PVC",
-        "edition": "LTD"
-      },
-      "volumeL": 110,
-      "weightKg": 8.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 236,
-      "widthCm": 75,
-      "weightKg": 7.58,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
         "size": 120,
         "edition": "LTD"
       },
@@ -234,6 +252,50 @@
     },
     {
       "variant": {
+        "size": 120,
+        "edition": "X-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 120,
+      "lengthCm": 236,
+      "widthCm": 80,
+      "weightKg": 8.68,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6.8,
+        "toM2": 9
+      }
+    },
+    {
+      "variant": {
+        "size": 130,
+        "edition": "E-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 130,
+      "lengthCm": 236,
+      "widthCm": 85,
+      "weightKg": 10.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
         "size": 130,
         "edition": "LTD"
       },
@@ -252,28 +314,6 @@
       "sailRange": {
         "fromM2": 7.2,
         "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 140,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 140,
-      "lengthCm": 238,
-      "widthCm": 90,
-      "weightKg": 9.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.5,
-        "toM2": 10
       }
     },
     {
@@ -301,6 +341,50 @@
     {
       "variant": {
         "size": 140,
+        "edition": "E-Tech"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 238,
+      "widthCm": 90,
+      "weightKg": 10.6,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 140,
+      "lengthCm": 238,
+      "widthCm": 90,
+      "weightKg": 9.2,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 10
+      }
+    },
+    {
+      "variant": {
+        "size": 140,
         "edition": "W-Tech"
       },
       "compatibleFinFamilies": [
@@ -319,100 +403,6 @@
         "fromM2": 7.5,
         "toM2": 10
       }
-    },
-    {
-      "variant": {
-        "size": 100,
-        "edition": "X-Tech"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 100,
-      "lengthCm": 236,
-      "widthCm": 69,
-      "weightKg": 7.84,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.2,
-        "toM2": 7.2
-      }
-    },
-    {
-      "variant": {
-        "size": 110,
-        "edition": "X-Tech"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 110,
-      "lengthCm": 236,
-      "widthCm": 75,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
-        "size": 120,
-        "edition": "X-Tech"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 120,
-      "lengthCm": 236,
-      "widthCm": 80,
-      "weightKg": 8.68,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6.8,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "N",
-        "edition": "X-Tech/W-Tech"
-      },
-      "volumeL": 100,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "N",
-        "edition": "X-Tech/W-Tech"
-      },
-      "volumeL": 110,
-      "compatibleFinFamilies": [
-        "fins"
-      ]
     }
   ],
   "pictures": []

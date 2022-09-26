@@ -36,8 +36,50 @@
     },
     {
       "variant": {
+        "size": 69,
+        "edition": "Red"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 69,
+      "lengthCm": 225.3,
+      "widthCm": 53.3,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
         "size": 76,
         "edition": "Green"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 76,
+      "lengthCm": 227.9,
+      "widthCm": 55.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 76,
+        "edition": "Red"
       },
       "compatibleFinFamilies": [
         "fins"
@@ -74,48 +116,6 @@
       "sailRange": {
         "fromM2": 3.7,
         "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 69,
-        "edition": "Red"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 69,
-      "lengthCm": 225.3,
-      "widthCm": 53.3,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 76,
-        "edition": "Red"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 76,
-      "lengthCm": 227.9,
-      "widthCm": 55.2,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 5.3
       }
     },
     {

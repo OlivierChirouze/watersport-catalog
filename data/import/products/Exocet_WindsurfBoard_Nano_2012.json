@@ -16,246 +16,8 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Asa"
-      },
-      "volumeL": 105,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 105
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 105,
-      "lengthCm": 245,
-      "widthCm": 65,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Asa"
-      },
-      "volumeL": 115,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 115
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 115,
-      "lengthCm": 245,
-      "widthCm": 68,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "Asa"
-      },
-      "volumeL": 125,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 125
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 125,
-      "lengthCm": 250,
-      "widthCm": 67,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Asa"
-      },
-      "volumeL": 135,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 135
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 135,
-      "lengthCm": 250,
-      "widthCm": 78,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 155,
-        "construction": "Asa"
-      },
-      "volumeL": 155,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 155
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 155,
-      "lengthCm": 255,
-      "widthCm": 77,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 205,
-        "construction": "Asa"
-      },
-      "volumeL": 205,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 205
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 205,
-      "lengthCm": 300,
-      "widthCm": 80,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 1.5,
-        "toM2": 9
-      }
-    },
-    {
-      "variant": {
         "size": 75,
         "construction": "Asa"
-      },
-      "volumeL": 75,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 75
       },
       "compatibleFinFamilies": [
         "fins"
@@ -265,34 +27,20 @@
       "widthCm": 55,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 3.2,
         "toM2": 5.4
-      }
+      },
+      "weightKg": 11.45
     },
     {
       "variant": {
         "size": 85,
         "construction": "Asa"
-      },
-      "volumeL": 85,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 85
       },
       "compatibleFinFamilies": [
         "fins"
@@ -302,34 +50,20 @@
       "widthCm": 57,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 3.3,
         "toM2": 6
-      }
+      },
+      "weightKg": 11.45
     },
     {
       "variant": {
         "size": 95,
         "construction": "Asa"
-      },
-      "volumeL": 95,
-      "weightKg": 11.45,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 95
       },
       "compatibleFinFamilies": [
         "fins"
@@ -339,13 +73,153 @@
       "widthCm": 60,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 4,
         "toM2": 6.8
-      }
+      },
+      "weightKg": 11.45
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Asa"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 105,
+      "lengthCm": 245,
+      "widthCm": 65,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      },
+      "weightKg": 11.45
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Asa"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 115,
+      "lengthCm": 245,
+      "widthCm": 68,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      },
+      "weightKg": 11.45
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Asa"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 67,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8
+      },
+      "weightKg": 11.45
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Asa"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 78,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      },
+      "weightKg": 11.45
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "Asa"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 155,
+      "lengthCm": 255,
+      "widthCm": 77,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 9
+      },
+      "weightKg": 11.45
+    },
+    {
+      "variant": {
+        "size": 205,
+        "construction": "Asa"
+      },
+      "compatibleFinFamilies": [
+        "fins"
+      ],
+      "volumeL": 205,
+      "lengthCm": 300,
+      "widthCm": 80,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 1.5,
+        "toM2": 9
+      },
+      "weightKg": 11.45
     }
   ],
   "pictures": []

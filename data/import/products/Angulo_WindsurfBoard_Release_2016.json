@@ -3,7 +3,6 @@
   "year": 2016,
   "programs": [
     "freeride",
-    "kids",
     "race"
   ],
   "brandName": "Angulo",
@@ -11,7 +10,6 @@
   "subType": "windsurfBoard",
   "description": {},
   "dimensions": [
-    "edition",
     "size",
     "construction"
   ],
@@ -19,48 +17,8 @@
     {
       "variant": {
         "size": 120,
-        "edition": "Sport"
-      },
-      "compatibleFinFamilies": [
-        "fins"
-      ],
-      "volumeL": 120,
-      "lengthCm": 248,
-      "widthCm": 68,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 1.5,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 120,
         "construction": "FWS"
       },
-      "lengthCm": 248,
-      "widthCm": 68,
-      "volumeL": 120,
-      "weightKg": 7.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 120
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -70,7 +28,8 @@
       "weightKg": 7.9,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -102,24 +61,6 @@
         "size": 145,
         "construction": "FWS"
       },
-      "lengthCm": 248,
-      "widthCm": 75,
-      "volumeL": 145,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 145
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -129,7 +70,8 @@
       "weightKg": 8.5,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

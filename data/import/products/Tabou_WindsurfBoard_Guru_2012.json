@@ -15,23 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 125,
-        "construction": "AST"
-      },
-      "volumeL": 125,
-      "weightKg": 11.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 125
       },
       "compatibleFinFamilies": [
@@ -53,10 +36,10 @@
     },
     {
       "variant": {
-        "size": 135,
+        "size": 125,
         "construction": "AST"
       },
-      "volumeL": 135,
+      "volumeL": 125,
       "weightKg": 11.5,
       "fins": [
         {
@@ -91,10 +74,10 @@
     },
     {
       "variant": {
-        "size": 145,
+        "size": 135,
         "construction": "AST"
       },
-      "volumeL": 145,
+      "volumeL": 135,
       "weightKg": 11.5,
       "fins": [
         {
@@ -129,10 +112,10 @@
     },
     {
       "variant": {
-        "size": 155,
+        "size": 145,
         "construction": "AST"
       },
-      "volumeL": 155,
+      "volumeL": 145,
       "weightKg": 11.5,
       "fins": [
         {
@@ -164,6 +147,23 @@
         "fromM2": 6,
         "toM2": 10
       }
+    },
+    {
+      "variant": {
+        "size": 155,
+        "construction": "AST"
+      },
+      "volumeL": 155,
+      "weightKg": 11.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
     }
   ],
   "pictures": []

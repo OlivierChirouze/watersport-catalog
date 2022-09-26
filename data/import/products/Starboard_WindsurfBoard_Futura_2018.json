@@ -16,86 +16,6 @@
   "variants": [
     {
       "variant": {
-        "size": 107,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
-      },
-      "lengthCm": 235,
-      "widthCm": 71,
-      "volumeL": 107,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 117,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
-      },
-      "lengthCm": 230,
-      "widthCm": 77.5,
-      "volumeL": 117,
-      "weightKg": 6.85,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 127,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
-      },
-      "lengthCm": 230,
-      "widthCm": 83,
-      "volumeL": 127,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 137,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
-      },
-      "lengthCm": 230,
-      "widthCm": 88,
-      "volumeL": 137,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 90,
         "construction": "Carbon LCF",
         "edition": "LCF"
@@ -104,106 +24,6 @@
       "widthCm": 62,
       "volumeL": 90,
       "weightKg": 5.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
-      },
-      "lengthCm": 235,
-      "widthCm": 67,
-      "volumeL": 97,
-      "weightKg": 6.15,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 107,
-        "construction": "Carbon Reflex",
-        "edition": "Reflex"
-      },
-      "lengthCm": 235,
-      "widthCm": 71,
-      "volumeL": 107,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 117,
-        "construction": "Carbon Reflex",
-        "edition": "Reflex"
-      },
-      "lengthCm": 230,
-      "widthCm": 77.5,
-      "volumeL": 117,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 127,
-        "construction": "Carbon Reflex",
-        "edition": "Reflex"
-      },
-      "lengthCm": 230,
-      "widthCm": 83,
-      "volumeL": 127,
-      "weightKg": 6.85,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 137,
-        "construction": "Carbon Reflex",
-        "edition": "Reflex"
-      },
-      "lengthCm": 230,
-      "widthCm": 88,
-      "volumeL": 137,
-      "weightKg": 7,
       "fins": [
         {
           "count": 1,
@@ -237,6 +57,26 @@
     {
       "variant": {
         "size": 97,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 235,
+      "widthCm": 67,
+      "volumeL": 97,
+      "weightKg": 6.15,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 97,
         "construction": "Carbon Reflex",
         "edition": "Reflex"
       },
@@ -244,6 +84,166 @@
       "widthCm": 67,
       "volumeL": 97,
       "weightKg": 5.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 235,
+      "widthCm": 71,
+      "volumeL": 107,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 107,
+        "construction": "Carbon Reflex",
+        "edition": "Reflex"
+      },
+      "lengthCm": 235,
+      "widthCm": 71,
+      "volumeL": 107,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 230,
+      "widthCm": 77.5,
+      "volumeL": 117,
+      "weightKg": 6.85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 117,
+        "construction": "Carbon Reflex",
+        "edition": "Reflex"
+      },
+      "lengthCm": 230,
+      "widthCm": 77.5,
+      "volumeL": 117,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 127,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 230,
+      "widthCm": 83,
+      "volumeL": 127,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 127,
+        "construction": "Carbon Reflex",
+        "edition": "Reflex"
+      },
+      "lengthCm": 230,
+      "widthCm": 83,
+      "volumeL": 127,
+      "weightKg": 6.85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 230,
+      "widthCm": 88,
+      "volumeL": 137,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 137,
+        "construction": "Carbon Reflex",
+        "edition": "Reflex"
+      },
+      "lengthCm": 230,
+      "widthCm": 88,
+      "volumeL": 137,
+      "weightKg": 7,
       "fins": [
         {
           "count": 1,

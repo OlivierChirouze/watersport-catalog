@@ -15,138 +15,17 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
+        "size": 87,
+        "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
+        "edition": "Epic"
       },
-      "lengthCm": 233,
-      "widthCm": 64.5,
-      "volumeL": 100,
-      "weightKg": 5.8,
+      "lengthCm": 237,
+      "widthCm": 57,
+      "volumeL": 87,
       "fins": [
         {
           "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 233,
-      "widthCm": 68.2,
-      "volumeL": 110,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 234,
-      "widthCm": 69.8,
-      "volumeL": 115,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 230,
-      "widthCm": 77.2,
-      "volumeL": 125,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 229,
-      "widthCm": 80.8,
-      "volumeL": 130,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 140,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 229,
-      "widthCm": 84.8,
-      "volumeL": 140,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 150,
-        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
-        "edition": "Bionic"
-      },
-      "lengthCm": 229,
-      "widthCm": 88.8,
-      "volumeL": 150,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "TuttleBox"
         }
       ],
       "compatibleFinFamilies": [
@@ -176,6 +55,25 @@
     {
       "variant": {
         "size": 92,
+        "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
+        "edition": "Epic"
+      },
+      "lengthCm": 233,
+      "widthCm": 59.5,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 92,
         "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
         "edition": "Bionic"
       },
@@ -183,6 +81,25 @@
       "widthCm": 59.5,
       "volumeL": 92,
       "weightKg": 5.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
+        "edition": "Epic"
+      },
+      "lengthCm": 231,
+      "widthCm": 62.2,
+      "volumeL": 95,
       "fins": [
         {
           "count": 1,
@@ -234,6 +151,26 @@
     },
     {
       "variant": {
+        "size": 100,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 233,
+      "widthCm": 64.5,
+      "volumeL": 100,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 110,
         "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
         "edition": "Epic"
@@ -241,6 +178,26 @@
       "lengthCm": 233,
       "widthCm": 68.2,
       "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 233,
+      "widthCm": 68.2,
+      "volumeL": 110,
+      "weightKg": 6.2,
       "fins": [
         {
           "count": 1,
@@ -272,6 +229,26 @@
     },
     {
       "variant": {
+        "size": 115,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 234,
+      "widthCm": 69.8,
+      "volumeL": 115,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 125,
         "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
         "edition": "Epic"
@@ -279,6 +256,26 @@
       "lengthCm": 230,
       "widthCm": 77.2,
       "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 230,
+      "widthCm": 77.2,
+      "volumeL": 125,
+      "weightKg": 6.9,
       "fins": [
         {
           "count": 1,
@@ -310,6 +307,26 @@
     },
     {
       "variant": {
+        "size": 130,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 229,
+      "widthCm": 80.8,
+      "volumeL": 130,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
         "size": 140,
         "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
         "edition": "Epic"
@@ -317,6 +334,26 @@
       "lengthCm": 229,
       "widthCm": 84.8,
       "volumeL": 140,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 140,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
+      },
+      "lengthCm": 229,
+      "widthCm": 84.8,
+      "volumeL": 140,
+      "weightKg": 7.1,
       "fins": [
         {
           "count": 1,
@@ -348,55 +385,18 @@
     },
     {
       "variant": {
-        "size": 87,
-        "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
-        "edition": "Epic"
+        "size": 150,
+        "construction": "Deck:Biax Carbon, Bottom:U.D.Carbon",
+        "edition": "Bionic"
       },
-      "lengthCm": 237,
-      "widthCm": 57,
-      "volumeL": 87,
+      "lengthCm": 229,
+      "widthCm": 88.8,
+      "volumeL": 150,
+      "weightKg": 7.1,
       "fins": [
         {
           "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
-        "edition": "Epic"
-      },
-      "lengthCm": 233,
-      "widthCm": 59.5,
-      "volumeL": 92,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Deck:Biax Carbon, Bottom:Fiberglass",
-        "edition": "Epic"
-      },
-      "lengthCm": 231,
-      "widthCm": 62.2,
-      "volumeL": 95,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
+          "type": "DeepTuttleBox"
         }
       ],
       "compatibleFinFamilies": [

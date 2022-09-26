@@ -20,28 +20,6 @@
         "construction": "Double Sandwich Full Carbon",
         "edition": "Carbon"
       },
-      "lengthCm": 215,
-      "widthCm": 61,
-      "volumeL": 90,
-      "weightKg": 5.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
-        "size": 90
-      },
       "compatibleFinFamilies": [
         "fins"
       ],
@@ -51,10 +29,12 @@
       "weightKg": 5.5,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ]
     }

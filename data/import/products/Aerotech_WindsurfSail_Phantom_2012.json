@@ -15,61 +15,20 @@
   "variants": [
     {
       "variant": {
-        "size": 6.2,
-        "edition": "Technora"
+        "size": 4
       },
-      "surfaceM2": 6.2,
-      "luffLengthCm": 442,
+      "surfaceM2": 4,
+      "luffLengthCm": 374,
       "mastLengthsCm": [
-        430
+        370
       ],
       "mastIMCS": [
-        21
+        17
       ],
       "boomLengthsCm": [
-        176
+        143
       ],
-      "weightKg": 4.9,
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 6.8,
-        "edition": "Technora"
-      },
-      "surfaceM2": 6.8,
-      "luffLengthCm": 465,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        186
-      ],
-      "weightKg": 4.9,
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 7.5,
-        "edition": "Technora"
-      },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 486,
-      "mastLengthsCm": [
-        460
-      ],
-      "mastIMCS": [
-        25
-      ],
-      "boomLengthsCm": [
-        193
-      ],
-      "weightKg": 4.9,
+      "weightKg": 3.35,
       "battenCount": 6,
       "camCount": 0
     },
@@ -94,20 +53,20 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 5
       },
-      "surfaceM2": 4,
-      "luffLengthCm": 374,
+      "surfaceM2": 5,
+      "luffLengthCm": 409,
       "mastLengthsCm": [
-        370
+        430
       ],
       "mastIMCS": [
-        17
+        21
       ],
       "boomLengthsCm": [
-        143
+        162
       ],
-      "weightKg": 3.35,
+      "weightKg": 3.9,
       "battenCount": 6,
       "camCount": 0
     },
@@ -151,25 +110,6 @@
     },
     {
       "variant": {
-        "size": 5
-      },
-      "surfaceM2": 5,
-      "luffLengthCm": 409,
-      "mastLengthsCm": [
-        430
-      ],
-      "mastIMCS": [
-        21
-      ],
-      "boomLengthsCm": [
-        162
-      ],
-      "weightKg": 3.9,
-      "battenCount": 6,
-      "camCount": 0
-    },
-    {
-      "variant": {
         "size": 6.2
       },
       "surfaceM2": 6.2,
@@ -189,7 +129,28 @@
     },
     {
       "variant": {
-        "size": 6.8
+        "size": 6.2,
+        "edition": "Technora"
+      },
+      "surfaceM2": 6.2,
+      "luffLengthCm": 442,
+      "mastLengthsCm": [
+        430
+      ],
+      "mastIMCS": [
+        21
+      ],
+      "boomLengthsCm": [
+        176
+      ],
+      "weightKg": 4.9,
+      "battenCount": 6,
+      "camCount": 0
+    },
+    {
+      "variant": {
+        "size": 6.8,
+        "edition": "Technora"
       },
       "surfaceM2": 6.8,
       "luffLengthCm": 465,
@@ -208,7 +169,8 @@
     },
     {
       "variant": {
-        "size": 7.5
+        "size": 7.5,
+        "edition": "Technora"
       },
       "surfaceM2": 7.5,
       "luffLengthCm": 486,
