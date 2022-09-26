@@ -9,50 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Quad"
-      },
-      "lengthCm": 228,
-      "widthCm": 60.3,
-      "volumeL": 104,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 118,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Quad"
-      },
-      "lengthCm": 230,
-      "widthCm": 62.5,
-      "volumeL": 118,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 68,
         "construction": "Carbon Sglass Sandwich",
         "edition": "Pro Quad"
@@ -97,6 +53,27 @@
     },
     {
       "variant": {
+        "size": 75,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro Thruster"
+      },
+      "lengthCm": 221,
+      "widthCm": 55.3,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 79,
         "construction": "Carbon Sglass Sandwich",
         "edition": "Pro Quad"
@@ -108,6 +85,27 @@
       "fins": [
         {
           "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 81,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro Thruster"
+      },
+      "lengthCm": 222,
+      "widthCm": 56.7,
+      "volumeL": 81,
+      "fins": [
+        {
+          "count": 2,
           "type": "US"
         },
         {
@@ -141,6 +139,27 @@
     },
     {
       "variant": {
+        "size": 86,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro Thruster"
+      },
+      "lengthCm": 224,
+      "widthCm": 58.2,
+      "volumeL": 86,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 89,
         "construction": "Carbon Sglass Sandwich",
         "edition": "Pro Quad"
@@ -163,6 +182,27 @@
     },
     {
       "variant": {
+        "size": 92,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro Thruster"
+      },
+      "lengthCm": 226,
+      "widthCm": 59.3,
+      "volumeL": 92,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 94,
         "construction": "Carbon Sglass Sandwich",
         "edition": "Pro Quad"
@@ -171,6 +211,49 @@
       "widthCm": 59,
       "volumeL": 94,
       "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro Thruster"
+      },
+      "lengthCm": 226,
+      "widthCm": 60.4,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 2,
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Carbon Sglass Sandwich",
+        "edition": "Pro Quad"
+      },
+      "lengthCm": 228,
+      "widthCm": 60.3,
+      "volumeL": 104,
+      "weightKg": 7,
       "fins": [
         {
           "count": 1,
@@ -206,100 +289,17 @@
     },
     {
       "variant": {
-        "size": 75,
+        "size": 118,
         "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Thruster"
+        "edition": "Pro Quad"
       },
-      "lengthCm": 221,
-      "widthCm": 55.3,
-      "volumeL": 75,
+      "lengthCm": 230,
+      "widthCm": 62.5,
+      "volumeL": 118,
+      "weightKg": 7.2,
       "fins": [
         {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 81,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Thruster"
-      },
-      "lengthCm": 222,
-      "widthCm": 56.7,
-      "volumeL": 81,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Thruster"
-      },
-      "lengthCm": 224,
-      "widthCm": 58.2,
-      "volumeL": 86,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Thruster"
-      },
-      "lengthCm": 226,
-      "widthCm": 59.3,
-      "volumeL": 92,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Carbon Sglass Sandwich",
-        "edition": "Pro Thruster"
-      },
-      "lengthCm": 226,
-      "widthCm": 60.4,
-      "volumeL": 99,
-      "fins": [
-        {
-          "count": 2,
+          "count": 1,
           "type": "US"
         },
         {

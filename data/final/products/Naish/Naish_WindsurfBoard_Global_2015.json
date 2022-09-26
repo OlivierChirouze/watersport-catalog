@@ -10,6 +10,15 @@
   "variants": [
     {
       "variant": {
+        "size": 75
+      },
+      "lengthCm": 222,
+      "widthCm": 57,
+      "volumeL": 75,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 78,
         "edition": "S"
       },
@@ -27,6 +36,15 @@
         "fromM2": 3.7,
         "toM2": 5.3
       }
+    },
+    {
+      "variant": {
+        "size": 85
+      },
+      "lengthCm": 234,
+      "widthCm": 59,
+      "volumeL": 85,
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -50,6 +68,15 @@
     },
     {
       "variant": {
+        "size": 95
+      },
+      "lengthCm": 240,
+      "widthCm": 62.8,
+      "volumeL": 95,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 98,
         "edition": "S"
       },
@@ -67,42 +94,6 @@
         "fromM2": 4.5,
         "toM2": 6.2
       }
-    },
-    {
-      "variant": {
-        "size": 75
-      },
-      "lengthCm": 222,
-      "widthCm": 57,
-      "volumeL": 75,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 78
-      },
-      "lengthCm": 222,
-      "widthCm": 57,
-      "volumeL": 78,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85
-      },
-      "lengthCm": 234,
-      "widthCm": 59,
-      "volumeL": 85,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95
-      },
-      "lengthCm": 240,
-      "widthCm": 62.8,
-      "volumeL": 95,
-      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

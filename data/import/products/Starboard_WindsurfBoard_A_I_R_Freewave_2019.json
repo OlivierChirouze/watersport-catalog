@@ -15,29 +15,6 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
-        "construction": "Flax Balsa"
-      },
-      "lengthCm": 222,
-      "widthCm": 65,
-      "volumeL": 103,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        },
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": [
-        "fins"
-      ]
-    },
-    {
-      "variant": {
         "size": 79,
         "construction": "Flax Balsa"
       },
@@ -91,6 +68,29 @@
       "widthCm": 61.3,
       "volumeL": 93,
       "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": [
+        "fins"
+      ]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 222,
+      "widthCm": 65,
+      "volumeL": 103,
+      "weightKg": 7.4,
       "fins": [
         {
           "count": 1,

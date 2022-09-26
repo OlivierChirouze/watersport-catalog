@@ -9,68 +9,14 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
+        "size": 84,
         "construction": "Pro",
         "edition": "Carbon"
       },
-      "lengthCm": 245,
-      "widthCm": 63,
-      "volumeL": 104,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "Pro",
-        "edition": "Carbon"
-      },
-      "lengthCm": 243,
-      "widthCm": 67,
-      "volumeL": 114,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 124,
-        "construction": "Pro",
-        "edition": "Carbon"
-      },
-      "lengthCm": 250,
-      "widthCm": 72,
-      "volumeL": 124,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 134,
-        "construction": "Pro",
-        "edition": "Carbon"
-      },
-      "lengthCm": 250,
-      "widthCm": 76,
-      "volumeL": 134,
-      "weightKg": 8.2,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "volumeL": 84,
+      "weightKg": 6.1,
       "fins": [
         {
           "count": 1,
@@ -82,8 +28,8 @@
     {
       "variant": {
         "size": 84,
-        "construction": "Pro",
-        "edition": "Carbon"
+        "construction": "PVC Sandwich",
+        "edition": "Silver"
       },
       "lengthCm": 235,
       "widthCm": 57,
@@ -117,6 +63,42 @@
     },
     {
       "variant": {
+        "size": 94,
+        "construction": "PVC Sandwich",
+        "edition": "Silver"
+      },
+      "lengthCm": 240,
+      "widthCm": 60.5,
+      "volumeL": 94,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 245,
+      "widthCm": 63,
+      "volumeL": 104,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 104,
         "construction": "PVC Sandwich",
         "edition": "Silver"
@@ -125,6 +107,24 @@
       "widthCm": 63,
       "volumeL": 104,
       "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 243,
+      "widthCm": 67,
+      "volumeL": 114,
+      "weightKg": 7.2,
       "fins": [
         {
           "count": 1,
@@ -154,6 +154,24 @@
     {
       "variant": {
         "size": 124,
+        "construction": "Pro",
+        "edition": "Carbon"
+      },
+      "lengthCm": 250,
+      "widthCm": 72,
+      "volumeL": 124,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 124,
         "construction": "PVC Sandwich",
         "edition": "Silver"
       },
@@ -172,8 +190,8 @@
     {
       "variant": {
         "size": 134,
-        "construction": "PVC Sandwich",
-        "edition": "Silver"
+        "construction": "Pro",
+        "edition": "Carbon"
       },
       "lengthCm": 250,
       "widthCm": 76,
@@ -189,32 +207,14 @@
     },
     {
       "variant": {
-        "size": 84,
+        "size": 134,
         "construction": "PVC Sandwich",
         "edition": "Silver"
       },
-      "lengthCm": 235,
-      "widthCm": 57,
-      "volumeL": 84,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "PVC Sandwich",
-        "edition": "Silver"
-      },
-      "lengthCm": 240,
-      "widthCm": 60.5,
-      "volumeL": 94,
-      "weightKg": 6.4,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "volumeL": 134,
+      "weightKg": 8.2,
       "fins": [
         {
           "count": 1,

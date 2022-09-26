@@ -10,15 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 69,
-        "construction": "Flexlight CK"
-      },
-      "volumeL": 69,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 69
       },
       "compatibleFinFamilies": ["fins"],
@@ -41,16 +32,17 @@
     },
     {
       "variant": {
-        "size": 75,
+        "size": 69,
         "construction": "Flexlight CK"
       },
-      "volumeL": 75,
+      "volumeL": 69,
       "weightKg": 6.8,
       "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
-        "size": 75
+        "size": 75,
+        "construction": "Flexlight CK"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
@@ -75,14 +67,6 @@
         "size": 80,
         "construction": "Flexlight CK"
       },
-      "volumeL": 80,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 80,
       "lengthCm": 229,
@@ -106,14 +90,6 @@
         "size": 85,
         "construction": "Flexlight CK"
       },
-      "volumeL": 85,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 85,
       "lengthCm": 231,
@@ -136,14 +112,6 @@
       "variant": {
         "size": 93,
         "construction": "Flexlight CK"
-      },
-      "volumeL": 93,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 93
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 93,

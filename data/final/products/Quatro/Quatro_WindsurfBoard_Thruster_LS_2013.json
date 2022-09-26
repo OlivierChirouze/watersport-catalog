@@ -10,39 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 102
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 102,
-      "lengthCm": 237.1,
-      "widthCm": 61.1,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
         "size": 74,
         "construction": "Premium PVC"
-      },
-      "volumeL": 74,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 74
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 74,
@@ -54,21 +23,18 @@
         },
         {
           "type": "MiniTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
-      ]
+      ],
+      "weightKg": 7.1
     },
     {
       "variant": {
         "size": 82,
         "construction": "Premium PVC"
-      },
-      "volumeL": 82,
-      "weightKg": 7.1,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 82
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 82,
@@ -81,7 +47,8 @@
         {
           "type": "MiniTuttleBox"
         }
-      ]
+      ],
+      "weightKg": 7.1
     },
     {
       "variant": {
@@ -91,6 +58,23 @@
       "volumeL": 92,
       "lengthCm": 235.7,
       "widthCm": 58.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 102
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 237.1,
+      "widthCm": 61.1,
       "fins": [
         {
           "type": "US"

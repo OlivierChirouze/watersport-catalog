@@ -26,125 +26,6 @@
     },
     {
       "variant": {
-        "size": 115,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
-      },
-      "lengthCm": 242,
-      "widthCm": 69,
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
-      },
-      "lengthCm": 242,
-      "widthCm": 75.5,
-      "volumeL": 125,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
-      },
-      "lengthCm": 246,
-      "widthCm": 77.5,
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "LTD"
-      },
-      "lengthCm": 250,
-      "widthCm": 79,
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "MTE"
-      },
-      "lengthCm": 242,
-      "widthCm": 75.5,
-      "volumeL": 125,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "MTE"
-      },
-      "lengthCm": 246,
-      "widthCm": 77.5,
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "PVC Full Sandwich HD",
-        "edition": "MTE"
-      },
-      "lengthCm": 250,
-      "widthCm": 79,
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 105,
         "construction": "PVC Full Sandwich HD",
         "edition": "Team Carbon"
@@ -164,11 +45,62 @@
       "variant": {
         "size": 115,
         "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
+      },
+      "lengthCm": 242,
+      "widthCm": 69,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "PVC Full Sandwich HD",
         "edition": "Team Carbon"
       },
       "lengthCm": 242,
       "widthCm": 69,
       "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
+      },
+      "lengthCm": 242,
+      "widthCm": 75.5,
+      "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 125,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "MTE"
+      },
+      "lengthCm": 242,
+      "widthCm": 75.5,
+      "volumeL": 125,
       "fins": [
         {
           "count": 1,
@@ -198,11 +130,79 @@
       "variant": {
         "size": 135,
         "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
+      },
+      "lengthCm": 246,
+      "widthCm": 77.5,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "MTE"
+      },
+      "lengthCm": 246,
+      "widthCm": 77.5,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "PVC Full Sandwich HD",
         "edition": "Team Carbon"
       },
       "lengthCm": 246,
       "widthCm": 77.5,
       "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "LTD"
+      },
+      "lengthCm": 250,
+      "widthCm": 79,
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "PVC Full Sandwich HD",
+        "edition": "MTE"
+      },
+      "lengthCm": 250,
+      "widthCm": 79,
+      "volumeL": 145,
       "fins": [
         {
           "count": 1,

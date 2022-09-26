@@ -13,22 +13,6 @@
         "size": 250,
         "construction": "One Shot Sandwich"
       },
-      "lengthCm": 320,
-      "widthCm": 76,
-      "volumeL": 250,
-      "weightKg": 13,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 250
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 250,
       "lengthCm": 320,
@@ -36,7 +20,8 @@
       "weightKg": 13,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ]
     }

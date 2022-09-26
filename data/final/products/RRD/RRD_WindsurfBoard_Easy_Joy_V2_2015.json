@@ -13,22 +13,6 @@
         "size": 110,
         "construction": "E-Tech"
       },
-      "lengthCm": 233,
-      "widthCm": 67,
-      "volumeL": 110,
-      "weightKg": 8.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 110
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 110,
       "lengthCm": 233,
@@ -36,7 +20,8 @@
       "weightKg": 8.7,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {

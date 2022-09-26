@@ -10,91 +10,25 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
-        "construction": "Pro Wood Carbon",
-        "edition": "Pro"
-      },
-      "volumeL": 104,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 104,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 104,
-      "lengthCm": 245,
-      "widthCm": 63,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "Pro Wood Carbon",
-        "edition": "Pro"
-      },
-      "volumeL": 114,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 114,
-      "lengthCm": 243,
-      "widthCm": 67,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
         "size": 84,
         "construction": "Pro Wood Carbon",
         "edition": "Pro"
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 84,
-      "weightKg": 7.8,
+      "lengthCm": 235,
+      "widthCm": 57,
+      "weightKg": 7.1,
       "fins": [
         {
-          "count": 1,
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 6
+      }
     },
     {
       "variant": {
@@ -122,15 +56,21 @@
         "construction": "Pro Wood Carbon",
         "edition": "Pro"
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 94,
-      "weightKg": 7.8,
+      "lengthCm": 240,
+      "widthCm": 60.5,
+      "weightKg": 7.7,
       "fins": [
         {
-          "count": 1,
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.8
+      }
     },
     {
       "variant": {
@@ -154,13 +94,36 @@
     },
     {
       "variant": {
-        "size": 104
+        "size": 104,
+        "construction": "Pro Wood Carbon",
+        "edition": "Pro"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 104,
       "lengthCm": 245,
       "widthCm": 63,
       "weightKg": 8,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 104,
+        "edition": "Pro"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 104,
+      "lengthCm": 245,
+      "widthCm": 63,
+      "weightKg": 6.7,
       "fins": [
         {
           "type": "PowerBox"
@@ -173,7 +136,9 @@
     },
     {
       "variant": {
-        "size": 114
+        "size": 114,
+        "construction": "Pro Wood Carbon",
+        "edition": "Pro"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 114,
@@ -182,7 +147,8 @@
       "weightKg": 8.4,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -192,40 +158,22 @@
     },
     {
       "variant": {
-        "size": 84
+        "size": 114,
+        "edition": "Pro"
       },
       "compatibleFinFamilies": ["fins"],
-      "volumeL": 84,
-      "lengthCm": 235,
-      "widthCm": 57,
-      "weightKg": 7.1,
+      "volumeL": 114,
+      "lengthCm": 243,
+      "widthCm": 67,
+      "weightKg": 7.2,
       "fins": [
         {
           "type": "PowerBox"
         }
       ],
       "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 94
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 94,
-      "lengthCm": 240,
-      "widthCm": 60.5,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.8
+        "fromM2": 4.7,
+        "toM2": 8
       }
     }
   ],

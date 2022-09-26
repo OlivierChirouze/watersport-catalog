@@ -30,26 +30,6 @@
     },
     {
       "variant": {
-        "size": 93,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 93,
-      "lengthCm": 230,
-      "widthCm": 60.6,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
         "size": 83,
         "construction": "O.S.S Technology"
       },
@@ -66,17 +46,24 @@
     {
       "variant": {
         "size": 93,
+        "edition": "Pro",
         "construction": "O.S.S Technology"
       },
+      "compatibleFinFamilies": ["fins"],
       "volumeL": 93,
-      "weightKg": 7.15,
+      "lengthCm": 230,
+      "widthCm": 60.6,
+      "weightKg": 6.7,
       "fins": [
         {
-          "count": 1,
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.2
+      }
     }
   ],
   "pictures": []

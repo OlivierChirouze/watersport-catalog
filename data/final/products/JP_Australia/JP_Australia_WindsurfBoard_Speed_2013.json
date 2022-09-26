@@ -13,19 +13,6 @@
         "size": 53,
         "construction": "Pro"
       },
-      "volumeL": 53,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 53
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 53,
       "lengthCm": 228,
@@ -33,7 +20,8 @@
       "weightKg": 4.4,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ]
     },
@@ -41,13 +29,6 @@
       "variant": {
         "size": 64,
         "construction": "Pro"
-      },
-      "volumeL": 64,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 64
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 64,

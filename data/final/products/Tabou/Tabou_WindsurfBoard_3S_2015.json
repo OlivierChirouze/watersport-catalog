@@ -10,48 +10,9 @@
   "variants": [
     {
       "variant": {
-        "size": 106,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 106,
-      "lengthCm": 240,
-      "widthCm": 64.5,
-      "weightKg": 7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 116,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 116,
-      "lengthCm": 242,
-      "widthCm": 66,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7.8
-      }
-    },
-    {
-      "variant": {
         "size": 76,
-        "edition": "CED"
+        "edition": "CED",
+        "construction": "CED"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 76,
@@ -60,7 +21,30 @@
       "weightKg": 6.3,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 76,
+        "edition": "LTD",
+        "construction": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 76,
+      "lengthCm": 232,
+      "widthCm": 57,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -71,7 +55,8 @@
     {
       "variant": {
         "size": 86,
-        "edition": "CED"
+        "edition": "CED",
+        "construction": "CED"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 86,
@@ -81,6 +66,35 @@
       "fins": [
         {
           "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 6.1
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "LTD",
+        "construction": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 230,
+      "widthCm": 59.5,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
         }
       ],
       "sailRange": {
@@ -91,7 +105,8 @@
     {
       "variant": {
         "size": 96,
-        "edition": "CED"
+        "edition": "CED",
+        "construction": "CED"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 96,
@@ -101,6 +116,35 @@
       "fins": [
         {
           "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.6
+      }
+    },
+    {
+      "variant": {
+        "size": 96,
+        "edition": "LTD",
+        "construction": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 96,
+      "lengthCm": 239,
+      "widthCm": 61,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
         }
       ],
       "sailRange": {
@@ -111,7 +155,33 @@
     {
       "variant": {
         "size": 106,
-        "edition": "LTD"
+        "edition": "CED",
+        "construction": "CED"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 106,
+      "lengthCm": 240,
+      "widthCm": 64.5,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 106,
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 106,
@@ -121,6 +191,10 @@
       "fins": [
         {
           "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
         }
       ],
       "sailRange": {
@@ -131,16 +205,21 @@
     {
       "variant": {
         "size": 116,
-        "edition": "LTD"
+        "edition": "CED",
+        "construction": "CED"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 116,
       "lengthCm": 242,
       "widthCm": 66,
-      "weightKg": 7.1,
+      "weightKg": 7.4,
       "fins": [
         {
           "type": "PowerBox"
+        },
+        {
+          "count": 1,
+          "type": "US"
         }
       ],
       "sailRange": {
@@ -150,233 +229,28 @@
     },
     {
       "variant": {
-        "size": 76,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 76,
-      "lengthCm": 232,
-      "widthCm": 57,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 86,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 86,
-      "lengthCm": 230,
-      "widthCm": 59.5,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 6.1
-      }
-    },
-    {
-      "variant": {
-        "size": 96,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 96,
-      "lengthCm": 239,
-      "widthCm": 61,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 6.6
-      }
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "CED"
-      },
-      "lengthCm": 240,
-      "widthCm": 64.5,
-      "volumeL": 106,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 106,
+        "size": 116,
+        "edition": "LTD",
         "construction": "LTD"
       },
-      "lengthCm": 240,
-      "widthCm": 64.5,
-      "volumeL": 106,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "CED"
-      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 116,
       "lengthCm": 242,
       "widthCm": 66,
-      "volumeL": 116,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "LTD"
-      },
-      "lengthCm": 242,
-      "widthCm": 66,
-      "volumeL": 116,
       "weightKg": 7.1,
       "fins": [
         {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "CED"
-      },
-      "lengthCm": 232,
-      "widthCm": 57,
-      "volumeL": 76,
-      "weightKg": 6.3,
-      "fins": [
+          "type": "PowerBox"
+        },
         {
           "count": 1,
           "type": "US"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 76,
-        "construction": "LTD"
-      },
-      "lengthCm": 232,
-      "widthCm": 57,
-      "volumeL": 76,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "CED"
-      },
-      "lengthCm": 230,
-      "widthCm": 59.5,
-      "volumeL": 86,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "LTD"
-      },
-      "lengthCm": 230,
-      "widthCm": 59.5,
-      "volumeL": 86,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "CED"
-      },
-      "lengthCm": 239,
-      "widthCm": 61,
-      "volumeL": 96,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "LTD"
-      },
-      "lengthCm": 239,
-      "widthCm": 61,
-      "volumeL": 96,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.8
+      }
     }
   ],
   "pictures": []

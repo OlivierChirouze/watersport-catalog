@@ -13,82 +13,26 @@
         "size": 72,
         "edition": "Quad"
       },
-      "volumeL": 72,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 77,
-        "edition": "Quad"
-      },
-      "volumeL": 77,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "Quad"
-      },
-      "volumeL": 84,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Quad"
-      },
-      "volumeL": 92,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 72
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 72,
       "lengthCm": 221,
       "widthCm": 53,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 3.5,
         "toM2": 5
-      }
+      },
+      "weightKg": 7.3
     },
     {
       "variant": {
-        "size": 77
+        "size": 77,
+        "edition": "Quad"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 77,
@@ -96,17 +40,20 @@
       "widthCm": 55.5,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 4,
         "toM2": 5.5
-      }
+      },
+      "weightKg": 7.3
     },
     {
       "variant": {
-        "size": 84
+        "size": 84,
+        "edition": "Quad"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 84,
@@ -114,17 +61,20 @@
       "widthCm": 58,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6
-      }
+      },
+      "weightKg": 7.3
     },
     {
       "variant": {
-        "size": 92
+        "size": 92,
+        "edition": "Quad"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 92,
@@ -132,13 +82,15 @@
       "widthCm": 59,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 5,
         "toM2": 6.5
-      }
+      },
+      "weightKg": 7.3
     }
   ],
   "pictures": []

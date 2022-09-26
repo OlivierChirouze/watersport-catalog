@@ -30,6 +30,26 @@
     },
     {
       "variant": {
+        "size": 72,
+        "edition": "Twin TE"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 72,
+      "lengthCm": 230,
+      "widthCm": 53.5,
+      "weightKg": 5.8,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
         "size": 76,
         "edition": "TE"
       },
@@ -45,6 +65,26 @@
       ],
       "sailRange": {
         "fromM2": 3.5,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "edition": "Twin TE"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 79,
+      "lengthCm": 232,
+      "widthCm": 55.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
         "toM2": 5.8
       }
     },
@@ -70,66 +110,6 @@
     },
     {
       "variant": {
-        "size": 91,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 91,
-      "lengthCm": 243,
-      "widthCm": 59.5,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 6.4
-      }
-    },
-    {
-      "variant": {
-        "size": 72,
-        "edition": "Twin TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 72,
-      "lengthCm": 230,
-      "widthCm": 53.5,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 79,
-        "edition": "Twin TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 79,
-      "lengthCm": 232,
-      "widthCm": 55.5,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.8
-      }
-    },
-    {
-      "variant": {
         "size": 86,
         "edition": "Twin TE"
       },
@@ -146,6 +126,26 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 91,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 91,
+      "lengthCm": 243,
+      "widthCm": 59.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 6.4
       }
     },
     {

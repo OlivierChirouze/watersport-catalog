@@ -10,116 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 112,
-        "construction": "Double Sandwich Full Carbon"
-      },
-      "lengthCm": 236,
-      "widthCm": 68,
-      "volumeL": 112,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 112
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 112,
-      "lengthCm": 236,
-      "widthCm": 68,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Double Sandwich Full Carbon"
-      },
-      "lengthCm": 234.5,
-      "widthCm": 76,
-      "volumeL": 122,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 122
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 122,
-      "lengthCm": 234.5,
-      "widthCm": 76,
-      "weightKg": 7,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 132,
-        "construction": "Double Sandwich Full Carbon"
-      },
-      "lengthCm": 233,
-      "widthCm": 79.6,
-      "volumeL": 132,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 132
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 132,
-      "lengthCm": 233,
-      "widthCm": 79.6,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
         "size": 92,
         "construction": "Double Sandwich Full Carbon"
-      },
-      "lengthCm": 238,
-      "widthCm": 59.6,
-      "volumeL": 92,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 92,
@@ -128,7 +20,59 @@
       "weightKg": 6,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 112,
+        "construction": "Double Sandwich Full Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 112,
+      "lengthCm": 236,
+      "widthCm": 68,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Double Sandwich Full Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 122,
+      "lengthCm": 234.5,
+      "widthCm": 76,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "DeepTuttleBox",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 132,
+        "construction": "Double Sandwich Full Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 132,
+      "lengthCm": 233,
+      "widthCm": 79.6,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ]
     }

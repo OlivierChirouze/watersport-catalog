@@ -9,30 +9,12 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Biax Innegra Carbon",
-        "edition": "TE"
+        "size": 75,
+        "construction": "Biax Fiber"
       },
-      "lengthCm": 231,
-      "widthCm": 63,
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Biax Innegra Carbon",
-        "edition": "TE"
-      },
-      "lengthCm": 232,
-      "widthCm": 65,
-      "volumeL": 115,
+      "lengthCm": 228,
+      "widthCm": 56,
+      "volumeL": 75,
       "fins": [
         {
           "count": 1,
@@ -62,12 +44,61 @@
     {
       "variant": {
         "size": 85,
+        "construction": "Biax Fiber"
+      },
+      "lengthCm": 229,
+      "widthCm": 58.5,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
         "construction": "Biax Innegra Carbon",
         "edition": "TE"
       },
       "lengthCm": 229,
       "widthCm": 58.5,
       "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TeXtreme"
+      },
+      "lengthCm": 229,
+      "widthCm": 58.5,
+      "volumeL": 85,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Biax Fiber"
+      },
+      "lengthCm": 230,
+      "widthCm": 61,
+      "volumeL": 95,
       "fins": [
         {
           "count": 1,
@@ -85,6 +116,56 @@
       "lengthCm": 230,
       "widthCm": 61,
       "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TeXtreme"
+      },
+      "lengthCm": 230,
+      "widthCm": 61,
+      "volumeL": 95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Biax Fiber"
+      },
+      "lengthCm": 231,
+      "widthCm": 63,
+      "volumeL": 105,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Biax Innegra Carbon",
+        "edition": "TE"
+      },
+      "lengthCm": 231,
+      "widthCm": 63,
+      "volumeL": 105,
       "fins": [
         {
           "count": 1,
@@ -114,7 +195,7 @@
       "variant": {
         "size": 115,
         "construction": "Biax Innegra Carbon",
-        "edition": "TeXtreme"
+        "edition": "TE"
       },
       "lengthCm": 232,
       "widthCm": 65,
@@ -129,94 +210,13 @@
     },
     {
       "variant": {
-        "size": 85,
+        "size": 115,
         "construction": "Biax Innegra Carbon",
         "edition": "TeXtreme"
       },
-      "lengthCm": 229,
-      "widthCm": 58.5,
-      "volumeL": 85,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Biax Innegra Carbon",
-        "edition": "TeXtreme"
-      },
-      "lengthCm": 230,
-      "widthCm": 61,
-      "volumeL": 95,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Biax Fiber"
-      },
-      "lengthCm": 231,
-      "widthCm": 63,
-      "volumeL": 105,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "Biax Fiber"
-      },
-      "lengthCm": 228,
-      "widthCm": 56,
-      "volumeL": 75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Biax Fiber"
-      },
-      "lengthCm": 229,
-      "widthCm": 58.5,
-      "volumeL": 85,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Biax Fiber"
-      },
-      "lengthCm": 230,
-      "widthCm": 61,
-      "volumeL": 95,
+      "lengthCm": 232,
+      "widthCm": 65,
+      "volumeL": 115,
       "fins": [
         {
           "count": 1,

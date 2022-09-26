@@ -10,21 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 67,
-        "construction": "Carbon"
-      },
-      "volumeL": 67,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 67
       },
       "compatibleFinFamilies": ["fins"],
@@ -44,10 +29,10 @@
     },
     {
       "variant": {
-        "size": 74,
+        "size": 67,
         "construction": "Carbon"
       },
-      "volumeL": 74,
+      "volumeL": 67,
       "weightKg": 7.3,
       "fins": [
         {
@@ -78,10 +63,10 @@
     },
     {
       "variant": {
-        "size": 79,
+        "size": 74,
         "construction": "Carbon"
       },
-      "volumeL": 79,
+      "volumeL": 74,
       "weightKg": 7.3,
       "fins": [
         {
@@ -112,10 +97,10 @@
     },
     {
       "variant": {
-        "size": 85,
+        "size": 79,
         "construction": "Carbon"
       },
-      "volumeL": 85,
+      "volumeL": 79,
       "weightKg": 7.3,
       "fins": [
         {
@@ -146,10 +131,10 @@
     },
     {
       "variant": {
-        "size": 91,
+        "size": 85,
         "construction": "Carbon"
       },
-      "volumeL": 91,
+      "volumeL": 85,
       "weightKg": 7.3,
       "fins": [
         {
@@ -161,7 +146,8 @@
     },
     {
       "variant": {
-        "size": 91
+        "size": 91,
+        "construction": "Carbon"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 91,
@@ -170,7 +156,8 @@
       "weightKg": 6.8,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {

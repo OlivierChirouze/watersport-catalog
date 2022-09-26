@@ -10,21 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 130,
-        "construction": "N"
-      },
-      "volumeL": 130,
-      "weightKg": 10.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 130
       },
       "compatibleFinFamilies": ["fins"],
@@ -44,16 +29,23 @@
     },
     {
       "variant": {
-        "size": 140,
+        "size": 130,
         "construction": "N"
       },
-      "volumeL": 140,
-      "weightKg": 10.4,
+      "volumeL": 130,
+      "weightKg": 10.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
       "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
-        "size": 140
+        "size": 140,
+        "construction": "N"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 140,

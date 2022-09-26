@@ -11,24 +11,8 @@
     {
       "variant": {
         "size": 115,
-        "construction": "One Shot Sandwich",
-        "edition": "Pro"
-      },
-      "lengthCm": 232,
-      "widthCm": 74,
-      "volumeL": 115,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "edition": "Pro"
+        "edition": "Pro",
+        "construction": "One Shot Sandwich"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 115,
@@ -37,37 +21,20 @@
       "weightKg": 8,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         }
       ]
     },
     {
       "variant": {
-        "size": 150,
-        "construction": "One Shot Sandwich",
-        "edition": "XL"
-      },
-      "lengthCm": 274,
-      "widthCm": 75,
-      "volumeL": 150,
-      "weightKg": 10.5,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 150,
-        "edition": "XL"
+        "size": 135
       },
       "compatibleFinFamilies": ["fins"],
-      "volumeL": 150,
-      "lengthCm": 274,
-      "widthCm": 75.6,
-      "weightKg": 9.5,
+      "volumeL": 135,
+      "lengthCm": 253,
+      "widthCm": 75,
+      "weightKg": 8.5,
       "fins": [
         {
           "type": "US"
@@ -92,15 +59,33 @@
     },
     {
       "variant": {
-        "size": 135
+        "size": 150,
+        "edition": "XL"
       },
       "compatibleFinFamilies": ["fins"],
-      "volumeL": 135,
-      "lengthCm": 253,
-      "widthCm": 75,
-      "weightKg": 8.5,
+      "volumeL": 150,
+      "lengthCm": 274,
+      "widthCm": 75.6,
+      "weightKg": 9.5,
       "fins": [
         {
+          "type": "US"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 150,
+        "construction": "One Shot Sandwich",
+        "edition": "XL"
+      },
+      "lengthCm": 274,
+      "widthCm": 75,
+      "volumeL": 150,
+      "weightKg": 10.5,
+      "fins": [
+        {
+          "count": 2,
           "type": "US"
         }
       ]

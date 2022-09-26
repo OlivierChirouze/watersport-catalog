@@ -27,42 +27,6 @@
     },
     {
       "variant": {
-        "size": 115,
-        "construction": "Bxf Biax Fiber Full PVC Sandwich",
-        "edition": "LTD"
-      },
-      "lengthCm": 232,
-      "widthCm": 66,
-      "volumeL": 115,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Bxf Biax Fiber Full PVC Sandwich",
-        "edition": "LTD"
-      },
-      "lengthCm": 233,
-      "widthCm": 70,
-      "volumeL": 130,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 100,
         "construction": "Textreme IC",
         "edition": "TeXtreme"
@@ -82,6 +46,24 @@
     {
       "variant": {
         "size": 115,
+        "construction": "Bxf Biax Fiber Full PVC Sandwich",
+        "edition": "LTD"
+      },
+      "lengthCm": 232,
+      "widthCm": 66,
+      "volumeL": 115,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
         "construction": "Textreme IC",
         "edition": "TeXtreme"
       },
@@ -89,6 +71,24 @@
       "widthCm": 66,
       "volumeL": 115,
       "weightKg": 5.95,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Bxf Biax Fiber Full PVC Sandwich",
+        "edition": "LTD"
+      },
+      "lengthCm": 233,
+      "widthCm": 70,
+      "volumeL": 130,
+      "weightKg": 7.2,
       "fins": [
         {
           "count": 1,

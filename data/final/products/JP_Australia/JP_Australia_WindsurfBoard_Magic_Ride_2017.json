@@ -9,6 +9,57 @@
   "variants": [
     {
       "variant": {
+        "size": 97,
+        "construction": "ES"
+      },
+      "lengthCm": 240,
+      "widthCm": 63,
+      "volumeL": 97,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "FWS"
+      },
+      "lengthCm": 240,
+      "widthCm": 63,
+      "volumeL": 97,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Pro"
+      },
+      "lengthCm": 240,
+      "widthCm": 63,
+      "volumeL": 97,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 103,
         "construction": "ES"
       },
@@ -305,57 +356,6 @@
       "widthCm": 84,
       "volumeL": 154,
       "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "ES"
-      },
-      "lengthCm": 240,
-      "widthCm": 63,
-      "volumeL": 97,
-      "weightKg": 7.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "FWS"
-      },
-      "lengthCm": 240,
-      "widthCm": 63,
-      "volumeL": 97,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Pro"
-      },
-      "lengthCm": 240,
-      "widthCm": 63,
-      "volumeL": 97,
-      "weightKg": 6.5,
       "fins": [
         {
           "count": 1,

@@ -24,71 +24,11 @@
     },
     {
       "variant": {
-        "size": 145,
-        "construction": "Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 230,
-        "construction": "Full Sandwich Carbon",
-        "edition": "LTD"
-      },
-      "volumeL": 230,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
         "size": 125,
         "construction": "Full Sandwich Carbon",
         "edition": "MTE"
       },
       "volumeL": 125,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Full Sandwich Carbon",
-        "edition": "MTE"
-      },
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 230,
-        "construction": "Full Sandwich Carbon",
-        "edition": "MTE"
-      },
-      "volumeL": 230,
       "fins": [
         {
           "count": 1,
@@ -116,7 +56,8 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Full Sandwich Carbon"
+        "construction": "Full Sandwich Carbon",
+        "edition": "LTD"
       },
       "lengthCm": 226,
       "widthCm": 91,
@@ -131,11 +72,42 @@
     },
     {
       "variant": {
+        "size": 145,
+        "construction": "Full Sandwich Carbon",
+        "edition": "MTE"
+      },
+      "volumeL": 145,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
         "size": 230,
-        "construction": "Full Sandwich Carbon"
+        "construction": "Full Sandwich Carbon",
+        "edition": "LTD"
       },
       "lengthCm": 226,
       "widthCm": 91,
+      "volumeL": 230,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 230,
+        "construction": "Full Sandwich Carbon",
+        "edition": "MTE"
+      },
       "volumeL": 230,
       "fins": [
         {

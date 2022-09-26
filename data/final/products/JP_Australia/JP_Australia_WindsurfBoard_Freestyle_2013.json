@@ -10,15 +10,29 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
+        "size": 90,
         "construction": "Pro"
       },
-      "volumeL": 100,
-      "compatibleFinFamilies": ["fins"]
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 230,
+      "widthCm": 60,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
     },
     {
       "variant": {
-        "size": 100
+        "size": 100,
+        "construction": "Pro"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 100,
@@ -52,39 +66,6 @@
       "sailRange": {
         "fromM2": 4.8,
         "toM2": 6.9
-      }
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Pro"
-      },
-      "volumeL": 90,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 90
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 90,
-      "lengthCm": 230,
-      "widthCm": 60,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.8
       }
     }
   ],

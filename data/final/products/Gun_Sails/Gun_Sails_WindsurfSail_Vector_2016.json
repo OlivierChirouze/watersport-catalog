@@ -10,21 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 6.5
-      },
-      "surfaceM2": 6.5,
-      "luffLengthCm": 446,
-      "mastLengthsCm": [430],
-      "mastIMCS": [21],
-      "boomLengthsCm": [196],
-      "battenCount": 7,
-      "camCount": 3,
-      "weightKg": 5.55,
-      "mastExtensionLengthsCm": [12],
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 6
       },
       "surfaceM2": 6,
@@ -40,17 +25,17 @@
     },
     {
       "variant": {
-        "size": 7.5
+        "size": 6.5
       },
-      "surfaceM2": 7.5,
-      "luffLengthCm": 473,
-      "mastLengthsCm": [460],
-      "mastIMCS": [25],
-      "boomLengthsCm": [212],
+      "surfaceM2": 6.5,
+      "luffLengthCm": 446,
+      "mastLengthsCm": [430],
+      "mastIMCS": [21],
+      "boomLengthsCm": [196],
       "battenCount": 7,
       "camCount": 3,
-      "weightKg": 6.1,
-      "mastExtensionLengthsCm": [13],
+      "weightKg": 5.55,
+      "mastExtensionLengthsCm": [12],
       "topType": "fixed"
     },
     {
@@ -70,16 +55,16 @@
     },
     {
       "variant": {
-        "size": 8.6
+        "size": 7.5
       },
-      "surfaceM2": 8.6,
-      "luffLengthCm": 502,
-      "mastLengthsCm": [490],
-      "mastIMCS": [29],
-      "boomLengthsCm": [224],
+      "surfaceM2": 7.5,
+      "luffLengthCm": 473,
+      "mastLengthsCm": [460],
+      "mastIMCS": [25],
+      "boomLengthsCm": [212],
       "battenCount": 7,
       "camCount": 3,
-      "weightKg": 6.7,
+      "weightKg": 6.1,
       "mastExtensionLengthsCm": [13],
       "topType": "fixed"
     },
@@ -96,6 +81,21 @@
       "camCount": 3,
       "weightKg": 6.25,
       "mastExtensionLengthsCm": [28],
+      "topType": "fixed"
+    },
+    {
+      "variant": {
+        "size": 8.6
+      },
+      "surfaceM2": 8.6,
+      "luffLengthCm": 502,
+      "mastLengthsCm": [490],
+      "mastIMCS": [29],
+      "boomLengthsCm": [224],
+      "battenCount": 7,
+      "camCount": 3,
+      "weightKg": 6.7,
+      "mastExtensionLengthsCm": [13],
       "topType": "fixed"
     },
     {

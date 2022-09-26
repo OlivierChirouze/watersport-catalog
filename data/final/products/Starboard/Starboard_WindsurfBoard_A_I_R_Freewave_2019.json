@@ -1,7 +1,7 @@
 {
   "dimensions": ["size", "construction"],
   "brandName": "Starboard",
-  "year": 2018,
+  "year": 2019,
   "name": "A.I.R Freewave",
   "type": "board",
   "subType": "windsurfBoard",
@@ -9,20 +9,20 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
-        "construction": "Carbon LCF"
+        "size": 79,
+        "construction": "Flax Balsa"
       },
-      "lengthCm": 222,
-      "widthCm": 65,
-      "volumeL": 103,
-      "weightKg": 6.9,
+      "lengthCm": 214,
+      "widthCm": 58,
+      "volumeL": 79,
+      "weightKg": 6.45,
       "fins": [
         {
           "count": 1,
           "type": "US"
         },
         {
-          "count": 2,
+          "count": 4,
           "type": "StarBox"
         }
       ],
@@ -31,19 +31,19 @@
     {
       "variant": {
         "size": 83,
-        "construction": "Carbon LCF"
+        "construction": "Flax Balsa"
       },
       "lengthCm": 220,
       "widthCm": 59.3,
       "volumeL": 83,
-      "weightKg": 6.3,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 1,
           "type": "US"
         },
         {
-          "count": 2,
+          "count": 4,
           "type": "StarBox"
         }
       ],
@@ -52,19 +52,40 @@
     {
       "variant": {
         "size": 93,
-        "construction": "Carbon LCF"
+        "construction": "Flax Balsa"
       },
       "lengthCm": 222,
       "widthCm": 61.3,
       "volumeL": 93,
-      "weightKg": 6.5,
+      "weightKg": 6.8,
       "fins": [
         {
           "count": 1,
           "type": "US"
         },
         {
-          "count": 2,
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 222,
+      "widthCm": 65,
+      "volumeL": 103,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "US"
+        },
+        {
+          "count": 4,
           "type": "StarBox"
         }
       ],

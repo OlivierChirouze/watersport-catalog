@@ -10,51 +10,9 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
-        "construction": "Carbon Innegra",
-        "edition": "LTD"
-      },
-      "volumeL": 100,
-      "weightKg": 6.4,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 100,
-      "lengthCm": 233,
-      "widthCm": 62,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.9,
-        "toM2": 6.6
-      }
-    },
-    {
-      "variant": {
         "size": 75,
-        "construction": "Carbon Innegra",
-        "edition": "LTD"
-      },
-      "volumeL": 75,
-      "weightKg": 6.4,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "Carbon Innegra"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
@@ -77,17 +35,8 @@
     {
       "variant": {
         "size": 83,
-        "construction": "Carbon Innegra",
-        "edition": "LTD"
-      },
-      "volumeL": 83,
-      "weightKg": 6.4,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "Carbon Innegra"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 83,
@@ -116,6 +65,30 @@
       "volumeL": 92,
       "weightKg": 6.4,
       "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
+        "edition": "LTD",
+        "construction": "Carbon Innegra"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 233,
+      "widthCm": 62,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.9,
+        "toM2": 6.6
+      }
     }
   ],
   "pictures": [],

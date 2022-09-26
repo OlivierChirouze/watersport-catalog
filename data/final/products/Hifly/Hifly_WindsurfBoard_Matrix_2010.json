@@ -1,34 +1,13 @@
 {
   "name": "Matrix",
   "year": 2010,
-  "programs": ["beginner", "freeride"],
+  "programs": ["freeride"],
   "brandName": "Hifly",
   "type": "board",
   "subType": "windsurfBoard",
   "description": {},
-  "dimensions": ["edition", "size"],
+  "dimensions": ["size"],
   "variants": [
-    {
-      "variant": {
-        "size": 149,
-        "edition": "S"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 149,
-      "lengthCm": 265,
-      "widthCm": 78,
-      "weightKg": 13.4,
-      "fins": [
-        {
-          "type": "PowerBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 2,
-        "toM2": 9.5
-      }
-    },
     {
       "variant": {
         "size": 149

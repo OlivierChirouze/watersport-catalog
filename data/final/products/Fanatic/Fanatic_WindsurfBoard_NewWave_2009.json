@@ -10,6 +10,25 @@
   "variants": [
     {
       "variant": {
+        "size": 69
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 69,
+      "lengthCm": 237,
+      "widthCm": 52.5,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
         "size": 72,
         "edition": "Twin"
       },
@@ -30,6 +49,25 @@
     },
     {
       "variant": {
+        "size": 75
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 75,
+      "lengthCm": 238,
+      "widthCm": 54.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
         "size": 78,
         "edition": "Twin"
       },
@@ -45,44 +83,6 @@
       ],
       "sailRange": {
         "fromM2": 4,
-        "toM2": 5.8
-      }
-    },
-    {
-      "variant": {
-        "size": 69
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 69,
-      "lengthCm": 237,
-      "widthCm": 52.5,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 5.4
-      }
-    },
-    {
-      "variant": {
-        "size": 75
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 75,
-      "lengthCm": 238,
-      "widthCm": 54.5,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
         "toM2": 5.8
       }
     },

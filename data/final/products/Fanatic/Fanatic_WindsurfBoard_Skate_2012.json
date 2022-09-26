@@ -10,25 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 109,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 109,
-      "lengthCm": 227,
-      "widthCm": 66.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
         "size": 89,
         "edition": "TE"
       },
@@ -67,7 +48,8 @@
     },
     {
       "variant": {
-        "size": 109
+        "size": 109,
+        "edition": "TE"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 109,
@@ -81,24 +63,6 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 99
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 99,
-      "lengthCm": 228,
-      "widthCm": 63.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
       }
     }
   ],

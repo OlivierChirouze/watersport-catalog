@@ -10,54 +10,9 @@
   "variants": [
     {
       "variant": {
-        "size": 102,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 102,
-      "lengthCm": 235,
-      "widthCm": 64,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 112,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 112,
-      "lengthCm": 235,
-      "widthCm": 66,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.7
-      }
-    },
-    {
-      "variant": {
         "size": 74,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 74,
@@ -69,7 +24,33 @@
           "type": "US"
         },
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "edition": "Wood",
+        "construction": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 74,
+      "lengthCm": 233,
+      "widthCm": 58,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -80,7 +61,8 @@
     {
       "variant": {
         "size": 82,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 82,
@@ -92,7 +74,33 @@
           "type": "US"
         },
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.3
+      }
+    },
+    {
+      "variant": {
+        "size": 82,
+        "edition": "Wood",
+        "construction": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 82,
+      "lengthCm": 233,
+      "widthCm": 60,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -103,7 +111,8 @@
     {
       "variant": {
         "size": 92,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 92,
@@ -115,7 +124,33 @@
           "type": "US"
         },
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "edition": "Wood",
+        "construction": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 234,
+      "widthCm": 62,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -126,7 +161,33 @@
     {
       "variant": {
         "size": 102,
-        "edition": "Wood"
+        "edition": "LTD",
+        "construction": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 235,
+      "widthCm": 64,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox",
+          "count": 3
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 102,
+        "edition": "Wood",
+        "construction": "Wood"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 102,
@@ -138,7 +199,8 @@
           "type": "US"
         },
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -149,19 +211,21 @@
     {
       "variant": {
         "size": 112,
-        "edition": "Wood"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 112,
       "lengthCm": 235,
       "widthCm": 66,
-      "weightKg": 7.8,
+      "weightKg": 7.1,
       "fins": [
         {
           "type": "US"
         },
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
         }
       ],
       "sailRange": {
@@ -171,242 +235,28 @@
     },
     {
       "variant": {
-        "size": 74,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 74,
-      "lengthCm": 233,
-      "widthCm": 58,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.3,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 82,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 82,
-      "lengthCm": 233,
-      "widthCm": 60,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.3
-      }
-    },
-    {
-      "variant": {
-        "size": 92,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 92,
-      "lengthCm": 234,
-      "widthCm": 62,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 102,
-        "construction": "LTD"
-      },
-      "lengthCm": 235,
-      "widthCm": 64,
-      "volumeL": 102,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 102,
+        "size": 112,
+        "edition": "Wood",
         "construction": "Wood"
       },
-      "lengthCm": 235,
-      "widthCm": 64,
-      "volumeL": 102,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "LTD"
-      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 112,
       "lengthCm": 235,
       "widthCm": 66,
-      "volumeL": 112,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "Wood"
-      },
-      "lengthCm": 235,
-      "widthCm": 66,
-      "volumeL": 112,
       "weightKg": 7.8,
       "fins": [
         {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "LTD"
-      },
-      "lengthCm": 233,
-      "widthCm": 58,
-      "volumeL": 74,
-      "weightKg": 6.3,
-      "fins": [
+          "type": "US"
+        },
         {
-          "count": 3,
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
         }
       ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Wood"
-      },
-      "lengthCm": 233,
-      "widthCm": 58,
-      "volumeL": 74,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "LTD"
-      },
-      "lengthCm": 233,
-      "widthCm": 60,
-      "volumeL": 82,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "Wood"
-      },
-      "lengthCm": 233,
-      "widthCm": 60,
-      "volumeL": 82,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "LTD"
-      },
-      "lengthCm": 234,
-      "widthCm": 62,
-      "volumeL": 92,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Wood"
-      },
-      "lengthCm": 234,
-      "widthCm": 62,
-      "volumeL": 92,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.7
+      }
     }
   ],
   "pictures": []

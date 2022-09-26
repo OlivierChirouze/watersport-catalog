@@ -25,6 +25,21 @@
     },
     {
       "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "luffLengthCm": 360,
+      "mastLengthsCm": [340],
+      "mastIMCS": [14],
+      "boomLengthsCm": [154],
+      "weightKg": 2.98,
+      "battenCount": 4,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [20],
+      "topType": "vario"
+    },
+    {
+      "variant": {
         "size": 4.2
       },
       "surfaceM2": 4.2,
@@ -70,18 +85,18 @@
     },
     {
       "variant": {
-        "size": 4
+        "size": 5
       },
-      "surfaceM2": 4,
-      "luffLengthCm": 360,
-      "mastLengthsCm": [340],
-      "mastIMCS": [14],
-      "boomLengthsCm": [154],
-      "weightKg": 2.98,
+      "surfaceM2": 5,
+      "luffLengthCm": 404,
+      "mastLengthsCm": [400],
+      "mastIMCS": [19],
+      "boomLengthsCm": [172],
+      "weightKg": 3.38,
       "battenCount": 4,
       "camCount": 0,
-      "mastExtensionLengthsCm": [20],
-      "topType": "vario"
+      "mastExtensionLengthsCm": [4],
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -115,17 +130,16 @@
     },
     {
       "variant": {
-        "size": 5
+        "size": 6
       },
-      "surfaceM2": 5,
-      "luffLengthCm": 404,
-      "mastLengthsCm": [400],
-      "mastIMCS": [19],
-      "boomLengthsCm": [172],
-      "weightKg": 3.38,
+      "surfaceM2": 6,
+      "weightKg": 3.81,
+      "boomLengthsCm": [190],
+      "luffLengthCm": 452,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [22],
       "battenCount": 4,
       "camCount": 0,
-      "mastExtensionLengthsCm": [4],
       "topType": "fixed"
     },
     {
@@ -140,20 +154,6 @@
       "weightKg": 3.81,
       "battenCount": 4,
       "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 6
-      },
-      "surfaceM2": 6,
-      "weightKg": 3.81,
-      "boomLengthsCm": [190],
-      "luffLengthCm": 452,
-      "mastLengthsCm": [430],
-      "mastExtensionLengthsCm": [22],
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
     }
   ],
   "pictures": []

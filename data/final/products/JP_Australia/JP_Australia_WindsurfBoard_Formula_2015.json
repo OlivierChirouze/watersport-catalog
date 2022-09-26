@@ -13,22 +13,6 @@
         "size": 173,
         "construction": "Pro"
       },
-      "lengthCm": 229.5,
-      "widthCm": 100.4,
-      "volumeL": 173,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 173
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 173,
       "lengthCm": 229.5,
@@ -36,7 +20,8 @@
       "weightKg": 8.8,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

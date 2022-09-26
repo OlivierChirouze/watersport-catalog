@@ -13,22 +13,6 @@
         "size": 177,
         "construction": "Reflex Carbon"
       },
-      "lengthCm": 228,
-      "widthCm": 100.5,
-      "volumeL": 177,
-      "weightKg": 8.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 177
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 177,
       "lengthCm": 228,
@@ -36,7 +20,8 @@
       "weightKg": 9.15,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

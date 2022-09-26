@@ -10,52 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 103,
-      "lengthCm": 234,
-      "widthCm": 65,
-      "weightKg": 7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 109,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 109,
-      "lengthCm": 234,
-      "widthCm": 66.5,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
         "size": 81,
         "edition": "Carbon"
       },
@@ -79,98 +33,6 @@
     },
     {
       "variant": {
-        "size": 86,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 86,
-      "lengthCm": 232,
-      "widthCm": 59,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 94,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 94,
-      "lengthCm": 234,
-      "widthCm": 61.5,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 103,
-        "edition": "Technora Reflex"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 103,
-      "lengthCm": 234,
-      "widthCm": 65,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 109,
-        "edition": "Technora Reflex"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 109,
-      "lengthCm": 234,
-      "widthCm": 66.5,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
         "size": 81,
         "edition": "Technora Reflex"
       },
@@ -190,98 +52,6 @@
       "sailRange": {
         "fromM2": 3.5,
         "toM2": 5.5
-      }
-    },
-    {
-      "variant": {
-        "size": 86,
-        "edition": "Technora Reflex"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 86,
-      "lengthCm": 232,
-      "widthCm": 59,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 94,
-        "edition": "Technora Reflex"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 94,
-      "lengthCm": 234,
-      "widthCm": 61.5,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 103,
-        "edition": "Wood Reflex"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 103,
-      "lengthCm": 234,
-      "widthCm": 65,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 109,
-        "edition": "Wood Reflex"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 109,
-      "lengthCm": 234,
-      "widthCm": 66.5,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 7.5
       }
     },
     {
@@ -310,6 +80,52 @@
     {
       "variant": {
         "size": 86,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 232,
+      "widthCm": 59,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
+        "edition": "Technora Reflex"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 86,
+      "lengthCm": 232,
+      "widthCm": 59,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 86,
         "edition": "Wood Reflex"
       },
       "compatibleFinFamilies": ["fins"],
@@ -333,6 +149,52 @@
     {
       "variant": {
         "size": 94,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 234,
+      "widthCm": 61.5,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
+        "edition": "Technora Reflex"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 94,
+      "lengthCm": 234,
+      "widthCm": 61.5,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 94,
         "edition": "Wood Reflex"
       },
       "compatibleFinFamilies": ["fins"],
@@ -351,6 +213,144 @@
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 103,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 103,
+      "lengthCm": 234,
+      "widthCm": 65,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 103,
+        "edition": "Technora Reflex"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 103,
+      "lengthCm": 234,
+      "widthCm": 65,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 103,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 103,
+      "lengthCm": 234,
+      "widthCm": 65,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 109,
+        "edition": "Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 109,
+      "lengthCm": 234,
+      "widthCm": 66.5,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 109,
+        "edition": "Technora Reflex"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 109,
+      "lengthCm": 234,
+      "widthCm": 66.5,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 109,
+        "edition": "Wood Reflex"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 109,
+      "lengthCm": 234,
+      "widthCm": 66.5,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7.5
       }
     }
   ],

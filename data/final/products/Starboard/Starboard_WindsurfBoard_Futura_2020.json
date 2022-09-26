@@ -9,6 +9,40 @@
   "variants": [
     {
       "variant": {
+        "size": 97,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 67,
+      "volumeL": 97,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 97,
+        "construction": "Flax Balsa"
+      },
+      "lengthCm": 228,
+      "widthCm": 67,
+      "volumeL": 97,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 107,
         "construction": "Carbon"
       },
@@ -139,40 +173,6 @@
         {
           "count": 1,
           "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Carbon"
-      },
-      "lengthCm": 228,
-      "widthCm": 67,
-      "volumeL": 97,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 97,
-        "construction": "Flax Balsa"
-      },
-      "lengthCm": 228,
-      "widthCm": 67,
-      "volumeL": 97,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
         }
       ],
       "compatibleFinFamilies": ["fins"]

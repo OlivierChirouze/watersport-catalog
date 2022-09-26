@@ -10,31 +10,9 @@
   "variants": [
     {
       "variant": {
-        "size": 107,
-        "edition": "Carbon"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 107,
-      "lengthCm": 219,
-      "widthCm": 65,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "SlotBox"
-        },
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
         "size": 87,
-        "edition": "Carbon"
+        "edition": "Carbon",
+        "construction": "Carbon"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 87,
@@ -47,6 +25,46 @@
         },
         {
           "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 87,
+        "edition": "Wood",
+        "construction": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 87,
+      "lengthCm": 215,
+      "widthCm": 62,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
         }
       ],
       "sailRange": {
@@ -57,19 +75,28 @@
     {
       "variant": {
         "size": 107,
-        "edition": "Wood"
+        "edition": "Carbon",
+        "construction": "Carbon"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 107,
       "lengthCm": 219,
       "widthCm": 65,
-      "weightKg": 7,
+      "weightKg": 6.8,
       "fins": [
         {
           "type": "SlotBox"
         },
         {
           "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
         }
       ],
       "sailRange": {
@@ -79,110 +106,35 @@
     },
     {
       "variant": {
-        "size": 87,
-        "edition": "Wood"
+        "size": 107,
+        "edition": "Wood",
+        "construction": "Wood"
       },
       "compatibleFinFamilies": ["fins"],
-      "volumeL": 87,
-      "lengthCm": 215,
-      "widthCm": 62,
-      "weightKg": 6.4,
+      "volumeL": 107,
+      "lengthCm": 219,
+      "widthCm": 65,
+      "weightKg": 7,
       "fins": [
         {
           "type": "SlotBox"
         },
         {
           "type": "US"
+        },
+        {
+          "count": 2,
+          "type": "US8"
+        },
+        {
+          "count": 4,
+          "type": "StarBox"
         }
       ],
       "sailRange": {
         "fromM2": 5,
-        "toM2": 6
+        "toM2": 7
       }
-    },
-    {
-      "variant": {
-        "size": 107,
-        "construction": "Carbon"
-      },
-      "lengthCm": 219,
-      "widthCm": 65,
-      "volumeL": 107,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US8"
-        },
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 107,
-        "construction": "Wood"
-      },
-      "lengthCm": 219,
-      "widthCm": 65,
-      "volumeL": 107,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US8"
-        },
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 87,
-        "construction": "Carbon"
-      },
-      "lengthCm": 215,
-      "widthCm": 62,
-      "volumeL": 87,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US8"
-        },
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 87,
-        "construction": "Wood"
-      },
-      "lengthCm": 215,
-      "widthCm": 62,
-      "volumeL": 87,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US8"
-        },
-        {
-          "count": 4,
-          "type": "StarBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

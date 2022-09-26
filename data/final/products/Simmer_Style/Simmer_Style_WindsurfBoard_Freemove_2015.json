@@ -13,28 +13,14 @@
         "size": 100,
         "construction": "Wood Sandwich"
       },
-      "lengthCm": 235,
-      "widthCm": 70,
-      "volumeL": 100,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 100
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 100,
       "lengthCm": 235,
       "widthCm": 70,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -47,28 +33,14 @@
         "size": 110,
         "construction": "Wood Sandwich"
       },
-      "lengthCm": 236,
-      "widthCm": 75,
-      "volumeL": 110,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 110
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 110,
       "lengthCm": 236,
       "widthCm": 75,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -81,28 +53,14 @@
         "size": 120,
         "construction": "Wood Sandwich"
       },
-      "lengthCm": 236,
-      "widthCm": 80,
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 120,
       "lengthCm": 236,
       "widthCm": 80,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {

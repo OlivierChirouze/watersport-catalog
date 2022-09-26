@@ -14,87 +14,19 @@
         "edition": "HD"
       },
       "surfaceM2": 4.3,
+      "luffLengthCm": 407,
       "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [],
+      "mastIMCS": [19],
+      "boomLengthsCm": [153],
       "battenCount": 5,
       "camCount": 0,
+      "mastExtensionLengthsCm": [],
       "topType": "vario"
     },
     {
       "variant": {
         "size": 4.9,
         "edition": "HD"
-      },
-      "surfaceM2": 4.9,
-      "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.5,
-        "edition": "HD"
-      },
-      "surfaceM2": 5.5,
-      "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 6.1,
-        "edition": "HD"
-      },
-      "surfaceM2": 6.1,
-      "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 6.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 6.7,
-      "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 7.2,
-        "edition": "HD"
-      },
-      "surfaceM2": 7.2,
-      "mastLengthsCm": [400, 430],
-      "mastExtensionLengthsCm": [],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.3
-      },
-      "surfaceM2": 4.3,
-      "luffLengthCm": 407,
-      "mastLengthsCm": [400],
-      "mastIMCS": [19],
-      "boomLengthsCm": [153],
-      "battenCount": 5,
-      "camCount": 0
-    },
-    {
-      "variant": {
-        "size": 4.9
       },
       "surfaceM2": 4.9,
       "luffLengthCm": 421,
@@ -108,7 +40,8 @@
     },
     {
       "variant": {
-        "size": 5.5
+        "size": 5.5,
+        "edition": "HD"
       },
       "surfaceM2": 5.5,
       "luffLengthCm": 431,
@@ -122,7 +55,8 @@
     },
     {
       "variant": {
-        "size": 6.1
+        "size": 6.1,
+        "edition": "HD"
       },
       "surfaceM2": 6.1,
       "luffLengthCm": 440,
@@ -136,7 +70,8 @@
     },
     {
       "variant": {
-        "size": 6.7
+        "size": 6.7,
+        "edition": "HD"
       },
       "surfaceM2": 6.7,
       "luffLengthCm": 458,
@@ -150,7 +85,8 @@
     },
     {
       "variant": {
-        "size": 7.2
+        "size": 7.2,
+        "edition": "HD"
       },
       "surfaceM2": 7.2,
       "luffLengthCm": 471,

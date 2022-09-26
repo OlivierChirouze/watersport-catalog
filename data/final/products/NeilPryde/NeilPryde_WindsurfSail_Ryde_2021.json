@@ -9,78 +9,6 @@
   "programs": ["beginner", "freeride"],
   "variants": [
     {
-      "variant": {
-        "size": 5.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 5.7,
-      "boomLengthsCm": [178],
-      "luffLengthCm": 416,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 6.2,
-        "edition": "HD"
-      },
-      "surfaceM2": 6.2,
-      "boomLengthsCm": [184],
-      "luffLengthCm": 432,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 6.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 6.7,
-      "boomLengthsCm": [190],
-      "luffLengthCm": 452,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 7.2,
-        "edition": "HD"
-      },
-      "surfaceM2": 7.2,
-      "boomLengthsCm": [199],
-      "luffLengthCm": 464,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 7.7,
-        "edition": "HD"
-      },
-      "surfaceM2": 7.7,
-      "boomLengthsCm": [208],
-      "luffLengthCm": 476,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 8.2,
-        "edition": "HD"
-      },
-      "surfaceM2": 8.2,
-      "boomLengthsCm": [218],
-      "luffLengthCm": 492,
-      "battenCount": 6,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
       "surfaceM2": 5.7,
       "luffLengthCm": 416,
       "boomLengthsCm": [178],
@@ -92,7 +20,8 @@
       "mastLengthsCm": [400, 430],
       "topType": "vario",
       "variant": {
-        "size": 5.7
+        "size": 5.7,
+        "edition": "HD"
       }
     },
     {
@@ -107,7 +36,8 @@
       "mastLengthsCm": [430, 400],
       "topType": "fixed",
       "variant": {
-        "size": 6.2
+        "size": 6.2,
+        "edition": "HD"
       }
     },
     {
@@ -122,7 +52,8 @@
       "mastLengthsCm": [430],
       "topType": "fixed",
       "variant": {
-        "size": 6.7
+        "size": 6.7,
+        "edition": "HD"
       }
     },
     {
@@ -137,7 +68,8 @@
       "mastLengthsCm": [430, 460],
       "topType": "fixed",
       "variant": {
-        "size": 7.2
+        "size": 7.2,
+        "edition": "HD"
       }
     },
     {
@@ -152,7 +84,8 @@
       "mastLengthsCm": [460, 430],
       "topType": "fixed",
       "variant": {
-        "size": 7.7
+        "size": 7.7,
+        "edition": "HD"
       }
     },
     {
@@ -167,7 +100,8 @@
       "mastLengthsCm": [490, 460],
       "topType": "fixed",
       "variant": {
-        "size": 8.2
+        "size": 8.2,
+        "edition": "HD"
       }
     }
   ],

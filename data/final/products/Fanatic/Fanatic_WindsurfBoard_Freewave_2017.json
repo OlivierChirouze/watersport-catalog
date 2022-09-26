@@ -9,144 +9,17 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "IC",
-        "edition": "STB TE"
+        "size": 76,
+        "construction": "CWS"
       },
-      "lengthCm": 229,
-      "widthCm": 62.5,
-      "volumeL": 105,
-      "weightKg": 6.9,
+      "lengthCm": 232,
+      "widthCm": 56,
+      "volumeL": 76,
+      "weightKg": 6.5,
       "fins": [
         {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "IC",
-        "edition": "STB TE"
-      },
-      "lengthCm": 225,
-      "widthCm": 57.5,
-      "volumeL": 85,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "IC",
-        "edition": "STB TE"
-      },
-      "lengthCm": 227,
-      "widthCm": 60,
-      "volumeL": 95,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "Textreme IC",
-        "edition": "STB TeXtreme"
-      },
-      "lengthCm": 229,
-      "widthCm": 62.5,
-      "volumeL": 105,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Textreme IC",
-        "edition": "STB TeXtreme"
-      },
-      "lengthCm": 225,
-      "widthCm": 57.5,
-      "volumeL": 85,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Textreme IC",
-        "edition": "STB TeXtreme"
-      },
-      "lengthCm": 227,
-      "widthCm": 60,
-      "volumeL": 95,
-      "weightKg": 6.25,
-      "fins": [
-        {
-          "count": 2,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "IC",
-        "edition": "TE"
-      },
-      "lengthCm": 235,
-      "widthCm": 63.5,
-      "volumeL": 106,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 3,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "IC",
-        "edition": "TE"
-      },
-      "lengthCm": 236,
-      "widthCm": 66,
-      "volumeL": 116,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 3,
-          "type": "PowerBox"
+          "count": 1,
+          "type": "US"
         }
       ],
       "compatibleFinFamilies": ["fins"]
@@ -175,6 +48,59 @@
     },
     {
       "variant": {
+        "size": 85,
+        "construction": "IC",
+        "edition": "STB TE"
+      },
+      "lengthCm": 225,
+      "widthCm": 57.5,
+      "volumeL": 85,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 85,
+        "construction": "Textreme IC",
+        "edition": "STB TeXtreme"
+      },
+      "lengthCm": 225,
+      "widthCm": 57.5,
+      "volumeL": 85,
+      "weightKg": 5.9,
+      "fins": [
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 86,
+        "construction": "CWS"
+      },
+      "lengthCm": 233,
+      "widthCm": 58.5,
+      "volumeL": 86,
+      "weightKg": 6.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 86,
         "construction": "IC",
         "edition": "TE"
@@ -186,6 +112,59 @@
       "fins": [
         {
           "count": 3,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "IC",
+        "edition": "STB TE"
+      },
+      "lengthCm": 227,
+      "widthCm": 60,
+      "volumeL": 95,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "Textreme IC",
+        "edition": "STB TeXtreme"
+      },
+      "lengthCm": 227,
+      "widthCm": 60,
+      "volumeL": 95,
+      "weightKg": 6.25,
+      "fins": [
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "CWS"
+      },
+      "lengthCm": 234,
+      "widthCm": 61,
+      "volumeL": 96,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
           "type": "PowerBox"
         }
       ],
@@ -211,6 +190,42 @@
     },
     {
       "variant": {
+        "size": 105,
+        "construction": "IC",
+        "edition": "STB TE"
+      },
+      "lengthCm": 229,
+      "widthCm": 62.5,
+      "volumeL": 105,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Textreme IC",
+        "edition": "STB TeXtreme"
+      },
+      "lengthCm": 229,
+      "widthCm": 62.5,
+      "volumeL": 105,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 2,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 106,
         "construction": "CWS"
       },
@@ -221,6 +236,24 @@
       "fins": [
         {
           "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "IC",
+        "edition": "TE"
+      },
+      "lengthCm": 235,
+      "widthCm": 63.5,
+      "volumeL": 106,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 3,
           "type": "PowerBox"
         }
       ],
@@ -245,50 +278,17 @@
     },
     {
       "variant": {
-        "size": 76,
-        "construction": "CWS"
+        "size": 116,
+        "construction": "IC",
+        "edition": "TE"
       },
-      "lengthCm": 232,
-      "widthCm": 56,
-      "volumeL": 76,
-      "weightKg": 6.5,
+      "lengthCm": 236,
+      "widthCm": 66,
+      "volumeL": 116,
+      "weightKg": 7,
       "fins": [
         {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86,
-        "construction": "CWS"
-      },
-      "lengthCm": 233,
-      "widthCm": 58.5,
-      "volumeL": 86,
-      "weightKg": 6.65,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "CWS"
-      },
-      "lengthCm": 234,
-      "widthCm": 61,
-      "volumeL": 96,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
+          "count": 3,
           "type": "PowerBox"
         }
       ],

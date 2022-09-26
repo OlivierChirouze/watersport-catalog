@@ -43,20 +43,6 @@
         "size": 53,
         "construction": "Pro"
       },
-      "volumeL": 53,
-      "weightKg": 4.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 53
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 53,
       "lengthCm": 228,
@@ -65,6 +51,10 @@
       "fins": [
         {
           "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ],
       "sailRange": {

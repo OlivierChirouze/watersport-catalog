@@ -30,6 +30,26 @@
     },
     {
       "variant": {
+        "size": 67,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 67,
+      "lengthCm": 227,
+      "widthCm": 51.5,
+      "weightKg": 6,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3,
+        "toM2": 5
+      }
+    },
+    {
+      "variant": {
         "size": 73,
         "edition": "HD"
       },
@@ -50,8 +70,48 @@
     },
     {
       "variant": {
+        "size": 73,
+        "edition": "TE"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 73,
+      "lengthCm": 233,
+      "widthCm": 53.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.5,
+        "toM2": 5.2
+      }
+    },
+    {
+      "variant": {
         "size": 79,
         "edition": "HD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 79,
+      "lengthCm": 236,
+      "widthCm": 54.5,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.6
+      }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "edition": "TE"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 79,
@@ -86,66 +146,6 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 6
-      }
-    },
-    {
-      "variant": {
-        "size": 67,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 67,
-      "lengthCm": 227,
-      "widthCm": 51.5,
-      "weightKg": 6,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 73,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 73,
-      "lengthCm": 233,
-      "widthCm": 53.5,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.5,
-        "toM2": 5.2
-      }
-    },
-    {
-      "variant": {
-        "size": 79,
-        "edition": "TE"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 79,
-      "lengthCm": 236,
-      "widthCm": 54.5,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.6
       }
     },
     {

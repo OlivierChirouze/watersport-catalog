@@ -39,21 +39,6 @@
     },
     {
       "variant": {
-        "size": 5.5,
-        "edition": "X"
-      },
-      "surfaceM2": 5.5,
-      "boomLengthsCm": [178],
-      "luffLengthCm": 438,
-      "mastLengthsCm": [430],
-      "mastExtensionLengthsCm": [8],
-      "masTypes": ["RDM", "SDM"],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
         "size": 5,
         "edition": "X"
       },
@@ -64,6 +49,21 @@
       "mastExtensionLengthsCm": [16],
       "masTypes": ["RDM", "SDM"],
       "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
+        "size": 5.5,
+        "edition": "X"
+      },
+      "surfaceM2": 5.5,
+      "boomLengthsCm": [178],
+      "luffLengthCm": 438,
+      "mastLengthsCm": [430],
+      "mastExtensionLengthsCm": [8],
+      "masTypes": ["RDM", "SDM"],
+      "battenCount": 5,
       "camCount": 0,
       "topType": "vario"
     },
@@ -98,17 +98,17 @@
     },
     {
       "variant": {
-        "size": 6
+        "size": 7
       },
-      "surfaceM2": 6,
-      "boomLengthsCm": [186],
-      "luffLengthCm": 448,
-      "mastLengthsCm": [430],
-      "mastExtensionLengthsCm": [18],
+      "surfaceM2": 7,
+      "boomLengthsCm": [204],
+      "luffLengthCm": 467,
+      "mastLengthsCm": [460],
+      "mastExtensionLengthsCm": [7],
       "masTypes": ["RDM", "SDM"],
       "battenCount": 5,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -119,20 +119,6 @@
       "luffLengthCm": 478,
       "mastLengthsCm": [460],
       "mastExtensionLengthsCm": [18],
-      "masTypes": ["RDM", "SDM"],
-      "battenCount": 5,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 7
-      },
-      "surfaceM2": 7,
-      "boomLengthsCm": [204],
-      "luffLengthCm": 467,
-      "mastLengthsCm": [460],
-      "mastExtensionLengthsCm": [7],
       "masTypes": ["RDM", "SDM"],
       "battenCount": 5,
       "camCount": 0,

@@ -10,21 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 67,
-        "construction": "Flex Light CK"
-      },
-      "volumeL": 67,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 67
       },
       "compatibleFinFamilies": ["fins"],
@@ -41,6 +26,21 @@
         "fromM2": 3,
         "toM2": 5
       }
+    },
+    {
+      "variant": {
+        "size": 67,
+        "construction": "Flex Light CK"
+      },
+      "volumeL": 67,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -63,15 +63,6 @@
     },
     {
       "variant": {
-        "size": 79,
-        "construction": "Flex Light CK"
-      },
-      "volumeL": 79,
-      "weightKg": 7.2,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 79
       },
       "compatibleFinFamilies": ["fins"],
@@ -88,6 +79,15 @@
         "fromM2": 3.7,
         "toM2": 5.7
       }
+    },
+    {
+      "variant": {
+        "size": 79,
+        "construction": "Flex Light CK"
+      },
+      "volumeL": 79,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

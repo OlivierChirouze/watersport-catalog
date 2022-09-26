@@ -13,46 +13,26 @@
         "size": 75,
         "construction": "Carbon Innegra Sandwich Bamboo"
       },
-      "volumeL": 75,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
       "lengthCm": 232,
       "widthCm": 55,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 3.4,
         "toM2": 5.3
-      }
+      },
+      "weightKg": 7.1
     },
     {
       "variant": {
         "size": 80,
         "construction": "Carbon Innegra Sandwich Bamboo"
-      },
-      "volumeL": 80,
-      "weightKg": 7.1,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 80,
@@ -66,7 +46,8 @@
       "sailRange": {
         "fromM2": 3.7,
         "toM2": 5.7
-      }
+      },
+      "weightKg": 7.1
     },
     {
       "variant": {

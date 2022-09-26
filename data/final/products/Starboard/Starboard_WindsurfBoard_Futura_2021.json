@@ -9,6 +9,40 @@
   "variants": [
     {
       "variant": {
+        "size": 99,
+        "construction": "Carbon Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 99,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 99,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 106,
         "construction": "Carbon Sandwich"
       },
@@ -139,40 +173,6 @@
         {
           "count": 1,
           "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Carbon Sandwich"
-      },
-      "lengthCm": 225,
-      "widthCm": 63,
-      "volumeL": 99,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Wood Sandwich"
-      },
-      "lengthCm": 225,
-      "widthCm": 63,
-      "volumeL": 99,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
         }
       ],
       "compatibleFinFamilies": ["fins"]

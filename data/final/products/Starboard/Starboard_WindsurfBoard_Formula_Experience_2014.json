@@ -10,26 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 160,
-        "edition": "One Design"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 160,
-      "lengthCm": 228,
-      "widthCm": 100.5,
-      "weightKg": 11.4,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 7.5,
-        "toM2": 12.5
-      }
-    },
-    {
-      "variant": {
         "size": 117,
         "edition": "ProKids"
       },
@@ -46,6 +26,26 @@
       "sailRange": {
         "fromM2": 5.5,
         "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 160,
+        "edition": "One Design"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 160,
+      "lengthCm": 228,
+      "widthCm": 100.5,
+      "weightKg": 11.4,
+      "fins": [
+        {
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 7.5,
+        "toM2": 12.5
       }
     }
   ],

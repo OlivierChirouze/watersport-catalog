@@ -68,20 +68,6 @@
         "size": 220,
         "construction": "Asa"
       },
-      "volumeL": 220,
-      "weightKg": 15.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 220
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 220,
       "lengthCm": 300,
@@ -89,9 +75,9 @@
       "weightKg": 15.5,
       "fins": [
         {
-          "type": "PowerBox"
-        },
-        null
+          "type": "PowerBox",
+          "count": 1
+        }
       ],
       "sailRange": {
         "fromM2": 1.5,

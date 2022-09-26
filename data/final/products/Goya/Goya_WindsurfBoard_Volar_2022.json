@@ -43,6 +43,22 @@
     },
     {
       "variant": {
+        "size": 110,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 244.8,
+      "widthCm": 70.7,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 120,
         "construction": "Carbon, Full Carbon Deck",
         "edition": "Carbon"
@@ -60,9 +76,41 @@
     },
     {
       "variant": {
+        "size": 120,
+        "construction": "Wood Sandwich"
+      },
+      "lengthCm": 247.2,
+      "widthCm": 74.1,
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 130,
         "construction": "Carbon, Full Carbon Deck",
         "edition": "Carbon"
+      },
+      "lengthCm": 249,
+      "widthCm": 78.1,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Wood Sandwich"
       },
       "lengthCm": 249,
       "widthCm": 78.1,
@@ -84,54 +132,6 @@
       "lengthCm": 252.4,
       "widthCm": 82.7,
       "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Wood Sandwich"
-      },
-      "lengthCm": 244.8,
-      "widthCm": 70.7,
-      "volumeL": 110,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Wood Sandwich"
-      },
-      "lengthCm": 247.2,
-      "widthCm": 74.1,
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Wood Sandwich"
-      },
-      "lengthCm": 249,
-      "widthCm": 78.1,
-      "volumeL": 130,
       "fins": [
         {
           "count": 1,

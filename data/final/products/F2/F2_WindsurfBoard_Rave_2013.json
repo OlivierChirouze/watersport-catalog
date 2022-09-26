@@ -13,26 +13,14 @@
         "size": 70,
         "construction": "N"
       },
-      "volumeL": 70,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 70
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 70,
       "lengthCm": 226,
       "widthCm": 53,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -44,13 +32,6 @@
       "variant": {
         "size": 77,
         "construction": "N"
-      },
-      "volumeL": 77,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 77
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 77,

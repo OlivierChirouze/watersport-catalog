@@ -13,26 +13,6 @@
         "size": 78,
         "construction": "Pro"
       },
-      "lengthCm": 215,
-      "widthCm": 55,
-      "volumeL": 78,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 78
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 78,
       "lengthCm": 215,
@@ -40,10 +20,12 @@
       "weightKg": 6,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -99,26 +81,6 @@
         "size": 95,
         "construction": "Pro"
       },
-      "lengthCm": 218,
-      "widthCm": 59,
-      "volumeL": 95,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 3,
-          "type": "SlotBox"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 95,
       "lengthCm": 218,
@@ -126,10 +88,12 @@
       "weightKg": 6.5,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 3
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {

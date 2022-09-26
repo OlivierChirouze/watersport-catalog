@@ -10,23 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 167,
-        "construction": "Carbon"
-      },
-      "lengthCm": 228,
-      "widthCm": 100,
-      "volumeL": 167,
-      "weightKg": 10.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 167
       },
       "compatibleFinFamilies": ["fins"],
@@ -43,6 +26,23 @@
         "fromM2": 8.5,
         "toM2": 12.5
       }
+    },
+    {
+      "variant": {
+        "size": 167,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 100,
+      "volumeL": 167,
+      "weightKg": 10.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

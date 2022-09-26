@@ -13,22 +13,6 @@
         "size": 171,
         "construction": "Tuffskin AST"
       },
-      "lengthCm": 271,
-      "widthCm": 85.5,
-      "volumeL": 171,
-      "weightKg": 13.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 171
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 171,
       "lengthCm": 271,
@@ -36,9 +20,9 @@
       "weightKg": 13.2,
       "fins": [
         {
-          "type": "TuttleBox"
-        },
-        null
+          "type": "TuttleBox",
+          "count": 1
+        }
       ],
       "sailRange": {
         "fromM2": 7,

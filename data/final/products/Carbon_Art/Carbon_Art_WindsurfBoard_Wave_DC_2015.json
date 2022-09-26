@@ -10,29 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 102,
-        "edition": "Pro"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 102,
-      "lengthCm": 228,
-      "widthCm": 61,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
         "size": 88,
         "edition": "Pro"
       },
@@ -40,7 +17,7 @@
       "volumeL": 88,
       "lengthCm": 220,
       "widthCm": 57,
-      "weightKg": 5.9,
+      "weightKg": 6.2,
       "fins": [
         {
           "type": "US"
@@ -63,7 +40,7 @@
       "volumeL": 92,
       "lengthCm": 224,
       "widthCm": 59,
-      "weightKg": 6.1,
+      "weightKg": 6.4,
       "fins": [
         {
           "type": "US"
@@ -79,7 +56,8 @@
     },
     {
       "variant": {
-        "size": 102
+        "size": 102,
+        "edition": "Pro"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 102,
@@ -97,50 +75,6 @@
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 88
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 88,
-      "lengthCm": 220,
-      "widthCm": 57,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5
-      }
-    },
-    {
-      "variant": {
-        "size": 92
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 92,
-      "lengthCm": 224,
-      "widthCm": 59,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.5
       }
     }
   ],

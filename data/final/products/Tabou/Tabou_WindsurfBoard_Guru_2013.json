@@ -10,21 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 125,
-        "construction": "AST"
-      },
-      "volumeL": 125,
-      "weightKg": 10.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 125
       },
       "compatibleFinFamilies": ["fins"],
@@ -44,10 +29,10 @@
     },
     {
       "variant": {
-        "size": 135,
+        "size": 125,
         "construction": "AST"
       },
-      "volumeL": 135,
+      "volumeL": 125,
       "weightKg": 10.4,
       "fins": [
         {
@@ -75,6 +60,21 @@
         "fromM2": 6,
         "toM2": 8.5
       }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "AST"
+      },
+      "volumeL": 135,
+      "weightKg": 10.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

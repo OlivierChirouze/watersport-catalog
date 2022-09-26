@@ -11,25 +11,8 @@
     {
       "variant": {
         "size": 117,
-        "construction": "3dx",
-        "edition": "ProKids"
-      },
-      "lengthCm": 216,
-      "widthCm": 92.5,
-      "volumeL": 117,
-      "weightKg": 9.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 117,
-        "edition": "ProKids"
+        "edition": "ProKids",
+        "construction": "3dx"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 117,
@@ -38,7 +21,8 @@
       "weightKg": 9.2,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

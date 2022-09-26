@@ -9,6 +9,70 @@
   "variants": [
     {
       "variant": {
+        "size": 84,
+        "construction": "Carbon"
+      },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "Silver"
+      },
+      "lengthCm": 228,
+      "widthCm": 58,
+      "volumeL": 84,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Carbon"
+      },
+      "lengthCm": 230,
+      "widthCm": 61,
+      "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 94,
+        "construction": "Silver"
+      },
+      "lengthCm": 230,
+      "widthCm": 61,
+      "volumeL": 94,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 104,
         "construction": "Carbon"
       },
@@ -64,70 +128,6 @@
       "lengthCm": 232,
       "widthCm": 68,
       "volumeL": 114,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "Carbon"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 84,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "Silver"
-      },
-      "lengthCm": 228,
-      "widthCm": 58,
-      "volumeL": 84,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "Carbon"
-      },
-      "lengthCm": 230,
-      "widthCm": 61,
-      "volumeL": 94,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 94,
-        "construction": "Silver"
-      },
-      "lengthCm": 230,
-      "widthCm": 61,
-      "volumeL": 94,
       "fins": [
         {
           "count": 1,

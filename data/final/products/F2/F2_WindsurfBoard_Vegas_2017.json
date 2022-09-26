@@ -9,63 +9,12 @@
   "variants": [
     {
       "variant": {
-        "size": 126,
-        "edition": "Twin Fin"
+        "size": 96,
+        "construction": "LTD"
       },
-      "lengthCm": 247,
-      "widthCm": 69,
-      "volumeL": 126,
-      "weightKg": 8.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 136,
-        "edition": "Twin Fin"
-      },
-      "lengthCm": 250,
-      "widthCm": 72,
-      "volumeL": 136,
-      "weightKg": 8.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 146,
-        "edition": "Twin Fin"
-      },
-      "lengthCm": 250,
-      "widthCm": 76,
-      "volumeL": 146,
-      "weightKg": 9.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 156,
-        "edition": "Twin Fin"
-      },
-      "lengthCm": 255,
-      "widthCm": 80,
-      "volumeL": 156,
+      "lengthCm": 242,
+      "widthCm": 58,
+      "volumeL": 96,
       "fins": [
         {
           "count": 1,
@@ -109,7 +58,8 @@
     {
       "variant": {
         "size": 126,
-        "construction": "LTD"
+        "construction": "LTD",
+        "edition": "Twin Fin"
       },
       "lengthCm": 247,
       "widthCm": 69,
@@ -120,12 +70,14 @@
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "compatibleFinFamilies": ["fins"],
+      "weightKg": 8.2
     },
     {
       "variant": {
         "size": 136,
-        "construction": "LTD"
+        "construction": "LTD",
+        "edition": "Twin Fin"
       },
       "lengthCm": 250,
       "widthCm": 72,
@@ -136,12 +88,14 @@
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "compatibleFinFamilies": ["fins"],
+      "weightKg": 8.7
     },
     {
       "variant": {
         "size": 146,
-        "construction": "LTD"
+        "construction": "LTD",
+        "edition": "Twin Fin"
       },
       "lengthCm": 250,
       "widthCm": 76,
@@ -152,16 +106,17 @@
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "compatibleFinFamilies": ["fins"],
+      "weightKg": 9.2
     },
     {
       "variant": {
-        "size": 96,
-        "construction": "LTD"
+        "size": 156,
+        "edition": "Twin Fin"
       },
-      "lengthCm": 242,
-      "widthCm": 58,
-      "volumeL": 96,
+      "lengthCm": 255,
+      "widthCm": 80,
+      "volumeL": 156,
       "fins": [
         {
           "count": 1,

@@ -1,12 +1,12 @@
 {
-  "dimensions": ["size", "construction"],
+  "dimensions": ["size"],
   "brandName": "Exocet",
   "year": 2019,
   "name": "Freefoil",
   "type": "board",
   "subType": "windsurfBoard",
   "infoUrl": "https://www.exocet-original.com/freefoil-ast-c2x33091951",
-  "programs": ["foiling", "freeride"],
+  "programs": ["freeride"],
   "variants": [
     {
       "variant": {
@@ -43,38 +43,6 @@
         "fromM2": 4.5,
         "toM2": 8
       },
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 112,
-        "construction": "AST"
-      },
-      "lengthCm": 210,
-      "widthCm": 76,
-      "volumeL": 112,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 132,
-        "construction": "AST"
-      },
-      "lengthCm": 210,
-      "widthCm": 86,
-      "volumeL": 132,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
       "compatibleFinFamilies": ["foil"]
     }
   ],

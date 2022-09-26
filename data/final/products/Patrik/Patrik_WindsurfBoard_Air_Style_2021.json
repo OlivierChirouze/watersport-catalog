@@ -13,21 +13,6 @@
         "size": 93,
         "construction": "Deck:Carbon"
       },
-      "lengthCm": 211,
-      "widthCm": 61,
-      "volumeL": 93,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 93
-      },
       "compatibleFinFamilies": ["fins"],
       "lengthCm": 211.5,
       "widthCm": 61.5,
@@ -38,6 +23,10 @@
         {
           "count": 1,
           "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ],
       "sailRange": {
@@ -50,21 +39,6 @@
         "size": 99,
         "construction": "Deck:Carbon"
       },
-      "lengthCm": 212,
-      "widthCm": 64,
-      "volumeL": 99,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99
-      },
       "compatibleFinFamilies": ["fins"],
       "lengthCm": 212,
       "widthCm": 64.5,
@@ -75,6 +49,10 @@
         {
           "count": 1,
           "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ],
       "sailRange": {

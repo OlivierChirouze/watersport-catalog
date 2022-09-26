@@ -26,9 +26,41 @@
     },
     {
       "variant": {
+        "size": 100,
+        "construction": "TeXtreme"
+      },
+      "lengthCm": 231,
+      "widthCm": 62,
+      "volumeL": 100,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 115,
         "construction": "Bxf",
         "edition": "LTD"
+      },
+      "lengthCm": 232,
+      "widthCm": 66,
+      "volumeL": 115,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "TeXtreme"
       },
       "lengthCm": 232,
       "widthCm": 66,
@@ -48,6 +80,22 @@
         "edition": "LTD"
       },
       "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 130,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "TeXtreme"
+      },
+      "lengthCm": 233,
       "widthCm": 70,
       "volumeL": 130,
       "fins": [
@@ -67,54 +115,6 @@
       "lengthCm": 235,
       "widthCm": 77,
       "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "TeXtreme"
-      },
-      "lengthCm": 231,
-      "widthCm": 62,
-      "volumeL": 100,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "TeXtreme"
-      },
-      "lengthCm": 232,
-      "widthCm": 66,
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "TeXtreme"
-      },
-      "lengthCm": 233,
-      "widthCm": 70,
-      "volumeL": 130,
       "fins": [
         {
           "count": 1,

@@ -10,55 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Premium"
-      },
-      "volumeL": 105,
-      "weightKg": 7.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 105,
-      "lengthCm": 239.5,
-      "widthCm": 62.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
         "size": 75,
         "construction": "Premium"
-      },
-      "volumeL": 75,
-      "weightKg": 7.75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
@@ -67,31 +20,22 @@
       "fins": [
         {
           "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Premium"
-      },
-      "volumeL": 85,
-      "weightKg": 7.75,
-      "fins": [
+        },
         {
           "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.7
+      },
+      "weightKg": 7.75
     },
     {
       "variant": {
-        "size": 85
+        "size": 85,
+        "construction": "Premium"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 85,
@@ -100,31 +44,22 @@
       "fins": [
         {
           "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Premium"
-      },
-      "volumeL": 95,
-      "weightKg": 7.75,
-      "fins": [
+        },
         {
           "count": 1,
           "type": "PowerBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      },
+      "weightKg": 7.75
     },
     {
       "variant": {
-        "size": 95
+        "size": 95,
+        "construction": "Premium"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 95,
@@ -132,13 +67,36 @@
       "widthCm": 59.6,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6.5
-      }
+      },
+      "weightKg": 7.75
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Premium"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 239.5,
+      "widthCm": 62.5,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 7
+      },
+      "weightKg": 7.75
     }
   ],
   "pictures": []

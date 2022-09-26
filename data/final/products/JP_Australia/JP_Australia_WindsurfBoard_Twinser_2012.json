@@ -11,70 +11,6 @@
     {
       "variant": {
         "size": 68,
-        "construction": "Carbon Kevlar",
-        "edition": "Quad Pro"
-      },
-      "volumeL": 68,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Carbon Kevlar",
-        "edition": "Quad Pro"
-      },
-      "volumeL": 74,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 82,
-        "construction": "Carbon Kevlar",
-        "edition": "Quad Pro"
-      },
-      "volumeL": 82,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "Carbon Kevlar",
-        "edition": "Quad Pro"
-      },
-      "volumeL": 92,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 68,
         "edition": "Quad"
       },
       "compatibleFinFamilies": ["fins"],
@@ -94,6 +30,22 @@
         "fromM2": 2,
         "toM2": 5.2
       }
+    },
+    {
+      "variant": {
+        "size": 68,
+        "construction": "Carbon Kevlar",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 68,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -120,6 +72,22 @@
     },
     {
       "variant": {
+        "size": 74,
+        "construction": "Carbon Kevlar",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 74,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 82,
         "edition": "Quad"
       },
@@ -143,6 +111,22 @@
     },
     {
       "variant": {
+        "size": 82,
+        "construction": "Carbon Kevlar",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 82,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 92,
         "edition": "Quad"
       },
@@ -163,6 +147,22 @@
         "fromM2": 4.4,
         "toM2": 6.2
       }
+    },
+    {
+      "variant": {
+        "size": 92,
+        "construction": "Carbon Kevlar",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 92,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

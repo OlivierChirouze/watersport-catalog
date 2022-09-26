@@ -10,60 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
-        "construction": "Ultracore Carbon"
-      },
-      "lengthCm": 224,
-      "widthCm": 65,
-      "volumeL": 103,
-      "weightKg": 6.02,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US5"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 103
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 103,
-      "lengthCm": 224,
-      "widthCm": 65,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "type": "US"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 6.8
-      }
-    },
-    {
-      "variant": {
         "size": 81,
         "construction": "Ultracore Carbon"
-      },
-      "lengthCm": 227,
-      "widthCm": 57.5,
-      "volumeL": 81,
-      "weightKg": 5.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US5"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 81
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 81,
@@ -73,6 +21,10 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "US5"
         }
       ],
       "sailRange": {
@@ -85,22 +37,6 @@
         "size": 93,
         "construction": "Ultracore Carbon"
       },
-      "lengthCm": 228,
-      "widthCm": 62,
-      "volumeL": 93,
-      "weightKg": 5.88,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US5"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 93
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 93,
       "lengthCm": 228,
@@ -109,11 +45,39 @@
       "fins": [
         {
           "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "US5"
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Ultracore Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 103,
+      "lengthCm": 224,
+      "widthCm": 65,
+      "weightKg": 6.4,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "count": 1,
+          "type": "US5"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.8
       }
     }
   ],

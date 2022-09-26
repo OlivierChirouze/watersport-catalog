@@ -21,30 +21,6 @@
     },
     {
       "variant": {
-        "size": 112,
-        "construction": "LTD",
-        "edition": "LTD FB"
-      },
-      "lengthCm": 235,
-      "widthCm": 70,
-      "volumeL": 112,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 123,
-        "construction": "LTD",
-        "edition": "LTD FB"
-      },
-      "lengthCm": 235,
-      "widthCm": 75,
-      "volumeL": 123,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 101,
         "construction": "Wood",
         "edition": "Wood FB"
@@ -58,6 +34,18 @@
     {
       "variant": {
         "size": 112,
+        "construction": "LTD",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 112,
+      "weightKg": 6.8,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 112,
         "construction": "Wood",
         "edition": "Wood FB"
       },
@@ -65,6 +53,18 @@
       "widthCm": 70,
       "volumeL": 112,
       "weightKg": 7.4,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "construction": "LTD",
+        "edition": "LTD FB"
+      },
+      "lengthCm": 235,
+      "widthCm": 75,
+      "volumeL": 123,
+      "weightKg": 7.3,
       "compatibleFinFamilies": ["fins"]
     },
     {

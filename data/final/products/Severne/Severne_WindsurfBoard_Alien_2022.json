@@ -9,34 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 120,
-        "edition": "HD"
-      },
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "edition": "HD"
-      },
-      "volumeL": 145,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 105
       },
       "lengthCm": 190,
@@ -67,11 +39,39 @@
     },
     {
       "variant": {
+        "size": 120,
+        "edition": "HD"
+      },
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 125
       },
       "lengthCm": 210,
       "widthCm": 75,
       "volumeL": 125,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "HD"
+      },
+      "volumeL": 145,
       "fins": [
         {
           "count": 1,

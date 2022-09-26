@@ -9,149 +9,9 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "BXIC",
-        "edition": "TE"
-      },
-      "lengthCm": 231,
-      "widthCm": 62.5,
-      "volumeL": 105,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "BXIC",
-        "edition": "TE"
-      },
-      "lengthCm": 231,
-      "widthCm": 65,
-      "volumeL": 115,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 75,
         "construction": "BXIC",
         "edition": "TE"
-      },
-      "lengthCm": 228,
-      "widthCm": 56,
-      "volumeL": 75,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "BXIC",
-        "edition": "TE"
-      },
-      "lengthCm": 229,
-      "widthCm": 57.5,
-      "volumeL": 85,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "BXIC",
-        "edition": "TE"
-      },
-      "lengthCm": 230,
-      "widthCm": 60,
-      "volumeL": 95,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "BXIC"
-      },
-      "lengthCm": 231,
-      "widthCm": 63,
-      "volumeL": 105,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "construction": "TeXtreme"
-      },
-      "lengthCm": 229,
-      "widthCm": 62.5,
-      "volumeL": 105,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "TeXtreme"
-      },
-      "lengthCm": 231,
-      "widthCm": 65,
-      "volumeL": 115,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "BXIC"
       },
       "lengthCm": 228,
       "widthCm": 56,
@@ -168,7 +28,8 @@
     {
       "variant": {
         "size": 85,
-        "construction": "BXIC"
+        "construction": "BXIC",
+        "edition": "TE"
       },
       "lengthCm": 229,
       "widthCm": 58.5,
@@ -202,7 +63,8 @@
     {
       "variant": {
         "size": 95,
-        "construction": "BXIC"
+        "construction": "BXIC",
+        "edition": "TE"
       },
       "lengthCm": 230,
       "widthCm": 61,
@@ -225,6 +87,76 @@
       "widthCm": 60,
       "volumeL": 95,
       "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "BXIC",
+        "edition": "TE"
+      },
+      "lengthCm": 231,
+      "widthCm": 63,
+      "volumeL": 105,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "TeXtreme"
+      },
+      "lengthCm": 229,
+      "widthCm": 62.5,
+      "volumeL": 105,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "BXIC",
+        "edition": "TE"
+      },
+      "lengthCm": 231,
+      "widthCm": 65,
+      "volumeL": 115,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "TeXtreme"
+      },
+      "lengthCm": 231,
+      "widthCm": 65,
+      "volumeL": 115,
+      "weightKg": 7.2,
       "fins": [
         {
           "count": 1,

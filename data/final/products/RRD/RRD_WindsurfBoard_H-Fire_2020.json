@@ -10,6 +10,23 @@
     {
       "variant": {
         "size": 155,
+        "construction": "E-Tech"
+      },
+      "lengthCm": 236,
+      "widthCm": 91,
+      "volumeL": 155,
+      "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 155,
         "construction": "LTD",
         "edition": "Pro LTD"
       },
@@ -30,40 +47,6 @@
         "size": 155,
         "construction": "LTE",
         "edition": "Pro LTE"
-      },
-      "lengthCm": 225,
-      "widthCm": 91,
-      "volumeL": 155,
-      "weightKg": 9.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 155,
-        "construction": "E-Tech"
-      },
-      "lengthCm": 236,
-      "widthCm": 91,
-      "volumeL": 155,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 155,
-        "construction": "LTE"
       },
       "lengthCm": 236,
       "widthCm": 91,

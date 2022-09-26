@@ -27,60 +27,6 @@
     },
     {
       "variant": {
-        "size": 115,
-        "construction": "Bxf",
-        "edition": "LTD"
-      },
-      "lengthCm": 232,
-      "widthCm": 66,
-      "volumeL": 115,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Bxf",
-        "edition": "LTD"
-      },
-      "lengthCm": 233,
-      "widthCm": 70,
-      "volumeL": 130,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Bxf",
-        "edition": "LTD"
-      },
-      "lengthCm": 235,
-      "widthCm": 77,
-      "volumeL": 145,
-      "weightKg": 8.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 100,
         "construction": "HRS"
       },
@@ -99,12 +45,48 @@
     {
       "variant": {
         "size": 115,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 232,
+      "widthCm": 66,
+      "volumeL": 115,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
         "construction": "HRS"
       },
       "lengthCm": 232,
       "widthCm": 66,
       "volumeL": 115,
       "weightKg": 8.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 233,
+      "widthCm": 70,
+      "volumeL": 130,
+      "weightKg": 7.5,
       "fins": [
         {
           "count": 1,
@@ -139,6 +121,24 @@
       "widthCm": 77,
       "volumeL": 135,
       "weightKg": 9.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Bxf",
+        "edition": "LTD"
+      },
+      "lengthCm": 235,
+      "widthCm": 77,
+      "volumeL": 145,
+      "weightKg": 8.2,
       "fins": [
         {
           "count": 1,

@@ -13,19 +13,6 @@
         "size": 69,
         "construction": "Flexlight CK"
       },
-      "volumeL": 69,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 69
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 69,
       "lengthCm": 224,
@@ -33,7 +20,8 @@
       "weightKg": 6.1,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         },
         {
           "type": "US"
@@ -49,19 +37,6 @@
         "size": 75,
         "construction": "Flexlight CK"
       },
-      "volumeL": 75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
       "lengthCm": 227,
@@ -72,7 +47,8 @@
           "type": "SlotBox"
         },
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {

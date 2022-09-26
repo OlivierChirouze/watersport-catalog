@@ -13,28 +13,14 @@
         "size": 170,
         "construction": "Full Bcs"
       },
-      "lengthCm": 230,
-      "widthCm": 100,
-      "volumeL": 170,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 170
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 170,
       "lengthCm": 230,
       "widthCm": 100,
       "fins": [
         {
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

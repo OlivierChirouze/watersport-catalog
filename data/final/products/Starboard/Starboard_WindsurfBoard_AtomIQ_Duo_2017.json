@@ -13,22 +13,6 @@
         "size": 114,
         "construction": "3dx"
       },
-      "lengthCm": 239,
-      "widthCm": 75.5,
-      "volumeL": 114,
-      "weightKg": 9.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 114
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 114,
       "lengthCm": 239,
@@ -39,7 +23,8 @@
           "type": "PowerBox"
         },
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -52,22 +37,6 @@
         "size": 124,
         "construction": "3dx"
       },
-      "lengthCm": 239,
-      "widthCm": 81,
-      "volumeL": 124,
-      "weightKg": 9.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 124
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 124,
       "lengthCm": 239,
@@ -75,7 +44,8 @@
       "weightKg": 9.9,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -88,22 +58,6 @@
         "size": 130,
         "construction": "3dx"
       },
-      "lengthCm": 239,
-      "widthCm": 84,
-      "volumeL": 130,
-      "weightKg": 9.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 130,
       "lengthCm": 239,
@@ -111,7 +65,8 @@
       "weightKg": 10.35,
       "fins": [
         {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {

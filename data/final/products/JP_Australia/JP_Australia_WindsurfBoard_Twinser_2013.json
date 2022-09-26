@@ -11,32 +11,6 @@
     {
       "variant": {
         "size": 68,
-        "construction": "Pro Carbon Innega",
-        "edition": "Quad Pro"
-      },
-      "volumeL": 68,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Pro Carbon Innega",
-        "edition": "Quad Pro"
-      },
-      "volumeL": 74,
-      "weightKg": 7.3,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 68,
         "edition": "Quad"
       },
       "compatibleFinFamilies": ["fins"],
@@ -52,6 +26,22 @@
           "type": "MiniTuttleBox"
         }
       ]
+    },
+    {
+      "variant": {
+        "size": 68,
+        "construction": "Pro Carbon Innega",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 68,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -75,6 +65,16 @@
         "fromM2": 4,
         "toM2": 5.2
       }
+    },
+    {
+      "variant": {
+        "size": 74,
+        "construction": "Pro Carbon Innega",
+        "edition": "Quad Pro"
+      },
+      "volumeL": 74,
+      "weightKg": 7.3,
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

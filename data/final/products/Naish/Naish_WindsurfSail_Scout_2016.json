@@ -26,6 +26,22 @@
     },
     {
       "variant": {
+        "size": 3,
+        "edition": "SE"
+      },
+      "surfaceM2": 3,
+      "luffLengthCm": 318,
+      "mastLengthsCm": [290, 340],
+      "boomLengthsCm": [128, 129],
+      "weightKg": 1.62,
+      "battenCount": 2,
+      "camCount": 0,
+      "mastExtensionLengthsCm": [],
+      "masTypes": ["RDM"],
+      "topType": "vario"
+    },
+    {
+      "variant": {
         "size": 3.5,
         "edition": "SE"
       },
@@ -38,22 +54,6 @@
       "battenCount": 2,
       "camCount": 0,
       "mastExtensionLengthsCm": [17],
-      "masTypes": ["RDM"],
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 3,
-        "edition": "SE"
-      },
-      "surfaceM2": 3,
-      "luffLengthCm": 318,
-      "mastLengthsCm": [290, 340],
-      "boomLengthsCm": [128, 129],
-      "weightKg": 1.62,
-      "battenCount": 2,
-      "camCount": 0,
-      "mastExtensionLengthsCm": [],
       "masTypes": ["RDM"],
       "topType": "vario"
     },

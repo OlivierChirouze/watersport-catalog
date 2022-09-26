@@ -10,21 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 9.5,
+        "size": 8.5,
         "edition": "LW"
-      },
-      "surfaceM2": 9.5,
-      "luffLengthCm": 530,
-      "mastLengthsCm": [520],
-      "mastIMCS": [32],
-      "boomLengthsCm": [266],
-      "weightKg": 5.8,
-      "battenCount": 5,
-      "camCount": 2
-    },
-    {
-      "variant": {
-        "size": 8.5
       },
       "surfaceM2": 8.5,
       "luffLengthCm": 492,
@@ -39,7 +26,8 @@
     },
     {
       "variant": {
-        "size": 9.5
+        "size": 9.5,
+        "edition": "LW"
       },
       "surfaceM2": 9.5,
       "luffLengthCm": 534,

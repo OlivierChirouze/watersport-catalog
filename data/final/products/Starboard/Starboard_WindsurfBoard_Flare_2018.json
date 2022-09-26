@@ -9,32 +9,14 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
+        "size": 81,
         "construction": "Carbon LCF",
         "edition": "LCF"
       },
-      "lengthCm": 224,
-      "widthCm": 65,
-      "volumeL": 103,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 113,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
-      },
-      "lengthCm": 224,
-      "widthCm": 68.5,
-      "volumeL": 113,
-      "weightKg": 6.9,
+      "lengthCm": 223,
+      "widthCm": 57.6,
+      "volumeL": 81,
+      "weightKg": 6,
       "fins": [
         {
           "count": 1,
@@ -46,13 +28,12 @@
     {
       "variant": {
         "size": 81,
-        "construction": "Carbon LCF",
-        "edition": "LCF"
+        "construction": "Carbon Reflex",
+        "edition": "Reflex"
       },
       "lengthCm": 223,
       "widthCm": 57.6,
       "volumeL": 81,
-      "weightKg": 6,
       "fins": [
         {
           "count": 1,
@@ -81,6 +62,41 @@
     },
     {
       "variant": {
+        "size": 93,
+        "construction": "Carbon Reflex",
+        "edition": "Reflex"
+      },
+      "lengthCm": 224,
+      "widthCm": 63,
+      "volumeL": 93,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 103,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 224,
+      "widthCm": 65,
+      "volumeL": 103,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 103,
         "construction": "Carbon Reflex",
         "edition": "Reflex"
@@ -99,46 +115,30 @@
     {
       "variant": {
         "size": 113,
+        "construction": "Carbon LCF",
+        "edition": "LCF"
+      },
+      "lengthCm": 224,
+      "widthCm": 68.5,
+      "volumeL": 113,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 113,
         "construction": "Carbon Reflex",
         "edition": "Reflex"
       },
       "lengthCm": 224,
       "widthCm": 68.5,
       "volumeL": 113,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 81,
-        "construction": "Carbon Reflex",
-        "edition": "Reflex"
-      },
-      "lengthCm": 223,
-      "widthCm": 57.6,
-      "volumeL": 81,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 93,
-        "construction": "Carbon Reflex",
-        "edition": "Reflex"
-      },
-      "lengthCm": 224,
-      "widthCm": 63,
-      "volumeL": 93,
       "fins": [
         {
           "count": 1,

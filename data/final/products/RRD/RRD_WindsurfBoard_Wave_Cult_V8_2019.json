@@ -9,57 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
-        "construction": "LTD"
-      },
-      "lengthCm": 225,
-      "widthCm": 63,
-      "volumeL": 104,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 104,
-        "construction": "LTE"
-      },
-      "lengthCm": 225,
-      "widthCm": 63,
-      "volumeL": 104,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "LTD"
-      },
-      "lengthCm": 226,
-      "widthCm": 66,
-      "volumeL": 114,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 68,
         "construction": "LTD"
       },
@@ -169,6 +118,57 @@
       "widthCm": 60,
       "volumeL": 90,
       "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 104,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "LTE"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 104,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "SlotBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "LTD"
+      },
+      "lengthCm": 226,
+      "widthCm": 66,
+      "volumeL": 114,
+      "weightKg": 7.4,
       "fins": [
         {
           "count": 1,

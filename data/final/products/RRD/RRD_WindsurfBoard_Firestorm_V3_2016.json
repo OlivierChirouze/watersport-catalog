@@ -11,7 +11,8 @@
     {
       "variant": {
         "size": 101,
-        "edition": "LTD"
+        "edition": "LTD",
+        "construction": "LTD"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 101,
@@ -21,8 +22,61 @@
       "fins": [
         {
           "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
         }
       ]
+    },
+    {
+      "variant": {
+        "size": 101,
+        "edition": "Wood",
+        "construction": "Wood"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 101,
+      "lengthCm": 235,
+      "widthCm": 65,
+      "weightKg": 7,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "LTD"
+      },
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Wood"
+      },
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
@@ -34,38 +88,6 @@
       "lengthCm": 235,
       "widthCm": 70,
       "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 123,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 123,
-      "lengthCm": 235,
-      "widthCm": 75,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 101,
-        "edition": "Wood"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 101,
-      "lengthCm": 235,
-      "widthCm": 65,
-      "weightKg": 7,
       "fins": [
         {
           "type": "TuttleBox"
@@ -90,6 +112,50 @@
     },
     {
       "variant": {
+        "size": 120,
+        "construction": "LTD"
+      },
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Wood"
+      },
+      "volumeL": 120,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 123,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 123,
+      "lengthCm": 235,
+      "widthCm": 75,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ]
+    },
+    {
+      "variant": {
         "size": 123,
         "edition": "Wood"
       },
@@ -103,90 +169,6 @@
           "type": "TuttleBox"
         }
       ]
-    },
-    {
-      "variant": {
-        "size": 101,
-        "construction": "LTD"
-      },
-      "volumeL": 101,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 101,
-        "construction": "Wood"
-      },
-      "volumeL": 101,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "LTD"
-      },
-      "volumeL": 110,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Wood"
-      },
-      "volumeL": 110,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "LTD"
-      },
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120,
-        "construction": "Wood"
-      },
-      "volumeL": 120,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

@@ -9,42 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 80,
-        "construction": "ES",
-        "edition": "ES Family"
-      },
-      "lengthCm": 139,
-      "widthCm": 249,
-      "volumeL": 80,
-      "weightKg": 9.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 83,
-        "construction": "ES",
-        "edition": "ES Family"
-      },
-      "lengthCm": 149,
-      "widthCm": 250,
-      "volumeL": 83,
-      "weightKg": 10.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 66,
         "construction": "FWS"
       },
@@ -233,7 +197,8 @@
     {
       "variant": {
         "size": 80,
-        "construction": "ES"
+        "construction": "ES",
+        "edition": "ES Family"
       },
       "lengthCm": 139,
       "widthCm": 249,
@@ -284,7 +249,8 @@
     {
       "variant": {
         "size": 83,
-        "construction": "ES"
+        "construction": "ES",
+        "edition": "ES Family"
       },
       "lengthCm": 149,
       "widthCm": 251,

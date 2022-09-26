@@ -9,6 +9,55 @@
   "variants": [
     {
       "variant": {
+        "size": 99,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 64,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 99,
+        "construction": "Wood Sandwich",
+        "edition": "Wood"
+      },
+      "lengthCm": 238,
+      "widthCm": 64,
+      "volumeL": 99,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 109,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 67,
+      "volumeL": 109,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 109,
         "construction": "Wood Sandwich",
         "edition": "Wood"
@@ -28,12 +77,44 @@
     {
       "variant": {
         "size": 119,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 71.5,
+      "volumeL": 119,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 119,
         "construction": "Wood Sandwich",
         "edition": "Wood"
       },
       "lengthCm": 238,
       "widthCm": 71.5,
       "volumeL": 119,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 129,
+        "construction": "Starlite Carbon"
+      },
+      "lengthCm": 238,
+      "widthCm": 76,
+      "volumeL": 129,
       "fins": [
         {
           "count": 1,
@@ -63,111 +144,11 @@
     {
       "variant": {
         "size": 139,
-        "construction": "Wood Sandwich",
-        "edition": "Wood"
+        "construction": "Starlite Carbon"
       },
       "lengthCm": 240,
       "widthCm": 80,
       "volumeL": 139,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 159,
-        "construction": "Wood Sandwich",
-        "edition": "Wood"
-      },
-      "lengthCm": 255,
-      "widthCm": 81,
-      "volumeL": 159,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 169,
-        "construction": "Wood Sandwich",
-        "edition": "Wood"
-      },
-      "lengthCm": 258,
-      "widthCm": 84,
-      "volumeL": 169,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99,
-        "construction": "Wood Sandwich",
-        "edition": "Wood"
-      },
-      "lengthCm": 238,
-      "widthCm": 64,
-      "volumeL": 99,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 109,
-        "construction": "Starlite Carbon"
-      },
-      "lengthCm": 238,
-      "widthCm": 67,
-      "volumeL": 109,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 119,
-        "construction": "Starlite Carbon"
-      },
-      "lengthCm": 238,
-      "widthCm": 71.5,
-      "volumeL": 119,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 129,
-        "construction": "Starlite Carbon"
-      },
-      "lengthCm": 238,
-      "widthCm": 76,
-      "volumeL": 129,
       "fins": [
         {
           "count": 1,
@@ -179,7 +160,8 @@
     {
       "variant": {
         "size": 139,
-        "construction": "Starlite Carbon"
+        "construction": "Wood Sandwich",
+        "edition": "Wood"
       },
       "lengthCm": 240,
       "widthCm": 80,
@@ -210,6 +192,23 @@
     },
     {
       "variant": {
+        "size": 159,
+        "construction": "Wood Sandwich",
+        "edition": "Wood"
+      },
+      "lengthCm": 255,
+      "widthCm": 81,
+      "volumeL": 159,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 169,
         "construction": "Starlite Carbon"
       },
@@ -226,12 +225,13 @@
     },
     {
       "variant": {
-        "size": 99,
-        "construction": "Starlite Carbon"
+        "size": 169,
+        "construction": "Wood Sandwich",
+        "edition": "Wood"
       },
-      "lengthCm": 238,
-      "widthCm": 64,
-      "volumeL": 99,
+      "lengthCm": 258,
+      "widthCm": 84,
+      "volumeL": 169,
       "fins": [
         {
           "count": 1,

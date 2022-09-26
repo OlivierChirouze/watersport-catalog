@@ -45,16 +45,32 @@
         "size": 88,
         "edition": "CNC Custom"
       },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 88,
       "lengthCm": 240,
       "widthCm": 59,
-      "volumeL": 88,
       "fins": [
         {
-          "count": 1,
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
-      ],
-      "compatibleFinFamilies": ["fins"]
+      ]
+    },
+    {
+      "variant": {
+        "size": 98,
+        "edition": "Team"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 98,
+      "lengthCm": 240,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "TuttleBox",
+          "count": 1
+        }
+      ]
     },
     {
       "variant": {
@@ -67,11 +83,8 @@
       "widthCm": 66,
       "fins": [
         {
-          "type": "TuttleBox"
-        },
-        {
-          "count": 1,
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ]
     },
@@ -86,11 +99,8 @@
       "widthCm": 71,
       "fins": [
         {
-          "type": "TuttleBox"
-        },
-        {
-          "count": 1,
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ]
     },
@@ -105,11 +115,8 @@
       "widthCm": 81,
       "fins": [
         {
-          "type": "TuttleBox"
-        },
-        {
-          "count": 1,
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ]
     },
@@ -124,55 +131,8 @@
       "widthCm": 85,
       "fins": [
         {
-          "type": "TuttleBox"
-        },
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 98,
-        "edition": "Team"
-      },
-      "lengthCm": 240,
-      "widthCm": 61,
-      "volumeL": 98,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 88
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 88,
-      "lengthCm": 240,
-      "widthCm": 59,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ]
-    },
-    {
-      "variant": {
-        "size": 98
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 98,
-      "lengthCm": 240,
-      "widthCm": 61,
-      "fins": [
-        {
-          "type": "TuttleBox"
+          "type": "TuttleBox",
+          "count": 1
         }
       ]
     }

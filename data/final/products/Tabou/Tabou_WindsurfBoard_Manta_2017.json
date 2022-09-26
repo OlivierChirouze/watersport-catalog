@@ -26,12 +26,42 @@
     },
     {
       "variant": {
+        "size": 64,
+        "construction": "Full Sandwich Carbon",
+        "edition": "Team"
+      },
+      "volumeL": 64,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 75,
         "construction": "Full Sandwich Carbon",
         "edition": "CNC Custom"
       },
       "lengthCm": 228,
       "widthCm": 54,
+      "volumeL": 75,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 75,
+        "construction": "Full Sandwich Carbon",
+        "edition": "Team"
+      },
       "volumeL": 75,
       "fins": [
         {
@@ -57,6 +87,38 @@
         }
       ],
       "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 88,
+        "construction": "Full Sandwich Carbon",
+        "edition": "Team"
+      },
+      "volumeL": 88,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 240
+    },
+    {
+      "variant": {
+        "size": 98,
+        "construction": "Full Sandwich Carbon",
+        "edition": "Team"
+      },
+      "volumeL": 98,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"],
+      "lengthCm": 235
     },
     {
       "variant": {
@@ -121,68 +183,6 @@
       ],
       "compatibleFinFamilies": ["fins"],
       "lengthCm": 232
-    },
-    {
-      "variant": {
-        "size": 64,
-        "construction": "Full Sandwich Carbon",
-        "edition": "Team"
-      },
-      "volumeL": 64,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "Full Sandwich Carbon",
-        "edition": "Team"
-      },
-      "volumeL": 75,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 88,
-        "construction": "Full Sandwich Carbon",
-        "edition": "Team"
-      },
-      "volumeL": 88,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 240
-    },
-    {
-      "variant": {
-        "size": 98,
-        "construction": "Full Sandwich Carbon",
-        "edition": "Team"
-      },
-      "volumeL": 98,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"],
-      "lengthCm": 235
     }
   ],
   "description": {},

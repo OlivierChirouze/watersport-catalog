@@ -33,6 +33,18 @@
     },
     {
       "variant": {
+        "size": 4,
+        "edition": "HD"
+      },
+      "surfaceM2": 4,
+      "boomLengthsCm": [153],
+      "luffLengthCm": 369,
+      "battenCount": 4,
+      "camCount": 0,
+      "topType": "vario"
+    },
+    {
+      "variant": {
         "size": 4.2,
         "edition": "HD"
       },
@@ -69,15 +81,15 @@
     },
     {
       "variant": {
-        "size": 4,
+        "size": 5,
         "edition": "HD"
       },
-      "surfaceM2": 4,
-      "boomLengthsCm": [153],
-      "luffLengthCm": 369,
+      "surfaceM2": 5,
+      "boomLengthsCm": [168],
+      "luffLengthCm": 409,
       "battenCount": 4,
       "camCount": 0,
-      "topType": "vario"
+      "topType": "fixed"
     },
     {
       "variant": {
@@ -105,111 +117,11 @@
     },
     {
       "variant": {
-        "size": 5,
-        "edition": "HD"
-      },
-      "surfaceM2": 5,
-      "boomLengthsCm": [168],
-      "luffLengthCm": 409,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 3.3
-      },
-      "surfaceM2": 3.3,
-      "boomLengthsCm": [143],
-      "luffLengthCm": 343,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 3.7
-      },
-      "surfaceM2": 3.7,
-      "boomLengthsCm": [149],
-      "luffLengthCm": 357,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 4.2
-      },
-      "surfaceM2": 4.2,
-      "boomLengthsCm": [157],
-      "luffLengthCm": 376,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4.5
-      },
-      "surfaceM2": 4.5,
-      "boomLengthsCm": [160],
-      "luffLengthCm": 386,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4.7
-      },
-      "surfaceM2": 4.7,
-      "boomLengthsCm": [164],
-      "luffLengthCm": 396,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 4
-      },
-      "surfaceM2": 4,
-      "boomLengthsCm": [153],
-      "luffLengthCm": 369,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "vario"
-    },
-    {
-      "variant": {
-        "size": 5.3
-      },
-      "surfaceM2": 5.3,
-      "boomLengthsCm": [172],
-      "luffLengthCm": 421,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
         "size": 5.6
       },
       "surfaceM2": 5.6,
       "boomLengthsCm": [176],
       "luffLengthCm": 433,
-      "battenCount": 4,
-      "camCount": 0,
-      "topType": "fixed"
-    },
-    {
-      "variant": {
-        "size": 5
-      },
-      "surfaceM2": 5,
-      "boomLengthsCm": [168],
-      "luffLengthCm": 409,
       "battenCount": 4,
       "camCount": 0,
       "topType": "fixed"

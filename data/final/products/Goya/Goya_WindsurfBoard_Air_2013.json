@@ -14,26 +14,14 @@
         "construction": "Kevlar",
         "edition": "Pro"
       },
-      "volumeL": 99,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 99
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 99,
       "lengthCm": 224.9,
       "widthCm": 63.8,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {

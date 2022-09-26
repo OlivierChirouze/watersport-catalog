@@ -10,15 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Bamboo Sandwich Light"
-      },
-      "volumeL": 105,
-      "weightKg": 9.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 105
       },
       "compatibleFinFamilies": ["fins"],
@@ -38,10 +29,10 @@
     },
     {
       "variant": {
-        "size": 120,
+        "size": 105,
         "construction": "Bamboo Sandwich Light"
       },
-      "volumeL": 120,
+      "volumeL": 105,
       "weightKg": 9.7,
       "compatibleFinFamilies": ["fins"]
     },
@@ -63,6 +54,15 @@
         "fromM2": 6,
         "toM2": 9
       }
+    },
+    {
+      "variant": {
+        "size": 120,
+        "construction": "Bamboo Sandwich Light"
+      },
+      "volumeL": 120,
+      "weightKg": 9.7,
+      "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {

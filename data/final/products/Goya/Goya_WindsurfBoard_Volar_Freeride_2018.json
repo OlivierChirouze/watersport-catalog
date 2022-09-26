@@ -9,60 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 115,
-        "construction": "Wood Sandwich",
-        "edition": "Eco"
-      },
-      "lengthCm": 249.2,
-      "widthCm": 71.9,
-      "volumeL": 115,
-      "weightKg": 8.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Wood Sandwich",
-        "edition": "Eco"
-      },
-      "lengthCm": 250,
-      "widthCm": 77.3,
-      "volumeL": 130,
-      "weightKg": 9.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Wood Sandwich",
-        "edition": "Eco"
-      },
-      "lengthCm": 252.5,
-      "widthCm": 85.9,
-      "volumeL": 145,
-      "weightKg": 10,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 105,
         "construction": "Carbon Sandwich",
         "edition": "Pro"
@@ -99,6 +45,24 @@
     },
     {
       "variant": {
+        "size": 115,
+        "construction": "Wood Sandwich",
+        "edition": "Eco"
+      },
+      "lengthCm": 249.2,
+      "widthCm": 71.9,
+      "volumeL": 115,
+      "weightKg": 8.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 130,
         "construction": "Carbon Sandwich",
         "edition": "Pro"
@@ -117,6 +81,24 @@
     },
     {
       "variant": {
+        "size": 130,
+        "construction": "Wood Sandwich",
+        "edition": "Eco"
+      },
+      "lengthCm": 250,
+      "widthCm": 77.3,
+      "volumeL": 130,
+      "weightKg": 9.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 145,
         "construction": "Carbon Sandwich",
         "edition": "Pro"
@@ -125,6 +107,24 @@
       "widthCm": 85.9,
       "volumeL": 145,
       "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 145,
+        "construction": "Wood Sandwich",
+        "edition": "Eco"
+      },
+      "lengthCm": 252.5,
+      "widthCm": 85.9,
+      "volumeL": 145,
+      "weightKg": 10,
       "fins": [
         {
           "count": 1,

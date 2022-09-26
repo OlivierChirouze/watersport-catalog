@@ -10,25 +10,26 @@
   "variants": [
     {
       "variant": {
-        "size": 103,
-        "construction": "Pro",
-        "edition": "Quad Pro"
+        "size": 73,
+        "edition": "Quad"
       },
-      "lengthCm": 232,
-      "widthCm": 62.5,
-      "volumeL": 103,
-      "weightKg": 6.9,
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 73,
+      "lengthCm": 228,
+      "widthCm": 55.5,
+      "weightKg": 5.9,
       "fins": [
         {
-          "count": 3,
           "type": "SlotBox"
         },
         {
-          "count": 2,
           "type": "MiniTuttleBox"
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 5.2
+      }
     },
     {
       "variant": {
@@ -55,6 +56,29 @@
     {
       "variant": {
         "size": 83,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 83,
+      "lengthCm": 230,
+      "widthCm": 57.5,
+      "weightKg": 6.2,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.2
+      }
+    },
+    {
+      "variant": {
+        "size": 83,
         "construction": "Pro",
         "edition": "Quad Pro"
       },
@@ -73,6 +97,29 @@
         }
       ],
       "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 93,
+        "edition": "Quad"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 93,
+      "lengthCm": 232,
+      "widthCm": 60,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "SlotBox"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.4,
+        "toM2": 6.2
+      }
     },
     {
       "variant": {
@@ -121,72 +168,25 @@
     },
     {
       "variant": {
-        "size": 73,
-        "edition": "Quad"
+        "size": 103,
+        "construction": "Pro",
+        "edition": "Quad Pro"
       },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 73,
-      "lengthCm": 228,
-      "widthCm": 55.5,
-      "weightKg": 5.9,
-      "fins": [
-        {
-          "type": "SlotBox"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 5.2
-      }
-    },
-    {
-      "variant": {
-        "size": 83,
-        "edition": "Quad"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 83,
-      "lengthCm": 230,
-      "widthCm": 57.5,
-      "weightKg": 6.2,
-      "fins": [
-        {
-          "type": "SlotBox"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 93,
-        "edition": "Quad"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 93,
       "lengthCm": 232,
-      "widthCm": 60,
-      "weightKg": 6.6,
+      "widthCm": 62.5,
+      "volumeL": 103,
+      "weightKg": 6.9,
       "fins": [
         {
+          "count": 3,
           "type": "SlotBox"
         },
         {
+          "count": 2,
           "type": "MiniTuttleBox"
         }
       ],
-      "sailRange": {
-        "fromM2": 4.4,
-        "toM2": 6.2
-      }
+      "compatibleFinFamilies": ["fins"]
     }
   ],
   "pictures": []

@@ -9,14 +9,14 @@
   "variants": [
     {
       "variant": {
-        "size": 110,
+        "size": 70,
         "construction": "Double Sandwich Carbon Fabriqué EN UE",
-        "edition": "10th Anniversary"
+        "edition": "Pro"
       },
-      "lengthCm": 210,
-      "widthCm": 75.8,
-      "volumeL": 110,
-      "weightKg": 6.6,
+      "lengthCm": 175,
+      "widthCm": 73,
+      "volumeL": 70,
+      "weightKg": 5.8,
       "fins": [
         {
           "count": 1,
@@ -27,32 +27,14 @@
     },
     {
       "variant": {
-        "size": 120,
+        "size": 90,
         "construction": "Double Sandwich Carbon Fabriqué EN UE",
-        "edition": "10th Anniversary"
+        "edition": "Pro"
       },
-      "lengthCm": 210,
-      "widthCm": 75.8,
-      "volumeL": 120,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["foil"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Double Sandwich Carbon Fabriqué EN UE",
-        "edition": "10th Anniversary"
-      },
-      "lengthCm": 210,
-      "widthCm": 75.8,
-      "volumeL": 130,
-      "weightKg": 6.6,
+      "lengthCm": 175,
+      "widthCm": 73,
+      "volumeL": 90,
+      "weightKg": 5.8,
       "fins": [
         {
           "count": 1,
@@ -99,14 +81,14 @@
     },
     {
       "variant": {
-        "size": 70,
+        "size": 110,
         "construction": "Double Sandwich Carbon Fabriqué EN UE",
-        "edition": "Pro"
+        "edition": "10th Anniversary"
       },
-      "lengthCm": 175,
-      "widthCm": 73,
-      "volumeL": 70,
-      "weightKg": 5.8,
+      "lengthCm": 210,
+      "widthCm": 75.8,
+      "volumeL": 110,
+      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,
@@ -117,14 +99,32 @@
     },
     {
       "variant": {
-        "size": 90,
+        "size": 120,
         "construction": "Double Sandwich Carbon Fabriqué EN UE",
-        "edition": "Pro"
+        "edition": "10th Anniversary"
       },
-      "lengthCm": 175,
-      "widthCm": 73,
-      "volumeL": 90,
-      "weightKg": 5.8,
+      "lengthCm": 210,
+      "widthCm": 75.8,
+      "volumeL": 120,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["foil"]
+    },
+    {
+      "variant": {
+        "size": 130,
+        "construction": "Double Sandwich Carbon Fabriqué EN UE",
+        "edition": "10th Anniversary"
+      },
+      "lengthCm": 210,
+      "widthCm": 75.8,
+      "volumeL": 130,
+      "weightKg": 6.6,
       "fins": [
         {
           "count": 1,

@@ -30,6 +30,25 @@
     },
     {
       "variant": {
+        "size": 108,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 108,
+      "lengthCm": 235,
+      "widthCm": 69,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 8
+      }
+    },
+    {
+      "variant": {
         "size": 119,
         "edition": "Carbon"
       },
@@ -38,6 +57,26 @@
       "lengthCm": 239,
       "widthCm": 75,
       "weightKg": 7.8,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 8.4
+      }
+    },
+    {
+      "variant": {
+        "size": 119,
+        "edition": "Silver"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 119,
+      "lengthCm": 239,
+      "widthCm": 75,
+      "weightKg": 9.1,
       "fins": [
         {
           "type": "PowerBox"
@@ -66,45 +105,6 @@
       "sailRange": {
         "fromM2": 5.8,
         "toM2": 9
-      }
-    },
-    {
-      "variant": {
-        "size": 108,
-        "edition": "Silver"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 108,
-      "lengthCm": 235,
-      "widthCm": 69,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 8
-      }
-    },
-    {
-      "variant": {
-        "size": 119,
-        "edition": "Silver"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 119,
-      "lengthCm": 239,
-      "widthCm": 75,
-      "weightKg": 9.1,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 8.4
       }
     },
     {

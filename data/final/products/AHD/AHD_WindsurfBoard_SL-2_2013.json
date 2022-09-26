@@ -10,6 +10,26 @@
   "variants": [
     {
       "variant": {
+        "size": 92
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 92,
+      "lengthCm": 238,
+      "widthCm": 59.6,
+      "weightKg": 13,
+      "fins": [
+        {
+          "type": "DeepTuttleBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
         "size": 112
       },
       "compatibleFinFamilies": ["fins"],
@@ -19,11 +39,8 @@
       "weightKg": 13,
       "fins": [
         {
-          "type": "DeepTuttleBox"
-        },
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
+          "type": "DeepTuttleBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -67,29 +84,6 @@
       "sailRange": {
         "fromM2": 7,
         "toM2": 11
-      }
-    },
-    {
-      "variant": {
-        "size": 92
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 92,
-      "lengthCm": 238,
-      "widthCm": 59.6,
-      "weightKg": 13,
-      "fins": [
-        {
-          "type": "DeepTuttleBox"
-        },
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 7
       }
     }
   ],

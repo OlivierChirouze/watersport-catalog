@@ -10,39 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 100
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 100,
-      "lengthCm": 225,
-      "widthCm": 61,
-      "fins": [
-        {
-          "type": "SlotBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
         "size": 72,
         "construction": "N"
-      },
-      "volumeL": 72,
-      "fins": [
-        {
-          "count": 1,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 72
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 72,
@@ -50,7 +19,8 @@
       "widthCm": 53,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -62,13 +32,6 @@
       "variant": {
         "size": 77,
         "construction": "N"
-      },
-      "volumeL": 77,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 77
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 77,
@@ -118,6 +81,24 @@
       "sailRange": {
         "fromM2": 5,
         "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 100
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 100,
+      "lengthCm": 225,
+      "widthCm": 61,
+      "fins": [
+        {
+          "type": "SlotBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 7
       }
     }
   ],

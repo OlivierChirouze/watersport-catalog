@@ -9,118 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 118,
-        "edition": "Foilbox"
-      },
-      "lengthCm": 235,
-      "widthCm": 72,
-      "volumeL": 118,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 128,
-        "edition": "Foilbox"
-      },
-      "lengthCm": 228,
-      "widthCm": 81,
-      "volumeL": 128,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 138,
-        "edition": "Foilbox"
-      },
-      "lengthCm": 228,
-      "widthCm": 85,
-      "volumeL": 138,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 108
-      },
-      "lengthCm": 235,
-      "widthCm": 70,
-      "volumeL": 108,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 118
-      },
-      "lengthCm": 235,
-      "widthCm": 72,
-      "volumeL": 118,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 128
-      },
-      "lengthCm": 228,
-      "widthCm": 81,
-      "volumeL": 128,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 138
-      },
-      "lengthCm": 228,
-      "widthCm": 85,
-      "volumeL": 138,
-      "weightKg": 7.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 74
       },
       "lengthCm": 229,
@@ -163,6 +51,73 @@
         {
           "count": 1,
           "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 108
+      },
+      "lengthCm": 235,
+      "widthCm": 70,
+      "volumeL": 108,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 118,
+        "edition": "Foilbox"
+      },
+      "lengthCm": 235,
+      "widthCm": 72,
+      "volumeL": 118,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 128,
+        "edition": "Foilbox"
+      },
+      "lengthCm": 228,
+      "widthCm": 81,
+      "volumeL": 128,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 138,
+        "edition": "Foilbox"
+      },
+      "lengthCm": 228,
+      "widthCm": 85,
+      "volumeL": 138,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
         }
       ],
       "compatibleFinFamilies": ["fins"]

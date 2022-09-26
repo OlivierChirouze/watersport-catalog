@@ -10,46 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 102,
-        "construction": "Premium Sandwich Carbon"
-      },
-      "volumeL": 102,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 102
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 102,
-      "lengthCm": 237.1,
-      "widthCm": 61.1,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 6.2
-      }
-    },
-    {
-      "variant": {
-        "size": 74,
-        "construction": "Premium Sandwich Carbon"
-      },
-      "volumeL": 74,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 74
       },
       "compatibleFinFamilies": ["fins"],
@@ -72,16 +32,17 @@
     },
     {
       "variant": {
-        "size": 82,
+        "size": 74,
         "construction": "Premium Sandwich Carbon"
       },
-      "volumeL": 82,
+      "volumeL": 74,
       "weightKg": 6.8,
       "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
-        "size": 82
+        "size": 82,
+        "construction": "Premium Sandwich Carbon"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 82,
@@ -106,14 +67,6 @@
         "size": 92,
         "construction": "Premium Sandwich Carbon"
       },
-      "volumeL": 92,
-      "weightKg": 6.8,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 92,
       "lengthCm": 235.7,
@@ -130,6 +83,29 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 102,
+        "construction": "Premium Sandwich Carbon"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 102,
+      "lengthCm": 237.1,
+      "widthCm": 61.1,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "type": "US"
+        },
+        {
+          "type": "MiniTuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 6.2
       }
     }
   ],

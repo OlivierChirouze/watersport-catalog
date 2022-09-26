@@ -13,22 +13,6 @@
         "size": 64,
         "construction": "W-Tech"
       },
-      "lengthCm": 229,
-      "widthCm": 53,
-      "volumeL": 64,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "US"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 64
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 64,
       "lengthCm": 229,
@@ -36,7 +20,8 @@
       "weightKg": 6.7,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 1
         }
       ],
       "sailRange": {

@@ -10,228 +10,10 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 234.8,
-      "widthCm": 61.6,
-      "volumeL": 105,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 237.2,
-      "widthCm": 63.7,
-      "volumeL": 115,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 67,
         "construction": "Carbon Sandwich",
         "edition": "Thruster"
       },
-      "lengthCm": 223,
-      "widthCm": 54.6,
-      "volumeL": 67,
-      "weightKg": 5.8,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 227,
-      "widthCm": 55.2,
-      "volumeL": 75,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 230,
-      "widthCm": 56.3,
-      "volumeL": 80,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 230,
-      "widthCm": 57.1,
-      "volumeL": 85,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 232.2,
-      "widthCm": 58.2,
-      "volumeL": 90,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "Carbon Sandwich",
-        "edition": "Thruster"
-      },
-      "lengthCm": 232.4,
-      "widthCm": 59.1,
-      "volumeL": 95,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 2,
-          "type": "US"
-        },
-        {
-          "count": 2,
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 105,
-      "lengthCm": 234.8,
-      "widthCm": 61.6,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 115
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 115,
-      "lengthCm": 237.2,
-      "widthCm": 63.7,
-      "weightKg": 7.2,
-      "fins": [
-        {
-          "type": "US"
-        },
-        {
-          "type": "MiniTuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5,
-        "toM2": 6.8
-      }
-    },
-    {
-      "variant": {
-        "size": 67
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 67,
       "lengthCm": 223,
@@ -239,10 +21,12 @@
       "weightKg": 5.8,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -252,7 +36,9 @@
     },
     {
       "variant": {
-        "size": 75
+        "size": 75,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
@@ -261,10 +47,12 @@
       "weightKg": 6.1,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -274,7 +62,9 @@
     },
     {
       "variant": {
-        "size": 80
+        "size": 80,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 80,
@@ -283,10 +73,12 @@
       "weightKg": 6.3,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -296,7 +88,9 @@
     },
     {
       "variant": {
-        "size": 85
+        "size": 85,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 85,
@@ -305,10 +99,12 @@
       "weightKg": 6.5,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -318,7 +114,9 @@
     },
     {
       "variant": {
-        "size": 90
+        "size": 90,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 90,
@@ -327,10 +125,12 @@
       "weightKg": 6.6,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
@@ -340,7 +140,9 @@
     },
     {
       "variant": {
-        "size": 95
+        "size": 95,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 95,
@@ -349,15 +151,69 @@
       "weightKg": 6.7,
       "fins": [
         {
-          "type": "US"
+          "type": "US",
+          "count": 2
         },
         {
-          "type": "MiniTuttleBox"
+          "type": "MiniTuttleBox",
+          "count": 2
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 6.3
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 234.8,
+      "widthCm": 61.6,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "US",
+          "count": 2
+        },
+        {
+          "type": "MiniTuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Carbon Sandwich",
+        "edition": "Thruster"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 237.2,
+      "widthCm": 63.7,
+      "weightKg": 7.2,
+      "fins": [
+        {
+          "type": "US",
+          "count": 2
+        },
+        {
+          "type": "MiniTuttleBox",
+          "count": 2
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5,
+        "toM2": 6.8
       }
     }
   ],

@@ -9,6 +9,23 @@
   "variants": [
     {
       "variant": {
+        "size": 92,
+        "construction": "LXT"
+      },
+      "lengthCm": 232,
+      "widthCm": 58,
+      "volumeL": 92,
+      "weightKg": 6.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 102,
         "construction": "LXT"
       },
@@ -152,23 +169,6 @@
       "widthCm": 76,
       "volumeL": 139,
       "weightKg": 8.2,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 92,
-        "construction": "LXT"
-      },
-      "lengthCm": 232,
-      "widthCm": 58,
-      "volumeL": 92,
-      "weightKg": 6.1,
       "fins": [
         {
           "count": 1,

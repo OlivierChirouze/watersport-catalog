@@ -10,15 +10,60 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
+        "size": 68,
         "construction": "Biax Carbon"
       },
-      "volumeL": 100,
+      "volumeL": 68,
+      "fins": [
+        {
+          "count": 1,
+          "type": "TuttleBox"
+        }
+      ],
       "compatibleFinFamilies": ["fins"]
     },
     {
       "variant": {
-        "size": 100
+        "size": 80
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 80,
+      "lengthCm": 235,
+      "widthCm": 50,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.7
+      }
+    },
+    {
+      "variant": {
+        "size": 90
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 235,
+      "widthCm": 59,
+      "weightKg": 5.5,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.2,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 100,
+        "construction": "Biax Carbon"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 100,
@@ -109,58 +154,6 @@
       "sailRange": {
         "fromM2": 7.8,
         "toM2": 11
-      }
-    },
-    {
-      "variant": {
-        "size": 68,
-        "construction": "Biax Carbon"
-      },
-      "volumeL": 68,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 80,
-      "lengthCm": 235,
-      "widthCm": 50,
-      "weightKg": 5.5,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.7
-      }
-    },
-    {
-      "variant": {
-        "size": 90
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 90,
-      "lengthCm": 235,
-      "widthCm": 59,
-      "weightKg": 5.5,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.2,
-        "toM2": 7
       }
     }
   ],

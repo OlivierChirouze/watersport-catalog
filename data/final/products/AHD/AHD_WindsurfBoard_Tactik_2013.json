@@ -1,7 +1,7 @@
 {
   "name": "Tactik",
   "year": 2013,
-  "programs": ["freeride", "race"],
+  "programs": ["freeride"],
   "brandName": "AHD",
   "type": "board",
   "subType": "windsurfBoard",
@@ -21,10 +21,7 @@
         {
           "type": "DeepTuttleBox"
         },
-        {
-          "count": 1,
-          "type": "US"
-        }
+        null
       ],
       "sailRange": {
         "fromM2": 5,

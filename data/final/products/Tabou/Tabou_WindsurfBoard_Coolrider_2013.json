@@ -13,19 +13,6 @@
         "size": 160,
         "construction": "AST"
       },
-      "volumeL": 160,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 160
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 160,
       "lengthCm": 266,
@@ -33,9 +20,9 @@
       "weightKg": 13.7,
       "fins": [
         {
-          "type": "PowerBox"
-        },
-        null
+          "type": "PowerBox",
+          "count": 1
+        }
       ],
       "sailRange": {
         "fromM2": 1,

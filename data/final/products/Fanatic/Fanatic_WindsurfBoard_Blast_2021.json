@@ -10,6 +10,24 @@
     {
       "variant": {
         "size": 100,
+        "construction": "Biax Fiber",
+        "edition": "LTD Rat"
+      },
+      "lengthCm": 231,
+      "widthCm": 62,
+      "volumeL": 100,
+      "weightKg": 6.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 100,
         "construction": "High Resistance Composite",
         "edition": "HRS"
       },
@@ -17,6 +35,24 @@
       "widthCm": 62,
       "volumeL": 100,
       "weightKg": 8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 115,
+        "construction": "Biax Fiber",
+        "edition": "LTD Rat"
+      },
+      "lengthCm": 232,
+      "widthCm": 66,
+      "volumeL": 115,
+      "weightKg": 7.3,
       "fins": [
         {
           "count": 1,
@@ -46,6 +82,24 @@
     {
       "variant": {
         "size": 130,
+        "construction": "Biax Fiber",
+        "edition": "LTD Rat"
+      },
+      "lengthCm": 233,
+      "widthCm": 70,
+      "volumeL": 130,
+      "weightKg": 7.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "DeepTuttleBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 130,
         "construction": "High Resistance Composite",
         "edition": "HRS"
       },
@@ -64,67 +118,13 @@
     {
       "variant": {
         "size": 145,
-        "construction": "High Resistance Composite",
-        "edition": "HRS"
+        "construction": "Biax Fiber",
+        "edition": "LTD Rat"
       },
       "lengthCm": 235,
       "widthCm": 77,
       "volumeL": 145,
-      "weightKg": 9.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Biax Fiber",
-        "edition": "LTD Rat"
-      },
-      "lengthCm": 231,
-      "widthCm": 62,
-      "volumeL": 100,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Biax Fiber",
-        "edition": "LTD Rat"
-      },
-      "lengthCm": 232,
-      "widthCm": 66,
-      "volumeL": 115,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "DeepTuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130,
-        "construction": "Biax Fiber",
-        "edition": "LTD Rat"
-      },
-      "lengthCm": 233,
-      "widthCm": 70,
-      "volumeL": 130,
-      "weightKg": 7.6,
+      "weightKg": 8.3,
       "fins": [
         {
           "count": 1,
@@ -136,13 +136,13 @@
     {
       "variant": {
         "size": 145,
-        "construction": "Biax Fiber",
-        "edition": "LTD Rat"
+        "construction": "High Resistance Composite",
+        "edition": "HRS"
       },
       "lengthCm": 235,
       "widthCm": 77,
       "volumeL": 145,
-      "weightKg": 8.3,
+      "weightKg": 9.8,
       "fins": [
         {
           "count": 1,

@@ -13,22 +13,6 @@
         "size": 67,
         "construction": "Flexlight CK"
       },
-      "lengthCm": 224,
-      "widthCm": 53,
-      "volumeL": 67,
-      "weightKg": 6.1,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 67
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 67,
       "lengthCm": 224,
@@ -36,7 +20,8 @@
       "weightKg": 6.1,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -49,22 +34,6 @@
         "size": 75,
         "construction": "Flexlight CK"
       },
-      "lengthCm": 226,
-      "widthCm": 54.5,
-      "volumeL": 75,
-      "weightKg": 6.4,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 75
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 75,
       "lengthCm": 226,
@@ -72,7 +41,8 @@
       "weightKg": 6.4,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -85,22 +55,6 @@
         "size": 80,
         "construction": "Flexlight CK"
       },
-      "lengthCm": 228,
-      "widthCm": 56,
-      "volumeL": 80,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 80
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 80,
       "lengthCm": 228,
@@ -108,7 +62,8 @@
       "weightKg": 6.7,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -121,22 +76,6 @@
         "size": 86,
         "construction": "Flexlight CK"
       },
-      "lengthCm": 230,
-      "widthCm": 57.5,
-      "volumeL": 86,
-      "weightKg": 6.8,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 86
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 86,
       "lengthCm": 230,
@@ -144,7 +83,8 @@
       "weightKg": 6.8,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {
@@ -157,22 +97,6 @@
         "size": 96,
         "construction": "Flexlight CK"
       },
-      "lengthCm": 230,
-      "widthCm": 59,
-      "volumeL": 96,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 4,
-          "type": "SlotBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 96
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 96,
       "lengthCm": 230,
@@ -180,7 +104,8 @@
       "weightKg": 7.1,
       "fins": [
         {
-          "type": "SlotBox"
+          "type": "SlotBox",
+          "count": 4
         }
       ],
       "sailRange": {

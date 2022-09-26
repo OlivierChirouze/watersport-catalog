@@ -31,48 +31,6 @@
     },
     {
       "variant": {
-        "size": 192,
-        "edition": "Armour Tech"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 192,
-      "lengthCm": 290,
-      "widthCm": 81,
-      "weightKg": 16.2,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 2,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
-        "size": 231,
-        "edition": "Armour Tech"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 231,
-      "lengthCm": 302,
-      "widthCm": 86,
-      "weightKg": 17.8,
-      "fins": [
-        {
-          "type": "TuttleBox"
-        },
-        null
-      ],
-      "sailRange": {
-        "fromM2": 2,
-        "toM2": 9.5
-      }
-    },
-    {
-      "variant": {
         "size": 187,
         "edition": "Tufskin"
       },
@@ -95,6 +53,27 @@
     {
       "variant": {
         "size": 192,
+        "edition": "Armour Tech"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 192,
+      "lengthCm": 290,
+      "widthCm": 81,
+      "weightKg": 16.2,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 192,
         "edition": "Tufskin"
       },
       "compatibleFinFamilies": ["fins"],
@@ -102,6 +81,27 @@
       "lengthCm": 290,
       "widthCm": 81,
       "weightKg": 13.1,
+      "fins": [
+        {
+          "type": "TuttleBox"
+        },
+        null
+      ],
+      "sailRange": {
+        "fromM2": 2,
+        "toM2": 9.5
+      }
+    },
+    {
+      "variant": {
+        "size": 231,
+        "edition": "Armour Tech"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 231,
+      "lengthCm": 302,
+      "widthCm": 86,
+      "weightKg": 17.8,
       "fins": [
         {
           "type": "TuttleBox"

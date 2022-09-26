@@ -13,22 +13,6 @@
         "size": 120,
         "construction": "Biax Carbon"
       },
-      "lengthCm": 238,
-      "widthCm": 70,
-      "volumeL": 120,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 120
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 120,
       "lengthCm": 238,
@@ -37,6 +21,10 @@
       "fins": [
         {
           "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {
@@ -49,22 +37,6 @@
         "size": 130,
         "construction": "Biax Carbon"
       },
-      "lengthCm": 236,
-      "widthCm": 75,
-      "volumeL": 130,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 130
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 130,
       "lengthCm": 236,
@@ -73,6 +45,10 @@
       "fins": [
         {
           "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {
@@ -85,22 +61,6 @@
         "size": 140,
         "construction": "Biax Carbon"
       },
-      "lengthCm": 234,
-      "widthCm": 80,
-      "volumeL": 140,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "TuttleBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 140
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 140,
       "lengthCm": 234,
@@ -109,6 +69,10 @@
       "fins": [
         {
           "type": "DeepTuttleBox"
+        },
+        {
+          "count": 1,
+          "type": "TuttleBox"
         }
       ],
       "sailRange": {

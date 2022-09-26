@@ -10,96 +10,8 @@
   "variants": [
     {
       "variant": {
-        "size": 101,
-        "construction": "Carbon Kevlar"
-      },
-      "lengthCm": 222,
-      "widthCm": 63.5,
-      "volumeL": 101,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 101
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 101,
-      "lengthCm": 222,
-      "widthCm": 63.7,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.5
-      }
-    },
-    {
-      "variant": {
-        "size": 109,
-        "construction": "Carbon Kevlar"
-      },
-      "lengthCm": 222,
-      "widthCm": 67.5,
-      "volumeL": 109,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 109
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 109,
-      "lengthCm": 224,
-      "widthCm": 67.5,
-      "weightKg": 6.6,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
         "size": 85,
         "construction": "Carbon Kevlar"
-      },
-      "lengthCm": 222,
-      "widthCm": 57.5,
-      "volumeL": 85,
-      "weightKg": 5.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 85
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 85,
@@ -108,7 +20,8 @@
       "weightKg": 5.8,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -121,22 +34,6 @@
         "size": 93,
         "construction": "Carbon Kevlar"
       },
-      "lengthCm": 222,
-      "widthCm": 60.5,
-      "volumeL": 93,
-      "weightKg": 6,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 93
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 93,
       "lengthCm": 222,
@@ -144,12 +41,55 @@
       "weightKg": 6,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 3,
         "toM2": 6
+      }
+    },
+    {
+      "variant": {
+        "size": 101,
+        "construction": "Carbon Kevlar"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 101,
+      "lengthCm": 222,
+      "widthCm": 63.7,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
+    },
+    {
+      "variant": {
+        "size": 109,
+        "construction": "Carbon Kevlar"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 109,
+      "lengthCm": 224,
+      "widthCm": 67.5,
+      "weightKg": 6.6,
+      "fins": [
+        {
+          "type": "PowerBox",
+          "count": 1
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
       }
     }
   ],

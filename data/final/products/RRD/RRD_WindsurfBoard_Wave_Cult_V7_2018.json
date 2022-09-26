@@ -9,39 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 104,
-        "construction": "LTD"
-      },
-      "lengthCm": 225,
-      "widthCm": 63,
-      "volumeL": 104,
-      "weightKg": 7.2,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 104,
-        "construction": "Wood"
-      },
-      "lengthCm": 227,
-      "widthCm": 63,
-      "volumeL": 104,
-      "weightKg": 7.5,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 114,
-        "construction": "LTD"
-      },
-      "lengthCm": 220,
-      "widthCm": 66,
-      "volumeL": 114,
-      "weightKg": 7.4,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 68,
         "construction": "LTD"
       },
@@ -157,6 +124,39 @@
           "type": "SlotBox"
         }
       ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 63,
+      "volumeL": 104,
+      "weightKg": 7.2,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 104,
+        "construction": "Wood"
+      },
+      "lengthCm": 227,
+      "widthCm": 63,
+      "volumeL": 104,
+      "weightKg": 7.5,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 114,
+        "construction": "LTD"
+      },
+      "lengthCm": 220,
+      "widthCm": 66,
+      "volumeL": 114,
+      "weightKg": 7.4,
       "compatibleFinFamilies": ["fins"]
     }
   ],

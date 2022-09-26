@@ -9,74 +9,6 @@
   "variants": [
     {
       "variant": {
-        "size": 106,
-        "construction": "CED"
-      },
-      "lengthCm": 225,
-      "widthCm": 64.5,
-      "volumeL": 106,
-      "weightKg": 7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 106,
-        "construction": "LTD"
-      },
-      "lengthCm": 225,
-      "widthCm": 64.5,
-      "volumeL": 106,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "CED"
-      },
-      "lengthCm": 226,
-      "widthCm": 66,
-      "volumeL": 116,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 116,
-        "construction": "LTD"
-      },
-      "lengthCm": 226,
-      "widthCm": 66,
-      "volumeL": 116,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 86,
         "construction": "CED"
       },
@@ -135,6 +67,74 @@
       "widthCm": 61,
       "volumeL": 96,
       "weightKg": 6.5,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "CED"
+      },
+      "lengthCm": 225,
+      "widthCm": 64.5,
+      "volumeL": 106,
+      "weightKg": 7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 106,
+        "construction": "LTD"
+      },
+      "lengthCm": 225,
+      "widthCm": 64.5,
+      "volumeL": 106,
+      "weightKg": 6.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "CED"
+      },
+      "lengthCm": 226,
+      "widthCm": 66,
+      "volumeL": 116,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 116,
+        "construction": "LTD"
+      },
+      "lengthCm": 226,
+      "widthCm": 66,
+      "volumeL": 116,
+      "weightKg": 7.1,
       "fins": [
         {
           "count": 1,

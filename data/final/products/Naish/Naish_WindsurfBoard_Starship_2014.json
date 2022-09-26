@@ -10,21 +10,29 @@
   "variants": [
     {
       "variant": {
-        "size": 100,
+        "size": 90,
         "construction": "Hdx Sandwich Wood"
       },
-      "volumeL": 100,
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 90,
+      "lengthCm": 235,
+      "widthCm": 59.7,
+      "weightKg": 7.1,
       "fins": [
         {
-          "count": 1,
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
-      "compatibleFinFamilies": ["fins"]
+      "sailRange": {
+        "fromM2": 4,
+        "toM2": 6.5
+      }
     },
     {
       "variant": {
-        "size": 100
+        "size": 100,
+        "construction": "Hdx Sandwich Wood"
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 100,
@@ -33,7 +41,8 @@
       "weightKg": 7.7,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -46,19 +55,6 @@
         "size": 115,
         "construction": "Hdx Sandwich Wood"
       },
-      "volumeL": 115,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 115,
       "lengthCm": 245,
@@ -66,45 +62,13 @@
       "weightKg": 8,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
         "fromM2": 4.5,
         "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "Hdx Sandwich Wood"
-      },
-      "volumeL": 90,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 90
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 90,
-      "lengthCm": 235,
-      "widthCm": 59.7,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4,
-        "toM2": 6.5
       }
     }
   ],

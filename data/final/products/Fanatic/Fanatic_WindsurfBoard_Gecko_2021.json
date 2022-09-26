@@ -9,47 +9,14 @@
   "variants": [
     {
       "variant": {
-        "size": 110,
-        "construction": "Cork Flax",
-        "edition": "Eco"
+        "size": 100,
+        "construction": "Biax Fiber",
+        "edition": "LTD"
       },
       "lengthCm": 239,
-      "widthCm": 72,
-      "volumeL": 110,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Cork Flax",
-        "edition": "Eco"
-      },
-      "lengthCm": 242,
-      "widthCm": 77,
-      "volumeL": 122,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Cork Flax",
-        "edition": "Eco"
-      },
-      "lengthCm": 246,
-      "widthCm": 79,
-      "volumeL": 135,
+      "widthCm": 66,
+      "volumeL": 100,
+      "weightKg": 6.7,
       "fins": [
         {
           "count": 1,
@@ -79,6 +46,41 @@
     {
       "variant": {
         "size": 110,
+        "construction": "Biax Fiber",
+        "edition": "LTD"
+      },
+      "lengthCm": 239,
+      "widthCm": 72,
+      "volumeL": 110,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
+        "construction": "Cork Flax",
+        "edition": "Eco"
+      },
+      "lengthCm": 239,
+      "widthCm": 72,
+      "volumeL": 110,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 110,
         "construction": "High Resistance Composite",
         "edition": "HRS"
       },
@@ -86,6 +88,41 @@
       "widthCm": 72,
       "volumeL": 110,
       "weightKg": 8.6,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Biax Fiber",
+        "edition": "LTD"
+      },
+      "lengthCm": 242,
+      "widthCm": 77,
+      "volumeL": 122,
+      "weightKg": 7.8,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 122,
+        "construction": "Cork Flax",
+        "edition": "Eco"
+      },
+      "lengthCm": 242,
+      "widthCm": 77,
+      "volumeL": 122,
       "fins": [
         {
           "count": 1,
@@ -115,6 +152,41 @@
     {
       "variant": {
         "size": 135,
+        "construction": "Biax Fiber",
+        "edition": "LTD"
+      },
+      "lengthCm": 246,
+      "widthCm": 79,
+      "volumeL": 135,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
+        "construction": "Cork Flax",
+        "edition": "Eco"
+      },
+      "lengthCm": 246,
+      "widthCm": 79,
+      "volumeL": 135,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 135,
         "construction": "High Resistance Composite",
         "edition": "HRS"
       },
@@ -122,6 +194,24 @@
       "widthCm": 79,
       "volumeL": 135,
       "weightKg": 9.7,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 148,
+        "construction": "Biax Fiber",
+        "edition": "LTD"
+      },
+      "lengthCm": 250,
+      "widthCm": 83,
+      "volumeL": 148,
+      "weightKg": 8.3,
       "fins": [
         {
           "count": 1,
@@ -158,96 +248,6 @@
       "widthCm": 85,
       "volumeL": 156,
       "weightKg": 10.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 100,
-        "construction": "Biax Fiber",
-        "edition": "LTD"
-      },
-      "lengthCm": 239,
-      "widthCm": 66,
-      "volumeL": 100,
-      "weightKg": 6.7,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 110,
-        "construction": "Biax Fiber",
-        "edition": "LTD"
-      },
-      "lengthCm": 239,
-      "widthCm": 72,
-      "volumeL": 110,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 122,
-        "construction": "Biax Fiber",
-        "edition": "LTD"
-      },
-      "lengthCm": 242,
-      "widthCm": 77,
-      "volumeL": 122,
-      "weightKg": 7.8,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Biax Fiber",
-        "edition": "LTD"
-      },
-      "lengthCm": 246,
-      "widthCm": 79,
-      "volumeL": 135,
-      "weightKg": 7.9,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 148,
-        "construction": "Biax Fiber",
-        "edition": "LTD"
-      },
-      "lengthCm": 250,
-      "widthCm": 83,
-      "volumeL": 148,
-      "weightKg": 8.3,
       "fins": [
         {
           "count": 1,

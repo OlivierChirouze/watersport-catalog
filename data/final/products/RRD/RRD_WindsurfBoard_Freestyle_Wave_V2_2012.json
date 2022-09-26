@@ -10,6 +10,110 @@
   "variants": [
     {
       "variant": {
+        "size": 78,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 78,
+      "lengthCm": 231,
+      "widthCm": 57,
+      "weightKg": 6.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 3.7,
+        "toM2": 5.4
+      }
+    },
+    {
+      "variant": {
+        "size": 78,
+        "construction": "LTD Biaxial Glass",
+        "edition": "LTD"
+      },
+      "volumeL": 78,
+      "weightKg": 7.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 84,
+        "edition": "LTD"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 84,
+      "lengthCm": 232,
+      "widthCm": 59,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.2,
+        "toM2": 5.8
+      }
+    },
+    {
+      "variant": {
+        "size": 84,
+        "construction": "LTD Biaxial Glass",
+        "edition": "LTD"
+      },
+      "volumeL": 84,
+      "weightKg": 7.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 90,
+        "construction": "LTD Biaxial Glass",
+        "edition": "LTD"
+      },
+      "volumeL": 90,
+      "weightKg": 7.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 96,
+        "construction": "LTD Biaxial Glass",
+        "edition": "LTD"
+      },
+      "volumeL": 96,
+      "weightKg": 7.65,
+      "fins": [
+        {
+          "count": 1,
+          "type": "PowerBox"
+        }
+      ],
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
         "size": 102,
         "construction": "LTD Biaxial Glass",
         "edition": "LTD"
@@ -47,110 +151,6 @@
         "edition": "LTD"
       },
       "volumeL": 116,
-      "weightKg": 7.65,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "construction": "LTD Biaxial Glass",
-        "edition": "LTD"
-      },
-      "volumeL": 78,
-      "weightKg": 7.65,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 78,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 78,
-      "lengthCm": 231,
-      "widthCm": 57,
-      "weightKg": 6.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 3.7,
-        "toM2": 5.4
-      }
-    },
-    {
-      "variant": {
-        "size": 84,
-        "construction": "LTD Biaxial Glass",
-        "edition": "LTD"
-      },
-      "volumeL": 84,
-      "weightKg": 7.65,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 84,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 84,
-      "lengthCm": 232,
-      "widthCm": 59,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.2,
-        "toM2": 5.8
-      }
-    },
-    {
-      "variant": {
-        "size": 90,
-        "construction": "LTD Biaxial Glass",
-        "edition": "LTD"
-      },
-      "volumeL": 90,
-      "weightKg": 7.65,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 96,
-        "construction": "LTD Biaxial Glass",
-        "edition": "LTD"
-      },
-      "volumeL": 96,
       "weightKg": 7.65,
       "fins": [
         {

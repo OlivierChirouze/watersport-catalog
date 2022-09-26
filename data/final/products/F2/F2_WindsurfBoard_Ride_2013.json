@@ -13,26 +13,14 @@
         "size": 135,
         "construction": "N"
       },
-      "volumeL": 135,
-      "fins": [
-        {
-          "count": 1,
-          "type": "PowerBox"
-        }
-      ],
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135
-      },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 135,
       "lengthCm": 255,
       "widthCm": 72,
       "fins": [
         {
-          "type": "PowerBox"
+          "type": "PowerBox",
+          "count": 1
         }
       ],
       "sailRange": {
@@ -44,13 +32,6 @@
       "variant": {
         "size": 145,
         "construction": "N"
-      },
-      "volumeL": 145,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145
       },
       "compatibleFinFamilies": ["fins"],
       "volumeL": 145,

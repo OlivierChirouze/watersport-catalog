@@ -10,166 +10,6 @@
   "variants": [
     {
       "variant": {
-        "size": 105,
-        "construction": "PVC Full Sandwich",
-        "edition": "CED"
-      },
-      "volumeL": 105,
-      "weightKg": 7.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 105,
-      "lengthCm": 246,
-      "widthCm": 63,
-      "weightKg": 7.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "PVC Full Sandwich",
-        "edition": "CED"
-      },
-      "volumeL": 115,
-      "weightKg": 7.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 115,
-      "lengthCm": 242,
-      "widthCm": 66,
-      "weightKg": 7.7,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "PVC Full Sandwich",
-        "edition": "CED"
-      },
-      "volumeL": 125,
-      "weightKg": 7.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 125,
-      "lengthCm": 250,
-      "widthCm": 69,
-      "weightKg": 7.9,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "PVC Full Sandwich",
-        "edition": "CED"
-      },
-      "volumeL": 135,
-      "weightKg": 7.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 135,
-      "lengthCm": 250,
-      "widthCm": 72,
-      "weightKg": 8.3,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "PVC Full Sandwich",
-        "edition": "CED"
-      },
-      "volumeL": 145,
-      "weightKg": 7.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "edition": "CED"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 145,
-      "lengthCm": 250,
-      "widthCm": 76,
-      "weightKg": 8.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 9.8
-      }
-    },
-    {
-      "variant": {
-        "size": 95,
-        "construction": "PVC Full Sandwich",
-        "edition": "CED"
-      },
-      "volumeL": 95,
-      "weightKg": 7.7,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
         "size": 95,
         "edition": "CED"
       },
@@ -190,162 +30,22 @@
     },
     {
       "variant": {
-        "size": 105,
-        "construction": "Carbon Biax Sandwich",
-        "edition": "LTD"
-      },
-      "volumeL": 105,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 105,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 105,
-      "lengthCm": 246,
-      "widthCm": 63,
-      "weightKg": 6.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.5,
-        "toM2": 7
-      }
-    },
-    {
-      "variant": {
-        "size": 115,
-        "construction": "Carbon Biax Sandwich",
-        "edition": "LTD"
-      },
-      "volumeL": 115,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 115,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 115,
-      "lengthCm": 242,
-      "widthCm": 66,
-      "weightKg": 6.9,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 4.7,
-        "toM2": 7.5
-      }
-    },
-    {
-      "variant": {
-        "size": 125,
-        "construction": "Carbon Biax Sandwich",
-        "edition": "LTD"
-      },
-      "volumeL": 125,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 125,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 125,
-      "lengthCm": 250,
-      "widthCm": 69,
-      "weightKg": 7.1,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 5.5,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 135,
-        "construction": "Carbon Biax Sandwich",
-        "edition": "LTD"
-      },
-      "volumeL": 135,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 135,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 135,
-      "lengthCm": 250,
-      "widthCm": 72,
-      "weightKg": 7.4,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 8.5
-      }
-    },
-    {
-      "variant": {
-        "size": 145,
-        "construction": "Carbon Biax Sandwich",
-        "edition": "LTD"
-      },
-      "volumeL": 145,
-      "weightKg": 6.9,
-      "compatibleFinFamilies": ["fins"]
-    },
-    {
-      "variant": {
-        "size": 145,
-        "edition": "LTD"
-      },
-      "compatibleFinFamilies": ["fins"],
-      "volumeL": 145,
-      "lengthCm": 250,
-      "widthCm": 76,
-      "weightKg": 7.5,
-      "fins": [
-        {
-          "type": "PowerBox"
-        }
-      ],
-      "sailRange": {
-        "fromM2": 6,
-        "toM2": 9.8
-      }
-    },
-    {
-      "variant": {
         "size": 95,
         "construction": "Carbon Biax Sandwich",
         "edition": "LTD"
       },
       "volumeL": 95,
       "weightKg": 6.9,
+      "compatibleFinFamilies": ["fins"]
+    },
+    {
+      "variant": {
+        "size": 95,
+        "construction": "PVC Full Sandwich",
+        "edition": "CED"
+      },
+      "volumeL": 95,
+      "weightKg": 7.7,
       "compatibleFinFamilies": ["fins"]
     },
     {
@@ -366,6 +66,216 @@
       "sailRange": {
         "fromM2": 4.2,
         "toM2": 6.7
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "edition": "LTD",
+        "construction": "Carbon Biax Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 246,
+      "widthCm": 63,
+      "weightKg": 6.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 105,
+        "edition": "CED",
+        "construction": "PVC Full Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 105,
+      "lengthCm": 246,
+      "widthCm": 63,
+      "weightKg": 7.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.5,
+        "toM2": 7
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "LTD",
+        "construction": "Carbon Biax Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 242,
+      "widthCm": 66,
+      "weightKg": 6.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 115,
+        "edition": "CED",
+        "construction": "PVC Full Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 115,
+      "lengthCm": 242,
+      "widthCm": 66,
+      "weightKg": 7.7,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 4.7,
+        "toM2": 7.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "LTD",
+        "construction": "Carbon Biax Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7.1,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 125,
+        "edition": "CED",
+        "construction": "PVC Full Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 125,
+      "lengthCm": 250,
+      "widthCm": 69,
+      "weightKg": 7.9,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 5.5,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "LTD",
+        "construction": "Carbon Biax Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 7.4,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 135,
+        "edition": "CED",
+        "construction": "PVC Full Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 135,
+      "lengthCm": 250,
+      "widthCm": 72,
+      "weightKg": 8.3,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 8.5
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "LTD",
+        "construction": "Carbon Biax Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 7.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
+      }
+    },
+    {
+      "variant": {
+        "size": 145,
+        "edition": "CED",
+        "construction": "PVC Full Sandwich"
+      },
+      "compatibleFinFamilies": ["fins"],
+      "volumeL": 145,
+      "lengthCm": 250,
+      "widthCm": 76,
+      "weightKg": 8.5,
+      "fins": [
+        {
+          "type": "PowerBox"
+        }
+      ],
+      "sailRange": {
+        "fromM2": 6,
+        "toM2": 9.8
       }
     }
   ],
