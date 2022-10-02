@@ -146,7 +146,18 @@ export const defaultBrandsDir = path.join(
 
 export class FileWriter<T> {
   static sanitize(value: string) {
-    return value.replace(/[ :\/\.]+/g, "_");
+    const separator = '_'
+    const fallback = new RegExp(`[^a-zA-Z\\d\\${separator}-]`, 'g');
+    const duplicateSeparator = new RegExp(`\\${separator}{2,}`, 'g');
+    const endingSeparator = new RegExp(`\\${separator}$`, 'g');
+    return value
+        .normalize('NFD')
+        .replace('²', '2')
+        .replace(/[\s:.+/'"]/g, separator)
+        .replace(/[\u0300-\u036f']/g, '')
+        .replace(fallback, '') // Then remove all non-ascii
+        .replace(duplicateSeparator, separator)
+        .replace(endingSeparator, '')
   }
 
   constructor(
