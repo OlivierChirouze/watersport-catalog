@@ -33,7 +33,7 @@ export enum BoardType {
   surfBoard = "surfBoard",
   kiteBoard = "kiteBoard",
   paddleBoard = "paddleBoard",
-  wingsurfBoard = "wingsurfBoard"
+  wingBoard = "wingBoard"
 }
 
 // This is the actual product a brand is selling

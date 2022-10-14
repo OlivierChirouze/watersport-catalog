@@ -4,7 +4,7 @@ import {
   Product,
   ProductType,
   Program,
-  WindsurfFinBoxType
+  FinBoxType
 } from "../index";
 import { ProductMerger } from "../merge/product-merger";
 import { ObjectMerger, onlyUniqueObject } from "../merge/object-merger";

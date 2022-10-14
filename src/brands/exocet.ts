@@ -9,7 +9,7 @@ import {
   ProductType,
   Program,
   WindsurfBoard,
-  WindsurfFinBoxType
+  FinBoxType
 } from "../model";
 import { FileWriter, Parsed } from "../file-writer";
 import { extract, stringToNumber } from "../utils";
@@ -23,7 +23,7 @@ type Extract = {
 const getFinBoxType = (value: string) => {
   switch (value.toUpperCase()) {
     case "DEEP TUTTLE BOX (FOIL COMPATIBLE)":
-      return WindsurfFinBoxType.DeepTuttleBox;
+      return FinBoxType.DeepTuttleBox;
   }
 
   throw `Fin type not recognized: ${value}`;

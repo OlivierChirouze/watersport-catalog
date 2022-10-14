@@ -10,7 +10,7 @@ import {
   ProductType,
   Program,
   WindsurfBoard,
-  WindsurfFinBoxType
+  FinBoxType
 } from "../model";
 import { Brand, guessLinkType } from "../model/brand";
 
@@ -28,16 +28,16 @@ interface VariantType {
 const getFinBoxType = (value: string) => {
   switch (value) {
     case "US 8″":
-      return WindsurfFinBoxType.US8;
+      return FinBoxType.US8;
     case "US 5″":
-      return WindsurfFinBoxType.US5;
+      return FinBoxType.US5;
     case "Deep tuttle":
     case "Deep Foil Box":
-      return WindsurfFinBoxType.DeepTuttleBox;
+      return FinBoxType.DeepTuttleBox;
     case "Slot":
-      return WindsurfFinBoxType.SlotBox;
+      return FinBoxType.SlotBox;
     case "Power":
-      return WindsurfFinBoxType.PowerBox;
+      return FinBoxType.PowerBox;
   }
 
   throw `Fin type not recognized: "${value}"`;

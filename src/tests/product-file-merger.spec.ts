@@ -1,4 +1,4 @@
-import { BoardType, FinFamily, Product, ProductType, Program, WindsurfFinBoxType } from "../index";
+import { BoardType, FinFamily, Product, ProductType, Program, FinBoxType } from "../index";
 import { ProductMerger } from "../merge/product-merger";
 
 type Type = {
@@ -33,7 +33,7 @@ describe("product-file-merger", () => {
           fins: [
             {
               count: 1,
-              type: WindsurfFinBoxType.TuttleBox
+              type: FinBoxType.TuttleBox
             }
           ],
           compatibleFinFamilies: [FinFamily.fins]
@@ -50,7 +50,7 @@ describe("product-file-merger", () => {
           fins: [
             {
               count: 1,
-              type: WindsurfFinBoxType.TuttleBox
+              type: FinBoxType.TuttleBox
             }
           ],
           compatibleFinFamilies: [FinFamily.fins]
@@ -66,7 +66,7 @@ describe("product-file-merger", () => {
           fins: [
             {
               count: 1,
-              type: WindsurfFinBoxType.TuttleBox
+              type: FinBoxType.TuttleBox
             }
           ],
           compatibleFinFamilies: [FinFamily.fins]
@@ -83,7 +83,7 @@ describe("product-file-merger", () => {
           fins: [
             {
               count: 1,
-              type: WindsurfFinBoxType.TuttleBox
+              type: FinBoxType.TuttleBox
             }
           ],
           compatibleFinFamilies: [FinFamily.fins]
@@ -100,7 +100,7 @@ describe("product-file-merger", () => {
           fins: [
             {
               count: 1,
-              type: WindsurfFinBoxType.TuttleBox
+              type: FinBoxType.TuttleBox
             }
           ],
           compatibleFinFamilies: [FinFamily.fins]
@@ -152,7 +152,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 2,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -183,7 +183,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -200,7 +200,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -216,7 +216,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -233,7 +233,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 2,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -250,7 +250,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -267,7 +267,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -327,7 +327,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -344,7 +344,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -360,7 +360,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins],
@@ -378,7 +378,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
@@ -395,7 +395,7 @@ describe("product-file-merger", () => {
             fins: [
               {
                 count: 1,
-                type: WindsurfFinBoxType.TuttleBox
+                type: FinBoxType.TuttleBox
               }
             ],
             compatibleFinFamilies: [FinFamily.fins]
