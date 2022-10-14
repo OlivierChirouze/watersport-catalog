@@ -1,15 +1,30 @@
-import { BoardType, FinFamily, Product, ProductType, Program, FinBoxType } from "../index";
+import {
+  BoardType,
+  FinFamily,
+  Product,
+  ProductType,
+  Program,
+  FinBoxType,
+  WindsurfBoard,
+  PropulsionType, ProductVariant, WindsurfSail
+} from "../index";
 import { ProductMerger } from "../merge/product-merger";
 
-type Type = {
+type SizeAndConstruction = {
   construction: string;
   size: number;
 };
-describe("product-file-merger", () => {
-  let productA: Product<Type>;
-  let productB: Product<Type>;
 
-  const merger = new ProductMerger<Type>();
+type SizeAndEdition = {
+  edition: string;
+  size: number;
+};
+
+describe("product-file-merger", () => {
+  let productA: Product<SizeAndConstruction, WindsurfBoard<SizeAndConstruction>>;
+  let productB: Product<SizeAndConstruction, WindsurfBoard<SizeAndConstruction>>;
+
+  const merger = new ProductMerger<SizeAndConstruction>();
 
   beforeEach(() => {
     productA = {
@@ -162,7 +177,7 @@ describe("product-file-merger", () => {
         pictures: []
       };
 
-      let expected: Product<Type> = {
+      let expected: Product<SizeAndConstruction, WindsurfBoard<SizeAndConstruction>> = {
         dimensions: ["size", "construction"],
         brandName: "JP Australia",
         year: 2017,
@@ -306,7 +321,7 @@ describe("product-file-merger", () => {
         pictures: []
       };
 
-      let expected: Product<Type> = {
+      let expected: Product<SizeAndConstruction, WindsurfBoard<SizeAndConstruction>> = {
         dimensions: ["size", "construction"],
         brandName: "JP Australia",
         year: 2017,
@@ -411,18 +426,19 @@ describe("product-file-merger", () => {
     });
 
     it("should handle similar variants", () => {
-      const productOne = {
+      const productOne: Product<SizeAndConstruction, WindsurfBoard<SizeAndConstruction>> = {
         "dimensions": [
           "size",
           "construction"
         ],
+        pictures: [],
         "brandName": "AHD",
         "year": 2015,
         "name": "SL-2",
-        "type": "board",
-        "subType": "windsurfBoard",
+        type: ProductType.board,
+        subType: BoardType.windsurfBoard,
         "programs": [
-          "race"
+          Program.race
         ],
         "variants": [
           {
@@ -436,11 +452,11 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           },
           {
@@ -454,11 +470,11 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           },
           {
@@ -472,11 +488,11 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           },
           {
@@ -490,26 +506,27 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           }
         ],
         "description": {},
       };
 
-      const productTwo = {
+      const productTwo : Product<SizeAndConstruction, WindsurfBoard<SizeAndConstruction>> = {
         "name": "SL-2",
         "year": 2015,
         "programs": [
-          "slalom"
+          Program.slalom
         ],
+        pictures: [],
         "brandName": "AHD",
-        "type": "board",
-        "subType": "windsurfBoard",
+        type: ProductType.board,
+        subType: BoardType.windsurfBoard,
         "description": {},
         "dimensions": [
           "size"
@@ -520,7 +537,7 @@ describe("product-file-merger", () => {
               "size": 92
             },
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ],
             "volumeL": 92,
             "lengthCm": 238,
@@ -528,7 +545,7 @@ describe("product-file-merger", () => {
             "weightKg": 6,
             "fins": [
               {
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ]
           },
@@ -537,7 +554,7 @@ describe("product-file-merger", () => {
               "size": 112
             },
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ],
             "volumeL": 112,
             "lengthCm": 236,
@@ -545,7 +562,7 @@ describe("product-file-merger", () => {
             "weightKg": 6.5,
             "fins": [
               {
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ]
           },
@@ -554,7 +571,7 @@ describe("product-file-merger", () => {
               "size": 122
             },
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ],
             "volumeL": 122,
             "lengthCm": 234.5,
@@ -562,7 +579,7 @@ describe("product-file-merger", () => {
             "weightKg": 7,
             "fins": [
               {
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ]
           },
@@ -571,7 +588,7 @@ describe("product-file-merger", () => {
               "size": 132
             },
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ],
             "volumeL": 132,
             "lengthCm": 233,
@@ -579,7 +596,7 @@ describe("product-file-merger", () => {
             "weightKg": 7.5,
             "fins": [
               {
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ]
           }
@@ -591,11 +608,12 @@ describe("product-file-merger", () => {
           "size",
           "construction"
         ],
+        pictures: [],
         "brandName": "AHD",
         "year": 2015,
         "name": "SL-2",
-        "type": "board",
-        "subType": "windsurfBoard",
+        type: ProductType.board,
+        subType: BoardType.windsurfBoard,
         "programs": [
           "race",
           "slalom"
@@ -613,11 +631,11 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           },
           {
@@ -632,11 +650,11 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           },
           {
@@ -651,11 +669,11 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           },
           {
@@ -670,30 +688,30 @@ describe("product-file-merger", () => {
             "fins": [
               {
                 "count": 1,
-                "type": "DeepTuttleBox"
+                "type": FinBoxType.DeepTuttleBox
               }
             ],
             "compatibleFinFamilies": [
-              "fins"
+              FinFamily.fins
             ]
           }
         ],
         "description": {},
       };
 
-      expect(merger.merge(productOne as Product<Type>, productTwo as Product<Type>)).toEqual(expected);
+      expect(merger.merge(productOne as Product<SizeAndConstruction>, productTwo as Product<SizeAndConstruction>)).toEqual(expected);
     })
 
     it("should handle similar variants with new edition", () => {
-      const productOne = {
+      const productOne: Product<SizeAndEdition, WindsurfSail<SizeAndEdition> > = {
         "name": "Charge",
         "year": 2010,
         "programs": [
-          "wave"
+          Program.wave
         ],
         "brandName": "Aerotech",
-        "type": "propulsion",
-        "subType": "windsurfSail",
+        type: ProductType.propulsion,
+        subType: PropulsionType.windsurfSail,
         "description": {},
         "dimensions": [
           "size",
@@ -742,15 +760,15 @@ describe("product-file-merger", () => {
         pictures: []
       }
 
-      const productTwo = {
+      const productTwo: Product<SizeAndEdition, WindsurfSail<SizeAndEdition> > = {
         "name": "Charge",
         "year": 2010,
         "programs": [
-          "wave"
+          Program.wave
         ],
         "brandName": "Aerotech",
-        "type": "propulsion",
-        "subType": "windsurfSail",
+        type: ProductType.propulsion,
+        subType: PropulsionType.windsurfSail,
         "description": {},
         "dimensions": [
           "size"
@@ -957,15 +975,15 @@ describe("product-file-merger", () => {
         pictures: []
       }
 
-      const expected = {
+      const expected: Product<SizeAndEdition, WindsurfSail<SizeAndEdition> > = {
         "name": "Charge",
         "year": 2010,
         "programs": [
-          "wave"
+          Program.wave
         ],
         "brandName": "Aerotech",
-        "type": "propulsion",
-        "subType": "windsurfSail",
+        type: ProductType.propulsion,
+        subType: PropulsionType.windsurfSail,
         "description": {},
         "dimensions": [
           "edition",
@@ -990,19 +1008,19 @@ describe("product-file-merger", () => {
         pictures: []
       }
 
-      expect(merger.merge(productOne as Product<Type>, productTwo as Product<Type>)).toEqual(expected);
+      expect(merger.merge(productOne as Product<SizeAndConstruction>, productTwo as Product<SizeAndConstruction>)).toEqual(expected);
     })
 
     it("should not merge similar variants if different", () => {
-      const productOne = {
+      const productOne: Product<SizeAndEdition, WindsurfSail<SizeAndEdition> > = {
         "name": "Charge",
         "year": 2010,
         "programs": [
-          "wave"
+          Program.wave
         ],
         "brandName": "Aerotech",
-        "type": "propulsion",
-        "subType": "windsurfSail",
+        type: ProductType.propulsion,
+        subType: PropulsionType.windsurfSail,
         "description": {},
         "dimensions": [
           "size",
@@ -1031,15 +1049,15 @@ describe("product-file-merger", () => {
         pictures: []
       }
 
-      const productTwo = {
+      const productTwo: Product<SizeAndConstruction, WindsurfSail<SizeAndConstruction> > = {
         "name": "Charge",
         "year": 2010,
         "programs": [
-          "wave"
+          Program.wave
         ],
         "brandName": "Aerotech",
-        "type": "propulsion",
-        "subType": "windsurfSail",
+        type: ProductType.propulsion,
+        subType: PropulsionType.windsurfSail,
         "description": {},
         "dimensions": [
           "size"
@@ -1067,7 +1085,7 @@ describe("product-file-merger", () => {
         pictures: []
       }
 
-      expect(() => merger.merge(productOne as Product<Type>, productTwo as Product<Type>)).toThrow();
+      expect(() => merger.merge(productOne as Product<SizeAndConstruction>, productTwo as Product<SizeAndConstruction>)).toThrow();
     })
   });
 });

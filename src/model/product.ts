@@ -1,5 +1,5 @@
 // Water sport activity
-import { GearSpecificVariant } from "./variants";
+import { ProductVariant } from "./variants";
 import { isEqual } from "lodash";
 
 // "type" of activity
@@ -44,20 +44,29 @@ export enum BoardType {
 //   size: number;
 //   construction: string;
 // }
-export interface Product<VariantType> {
+export interface Product<VariantType, Type extends ProductVariant<VariantType> = ProductVariant<VariantType>> {
+  // Type and sub-type
   type: ProductType;
   subType: ProductSubType;
+
+  // Name of the brand
   brandName: string;
+
   // A name should be unique for a brand a year and a version
   name: string;
+
   // 1st release year. Can remain a few years at the catalogue
   year: number;
+
   // Some product have a version that lasts for many years
   version?: string;
+
   // URL to get more info about the product
   infoUrl?: string;
+
   // Main programs the gear is targeting
   programs: Program[];
+
   // Description is per language
   description: { [language: string]: string };
 
@@ -70,7 +79,7 @@ export interface Product<VariantType> {
 
   // The actual variants of this gear
   // Each variant has a "variant" property, of type VariantType, that defines how this variant is "unique"
-  variants: GearSpecificVariant<VariantType>[];
+  variants: Type[];
 }
 
 // A picture applies to a particular variant of the gear

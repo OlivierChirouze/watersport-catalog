@@ -1,11 +1,11 @@
 import {
   BoardType,
   FinConfig,
-  GearSpecificVariant,
   Product,
   ProductSubType,
   ProductType,
-  ProductVariant, PropulsionType,
+  ProductVariant,
+  PropulsionType,
   WindsurfBoard,
   WindsurfSail,
   WithConstruction,
@@ -48,7 +48,7 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
             key,
             variants[indexInA],
             variant
-          ) as GearSpecificVariant<T>;
+          ) as ProductVariant<T>;
         } else {
           // Does not exist yet, let's add it
           variants.push(variant);
@@ -93,7 +93,7 @@ export class ProductMerger<T> extends ObjectMerger<Product<T>> {
       const typedArray = array as unknown as (keyof T)[];
       return typedArray.sort(compareDimensions) as unknown as U[];
     } else if ((key as keyof Product<T>) === "variants") {
-      const typedArray = array as unknown as GearSpecificVariant<T>[];
+      const typedArray = array as unknown as ProductVariant<T>[];
       return typedArray.sort(this.compareVariantTypes.bind(this)) as unknown as U[];
     }
     return super.sortArray(key, array);

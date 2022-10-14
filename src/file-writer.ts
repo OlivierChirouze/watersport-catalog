@@ -1,13 +1,12 @@
-import { Brand, GearSpecificVariant, Picture, Product } from "./model";
+import { Brand, Picture, Product, ProductVariant } from "./model";
 import path from "path";
 import fs from "fs";
 import { ObjectMerger } from "./merge/object-merger";
 import { ProductMerger } from "./merge/product-merger";
-import { capitalize } from "lodash";
 
 export interface Parsed<T> {
   dimensions: (keyof T)[];
-  variants: GearSpecificVariant<T>[];
+  variants: ProductVariant<T>[];
   description: { [languageScraper: string]: string };
   pictures: Picture<T>[];
 }
