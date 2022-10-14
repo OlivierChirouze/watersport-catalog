@@ -1,0 +1,68 @@
+{
+  "dimensions": [
+    "size"
+  ],
+  "brandName": "Takoon",
+  "name": "Wing",
+  "version": "V1",
+  "year": 2021,
+  "description": {},
+  "programs": [
+    "beginner"
+  ],
+  "type": "propulsion",
+  "subType": "wing",
+  "variants": [
+    {
+      "variant": {
+        "size": 3
+      },
+      "surfaceM2": 3,
+      "handleConfig": {
+        "boomCount": 4,
+        "edgeCount": 1
+      }
+    },
+    {
+      "variant": {
+        "size": 4
+      },
+      "surfaceM2": 4,
+      "handleConfig": {
+        "boomCount": 4,
+        "edgeCount": 1
+      }
+    },
+    {
+      "variant": {
+        "size": 5
+      },
+      "surfaceM2": 5,
+      "handleConfig": {
+        "boomCount": 4,
+        "edgeCount": 1
+      }
+    },
+    {
+      "variant": {
+        "size": 6
+      },
+      "surfaceM2": 6,
+      "handleConfig": {
+        "boomCount": 5,
+        "edgeCount": 1
+      }
+    },
+    {
+      "variant": {
+        "size": 7
+      },
+      "surfaceM2": 7,
+      "handleConfig": {
+        "boomCount": 5,
+        "edgeCount": 1
+      }
+    }
+  ],
+  "pictures": []
+}

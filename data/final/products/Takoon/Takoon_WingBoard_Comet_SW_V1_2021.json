@@ -1,0 +1,69 @@
+{
+  "dimensions": ["size"],
+  "description": {},
+  "brandName": "Takoon",
+  "type": "board",
+  "subType": "wingBoard",
+  "programs": ["beginner"],
+  "name": "Comet SW",
+  "year": 2021,
+  "version": "V1",
+  "infoUrl": "https://takoon.com/products/comet-sw-v1",
+  "pictures": [],
+  "variants": [
+    {
+      "variant": {
+        "size": "4’0",
+        "construction": "Double bamboo Deck"
+      },
+      "lengthCm": 122,
+      "widthCm": 56,
+      "thicknessCm": 9.6,
+      "volumeL": 50,
+      "weightKg": 4.7
+    },
+    {
+      "variant": {
+        "size": "4’8"
+      },
+      "lengthCm": 142,
+      "widthCm": 64,
+      "thicknessCm": 9.6,
+      "volumeL": 65,
+      "weightKg": 5.2
+    },
+    {
+      "variant": {
+        "size": "4’10",
+        "construction": "Double bamboo Deck"
+      },
+      "lengthCm": 147,
+      "widthCm": 66,
+      "thicknessCm": 11.9,
+      "volumeL": 85,
+      "weightKg": 5.6
+    },
+    {
+      "variant": {
+        "size": "5’1",
+        "construction": "Double bamboo Deck"
+      },
+      "lengthCm": 155,
+      "widthCm": 69,
+      "thicknessCm": 12.9,
+      "volumeL": 100,
+      "weightKg": 6.2
+    },
+    {
+      "variant": {
+        "size": "5’4",
+        "construction": "Double bamboo Deck"
+      },
+      "lengthCm": 163,
+      "widthCm": 71,
+      "thicknessCm": 14.2,
+      "volumeL": 120,
+      "weightKg": 6.6
+    }
+  ]
+}
