@@ -95,31 +95,47 @@ export interface Picture<VariantType> {
  * @param search
  * @param listOfVariants
  */
-export const getClosestVariant = <
-  VariantType,
-  P extends { variant: Partial<VariantType> }
->(
+export const getClosestVariant = <VariantType,
+  P extends { variant: Partial<VariantType> }>(
   search: Partial<VariantType>,
   listOfVariants: P[]
 ): P | undefined => {
-  if (search === {}) return undefined;
+  const searchKeys = Object.keys(search);
+  if (searchKeys.length === 0) return undefined;
 
   // Try to find an exact match
-  const find = listOfVariants.find(v => isEqual(v.variant, search));
+  let find = listOfVariants.find(v => isEqual(v.variant, search));
 
   if (find) return find;
 
-  // Otherwise, try to remove a key from the search and see if a "more general" match exists
-  for (let i = 0; i < Object.keys(search).length; i++) {
-    const key = Object.keys(search)[i];
-    const newSearch = { ...search };
-    delete newSearch[key];
+  // As a fallback, compare each key: if they are different, it's a no go. Otherwise, keep the variant that has the most common values
+  return listOfVariants.map(variant => {
+    let score = 0;
+    for (let i = 0; i < searchKeys.length; i++) {
+      const key = searchKeys[i];
+      if (variant.variant[key] !== undefined) {
+        if (variant.variant[key] === search[key]) {
+          // The variant is equal on this key => increase score
+          score++;
+        } else {
+          // The variant has a different value => score is zero
+          score = 0;
+          break;
+        }
+      }
+      // Otherwise if the variant doesn't have this key, don't change the score
+    }
 
-    const closestVariant = getClosestVariant(newSearch, listOfVariants);
-    if (closestVariant) return closestVariant;
-  }
-
-  return undefined;
+    return {
+      variant,
+      score
+    };
+  })
+    // Keep only variants that don't have a different value
+    .filter(v => v.score !== 0)
+    // Take the highest match score if it exists
+    .sort((vA, vB) => vA.score - vB.score)
+    [0]?.variant;
 };
 
 export interface WithSize {

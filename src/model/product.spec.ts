@@ -29,10 +29,38 @@ describe("getClosestVariant", () => {
         list
       )
     ).toEqual({ variant: { size: 12, dimension: "test" } });
-
-    // However if there are only entries that are _more detailed_, it doesn't match
-    expect(getClosestVariant({ size: 12, color: "14" }, list)).toEqual(
-      undefined
-    );
   });
+
+  it("should find string sizes", () => {
+
+    const list2 = [
+      {
+        variant: {
+          "size": "5’1",
+          "construction": "Double bamboo Deck"
+        }
+      },
+      {
+        variant: {
+          "size": "5’4",
+          "construction": "Double bamboo Deck"
+        }
+      }
+    ];
+
+    expect(
+      getClosestVariant(
+        {
+          "size": "5’1"
+        },
+        list2
+      )
+    ).toEqual({
+      variant: {
+        "size": "5’1",
+        "construction": "Double bamboo Deck"
+      }
+    });
+  });
+
 });
